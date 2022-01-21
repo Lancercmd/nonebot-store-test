@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-21 15:39:36
+LastEditTime : 2022-01-21 22:18:00
 Description  : None
 GitHub       : https://github.com/Lancercmd
 '''
@@ -34,9 +34,11 @@ async def create_poetry_project(project_name: str) -> bool:
             stderr=subprocess.PIPE,
         )
         stdout, stderr = await proc.communicate()
-        print(
-            f"Created project {project_name} peacefully." if not stderr else f"Error while creating project: {project_name}"
-        )
+        print("")
+        if not stderr:
+            print(f"Created project {project_name} peacefully.")
+        else:
+            print(f"Error while creating project: {project_name}")
         return not stderr
     else:
         print(f"Project {project_name} already exists.")
@@ -52,9 +54,12 @@ try:
 
     driver.register_adapter(OneBot_V11_Adapter)
 except ImportError:
-    from nonebot.adapters.cqhttp import Bot as OneBot_V11_Bot
+    try:
+        from nonebot.adapters.cqhttp import Bot as OneBot_V11_Bot
 
-    driver.register_adapter('cqhttp', OneBot_V11_Bot)
+        driver.register_adapter('cqhttp', OneBot_V11_Bot)
+    except ImportError:
+        pass
 except Exception as e:
     pass
 
@@ -81,13 +86,15 @@ async def run_poetry_project(project_name: str) -> bool:
         if not code:
             print(f"Run project {project_name} peacefully.")
         else:
+            print(f"Error while running project {project_name}:")
             _err = stderr.decode().strip()
-            if _err.splitlines():
-                print(
-                    f"Error while running project {project_name}: {_err.splitlines()[-1]}"
-                )
+            if len(_err.splitlines()) > 1:
+                for i in _err.splitlines():
+                    print(f"    {i}")
+            elif not _err:
+                print(stdout.decode().strip())
             else:
-                print(f"Error while running project {project_name}: {_err}")
+                print(_err)
         return not code
     else:
         print(f"Project {project_name} does not exist.")
@@ -110,18 +117,21 @@ async def perform_poetry_test(branch: str) -> None:
     print()
     print("=" * 80)
     print("")
-    print("Passed:")
-    for i in report[0]:
-        print(f"    {i}")
-    print("")
-    print("Error while running:")
-    for i in report[1]:
-        print(f"    {i}")
-    print("")
-    print("Error while creating:")
-    for i in report[2]:
-        print(f"    {i}")
-    print("")
+    if report[0]:
+        print("Passed:")
+        for i in report[0]:
+            print(f"    {i}")
+        print("")
+    if report[1]:
+        print("Error while running:")
+        for i in report[1]:
+            print(f"    {i}")
+        print("")
+    if report[2]:
+        print("Error while creating:")
+        for i in report[2]:
+            print(f"    {i}")
+        print("")
     print("=" * 80)
 
 
