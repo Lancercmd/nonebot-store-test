@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-21 22:18:00
+LastEditTime : 2022-01-22 01:09:47
 Description  : None
 GitHub       : https://github.com/Lancercmd
 '''
@@ -25,11 +25,11 @@ def load_json_data_from_url(branch: str) -> dict:
     return loads(r.text)
 
 
-async def create_poetry_project(project_name: str) -> bool:
+async def create_poetry_project(project_name: str, pypi_name: str) -> bool:
     _path = Path("workflow") / COMMIT / f"test-{project_name}"
     if not _path.exists():
         proc = await create_subprocess_shell(
-            f"poetry new {_path.resolve()} && cd {_path.resolve()} && poetry add {project_name.replace('_', '-')}",
+            f"poetry new {_path.resolve()} && cd {_path.resolve()} && poetry add {pypi_name}",
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
         )
@@ -105,7 +105,7 @@ async def perform_poetry_test(branch: str) -> None:
     data = load_json_data_from_url(branch)
     report = [[], [], []]
     for i in data:
-        latest = await create_poetry_project(i["module_name"])
+        latest = await create_poetry_project(i["module_name"], i["project_link"])
         if latest:
             finish = await run_poetry_project(i["module_name"])
             if finish:
@@ -144,4 +144,4 @@ if __name__ == "__main__":
         print("\nExit by user.")
     except Exception as e:
         print(f"\nError: {e}")
-    rmtree(Path("workflow") / COMMIT, ignore_errors=True)
+    # rmtree(Path("workflow") / COMMIT, ignore_errors=True)
