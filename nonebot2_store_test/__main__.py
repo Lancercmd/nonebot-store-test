@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-22 19:19:53
+LastEditTime : 2022-01-22 22:55:44
 Description  : None
 GitHub       : https://github.com/Lancercmd
 '''
@@ -191,8 +191,11 @@ async def perform_poetry_test(branch: str) -> None:
     _passed = {}
     _error_while_running = {}
     _error_while_creating = {}
+    _max_length = 0
     for i in data:
         _module_name = i["module_name"]
+        if _max_length < len(_module_name):
+            _max_length = len(_module_name)
         _project_link = i["project_link"]
         _name = i["name"]
         _homepage = i["homepage"]
@@ -218,25 +221,31 @@ async def perform_poetry_test(branch: str) -> None:
         print("Passed:")
         for i in _passed:
             _name = _passed[i]["name"]
-            _pypi = "√" if _passed[i]["pypi"] else "×"
-            _git = "√" if _passed[i]["git"] else "×"
-            print(f"    {i}    PyPI: {_pypi}    Git: {_git}    {_name}")
+            _pypi = "✅" if _passed[i]["pypi"] else "❌"
+            _git = "✅" if _passed[i]["git"] else "❌"
+            print(
+                f"    {i}{' ' * (_max_length - len(i))}    PyPI: {_pypi}    Git: {_git}    {_name}"
+            )
         print()
     if _error_while_running:
         print("Error while running:")
         for i in _error_while_running:
             _name = _error_while_running[i]["name"]
-            _pypi = "√" if _error_while_running[i]["pypi"] else "×"
-            _git = "√" if _error_while_running[i]["git"] else "×"
-            print(f"    {i}    PyPI: {_pypi}    Git: {_git}    {_name}")
+            _pypi = "✅" if _error_while_running[i]["pypi"] else "❌"
+            _git = "✅" if _error_while_running[i]["git"] else "❌"
+            print(
+                f"    {i}{' ' * (_max_length - len(i))}    PyPI: {_pypi}    Git: {_git}    {_name}"
+            )
         print()
     if _error_while_creating:
         print("Error while creating:")
         for i in _error_while_creating:
             _name = _error_while_creating[i]["name"]
-            _pypi = "√" if _error_while_creating[i]["pypi"] else "×"
-            _git = "√" if _error_while_creating[i]["git"] else "×"
-            print(f"    {i}    PyPI: {_pypi}    Git: {_git}    {_name}")
+            _pypi = "✅" if _error_while_creating[i]["pypi"] else "❌"
+            _git = "✅" if _error_while_creating[i]["git"] else "❌"
+            print(
+                f"    {i}{' ' * (_max_length - len(i))}    PyPI: {_pypi}    Git: {_git}    {_name}"
+            )
         print()
     print("=" * 80)
 
