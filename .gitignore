@@ -129,5 +129,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Repository
 nonebot2_store_test/workflow/
 tests/
