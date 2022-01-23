@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-22 22:55:44
+LastEditTime : 2022-01-23 12:57:50
 Description  : None
 GitHub       : https://github.com/Lancercmd
 '''
@@ -11,6 +11,7 @@ from json import loads
 from os import system
 from pathlib import Path
 from shutil import rmtree
+from sys import platform
 
 from requests import get
 
@@ -64,7 +65,10 @@ async def create_poetry_project_from_git(project_name: str, git_path: str) -> bo
         _venv = _stdout.decode().strip().splitlines()[-1]
 
         # Remove existing git virtualenv to create a new one.
-        system(f'rmdir "{_venv}" /s /q')
+        if platform == "win32":
+            system(f'rmdir "{_venv}" /s /q')
+        else:
+            system(f"rm -rdf {_venv}")
 
         proc = await create_subprocess_shell(
             f"cd {_path.resolve()} && poetry add git+{git_path}",
