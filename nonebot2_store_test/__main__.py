@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-24 18:03:55
+LastEditTime : 2022-01-24 22:14:55
 Description  : None
 GitHub       : https://github.com/Lancercmd
 '''
@@ -39,8 +39,14 @@ def vacuum(project_name: str = None) -> None:
 async def create_poetry_project_from_pypi(project_name: str, pypi_name: str) -> bool:
     _path = HOME / f"test-{project_name}"
     if not _path.exists():
-        proc = await create_subprocess_shell(
+        _proc = await create_subprocess_shell(
             f"poetry new {_path.resolve()} && cd {_path.resolve()} && poetry add {pypi_name}",
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+        )
+        _stdout, _stderr = await _proc.communicate()
+        proc = await create_subprocess_shell(
+            f"cd {_path.resolve()} && poetry run python -m pip install -U {pypi_name}",
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
         )
@@ -76,9 +82,9 @@ async def create_poetry_project_from_git(project_name: str, git_path: str) -> bo
             stderr=subprocess.PIPE,
         )
         stdout, stderr = await proc.communicate()
-        if not stderr:
+        if not "ERROR" in stderr.decode():
             print(f"Created project {project_name} from Git peacefully.")
-        return not stderr
+        return not "ERROR" in stderr.decode()
     else:
         print(f"Project {project_name} already exists.")
         return True
@@ -184,9 +190,9 @@ async def run_poetry_project_from_git(project_name: str) -> bool:
         return False
 
 
-async def run_poetry_project(project_name: str) -> tuple[bool]:
-    _pypi = await run_poetry_project_from_pypi(project_name)
-    _git = await run_poetry_project_from_git(project_name)
+async def run_poetry_project(project_name: str, from_pypi: bool, from_git: bool) -> tuple[bool]:
+    _pypi = await run_poetry_project_from_pypi(project_name) if from_pypi else False
+    _git = await run_poetry_project_from_git(project_name) if from_git else False
     return _pypi, _git
 
 
@@ -205,7 +211,7 @@ async def perform_poetry_test(branch: str) -> None:
         _homepage = i["homepage"]
         _cpypi, _cgit = await create_poetry_project(_module_name, _project_link, _homepage)
         if _cpypi or _cgit:
-            _rpypi, _rgit = await run_poetry_project(_module_name)
+            _rpypi, _rgit = await run_poetry_project(_module_name, _cpypi, _cgit)
             if _rpypi or _rgit:
                 _passed[_module_name] = {
                     "name": _name, "pypi": _rpypi, "git": _rgit
