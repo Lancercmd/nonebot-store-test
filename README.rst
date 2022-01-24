@@ -34,7 +34,7 @@ NoneBot2 商店插件速测工具
 
 .. code:: python
 
- COMMIT = "bc2abc9"
+ COMMIT = "6b930cd"
 
 * 将 ``nonebot2_store_test`` 作为工作路径，然后启动脚本
 

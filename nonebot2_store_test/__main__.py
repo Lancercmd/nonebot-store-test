@@ -15,7 +15,7 @@ from sys import platform
 
 from requests import get
 
-COMMIT = "bc2abc9"
+COMMIT = "6b930cd"
 HOME = Path("workflow") / COMMIT
 
 
