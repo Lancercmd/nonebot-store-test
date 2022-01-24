@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-23 21:15:57
+LastEditTime : 2022-01-24 18:03:55
 Description  : None
 GitHub       : https://github.com/Lancercmd
 '''
@@ -71,7 +71,7 @@ async def create_poetry_project_from_git(project_name: str, git_path: str) -> bo
             system(f"rm -rdf {_venv}")
 
         proc = await create_subprocess_shell(
-            f"cd {_path.resolve()} && poetry add git+{git_path}",
+            f"cd {_path.resolve()} && poetry run python -m pip install git+{git_path}",
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
         )
