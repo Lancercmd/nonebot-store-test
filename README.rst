@@ -30,7 +30,7 @@ NoneBot2 商店插件速测工具
 
  set pythonutf8=1
 
-* 在 `__main__.py <nonebot2_store_test/__main__.py#L18>`_ 中修改 ``COMMIT`` 常量，工具将对截至该提交的所有插件进行速测
+* 在 `__main__.py <nonebot2_store_test/__main__.py#L19>`_ 中修改 ``COMMIT`` 常量，工具将对截至该提交的所有插件进行速测
 
 .. code:: python
 
