@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-24 22:14:55
+LastEditTime : 2022-01-25 10:58:34
 Description  : None
 GitHub       : https://github.com/Lancercmd
 '''
@@ -15,7 +15,7 @@ from sys import platform
 
 from requests import get
 
-COMMIT = "6b930cd"
+COMMIT = "ebd45dc"
 HOME = Path("workflow") / COMMIT
 
 
