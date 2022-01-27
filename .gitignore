@@ -130,5 +130,4 @@ dmypy.json
 .pyre/
 
 # Repository
-nonebot2_store_test/workflow/
-tests/
+nonebot2_store_test/workflow/*/
