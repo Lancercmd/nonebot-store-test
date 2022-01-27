@@ -425,7 +425,7 @@
         "project_link": "nonebot-plugin-help",
         "display_name": "Nonebot2插件轻量帮助列表",
         "homepage": "https://github.com/XZhouQD/nonebot-plugin-help",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "0f732cb",
