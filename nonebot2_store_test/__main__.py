@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-28 13:16:35
+LastEditTime : 2022-01-28 15:51:20
 Description  : None
 GitHub       : https://github.com/Lancercmd
 '''
@@ -22,11 +22,9 @@ from requests import get
 COMMIT = "master"
 HOME = Path("workflow") / COMMIT
 LOCAL = HOME.parent / "history.json"
-RUNNER = """from nonebot import get_driver, init, load_plugin
+RUNNER = """from nonebot import init, load_plugin
 
 init()
-driver = get_driver()
-
 valid = load_plugin("{}")
 if not valid:
     exit(1)
@@ -417,7 +415,7 @@ class Operator:
     async def perform_a_test(self) -> None:
         await self.checkout_branch()
         await self.dependency_declaration_test()
-        await self.commit_changes() if self._commit else...
+        await self.commit_changes() if self._commit else ...
         self.output_report()
 
     def output_report(self) -> None:
