@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-27 22:47:53
+LastEditTime : 2022-01-28 13:16:35
 Description  : None
 GitHub       : https://github.com/Lancercmd
 '''
@@ -26,20 +26,6 @@ RUNNER = """from nonebot import get_driver, init, load_plugin
 
 init()
 driver = get_driver()
-
-try:
-    from nonebot.adapters.onebot.v11 import Adapter as OneBot_V11_Adapter
-
-    driver.register_adapter(OneBot_V11_Adapter)
-except ImportError:
-    try:
-        from nonebot.adapters.cqhttp import Bot as OneBot_V11_Bot
-
-        driver.register_adapter("cqhttp", OneBot_V11_Bot)
-    except ImportError:
-        pass
-except Exception as e:
-    pass
 
 valid = load_plugin("{}")
 if not valid:
@@ -83,8 +69,9 @@ class Operator:
         self.branch = COMMIT
         self.difficulty = 0
         self.specific_module = None
+        self._commit = True
         opts, args = getopt(
-            argv[1:], "d:s:", ["difficulty=", "specific-module="]
+            argv[1:], "d:s:n", ["difficulty=", "specific-module=", "no-commit"]
         )
         if args:
             self.branch = args[0]
@@ -92,8 +79,17 @@ class Operator:
         for opt, arg in opts:
             if opt in ("-d", "--difficulty"):
                 self.difficulty = int(arg)
+                print()
+                print("Difficulty: ", self.difficulty)
             elif opt in ("-s", "--specific-module"):
                 self.specific_module = arg
+                print()
+                print(f'Specific module: "{self.specific_module}"')
+            elif opt in ("-n", "--no-commit"):
+                self._commit = False
+                print()
+                print("No commit when finish.")
+        print()
         print("Make sure running with utf-8 encoding.")
 
     def reconstant(self) -> None:
@@ -124,7 +120,7 @@ class Operator:
     def load_json_data_from_path(path: Path) -> dict:
         if path.exists():
             try:
-                with path.open() as f:
+                with path.open(encoding="utf-8") as f:
                     return loads(f.read())
             except ValueError:
                 return {}
@@ -160,16 +156,30 @@ class Operator:
         else:
             return None
 
+    def check_upstream_update(self) -> None:
+        _latest = Operator.get_pypi_latest("nonebot2")
+        if _latest != self.local.get("_runtime_latest", None):
+            if not self.local:
+                self.local = {"_runtime_latest": _latest}
+            else:
+                _li = [[x, y] for x, y in self.local.items()]
+                _li.insert(0, ["_runtime_latest", _latest])
+                self.local = {x: y for x, y in _li}
+            self.save_local()
+        self._runtime_latest = _latest
+
     async def checkout_branch(self) -> None:
         _default = [
             "master",
             "main"
         ]
         if self.branch.startswith(tuple(_default)):
+            self._master = True
             self.branch = await Operator.get_head_hash("https://github.com/nonebot/nonebot2.git")
             self.reconstant()
         self.data = Operator.load_json_data_from_url(self.branch)
         self.local = Operator.load_json_data_from_path(LOCAL)
+        self.check_upstream_update()
         self.report = Report(self.branch)
         self._max_length = 0
 
@@ -179,14 +189,16 @@ class Operator:
             self.local[module.project_link] = {}
         local = self.local.get(module.project_link)
         _pypi = Operator.get_pypi_latest(module.module_name)
-        module._pypi_skip = _pypi == local.get("pypi_version", None)
         module.pypi_version = _pypi
+        _git = await Operator.get_head_hash(module.homepage)
+        module.git_hash = _git
+        if local.get("_runtime_latest", None) != self._runtime_latest:
+            return
+        module._pypi_skip = _pypi == local.get("pypi_version", None)
         if module._pypi_skip:
             module._pypi_create = local.get("pypi_create", False)
             module._pypi_run = local.get("pypi_run", False)
-        _git = await Operator.get_head_hash(module.homepage)
         module._git_skip = _git == local.get("git_hash", None)
-        module.git_hash = _git
         if module._git_skip:
             module._git_create = local.get("git_create", False)
             module._git_run = local.get("git_run", False)
@@ -198,9 +210,17 @@ class Operator:
         _local = deepcopy(local)
         if not local:
             local.update({
+                "_runtime_latest": self._runtime_latest,
                 "first_seen": module.branch
             })
+        elif not "_runtime_latest" in local:
+            _li = [[x, y] for x, y in local.items()]
+            _li.insert(
+                0, ["_runtime_latest", local.get("_runtime_latest", None)]
+            )
+            local = {x: y for x, y in _li}
         local.update({
+            "_runtime_latest": self._runtime_latest,
             "module_name": module.module_name,
             "project_link": module.project_link,
             "display_name": module.display_name,
@@ -214,10 +234,11 @@ class Operator:
             "last_seen": module.branch
         })
         if hash(str(local)) != hash(str(_local)):
+            self.local[module.project_link] = local
             self.save_local()
 
     def save_local(self) -> None:
-        with LOCAL.open("w") as f:
+        with LOCAL.open("w", encoding="utf-8") as f:
             f.write(dumps(self.local, ensure_ascii=False, indent=4))
 
     async def commit_changes(self) -> None:
@@ -226,12 +247,11 @@ class Operator:
             "git config user.name Lancercmd && git config user.email lancercmd@gmail.com"
         )).communicate()
         _proc = await create_subprocess_shell(
-            f'git add {LOCAL.resolve()} && git commit -m "✅ Update history.json"',
+            f'git add {LOCAL.resolve()} && git commit -m "✅ Update {LOCAL.name}"',
             stdout=subprocess.PIPE
         )
         _stdout, _ = await _proc.communicate()
-        if "no changes" in _stdout.decode():
-            print("Nothing to commit.")
+        if "nothing to commit" in _stdout.decode():
             return
         await (await create_subprocess_shell("git push")).communicate()
 
@@ -397,7 +417,7 @@ class Operator:
     async def perform_a_test(self) -> None:
         await self.checkout_branch()
         await self.dependency_declaration_test()
-        await self.commit_changes()
+        await self.commit_changes() if self._commit else...
         self.output_report()
 
     def output_report(self) -> None:
@@ -406,6 +426,8 @@ class Operator:
         _error_while_creating = self.report.error_while_creating
         print()
         print("=" * 80)
+        print()
+        print("Runtime latest: ", self._runtime_latest)
         print()
         if _passed:
             print("Passed:")
