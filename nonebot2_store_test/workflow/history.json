@@ -472,7 +472,7 @@
         "project_link": "nonebot-plugin-gamedraw",
         "display_name": "nonebot_plugin_gamedraw",
         "homepage": "https://github.com/HibiKier/nonebot_plugin_gamedraw",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "7b2c666",
