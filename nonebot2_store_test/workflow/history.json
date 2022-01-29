@@ -937,10 +937,10 @@
         "project_link": "nonebot-plugin-shindan",
         "display_name": "ShindanMaker",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-shindan",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "11031cc",
+        "git_hash": "50b1c82",
         "git_create": true,
         "git_run": true,
         "last_seen": "a8a68d8"
@@ -1345,9 +1345,9 @@
         "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "620e504",
+        "git_hash": "c3a6b33",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "a8a68d8"
     },
     "nonebot-general-rss": {
