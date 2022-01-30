@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-28 19:53:19
+LastEditTime : 2022-01-30 23:35:30
 Description  : None
 GitHub       : https://github.com/Lancercmd
 '''
@@ -82,7 +82,7 @@ class Operator:
             elif opt in ("-s", "--specific-module"):
                 self.specific_module = arg
                 print()
-                print(f'Specific module:"{self.specific_module}"')
+                print(f'Specific module: "{self.specific_module}"')
             elif opt in ("-n", "--no-commit"):
                 self._commit = False
                 print()
