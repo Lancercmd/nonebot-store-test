@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-30 23:35:30
+LastEditTime : 2022-01-30 23:45:28
 Description  : None
 GitHub       : https://github.com/Lancercmd
 '''
@@ -257,7 +257,7 @@ class Operator:
         _path = module.path_pypi
         if not _path.exists():
             proc = await create_subprocess_shell(
-                f"poetry new {_path.resolve()} && cd {_path.resolve()} && poetry add {module.project_link} && poetry run python -m pip install -U {module.project_link}",
+                f"poetry new {_path.resolve()} && cd {_path.resolve()} && poetry add {module.project_link} && poetry run python -m pip install -U pip {module.project_link}",
                 stdout=subprocess.PIPE,
                 stderr=subprocess.PIPE
             )
