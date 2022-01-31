@@ -1345,7 +1345,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "765de2e",
+        "git_hash": "a40886c",
         "git_create": true,
         "git_run": false,
         "last_seen": "244b3c0"
@@ -1405,7 +1405,7 @@
         "pypi_version": "0.0.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b22caad",
+        "git_hash": "7a5a06a",
         "git_create": true,
         "git_run": true,
         "last_seen": "244b3c0"
@@ -1417,10 +1417,10 @@
         "project_link": "nonebot-plugin-fg",
         "display_name": "FG(Fifth Generation)",
         "homepage": "https://github.com/mgsky1/FG-plugin",
-        "pypi_version": "2.0.1",
+        "pypi_version": "2.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b71184d",
+        "git_hash": "fdb1c48",
         "git_create": true,
         "git_run": false,
         "last_seen": "244b3c0"
