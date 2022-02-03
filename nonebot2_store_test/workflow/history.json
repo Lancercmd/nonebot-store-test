@@ -220,7 +220,7 @@
         "pypi_version": "0.1.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "153549c",
+        "git_hash": "85367b7",
         "git_create": true,
         "git_run": false,
         "last_seen": "3a314fc"
