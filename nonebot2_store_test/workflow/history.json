@@ -1072,10 +1072,10 @@
         "project_link": "nonebot-plugin-admin",
         "display_name": "简易群管",
         "homepage": "https://github.com/yzyyz1387/nonebot_plugin_admin",
-        "pypi_version": "0.3.12",
+        "pypi_version": "0.3.16",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "63f6247",
+        "git_hash": "48bd1b3",
         "git_create": false,
         "git_run": false,
         "last_seen": "aacfc9b"
@@ -1330,7 +1330,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4bd3636",
+        "git_hash": "2c6889f",
         "git_create": true,
         "git_run": true,
         "last_seen": "aacfc9b"
