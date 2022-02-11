@@ -1525,9 +1525,9 @@
         "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1c2cd4b",
+        "git_hash": "42a24ea",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "1b17039"
     },
     "ServantReasoning": {
