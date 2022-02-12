@@ -1,11 +1,11 @@
-'''
+"""
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-01-30 23:45:28
+LastEditTime : 2022-02-12 18:30:22
 Description  : None
 GitHub       : https://github.com/Lancercmd
-'''
+"""
 from asyncio import create_subprocess_shell, run, subprocess
 from copy import deepcopy
 from getopt import getopt
@@ -128,9 +128,7 @@ class Operator:
     @staticmethod
     async def get_head_hash(git: str) -> Optional[str]:
         proc = await create_subprocess_shell(
-            f"git ls-remote {git} HEAD",
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE
+            f"git ls-remote {git} HEAD", stdout=subprocess.PIPE, stderr=subprocess.PIPE
         )
         stdout, stderr = await proc.communicate()
         code = proc.returncode
@@ -167,13 +165,12 @@ class Operator:
         self._runtime_latest = _latest
 
     async def checkout_branch(self) -> None:
-        _default = [
-            "master",
-            "main"
-        ]
+        _default = ["master", "main"]
         if self.branch.startswith(tuple(_default)):
             self._master = True
-            self.branch = await Operator.get_head_hash("https://github.com/nonebot/nonebot2.git")
+            self.branch = await Operator.get_head_hash(
+                "https://github.com/nonebot/nonebot2.git"
+            )
             self.reconstant()
         self.data = Operator.load_json_data_from_url(self.branch)
         self.local = Operator.load_json_data_from_path(LOCAL)
@@ -207,30 +204,29 @@ class Operator:
         local = self.local.get(module.project_link)
         _local = deepcopy(local)
         if not local:
-            local.update({
-                "_runtime_latest": self._runtime_latest,
-                "first_seen": module.branch
-            })
+            local.update(
+                {"_runtime_latest": self._runtime_latest, "first_seen": module.branch}
+            )
         elif not "_runtime_latest" in local:
             _li = [[x, y] for x, y in local.items()]
-            _li.insert(
-                0, ["_runtime_latest", local.get("_runtime_latest", None)]
-            )
+            _li.insert(0, ["_runtime_latest", local.get("_runtime_latest", None)])
             local = {x: y for x, y in _li}
-        local.update({
-            "_runtime_latest": self._runtime_latest,
-            "module_name": module.module_name,
-            "project_link": module.project_link,
-            "display_name": module.display_name,
-            "homepage": module.homepage,
-            "pypi_version": module.pypi_version,
-            "pypi_create": module._pypi_create,
-            "pypi_run": module._pypi_run,
-            "git_hash": module.git_hash,
-            "git_create": module._git_create,
-            "git_run": module._git_run,
-            "last_seen": module.branch
-        })
+        local.update(
+            {
+                "_runtime_latest": self._runtime_latest,
+                "module_name": module.module_name,
+                "project_link": module.project_link,
+                "display_name": module.display_name,
+                "homepage": module.homepage,
+                "pypi_version": module.pypi_version,
+                "pypi_create": module._pypi_create,
+                "pypi_run": module._pypi_run,
+                "git_hash": module.git_hash,
+                "git_create": module._git_create,
+                "git_run": module._git_run,
+                "last_seen": module.branch,
+            }
+        )
         if hash(str(local)) != hash(str(_local)):
             self.local[module.project_link] = local
             self.save_local()
@@ -241,12 +237,14 @@ class Operator:
 
     async def commit_changes(self) -> None:
         print()
-        await (await create_subprocess_shell(
-            "git config user.name Lancercmd && git config user.email lancercmd@gmail.com"
-        )).communicate()
+        await (
+            await create_subprocess_shell(
+                "git config user.name Lancercmd && git config user.email lancercmd@gmail.com"
+            )
+        ).communicate()
         _proc = await create_subprocess_shell(
             f'git add {LOCAL.resolve()} && git commit -m "✅ Update {LOCAL.name}"',
-            stdout=subprocess.PIPE
+            stdout=subprocess.PIPE,
         )
         _stdout, _ = await _proc.communicate()
         if "nothing to commit" in _stdout.decode():
@@ -259,13 +257,11 @@ class Operator:
             proc = await create_subprocess_shell(
                 f"poetry new {_path.resolve()} && cd {_path.resolve()} && poetry add {module.project_link} && poetry run python -m pip install -U pip {module.project_link}",
                 stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE
+                stderr=subprocess.PIPE,
             )
             stdout, stderr = await proc.communicate()
             if not stderr:
-                print(
-                    f"Created project {module.module_name} from PyPI peacefully."
-                )
+                print(f"Created project {module.module_name} from PyPI peacefully.")
             module._pypi_create = not stderr
         else:
             print(f"Project {module.module_name} already exists.")
@@ -276,7 +272,7 @@ class Operator:
         if not _path.exists():
             _proc = await create_subprocess_shell(
                 f"poetry new {_path.resolve()} && cd {_path.resolve()} && poetry env use python && poetry env info --path",
-                stdout=subprocess.PIPE
+                stdout=subprocess.PIPE,
             )
             _stdout, _ = await _proc.communicate()
             _venv = _stdout.decode().strip().splitlines()[-1]
@@ -290,22 +286,26 @@ class Operator:
             proc = await create_subprocess_shell(
                 f"cd {_path.resolve()} && poetry run python -m pip install git+{module.homepage}",
                 stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE
+                stderr=subprocess.PIPE,
             )
             _, stderr = await proc.communicate()
             if not "ERROR" in stderr.decode():
-                print(
-                    f"Created project {module.module_name} from Git peacefully."
-                )
+                print(f"Created project {module.module_name} from Git peacefully.")
             module._git_create = not "ERROR" in stderr.decode()
         else:
             print(f"Project {module.module_name} already exists.")
             module._git_create = True
 
     async def create_poetry_project(self, module: Module) -> None:
-        await self.create_poetry_project_from_pypi(module) if not module._pypi_skip else ...
-        await self.create_poetry_project_from_git(module) if not module._git_skip else ...
-        if (not module._pypi_skip and not module._pypi_create) and (not module._git_skip and not module._git_create):
+        await self.create_poetry_project_from_pypi(
+            module
+        ) if not module._pypi_skip else ...
+        await self.create_poetry_project_from_git(
+            module
+        ) if not module._git_skip else ...
+        if (not module._pypi_skip and not module._pypi_create) and (
+            not module._git_skip and not module._git_create
+        ):
             Operator.vacuum(module)
             print(f"Error while creating project: {module.module_name}")
 
@@ -317,18 +317,14 @@ class Operator:
             proc = await create_subprocess_shell(
                 f"cd {_path.resolve()} && poetry run python runner.py",
                 stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE
+                stderr=subprocess.PIPE,
             )
             stdout, stderr = await proc.communicate()
             code = proc.returncode
             if not code:
-                print(
-                    f"Run project {module.module_name} from PyPI peacefully."
-                )
+                print(f"Run project {module.module_name} from PyPI peacefully.")
             else:
-                print(
-                    f"Error while running project {module.module_name} from PyPI:"
-                )
+                print(f"Error while running project {module.module_name} from PyPI:")
                 _err = stderr.decode().strip()
                 if len(_err.splitlines()) > 1:
                     for i in _err.splitlines():
@@ -349,16 +345,14 @@ class Operator:
             proc = await create_subprocess_shell(
                 f"cd {_path.resolve()} && poetry run python runner.py",
                 stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE
+                stderr=subprocess.PIPE,
             )
             stdout, stderr = await proc.communicate()
             code = proc.returncode
             if not code:
                 print(f"Run project {module.module_name} from Git peacefully.")
             else:
-                print(
-                    f"Error while running project {module.module_name} from Git:"
-                )
+                print(f"Error while running project {module.module_name} from Git:")
                 _err = stderr.decode().strip()
                 if len(_err.splitlines()) > 1:
                     for i in _err.splitlines():
@@ -372,8 +366,12 @@ class Operator:
             print(f"Project {module.module_name} does not exist.")
 
     async def run_poetry_project(self, module: Module) -> None:
-        await self.run_poetry_project_from_pypi(module) if not module._pypi_skip and module._pypi_create else ...
-        await self.run_poetry_project_from_git(module) if not module._git_skip and module._git_create else ...
+        await self.run_poetry_project_from_pypi(
+            module
+        ) if not module._pypi_skip and module._pypi_create else ...
+        await self.run_poetry_project_from_git(
+            module
+        ) if not module._git_skip and module._git_create else ...
 
     async def dependency_declaration_test(self) -> None:
         _passed = self.report.passed
@@ -381,7 +379,11 @@ class Operator:
         _error_while_creating = self.report.error_while_creating
         for i in self.data:
             module = Module(
-                self.branch, i["module_name"], i["project_link"], i["name"], i["homepage"]
+                self.branch,
+                i["module_name"],
+                i["project_link"],
+                i["name"],
+                i["homepage"],
             )
             if self.specific_module:
                 if self.specific_module not in module.module_name:
@@ -396,19 +398,19 @@ class Operator:
                     _passed[module.module_name] = {
                         "display_name": module.display_name,
                         "pypi": module._pypi_run,
-                        "git": module._git_run
+                        "git": module._git_run,
                     }
                 else:
                     _error_while_running[module.module_name] = {
                         "display_name": module.display_name,
                         "pypi": module._pypi_run,
-                        "git": module._git_run
+                        "git": module._git_run,
                     }
             else:
                 _error_while_creating[module.module_name] = {
                     "display_name": module.display_name,
                     "pypi": module._pypi_create,
-                    "git": module._git_create
+                    "git": module._git_create,
                 }
             self.update_local(module)
 
