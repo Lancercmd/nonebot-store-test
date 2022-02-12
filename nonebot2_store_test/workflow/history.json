@@ -1,7 +1,7 @@
 {
     "_runtime_latest": "2.0.0b1",
     "nonebot-plugin-status": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_status",
         "project_link": "nonebot-plugin-status",
@@ -16,7 +16,7 @@
         "last_seen": "80bf73e"
     },
     "haruka-bot": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "haruka_bot",
         "project_link": "haruka-bot",
@@ -31,7 +31,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-rauthman": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_rauthman",
         "project_link": "nonebot-plugin-rauthman",
@@ -46,7 +46,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-docs": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_docs",
         "project_link": "nonebot-plugin-docs",
@@ -61,7 +61,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-sentry": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_sentry",
         "project_link": "nonebot-plugin-sentry",
@@ -76,7 +76,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-test": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_test",
         "project_link": "nonebot-plugin-test",
@@ -91,7 +91,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-apscheduler": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_apscheduler",
         "project_link": "nonebot-plugin-apscheduler",
@@ -106,7 +106,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-picsearcher": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_picsearcher",
         "project_link": "nonebot-plugin-picsearcher",
@@ -121,7 +121,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-navicat": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_navicat",
         "project_link": "nonebot-plugin-navicat",
@@ -136,7 +136,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-translator": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_translator",
         "project_link": "nonebot-plugin-translator",
@@ -151,7 +151,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-web": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_web",
         "project_link": "nonebot-plugin-web",
@@ -166,7 +166,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-wordbank": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_wordbank",
         "project_link": "nonebot-plugin-wordbank",
@@ -181,7 +181,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-mqtt": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_mqtt",
         "project_link": "nonebot-plugin-mqtt",
@@ -196,7 +196,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-ipypreter": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot-plugin-ipypreter",
         "project_link": "nonebot-plugin-ipypreter",
@@ -211,7 +211,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-songpicker2": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_songpicker2",
         "project_link": "nonebot-plugin-songpicker2",
@@ -226,7 +226,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-styledstr": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_styledstr",
         "project_link": "nonebot-plugin-styledstr",
@@ -241,7 +241,7 @@
         "last_seen": "6e89787"
     },
     "nonebot-plugin-arcaea": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_arcaea",
         "project_link": "nonebot-plugin-arcaea",
@@ -256,7 +256,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-bison": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_bison",
         "project_link": "nonebot-bison",
@@ -271,7 +271,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-ncm": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot-plugin-ncm",
         "project_link": "nonebot-plugin-ncm",
@@ -286,7 +286,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-cocdicer": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_cocdicer",
         "project_link": "nonebot-plugin-cocdicer",
@@ -301,7 +301,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-trpglogger": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_trpglogger",
         "project_link": "nonebot-plugin-trpglogger",
@@ -316,7 +316,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-r6s": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_r6s",
         "project_link": "nonebot-plugin-r6s",
@@ -331,7 +331,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-guess": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_guess",
         "project_link": "nonebot-plugin-guess",
@@ -346,7 +346,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot_plugin_abbrreply": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_abbrreply",
         "project_link": "nonebot_plugin_abbrreply",
@@ -361,7 +361,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot_plugin_biliav": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_biliav",
         "project_link": "nonebot_plugin_biliav",
@@ -376,7 +376,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-manager": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_manager",
         "project_link": "nonebot-plugin-manager",
@@ -391,7 +391,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-analysis-bilibili": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_analysis_bilibili",
         "project_link": "nonebot-plugin-analysis-bilibili",
@@ -406,7 +406,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-localstore": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_localstore",
         "project_link": "nonebot-plugin-localstore",
@@ -421,7 +421,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-puppet": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_puppet",
         "project_link": "nonebot-plugin-puppet",
@@ -436,7 +436,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-mcstatus": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_mcstatus",
         "project_link": "nonebot-plugin-mcstatus",
@@ -451,7 +451,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-help": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_help",
         "project_link": "nonebot-plugin-help",
@@ -466,7 +466,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-gamedraw": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_gamedraw",
         "project_link": "nonebot-plugin-gamedraw",
@@ -481,7 +481,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-alias": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_alias",
         "project_link": "nonebot-plugin-alias",
@@ -496,7 +496,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-withdraw": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_withdraw",
         "project_link": "nonebot-plugin-withdraw",
@@ -511,7 +511,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-pixivrank-search": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_pixivrank_search",
         "project_link": "nonebot-plugin-pixivrank-search",
@@ -526,7 +526,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-russian": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_russian",
         "project_link": "nonebot-plugin-russian",
@@ -541,7 +541,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-statistical": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_statistical",
         "project_link": "nonebot-plugin-statistical",
@@ -556,7 +556,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot_plugin_setu": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_setu",
         "project_link": "nonebot_plugin_setu",
@@ -571,7 +571,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-fr24": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_fr24",
         "project_link": "nonebot-plugin-fr24",
@@ -586,7 +586,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-heweather": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_heweather",
         "project_link": "nonebot-plugin-heweather",
@@ -601,7 +601,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-autohelp": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_autohelp",
         "project_link": "nonebot-plugin-autohelp",
@@ -616,7 +616,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-flexperm": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_flexperm",
         "project_link": "nonebot-plugin-flexperm",
@@ -631,7 +631,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot_plugin_epicfree": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_epicfree",
         "project_link": "nonebot_plugin_epicfree",
@@ -646,7 +646,7 @@
         "last_seen": "80bf73e"
     },
     "ELF-RSS": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "ELF_RSS2",
         "project_link": "ELF-RSS",
@@ -661,7 +661,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-atri": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_atri",
         "project_link": "nonebot-plugin-atri",
@@ -676,7 +676,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-hanayori": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_hanayori",
         "project_link": "nonebot-plugin-hanayori",
@@ -691,7 +691,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-filehost": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_filehost",
         "project_link": "nonebot-plugin-filehost",
@@ -706,7 +706,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-simplemusic": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_simplemusic",
         "project_link": "nonebot-plugin-simplemusic",
@@ -721,7 +721,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-phlogo": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_phlogo",
         "project_link": "nonebot-plugin-phlogo",
@@ -736,7 +736,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-twitter": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_twitter",
         "project_link": "nonebot-plugin-twitter",
@@ -751,7 +751,7 @@
         "last_seen": "80bf73e"
     },
     "nb2chan": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nb2chan",
         "project_link": "nb2chan",
@@ -766,7 +766,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-setu-now": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_setu_now",
         "project_link": "nonebot-plugin-setu-now",
@@ -781,7 +781,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-leetcode": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "leetcode",
         "project_link": "nonebot-plugin-leetcode",
@@ -796,7 +796,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-imgsearch": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_imgsearch",
         "project_link": "nonebot-plugin-imgsearch",
@@ -811,7 +811,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-itnew": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_itnews",
         "project_link": "nonebot-plugin-itnew",
@@ -826,7 +826,7 @@
         "last_seen": "80bf73e"
     },
     "lolHeroes": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "lolheroes",
         "project_link": "lolHeroes",
@@ -841,7 +841,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-youthstudy": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_youthstudy",
         "project_link": "nonebot-plugin-youthstudy",
@@ -856,7 +856,7 @@
         "last_seen": "80bf73e"
     },
     "gocqapi": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "gocqapi",
         "project_link": "gocqapi",
@@ -871,7 +871,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-workscore": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_workscore",
         "project_link": "nonebot-plugin-workscore",
@@ -886,7 +886,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-nokia": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_nokia",
         "project_link": "nonebot-plugin-nokia",
@@ -901,7 +901,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-asoulcnki": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_asoulcnki",
         "project_link": "nonebot-plugin-asoulcnki",
@@ -916,7 +916,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-petpet": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_petpet",
         "project_link": "nonebot-plugin-petpet",
@@ -931,7 +931,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-shindan": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_shindan",
         "project_link": "nonebot-plugin-shindan",
@@ -946,7 +946,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-vf": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_vf",
         "project_link": "nonebot-plugin-vf",
@@ -961,7 +961,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-code": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_code",
         "project_link": "nonebot-plugin-code",
@@ -976,7 +976,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-heisi": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_heisi",
         "project_link": "nonebot-plugin-heisi",
@@ -991,7 +991,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-picsbank": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_picsbank",
         "project_link": "nonebot-plugin-picsbank",
@@ -1006,7 +1006,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-tvseries": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_tvseries",
         "project_link": "nonebot-plugin-tvseries",
@@ -1021,7 +1021,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-lolmatch": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_lolmatch",
         "project_link": "nonebot-plugin-lolmatch",
@@ -1036,7 +1036,7 @@
         "last_seen": "80bf73e"
     },
     "olivos.nb2": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "OlivOS",
         "project_link": "olivos.nb2",
@@ -1051,7 +1051,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-htmlrender": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_htmlrender",
         "project_link": "nonebot-plugin-htmlrender",
@@ -1066,7 +1066,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-admin": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_admin",
         "project_link": "nonebot-plugin-admin",
@@ -1081,7 +1081,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-logo": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_logo",
         "project_link": "nonebot-plugin-logo",
@@ -1096,7 +1096,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-memes": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_memes",
         "project_link": "nonebot-plugin-memes",
@@ -1111,7 +1111,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-repeater": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_repeater",
         "project_link": "nonebot-plugin-repeater",
@@ -1126,7 +1126,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-pctrl": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_PCtrl",
         "project_link": "nonebot-plugin-pctrl",
@@ -1141,7 +1141,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-directlinker": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_directlinker",
         "project_link": "nonebot-plugin-directlinker",
@@ -1156,7 +1156,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-forwarder": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_forwarder",
         "project_link": "nonebot-plugin-forwarder",
@@ -1171,7 +1171,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-roll": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_roll",
         "project_link": "nonebot-plugin-roll",
@@ -1186,7 +1186,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-crazy-thursday": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_crazy_thursday",
         "project_link": "nonebot-plugin-crazy-thursday",
@@ -1201,7 +1201,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-covid19-news": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_covid19_news",
         "project_link": "nonebot-plugin-covid19-news",
@@ -1216,7 +1216,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-remake": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_remake",
         "project_link": "nonebot-plugin-remake",
@@ -1231,7 +1231,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-caiyunai": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_caiyunai",
         "project_link": "nonebot-plugin-caiyunai",
@@ -1246,7 +1246,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-weather-lite": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_weather_lite",
         "project_link": "nonebot-plugin-weather-lite",
@@ -1261,7 +1261,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-fortune": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_fortune",
         "project_link": "nonebot-plugin-fortune",
@@ -1276,7 +1276,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-tarot": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_tarot",
         "project_link": "nonebot-plugin-tarot",
@@ -1291,7 +1291,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-emojimix": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_emojimix",
         "project_link": "nonebot-plugin-emojimix",
@@ -1306,7 +1306,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-what2eat": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_what2eat",
         "project_link": "nonebot-plugin-what2eat",
@@ -1321,7 +1321,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-datastore": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_datastore",
         "project_link": "nonebot-plugin-datastore",
@@ -1336,7 +1336,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-gocqhttp": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_gocqhttp",
         "project_link": "nonebot-plugin-gocqhttp",
@@ -1351,7 +1351,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-general-rss": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot-general-rss",
         "project_link": "nonebot-general-rss",
@@ -1366,7 +1366,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-guild-patch": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_guild_patch",
         "project_link": "nonebot-plugin-guild-patch",
@@ -1381,7 +1381,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-chess": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "a8a68d8",
         "module_name": "nonebot_plugin_chess",
         "project_link": "nonebot-plugin-chess",
@@ -1396,7 +1396,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-wordcloud": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "244b3c0",
         "module_name": "nonebot_plugin_wordcloud",
         "project_link": "nonebot-plugin-wordcloud",
@@ -1411,7 +1411,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-fg": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "244b3c0",
         "module_name": "nonebot_plugin_fg",
         "project_link": "nonebot-plugin-fg",
@@ -1426,7 +1426,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-chatrecorder": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "0fd7c77",
         "module_name": "nonebot_plugin_chatrecorder",
         "project_link": "nonebot-plugin-chatrecorder",
@@ -1441,7 +1441,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-setu2": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "e37e6d0",
         "module_name": "nonebot_plugin_setu2",
         "project_link": "nonebot-plugin-setu2",
@@ -1456,7 +1456,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-random-cat": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "e37e6d0",
         "module_name": "nonebot_plugin_random_cat",
         "project_link": "nonebot-plugin-random-cat",
@@ -1471,7 +1471,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-antiflash": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "6e89787",
         "module_name": "nonebot_plugin_antiflash",
         "project_link": "nonebot-plugin-antiflash",
@@ -1486,7 +1486,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-strman": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "f4120d9",
         "module_name": "nonebot_plugin_strman",
         "project_link": "nonebot-plugin-strman",
@@ -1501,7 +1501,7 @@
         "last_seen": "80bf73e"
     },
     "random_cat_gif": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "319b3ff",
         "module_name": "random_cat_gif",
         "project_link": "random_cat_gif",
@@ -1516,7 +1516,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-word-bank2": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "319b3ff",
         "module_name": "nonebot_plugin_word_bank2",
         "project_link": "nonebot-plugin-word-bank2",
@@ -1531,7 +1531,7 @@
         "last_seen": "80bf73e"
     },
     "ServantReasoning": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "9ed5d91",
         "module_name": "nonebot_plugin_ServantReasoning",
         "project_link": "ServantReasoning",
@@ -1546,7 +1546,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-txt2img": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "1b17039",
         "module_name": "nonebot_plugin_txt2img",
         "project_link": "nonebot-plugin-txt2img",
@@ -1561,7 +1561,7 @@
         "last_seen": "80bf73e"
     },
     "nonebot-plugin-morning": {
-        "_runtime_latest": "2.0.0b1",
+        "_runtime_latest": null,
         "first_seen": "80bf73e",
         "module_name": "nonebot_plugin_morning",
         "project_link": "nonebot-plugin-morning",
