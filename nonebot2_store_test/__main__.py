@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-02-13 00:52:07
+LastEditTime : 2022-02-13 03:03:23
 Description  : None
 GitHub       : https://github.com/Lancercmd
 """
@@ -13,7 +13,7 @@ from dataclasses import dataclass, field
 from json import dumps, loads
 from os import system
 from pathlib import Path
-from shutil import rmtree
+from shutil import copyfile, rmtree
 from sys import argv, platform
 from typing import Optional
 
@@ -21,6 +21,7 @@ from requests import get
 
 COMMIT = "master"
 HOME = Path("workflow") / COMMIT
+ENV = HOME.parent / "env"
 LOCAL = HOME.parent / "history.json"
 RUNNER = """from nonebot import init, load_plugin
 
@@ -91,10 +92,11 @@ class Operator:
         print("Make sure running with utf-8 encoding.")
 
     def reconstant(self) -> None:
-        global COMMIT, HOME, LOCAL
+        global COMMIT, HOME, ENV, LOCAL
         COMMIT = self.branch
         HOME = Path("workflow") / COMMIT
         Operator.vacuum()
+        ENV = HOME.parent / "env"
         LOCAL = HOME.parent / "history.json"
 
     @staticmethod
@@ -265,6 +267,11 @@ class Operator:
             if not stderr and not "Error" in stdout.decode():
                 print(f"Created project {module.module_name} from PyPI peacefully.")
             module._pypi_create = not stderr
+            await (
+                await create_subprocess_shell(
+                    f"cd {_path.resolve()} && {'copy' if platform == 'win32' else 'cp'} {ENV.resolve()} {str((_path / '.env.prod').resolve())} > NUL"
+                )
+            ).communicate()
         else:
             print(f"Project {module.module_name} already exists.")
             module._pypi_create = True
@@ -294,6 +301,11 @@ class Operator:
             if not "ERROR" in stderr.decode():
                 print(f"Created project {module.module_name} from Git peacefully.")
             module._git_create = not "ERROR" in stderr.decode()
+            await (
+                await create_subprocess_shell(
+                    f"cd {_path.resolve()} && {'copy' if platform == 'win32' else 'cp'} {ENV.resolve()} {str((_path / '.env.prod').resolve())} > NUL"
+                )
+            ).communicate()
         else:
             print(f"Project {module.module_name} already exists.")
             module._git_create = True
