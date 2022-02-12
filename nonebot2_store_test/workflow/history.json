@@ -922,10 +922,10 @@
         "project_link": "nonebot-plugin-petpet",
         "display_name": "头像表情包",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-petpet",
-        "pypi_version": "0.2.2.1",
+        "pypi_version": "0.2.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "369f511",
+        "git_hash": "5ea870c",
         "git_create": true,
         "git_run": true,
         "last_seen": "80bf73e"
