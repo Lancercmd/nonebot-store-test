@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-02-12 18:30:22
+LastEditTime : 2022-02-13 00:52:07
 Description  : None
 GitHub       : https://github.com/Lancercmd
 """
@@ -157,10 +157,12 @@ class Operator:
         if _latest != self.local.get("_runtime_latest", None):
             if not self.local:
                 self.local = {"_runtime_latest": _latest}
-            else:
+            elif not "_runtime_latest" in self.local:
                 _li = [[x, y] for x, y in self.local.items()]
                 _li.insert(0, ["_runtime_latest", _latest])
                 self.local = {x: y for x, y in _li}
+            else:
+                self.local["_runtime_latest"] = _latest
             self.save_local()
         self._runtime_latest = _latest
 
@@ -260,7 +262,7 @@ class Operator:
                 stderr=subprocess.PIPE,
             )
             stdout, stderr = await proc.communicate()
-            if not stderr:
+            if not stderr and not "Error" in stdout.decode():
                 print(f"Created project {module.module_name} from PyPI peacefully.")
             module._pypi_create = not stderr
         else:
