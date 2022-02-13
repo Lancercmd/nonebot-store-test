@@ -1,3 +1,14 @@
+# nonebot2
+host = 127.0.0.1  # 配置 NoneBot 监听的 IP/主机名
+port = 8080  # 配置 NoneBot 监听的端口
+
+superusers = ["123456789", "987654321"]  # 配置 NoneBot 超级用户
+nickname = ["awesome", "bot"]  # 配置机器人的昵称
+
+command_start = ["/", ""]  # 配置命令起始字符
+command_sep = ["."]  # 配置命令分割字符
+
+# nonebot-plugin-setu2
 setu2_cd = 60
 setu2_enable_groups = [0]
 proxies_socks5 = ""

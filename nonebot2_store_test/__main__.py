@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-02-13 03:03:23
+LastEditTime : 2022-02-13 14:12:50
 Description  : None
 GitHub       : https://github.com/Lancercmd
 """
@@ -13,7 +13,7 @@ from dataclasses import dataclass, field
 from json import dumps, loads
 from os import system
 from pathlib import Path
-from shutil import copyfile, rmtree
+from shutil import rmtree
 from sys import argv, platform
 from typing import Optional
 
@@ -254,6 +254,13 @@ class Operator:
         if "nothing to commit" in _stdout.decode():
             return
         await (await create_subprocess_shell("git push")).communicate()
+    
+    async def copy_env_file(self, _path: Path) -> None:
+        await (
+            await create_subprocess_shell(
+                f"cd {_path.resolve()} && {'copy' if platform == 'win32' else 'cp'} {ENV.resolve()} {str((_path / '.env.prod').resolve())} > NUL"
+            )
+        ).communicate()
 
     async def create_poetry_project_from_pypi(self, module: Module) -> None:
         _path = module.path_pypi
@@ -267,11 +274,7 @@ class Operator:
             if not stderr and not "Error" in stdout.decode():
                 print(f"Created project {module.module_name} from PyPI peacefully.")
             module._pypi_create = not stderr
-            await (
-                await create_subprocess_shell(
-                    f"cd {_path.resolve()} && {'copy' if platform == 'win32' else 'cp'} {ENV.resolve()} {str((_path / '.env.prod').resolve())} > NUL"
-                )
-            ).communicate()
+            await self.copy_env_file(_path)
         else:
             print(f"Project {module.module_name} already exists.")
             module._pypi_create = True
@@ -301,11 +304,7 @@ class Operator:
             if not "ERROR" in stderr.decode():
                 print(f"Created project {module.module_name} from Git peacefully.")
             module._git_create = not "ERROR" in stderr.decode()
-            await (
-                await create_subprocess_shell(
-                    f"cd {_path.resolve()} && {'copy' if platform == 'win32' else 'cp'} {ENV.resolve()} {str((_path / '.env.prod').resolve())} > NUL"
-                )
-            ).communicate()
+            await self.copy_env_file(_path)
         else:
             print(f"Project {module.module_name} already exists.")
             module._git_create = True
