@@ -685,7 +685,7 @@
         "pypi_version": "0.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8ee7bd1",
+        "git_hash": "dec40dd",
         "git_create": false,
         "git_run": false,
         "last_seen": "80bf73e"
@@ -715,7 +715,7 @@
         "pypi_version": "0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7f21a8d",
+        "git_hash": "59783b8",
         "git_create": true,
         "git_run": false,
         "last_seen": "80bf73e"
@@ -745,7 +745,7 @@
         "pypi_version": "2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e823c20",
+        "git_hash": "bc65b12",
         "git_create": true,
         "git_run": false,
         "last_seen": "80bf73e"
@@ -1270,7 +1270,7 @@
         "pypi_version": "0.3.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c839bf7",
+        "git_hash": "7fd6f4a",
         "git_create": true,
         "git_run": true,
         "last_seen": "80bf73e"
@@ -1567,10 +1567,10 @@
         "project_link": "nonebot-plugin-morning",
         "display_name": "おはよう！",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_morning",
-        "pypi_version": "0.2.0a1",
+        "pypi_version": "0.2.0a2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "128c8e6",
+        "git_hash": "20cc422",
         "git_create": true,
         "git_run": true,
         "last_seen": "80bf73e"
