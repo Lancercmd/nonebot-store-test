@@ -142,10 +142,10 @@
         "project_link": "nonebot-plugin-translator",
         "display_name": "多语种翻译插件",
         "homepage": "https://github.com/Lancercmd/nonebot_plugin_translator",
-        "pypi_version": "2.0.0b1.post0",
+        "pypi_version": "2.0.0b2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "1c94e90",
+        "git_hash": "b49e393",
         "git_create": true,
         "git_run": true,
         "last_seen": "cee96d8"
@@ -1495,7 +1495,7 @@
         "pypi_version": "1.0.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5cd440b",
+        "git_hash": "9ef7c6a",
         "git_create": true,
         "git_run": true,
         "last_seen": "cee96d8"
