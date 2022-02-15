@@ -367,12 +367,12 @@
         "project_link": "nonebot_plugin_biliav",
         "display_name": "biliav小程序转换器",
         "homepage": "https://github.com/knva/nonebot_plugin_biliav",
-        "pypi_version": "1.0.3",
+        "pypi_version": "1.0.5",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "b0fd7a1",
+        "pypi_run": true,
+        "git_hash": "0dc69f8",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "cee96d8"
     },
     "nonebot-plugin-manager": {
@@ -1060,7 +1060,7 @@
         "pypi_version": "0.0.4.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "e750a5a",
+        "git_hash": "44161fe",
         "git_create": true,
         "git_run": true,
         "last_seen": "cee96d8"
@@ -1267,10 +1267,10 @@
         "project_link": "nonebot-plugin-fortune",
         "display_name": "今日运势",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_fortune",
-        "pypi_version": "0.3.3",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7fd6f4a",
+        "git_hash": "6bd8824",
         "git_create": true,
         "git_run": false,
         "last_seen": "cee96d8"
