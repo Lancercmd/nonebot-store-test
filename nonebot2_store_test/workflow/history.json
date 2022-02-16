@@ -367,10 +367,10 @@
         "project_link": "nonebot_plugin_biliav",
         "display_name": "biliav小程序转换器",
         "homepage": "https://github.com/knva/nonebot_plugin_biliav",
-        "pypi_version": "1.0.5",
+        "pypi_version": "1.0.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0dc69f8",
+        "git_hash": "74a9d4a",
         "git_create": true,
         "git_run": true,
         "last_seen": "cee96d8"
