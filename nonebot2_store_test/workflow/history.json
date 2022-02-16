@@ -640,9 +640,9 @@
         "pypi_version": "0.1.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "74cea8a",
+        "git_hash": "24f50b7",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "722fc6c"
     },
     "ELF-RSS": {
@@ -1240,7 +1240,7 @@
         "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8d096f9",
+        "git_hash": "16c97f1",
         "git_create": true,
         "git_run": true,
         "last_seen": "722fc6c"
