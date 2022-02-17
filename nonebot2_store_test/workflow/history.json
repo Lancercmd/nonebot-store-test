@@ -1345,7 +1345,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "287e3f9",
+        "git_hash": "432d6c6",
         "git_create": true,
         "git_run": false,
         "last_seen": "9dd989c"
@@ -1522,10 +1522,10 @@
         "project_link": "nonebot-plugin-word-bank2",
         "display_name": "无数据库的问答插件",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-word-bank2",
-        "pypi_version": "0.1.3",
+        "pypi_version": "0.1.3.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "06edffb",
+        "git_hash": "31b028e",
         "git_create": true,
         "git_run": true,
         "last_seen": "9dd989c"
@@ -1585,7 +1585,7 @@
         "pypi_version": "1.0.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ea79b84",
+        "git_hash": "4945e52",
         "git_create": true,
         "git_run": true,
         "last_seen": "9dd989c"
@@ -1657,10 +1657,10 @@
         "project_link": "nonebot-plugin-read-60s",
         "display_name": "60s读世界小插件",
         "homepage": "https://github.com/bingganhe123/60s-",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.1.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e62584a",
+        "git_hash": "63b4f71",
         "git_create": false,
         "git_run": false,
         "last_seen": "9dd989c"
