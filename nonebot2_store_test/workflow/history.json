@@ -340,9 +340,9 @@
         "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "aea1a99",
+        "git_hash": "ba658d3",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "1231320"
     },
     "nonebot_plugin_abbrreply": {
@@ -610,9 +610,9 @@
         "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5f6bc00",
+        "git_hash": "e3eb800",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "1231320"
     },
     "nonebot-plugin-flexperm": {
