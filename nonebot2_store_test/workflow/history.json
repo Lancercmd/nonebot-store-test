@@ -757,7 +757,7 @@
         "project_link": "nb2chan",
         "display_name": "nb2chan",
         "homepage": "https://github.com/ffreemt/nb2chan",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "4d6a9a5",
