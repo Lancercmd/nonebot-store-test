@@ -655,7 +655,7 @@
         "pypi_version": null,
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "979ba2c",
+        "git_hash": "8530e21",
         "git_create": true,
         "git_run": true,
         "last_seen": "5db9c1e"
@@ -1282,12 +1282,12 @@
         "project_link": "nonebot-plugin-tarot",
         "display_name": "塔罗牌",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_tarot",
-        "pypi_version": "0.2.3",
+        "pypi_version": "0.2.4",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "91f687c",
+        "pypi_run": true,
+        "git_hash": "9ae6f70",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "5db9c1e"
     },
     "nonebot-plugin-emojimix": {
@@ -1312,10 +1312,10 @@
         "project_link": "nonebot-plugin-what2eat",
         "display_name": "今天吃什么",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_what2eat",
-        "pypi_version": "0.2.3",
+        "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1329170",
+        "git_hash": "bcb91c3",
         "git_create": true,
         "git_run": false,
         "last_seen": "5db9c1e"
