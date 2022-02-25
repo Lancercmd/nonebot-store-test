@@ -472,10 +472,10 @@
         "project_link": "nonebot-plugin-gamedraw",
         "display_name": "nonebot_plugin_gamedraw",
         "homepage": "https://github.com/HibiKier/nonebot_plugin_gamedraw",
-        "pypi_version": "0.3.1",
+        "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "196c78e",
+        "git_hash": "b4d0461",
         "git_create": true,
         "git_run": false,
         "last_seen": "339c256"
@@ -1267,12 +1267,12 @@
         "project_link": "nonebot-plugin-fortune",
         "display_name": "今日运势",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_fortune",
-        "pypi_version": "0.4.1",
+        "pypi_version": "0.4.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0ca0b71",
+        "git_hash": "b37416c",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "339c256"
     },
     "nonebot-plugin-tarot": {
