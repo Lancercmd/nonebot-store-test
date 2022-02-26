@@ -655,7 +655,7 @@
         "pypi_version": null,
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8530e21",
+        "git_hash": "83d558c",
         "git_create": true,
         "git_run": true,
         "last_seen": "6b067f0"
@@ -1402,10 +1402,10 @@
         "project_link": "nonebot-plugin-wordcloud",
         "display_name": "词云",
         "homepage": "https://github.com/he0119/nonebot-plugin-wordcloud",
-        "pypi_version": "0.0.8",
+        "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "aa36102",
+        "git_hash": "d1c4fb9",
         "git_create": true,
         "git_run": true,
         "last_seen": "6b067f0"
