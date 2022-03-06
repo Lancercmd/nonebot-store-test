@@ -1567,10 +1567,10 @@
         "project_link": "nonebot-plugin-morning",
         "display_name": "おはよう！",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_morning",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5d5db80",
+        "git_hash": "67cede8",
         "git_create": true,
         "git_run": true,
         "last_seen": "492c094"
