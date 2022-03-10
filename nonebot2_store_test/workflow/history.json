@@ -1297,10 +1297,10 @@
         "project_link": "nonebot-plugin-emojimix",
         "display_name": "emoji 合成器",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-emojimix",
-        "pypi_version": "0.1.3",
+        "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b47a553",
+        "git_hash": "e9221b7",
         "git_create": true,
         "git_run": true,
         "last_seen": "4cf07ca"
