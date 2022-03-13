@@ -1657,10 +1657,10 @@
         "project_link": "nonebot-plugin-read-60s",
         "display_name": "60s读世界小插件",
         "homepage": "https://github.com/bingganhe123/60s-",
-        "pypi_version": "0.2.3",
+        "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f667cb5",
+        "git_hash": "8887346",
         "git_create": true,
         "git_run": false,
         "last_seen": "56c6f6a"
