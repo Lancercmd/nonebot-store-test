@@ -277,7 +277,7 @@
         "project_link": "nonebot-plugin-ncm",
         "display_name": "网易云无损音乐下载",
         "homepage": "https://github.com/kitUIN/nonebot_tools/tree/master/nonebot_tools/nonebot-plugin-ncm",
-        "pypi_version": "1.2.3",
+        "pypi_version": "1.2.4",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": null,
@@ -925,7 +925,7 @@
         "pypi_version": "0.2.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4fa081f",
+        "git_hash": "81cc355",
         "git_create": true,
         "git_run": true,
         "last_seen": "56c6f6a"
