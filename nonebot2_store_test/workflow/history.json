@@ -847,10 +847,10 @@
         "project_link": "nonebot-plugin-youthstudy",
         "display_name": "nonebot_plugin_youthstudy",
         "homepage": "https://github.com/ayanamiblhx/nonebot_plugin_youthstudy",
-        "pypi_version": "1.0.2",
+        "pypi_version": "1.0.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ee52661",
+        "git_hash": "e060748",
         "git_create": false,
         "git_run": false,
         "last_seen": "56c6f6a"
@@ -1075,7 +1075,7 @@
         "pypi_version": "0.3.18",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "65fbd8f",
+        "git_hash": "16837e1",
         "git_create": false,
         "git_run": false,
         "last_seen": "56c6f6a"
