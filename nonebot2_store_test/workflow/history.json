@@ -1495,7 +1495,7 @@
         "pypi_version": "1.0.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "14aea81",
+        "git_hash": "da3d6ed",
         "git_create": true,
         "git_run": true,
         "last_seen": "fcdb05a"
