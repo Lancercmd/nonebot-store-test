@@ -1087,10 +1087,10 @@
         "project_link": "nonebot-plugin-logo",
         "display_name": "多种风格logo生成",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-logo",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "dd97b46",
+        "git_hash": "36bf71f",
         "git_create": true,
         "git_run": true,
         "last_seen": "fcdb05a"
