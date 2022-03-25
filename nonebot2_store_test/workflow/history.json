@@ -1930,7 +1930,7 @@
         "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5359daf",
+        "git_hash": "03a0398",
         "git_create": true,
         "git_run": true,
         "last_seen": "8ccf109"
@@ -1957,10 +1957,10 @@
         "project_link": "nonebot-plugin-giyf",
         "display_name": "快速搜索",
         "homepage": "https://github.com/KoishiStudio/nonebot-plugin-giyf",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5ef9afa",
+        "git_hash": "9cb3be6",
         "git_create": true,
         "git_run": true,
         "last_seen": "8ccf109"
