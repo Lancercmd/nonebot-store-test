@@ -655,9 +655,9 @@
         "pypi_version": null,
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "292331c",
+        "git_hash": "21ed266",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "537866d"
     },
     "nonebot-plugin-atri": {
