@@ -1942,10 +1942,10 @@
         "project_link": "nonebot-plugin-wordle",
         "display_name": "wordle猜单词",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-wordle",
-        "pypi_version": "0.1.5",
+        "pypi_version": "0.1.5.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "228d2f2",
+        "git_hash": "8752e50",
         "git_create": true,
         "git_run": true,
         "last_seen": "537866d"
