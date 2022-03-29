@@ -835,7 +835,7 @@
         "pypi_version": "0.0.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "583f794",
+        "git_hash": "f918dea",
         "git_create": true,
         "git_run": false,
         "last_seen": "82803ff"
@@ -1942,10 +1942,10 @@
         "project_link": "nonebot-plugin-wordle",
         "display_name": "wordle猜单词",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-wordle",
-        "pypi_version": "0.1.5.1",
+        "pypi_version": "0.1.5.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8752e50",
+        "git_hash": "6ff8683",
         "git_create": true,
         "git_run": true,
         "last_seen": "82803ff"
