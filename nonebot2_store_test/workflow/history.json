@@ -1717,10 +1717,10 @@
         "project_link": "nonebot-plugin-fire",
         "display_name": "QQ自动续火花",
         "homepage": "https://github.com/25252www/nonebot_plugin_fire",
-        "pypi_version": "1.0.1",
+        "pypi_version": "1.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5bf7802",
+        "git_hash": "f7d48ba",
         "git_create": true,
         "git_run": false,
         "last_seen": "82803ff"
