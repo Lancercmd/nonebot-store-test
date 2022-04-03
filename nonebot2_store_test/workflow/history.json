@@ -625,7 +625,7 @@
         "pypi_version": "0.4.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7bd43fe",
+        "git_hash": "c65e9d2",
         "git_create": true,
         "git_run": true,
         "last_seen": "494b9c6"
@@ -1882,10 +1882,10 @@
         "project_link": "nonebot-plugin-ddcheck",
         "display_name": "成分姬",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-ddcheck",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "73db522",
+        "git_hash": "88e5a16",
         "git_create": true,
         "git_run": true,
         "last_seen": "494b9c6"
