@@ -1342,10 +1342,10 @@
         "project_link": "nonebot-plugin-gocqhttp",
         "display_name": "NoneBot的go-cqhttp启动器",
         "homepage": "https://github.com/mnixry/nonebot-plugin-gocqhttp",
-        "pypi_version": "0.4.6",
+        "pypi_version": "0.4.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f544dd3",
+        "git_hash": "cca36fe",
         "git_create": true,
         "git_run": false,
         "last_seen": "494b9c6"
