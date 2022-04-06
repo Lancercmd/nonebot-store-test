@@ -622,10 +622,10 @@
         "project_link": "nonebot-plugin-flexperm",
         "display_name": "nonebot-plugin-flexperm",
         "homepage": "https://github.com/rmuchan/nonebot-plugin-flexperm",
-        "pypi_version": "0.5.1",
+        "pypi_version": "0.5.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "62b77b4",
+        "git_hash": "b845b44",
         "git_create": true,
         "git_run": true,
         "last_seen": "e5bb30e"
