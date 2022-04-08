@@ -1807,10 +1807,10 @@
         "project_link": "nonebot-plugin-bilibilibot",
         "display_name": "bilibili通知插件",
         "homepage": "https://github.com/TDK1969/nonebot_plugin_bilibilibot",
-        "pypi_version": "2.0.1",
+        "pypi_version": "2.0.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "639de44",
+        "git_hash": "7142403",
         "git_create": false,
         "git_run": false,
         "last_seen": "39fd544"
