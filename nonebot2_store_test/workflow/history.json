@@ -502,10 +502,10 @@
         "project_link": "nonebot-plugin-withdraw",
         "display_name": "Nonebot2 消息撤回插件",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-withdraw",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "3bb1ff5",
+        "git_hash": "c596eb2",
         "git_create": true,
         "git_run": true,
         "last_seen": "39fd544"
@@ -1345,7 +1345,7 @@
         "pypi_version": "0.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7aec8af",
+        "git_hash": "6c7b472",
         "git_create": true,
         "git_run": false,
         "last_seen": "39fd544"
