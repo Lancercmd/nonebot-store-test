@@ -2002,10 +2002,10 @@
         "project_link": "nonebot-plugin-handle",
         "display_name": "汉兜 Handle",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-handle",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.1.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "d557449",
+        "git_hash": "56c0101",
         "git_create": true,
         "git_run": true,
         "last_seen": "39fd544"
