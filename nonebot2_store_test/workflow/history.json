@@ -1,7 +1,7 @@
 {
     "_runtime_latest": "2.0.0b2",
     "nonebot-plugin-status": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_status",
         "project_link": "nonebot-plugin-status",
@@ -16,7 +16,7 @@
         "last_seen": "39fd544"
     },
     "haruka-bot": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "haruka_bot",
         "project_link": "haruka-bot",
@@ -31,7 +31,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-rauthman": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_rauthman",
         "project_link": "nonebot-plugin-rauthman",
@@ -46,7 +46,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-docs": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_docs",
         "project_link": "nonebot-plugin-docs",
@@ -61,7 +61,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-sentry": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_sentry",
         "project_link": "nonebot-plugin-sentry",
@@ -91,7 +91,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-apscheduler": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_apscheduler",
         "project_link": "nonebot-plugin-apscheduler",
@@ -106,7 +106,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-picsearcher": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_picsearcher",
         "project_link": "nonebot-plugin-picsearcher",
@@ -121,7 +121,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-navicat": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_navicat",
         "project_link": "nonebot-plugin-navicat",
@@ -136,7 +136,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-translator": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_translator",
         "project_link": "nonebot-plugin-translator",
@@ -181,7 +181,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-mqtt": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_mqtt",
         "project_link": "nonebot-plugin-mqtt",
@@ -211,7 +211,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-songpicker2": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_songpicker2",
         "project_link": "nonebot-plugin-songpicker2",
@@ -256,7 +256,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-bison": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_bison",
         "project_link": "nonebot-bison",
@@ -271,7 +271,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-ncm": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot-plugin-ncm",
         "project_link": "nonebot-plugin-ncm",
@@ -286,7 +286,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-cocdicer": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_cocdicer",
         "project_link": "nonebot-plugin-cocdicer",
@@ -301,7 +301,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-trpglogger": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_trpglogger",
         "project_link": "nonebot-plugin-trpglogger",
@@ -316,7 +316,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-r6s": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_r6s",
         "project_link": "nonebot-plugin-r6s",
@@ -331,7 +331,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-guess": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_guess",
         "project_link": "nonebot-plugin-guess",
@@ -376,7 +376,7 @@
         "last_seen": "d7de928"
     },
     "nonebot-plugin-manager": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_manager",
         "project_link": "nonebot-plugin-manager",
@@ -391,7 +391,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-analysis-bilibili": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_analysis_bilibili",
         "project_link": "nonebot-plugin-analysis-bilibili",
@@ -406,7 +406,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-localstore": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_localstore",
         "project_link": "nonebot-plugin-localstore",
@@ -421,7 +421,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-puppet": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_puppet",
         "project_link": "nonebot-plugin-puppet",
@@ -436,7 +436,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-mcstatus": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_mcstatus",
         "project_link": "nonebot-plugin-mcstatus",
@@ -451,7 +451,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-help": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_help",
         "project_link": "nonebot-plugin-help",
@@ -466,7 +466,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-gamedraw": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_gamedraw",
         "project_link": "nonebot-plugin-gamedraw",
@@ -481,7 +481,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-alias": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_alias",
         "project_link": "nonebot-plugin-alias",
@@ -496,7 +496,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-withdraw": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_withdraw",
         "project_link": "nonebot-plugin-withdraw",
@@ -511,7 +511,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-pixivrank-search": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_pixivrank_search",
         "project_link": "nonebot-plugin-pixivrank-search",
@@ -526,7 +526,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-russian": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_russian",
         "project_link": "nonebot-plugin-russian",
@@ -586,7 +586,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-heweather": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_heweather",
         "project_link": "nonebot-plugin-heweather",
@@ -601,7 +601,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-autohelp": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_autohelp",
         "project_link": "nonebot-plugin-autohelp",
@@ -616,7 +616,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-flexperm": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_flexperm",
         "project_link": "nonebot-plugin-flexperm",
@@ -646,7 +646,7 @@
         "last_seen": "d7de928"
     },
     "ELF-RSS": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "ELF_RSS2",
         "project_link": "ELF-RSS",
@@ -661,7 +661,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-atri": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_atri",
         "project_link": "nonebot-plugin-atri",
@@ -691,7 +691,7 @@
         "last_seen": "78a90ef"
     },
     "nonebot-plugin-filehost": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_filehost",
         "project_link": "nonebot-plugin-filehost",
@@ -706,7 +706,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-simplemusic": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_simplemusic",
         "project_link": "nonebot-plugin-simplemusic",
@@ -721,7 +721,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-phlogo": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_phlogo",
         "project_link": "nonebot-plugin-phlogo",
@@ -751,7 +751,7 @@
         "last_seen": "78a90ef"
     },
     "nb2chan": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nb2chan",
         "project_link": "nb2chan",
@@ -762,11 +762,11 @@
         "pypi_run": true,
         "git_hash": "4d6a9a5",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "39fd544"
     },
     "nonebot-plugin-setu-now": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_setu_now",
         "project_link": "nonebot-plugin-setu-now",
@@ -781,7 +781,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-leetcode": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "leetcode",
         "project_link": "nonebot-plugin-leetcode",
@@ -789,7 +789,7 @@
         "homepage": "https://github.com/zxz0415/leetcode",
         "pypi_version": "0.0.1",
         "pypi_create": true,
-        "pypi_run": false,
+        "pypi_run": true,
         "git_hash": "047b580",
         "git_create": true,
         "git_run": true,
@@ -841,7 +841,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-youthstudy": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_youthstudy",
         "project_link": "nonebot-plugin-youthstudy",
@@ -856,7 +856,7 @@
         "last_seen": "39fd544"
     },
     "gocqapi": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "gocqapi",
         "project_link": "gocqapi",
@@ -901,7 +901,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-asoulcnki": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_asoulcnki",
         "project_link": "nonebot-plugin-asoulcnki",
@@ -916,7 +916,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-petpet": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_petpet",
         "project_link": "nonebot-plugin-petpet",
@@ -931,7 +931,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-shindan": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_shindan",
         "project_link": "nonebot-plugin-shindan",
@@ -946,7 +946,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-vf": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_vf",
         "project_link": "nonebot-plugin-vf",
@@ -961,7 +961,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-code": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_code",
         "project_link": "nonebot-plugin-code",
@@ -976,7 +976,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-heisi": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_heisi",
         "project_link": "nonebot-plugin-heisi",
@@ -991,7 +991,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-picsbank": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_picsbank",
         "project_link": "nonebot-plugin-picsbank",
@@ -1006,7 +1006,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-tvseries": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_tvseries",
         "project_link": "nonebot-plugin-tvseries",
@@ -1014,14 +1014,14 @@
         "homepage": "https://github.com/kexue-z/nonebot-plugin-tvseries",
         "pypi_version": "0.0.2.3",
         "pypi_create": true,
-        "pypi_run": true,
+        "pypi_run": false,
         "git_hash": "3aff520",
         "git_create": true,
         "git_run": true,
         "last_seen": "39fd544"
     },
     "nonebot-plugin-lolmatch": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_lolmatch",
         "project_link": "nonebot-plugin-lolmatch",
@@ -1036,7 +1036,7 @@
         "last_seen": "39fd544"
     },
     "olivos.nb2": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "OlivOS",
         "project_link": "olivos.nb2",
@@ -1051,7 +1051,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-htmlrender": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_htmlrender",
         "project_link": "nonebot-plugin-htmlrender",
@@ -1066,7 +1066,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-admin": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_admin",
         "project_link": "nonebot-plugin-admin",
@@ -1081,7 +1081,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-logo": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_logo",
         "project_link": "nonebot-plugin-logo",
@@ -1096,7 +1096,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-memes": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_memes",
         "project_link": "nonebot-plugin-memes",
@@ -1111,7 +1111,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-repeater": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_repeater",
         "project_link": "nonebot-plugin-repeater",
@@ -1141,7 +1141,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-directlinker": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_directlinker",
         "project_link": "nonebot-plugin-directlinker",
@@ -1156,7 +1156,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-forwarder": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_forwarder",
         "project_link": "nonebot-plugin-forwarder",
@@ -1171,7 +1171,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-roll": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_roll",
         "project_link": "nonebot-plugin-roll",
@@ -1186,7 +1186,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-crazy-thursday": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_crazy_thursday",
         "project_link": "nonebot-plugin-crazy-thursday",
@@ -1201,7 +1201,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-covid19-news": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_covid19_news",
         "project_link": "nonebot-plugin-covid19-news",
@@ -1216,7 +1216,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-remake": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_remake",
         "project_link": "nonebot-plugin-remake",
@@ -1231,7 +1231,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-caiyunai": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_caiyunai",
         "project_link": "nonebot-plugin-caiyunai",
@@ -1246,7 +1246,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-weather-lite": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_weather_lite",
         "project_link": "nonebot-plugin-weather-lite",
@@ -1261,7 +1261,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-fortune": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_fortune",
         "project_link": "nonebot-plugin-fortune",
@@ -1276,7 +1276,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-tarot": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_tarot",
         "project_link": "nonebot-plugin-tarot",
@@ -1291,7 +1291,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-emojimix": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_emojimix",
         "project_link": "nonebot-plugin-emojimix",
@@ -1306,7 +1306,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-what2eat": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_what2eat",
         "project_link": "nonebot-plugin-what2eat",
@@ -1321,7 +1321,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-datastore": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_datastore",
         "project_link": "nonebot-plugin-datastore",
@@ -1336,7 +1336,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-gocqhttp": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_gocqhttp",
         "project_link": "nonebot-plugin-gocqhttp",
@@ -1366,7 +1366,7 @@
         "last_seen": "339c256"
     },
     "nonebot-plugin-guild-patch": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_guild_patch",
         "project_link": "nonebot-plugin-guild-patch",
@@ -1381,7 +1381,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-chess": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "a8a68d8",
         "module_name": "nonebot_plugin_chess",
         "project_link": "nonebot-plugin-chess",
@@ -1396,7 +1396,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-wordcloud": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "244b3c0",
         "module_name": "nonebot_plugin_wordcloud",
         "project_link": "nonebot-plugin-wordcloud",
@@ -1426,7 +1426,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-chatrecorder": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "0fd7c77",
         "module_name": "nonebot_plugin_chatrecorder",
         "project_link": "nonebot-plugin-chatrecorder",
@@ -1441,7 +1441,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-setu2": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "e37e6d0",
         "module_name": "nonebot_plugin_setu2",
         "project_link": "nonebot-plugin-setu2",
@@ -1471,7 +1471,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-antiflash": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "6e89787",
         "module_name": "nonebot_plugin_antiflash",
         "project_link": "nonebot-plugin-antiflash",
@@ -1486,7 +1486,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-strman": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "f4120d9",
         "module_name": "nonebot_plugin_strman",
         "project_link": "nonebot-plugin-strman",
@@ -1516,7 +1516,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-word-bank2": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "319b3ff",
         "module_name": "nonebot_plugin_word_bank2",
         "project_link": "nonebot-plugin-word-bank2",
@@ -1546,7 +1546,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-txt2img": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "1b17039",
         "module_name": "nonebot_plugin_txt2img",
         "project_link": "nonebot-plugin-txt2img",
@@ -1561,7 +1561,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-morning": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "80bf73e",
         "module_name": "nonebot_plugin_morning",
         "project_link": "nonebot-plugin-morning",
@@ -1576,7 +1576,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-pixiv": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "722fc6c",
         "module_name": "nonebot_plugin_pixiv",
         "project_link": "nonebot-plugin-pixiv",
@@ -1591,7 +1591,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-abbrreply": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "fcda5c3",
         "module_name": "nonebot_plugin_abbrreply",
         "project_link": "nonebot-plugin-abbrreply",
@@ -1606,7 +1606,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-biliav": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "fcda5c3",
         "module_name": "nonebot_plugin_biliav",
         "project_link": "nonebot-plugin-biliav",
@@ -1621,7 +1621,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-setu": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "fcda5c3",
         "module_name": "nonebot_plugin_setu",
         "project_link": "nonebot-plugin-setu",
@@ -1636,7 +1636,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-epicfree": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "fcda5c3",
         "module_name": "nonebot_plugin_epicfree",
         "project_link": "nonebot-plugin-epicfree",
@@ -1651,7 +1651,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-read-60s": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "9dd989c",
         "module_name": "nonebot_plugin_read_60s",
         "project_link": "nonebot-plugin-read-60s",
@@ -1666,7 +1666,7 @@
         "last_seen": "39fd544"
     },
     "yetanotherpicsearch": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "6f0e27e",
         "module_name": "YetAnotherPicSearch",
         "project_link": "yetanotherpicsearch",
@@ -1681,7 +1681,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-gachalogs": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "5db9c1e",
         "module_name": "nonebot_plugin_gachalogs",
         "project_link": "nonebot-plugin-gachalogs",
@@ -1696,7 +1696,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-everyday-en": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "88f8614",
         "module_name": "nonebot_plugin_everyday_en",
         "project_link": "nonebot-plugin-everyday-en",
@@ -1711,7 +1711,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-fire": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "2203b82",
         "module_name": "nonebot_plugin_fire",
         "project_link": "nonebot-plugin-fire",
@@ -1741,7 +1741,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-qrcode": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "dea1b8c",
         "module_name": "nonebot_plugin_qrcode",
         "project_link": "nonebot-plugin-qrcode",
@@ -1756,7 +1756,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-ygo": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "8600687",
         "module_name": "nonebot_plugin_ygo",
         "project_link": "nonebot-plugin-ygo",
@@ -1786,7 +1786,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-broker": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "492c094",
         "module_name": "nonebot_plugin_broker",
         "project_link": "nonebot-plugin-broker",
@@ -1801,7 +1801,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-bilibilibot": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "4cf07ca",
         "module_name": "nonebot_plugin_bilibilibot",
         "project_link": "nonebot-plugin-bilibilibot",
@@ -1816,7 +1816,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-color": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "4ebbf76",
         "module_name": "nonebot_plugin_color",
         "project_link": "nonebot-plugin-color",
@@ -1831,7 +1831,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-blackjack": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "56c6f6a",
         "module_name": "nonebot_plugin_blackjack",
         "project_link": "nonebot-plugin-blackjack",
@@ -1861,7 +1861,7 @@
         "last_seen": "e12445b"
     },
     "nonebot-plugin-arcaeabot": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "fcdb05a",
         "module_name": "nonebot_plugin_arcaeabot",
         "project_link": "nonebot-plugin-arcaeabot",
@@ -1876,7 +1876,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-ddcheck": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "78a90ef",
         "module_name": "nonebot_plugin_ddcheck",
         "project_link": "nonebot-plugin-ddcheck",
@@ -1891,7 +1891,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-leetcode2": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "a2abc5a",
         "module_name": "nonebot_plugin_leetcode2",
         "project_link": "nonebot-plugin-leetcode2",
@@ -1906,7 +1906,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-hikarisearch": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "3c8e705",
         "module_name": "nonebot_plugin_hikarisearch",
         "project_link": "nonebot-plugin-hikarisearch",
@@ -1921,7 +1921,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-mediawiki": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "8ccf109",
         "module_name": "nonebot_plugin_mediawiki",
         "project_link": "nonebot-plugin-mediawiki",
@@ -1936,7 +1936,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-wordle": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "8ccf109",
         "module_name": "nonebot_plugin_wordle",
         "project_link": "nonebot-plugin-wordle",
@@ -1951,7 +1951,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-giyf": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "8ccf109",
         "module_name": "nonebot_plugin_giyf",
         "project_link": "nonebot-plugin-giyf",
@@ -1966,7 +1966,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-abstract": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "537866d",
         "module_name": "nonebot_plugin_abstract",
         "project_link": "nonebot-plugin-abstract",
@@ -1981,7 +1981,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-params": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "adb5fd8",
         "module_name": "nonebot_plugin_params",
         "project_link": "nonebot-plugin-params",
@@ -1996,7 +1996,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-handle": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "82803ff",
         "module_name": "nonebot_plugin_handle",
         "project_link": "nonebot-plugin-handle",
@@ -2011,7 +2011,7 @@
         "last_seen": "39fd544"
     },
     "nonebot-plugin-minesweeper": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "e12445b",
         "module_name": "nonebot_plugin_minesweeper",
         "project_link": "nonebot-plugin-minesweeper",
@@ -2026,7 +2026,7 @@
         "last_seen": "39fd544"
     },
     "nonebot_plugin_draw": {
-        "_runtime_latest": "2.0.0b2-force",
+        "_runtime_latest": "2.0.0b2",
         "first_seen": "e5bb30e",
         "module_name": "nonebot_plugin_draw",
         "project_link": "nonebot_plugin_draw",
