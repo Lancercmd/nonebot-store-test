@@ -385,7 +385,7 @@
         "pypi_version": "0.5.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "51d9755",
+        "git_hash": "83a0422",
         "git_create": true,
         "git_run": true,
         "last_seen": "f989710"
@@ -2062,10 +2062,10 @@
         "project_link": "nonebot-plugin-randomtkk",
         "display_name": "随机唐可可",
         "homepage": "https://github.com/MinatoAquaCrews/nonebot_plugin_randomtkk",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "775c627",
+        "git_hash": "11d9330",
         "git_create": true,
         "git_run": true,
         "last_seen": "f989710"
