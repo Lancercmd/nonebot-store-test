@@ -1477,10 +1477,10 @@
         "project_link": "nonebot-plugin-antiflash",
         "display_name": "群聊反闪照",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_antiflash",
-        "pypi_version": "0.2.2",
+        "pypi_version": "0.2.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "3b0e2fe",
+        "git_hash": "1cd926a",
         "git_create": true,
         "git_run": true,
         "last_seen": "f989710"
