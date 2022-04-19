@@ -2017,10 +2017,10 @@
         "project_link": "nonebot-plugin-minesweeper",
         "display_name": "扫雷游戏",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-minesweeper",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.1.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "680d07e",
+        "git_hash": "9346dbb",
         "git_create": true,
         "git_run": true,
         "last_seen": "f989710"
