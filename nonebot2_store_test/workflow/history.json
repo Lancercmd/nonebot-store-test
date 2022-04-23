@@ -1870,7 +1870,7 @@
         "pypi_version": "1.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2634dc5",
+        "git_hash": "c8c81f7",
         "git_create": true,
         "git_run": false,
         "last_seen": "dcfa25c"
@@ -1927,10 +1927,10 @@
         "project_link": "nonebot-plugin-mediawiki",
         "display_name": "MediaWiki查询",
         "homepage": "https://github.com/KoishiStudio/nonebot-plugin-mediawiki",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.1.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8c8e86c",
+        "git_hash": "2767a00",
         "git_create": true,
         "git_run": true,
         "last_seen": "dcfa25c"
