@@ -2050,8 +2050,8 @@
         "pypi_version": null,
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9c10017",
-        "git_create": false,
+        "git_hash": "4294fb6",
+        "git_create": true,
         "git_run": false,
         "last_seen": "3870f00"
     },
