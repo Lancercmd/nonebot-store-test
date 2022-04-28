@@ -1867,12 +1867,12 @@
         "project_link": "nonebot-plugin-arcaeabot",
         "display_name": "Arcaea查分插件",
         "homepage": "https://github.com/SEAFHMC/nonebot-plugin-arcaeabot",
-        "pypi_version": "1.2.1",
+        "pypi_version": "2.0.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "436c915",
+        "git_hash": "fd2c28c",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "3870f00"
     },
     "nonebot-plugin-ddcheck": {
