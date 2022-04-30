@@ -2152,10 +2152,10 @@
         "project_link": "nonebot-plugin-cchess",
         "display_name": "中国象棋",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-cchess",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "050aea3",
+        "git_hash": "22f9fb8",
         "git_create": true,
         "git_run": true,
         "last_seen": "7e3a58a"
