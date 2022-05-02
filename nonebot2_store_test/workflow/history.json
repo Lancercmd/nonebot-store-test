@@ -772,7 +772,7 @@
         "project_link": "nonebot-plugin-setu-now",
         "display_name": "nonebot-plugin-setu-now",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-setu-now",
-        "pypi_version": "0.0.4.1",
+        "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "902364b",
