@@ -1390,7 +1390,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "aa4f2e5",
+        "git_hash": "454fe5a",
         "git_create": true,
         "git_run": true,
         "last_seen": "7ab9e85"
@@ -1522,10 +1522,10 @@
         "project_link": "nonebot-plugin-word-bank2",
         "display_name": "无数据库的问答插件",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-word-bank2",
-        "pypi_version": "0.1.4.2",
+        "pypi_version": "0.1.4.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4baf9d9",
+        "git_hash": "9deb384",
         "git_create": true,
         "git_run": true,
         "last_seen": "7ab9e85"
@@ -1870,7 +1870,7 @@
         "pypi_version": "2.1.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "617ace8",
+        "git_hash": "a3b46de",
         "git_create": true,
         "git_run": true,
         "last_seen": "7ab9e85"
