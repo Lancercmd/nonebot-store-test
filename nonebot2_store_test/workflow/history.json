@@ -397,10 +397,10 @@
         "project_link": "nonebot-plugin-analysis-bilibili",
         "display_name": "bilibili视频、番剧解析",
         "homepage": "https://github.com/mengshouer/nonebot_plugin_analysis_bilibili",
-        "pypi_version": "2.3.9",
+        "pypi_version": "2.4.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "502dd87",
+        "git_hash": "6ff8861",
         "git_create": true,
         "git_run": true,
         "last_seen": "17e0926"
