@@ -2227,7 +2227,7 @@
         "project_link": "nonebot-plugin-eventdone",
         "display_name": "nonebot_plugin_eventdone",
         "homepage": "https://github.com/PadorFelice/Nonebot_plugin_eventdone",
-        "pypi_version": null,
+        "pypi_version": "0.1.6",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "eddf934",
