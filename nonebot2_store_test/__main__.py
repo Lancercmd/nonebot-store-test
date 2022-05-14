@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-02-13 14:12:50
+LastEditTime : 2022-05-14 16:14:39
 Description  : None
 GitHub       : https://github.com/Lancercmd
 """
@@ -191,7 +191,11 @@ class Operator:
         module.pypi_version = _pypi
         _git = await Operator.get_head_hash(module.homepage)
         module.git_hash = _git
-        if local.get("_runtime_latest", None) != self._runtime_latest:
+        if (
+            local.get("_runtime_latest", None) != self._runtime_latest
+            or local.get("_rerun_flag", None)
+            or self.specific_module is not None
+        ):
             return
         module._pypi_skip = _pypi == local.get("pypi_version", None)
         if module._pypi_skip:
@@ -231,6 +235,7 @@ class Operator:
                 "last_seen": module.branch,
             }
         )
+        local.pop("_rerun_flag", None)
         if hash(str(local)) != hash(str(_local)):
             self.local[module.project_link] = local
             self.save_local()
@@ -254,7 +259,7 @@ class Operator:
         if "nothing to commit" in _stdout.decode():
             return
         await (await create_subprocess_shell("git push")).communicate()
-    
+
     async def copy_env_file(self, _path: Path) -> None:
         await (
             await create_subprocess_shell(
