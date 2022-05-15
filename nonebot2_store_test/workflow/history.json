@@ -2272,10 +2272,10 @@
         "project_link": "nonebot-plugin-maze",
         "display_name": "走迷宫",
         "homepage": "https://github.com/EtherLeaF/nonebot_plugin_maze",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c1fe88b",
+        "git_hash": "8afe8cd",
         "git_create": true,
         "git_run": false,
         "last_seen": "abe1e29"
