@@ -445,7 +445,7 @@
         "pypi_version": "0.1.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a2618e7",
+        "git_hash": "d62fae6",
         "git_create": true,
         "git_run": true,
         "last_seen": "c6633bc"
@@ -1342,10 +1342,10 @@
         "project_link": "nonebot-plugin-gocqhttp",
         "display_name": "NoneBot的go-cqhttp启动器",
         "homepage": "https://github.com/mnixry/nonebot-plugin-gocqhttp",
-        "pypi_version": "0.5.4",
+        "pypi_version": "0.5.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4dc6031",
+        "git_hash": "464d1ac",
         "git_create": true,
         "git_run": false,
         "last_seen": "c6633bc"
@@ -1675,7 +1675,7 @@
         "pypi_version": "1.4.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ed73f2e",
+        "git_hash": "8d7a61a",
         "git_create": true,
         "git_run": true,
         "last_seen": "c6633bc"
@@ -1807,10 +1807,10 @@
         "project_link": "nonebot-plugin-bilibilibot",
         "display_name": "bilibili通知插件",
         "homepage": "https://github.com/TDK1969/nonebot_plugin_bilibilibot",
-        "pypi_version": "2.0.4",
+        "pypi_version": "2.0.4.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0c1573d",
+        "git_hash": "409242d",
         "git_create": false,
         "git_run": false,
         "last_seen": "c6633bc"
