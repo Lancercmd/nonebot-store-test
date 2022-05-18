@@ -322,10 +322,10 @@
         "project_link": "nonebot-plugin-r6s",
         "display_name": "nonebot-plugin-r6s",
         "homepage": "https://github.com/abrahum/nonebot_plugin_r6s",
-        "pypi_version": "0.4.1",
+        "pypi_version": "0.4.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4bac6d8",
+        "git_hash": "7c97425",
         "git_create": true,
         "git_run": true,
         "last_seen": "abe1e29"
