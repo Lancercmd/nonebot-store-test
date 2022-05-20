@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-05-14 16:14:39
+LastEditTime : 2022-05-21 02:20:37
 Description  : None
 GitHub       : https://github.com/Lancercmd
 """
@@ -70,7 +70,9 @@ class Operator:
         self.specific_module = None
         self._commit = True
         opts, args = getopt(
-            argv[1:], "d:s:n", ["difficulty=", "specific-module=", "no-commit"]
+            argv[1:],
+            "d:s:l:n",
+            ["difficulty=", "specific-module=", "--limit=", "no-commit"],
         )
         if args:
             self.branch = args[0]
@@ -84,6 +86,13 @@ class Operator:
                 self.specific_module = arg
                 print()
                 print(f'Specific module: "{self.specific_module}"')
+            elif opt in ("-l", "--limit"):
+                self._limit = int(arg)
+                print()
+                print(
+                    f"Limit: Test up to {self._limit}",
+                    "plugin." if self._limit == 1 else "plugins.",
+                )
             elif opt in ("-n", "--no-commit"):
                 self._commit = False
                 print()
@@ -409,6 +418,11 @@ class Operator:
             if self._max_length < len(module.module_name):
                 self._max_length = len(module.module_name)
             await self.compare_versions(module)
+            if not module._pypi_skip & module._git_skip:
+                if hasattr(self, "_limit"):
+                    if self._limit == 0:
+                        break
+                    self._limit -= 1
             await self.create_poetry_project(module)
             if module._pypi_create or module._git_create:
                 await self.run_poetry_project(module)
@@ -435,8 +449,8 @@ class Operator:
     async def perform_a_test(self) -> None:
         await self.checkout_branch()
         await self.dependency_declaration_test()
-        await self.commit_changes() if self._commit else ...
         self.output_report()
+        await self.commit_changes() if self._commit else ...
 
     def output_report(self) -> None:
         _passed = self.report.passed
@@ -445,6 +459,10 @@ class Operator:
         print()
         print("=" * 80)
         print()
+        if hasattr(self, "_limit"):
+            if not self._limit:
+                print("Limit reached.")
+                print()
         print("Runtime latest:", self._runtime_latest)
         print()
         if _passed:

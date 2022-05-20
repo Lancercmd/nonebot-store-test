@@ -25,4 +25,4 @@ jobs:
     - name: Run Python
       run: |
         cd nonebot2_store_test/
-        python .
+        python . -l 50
