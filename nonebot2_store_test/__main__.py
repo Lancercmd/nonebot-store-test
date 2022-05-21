@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-05-21 02:20:37
+LastEditTime : 2022-05-21 08:11:22
 Description  : None
 GitHub       : https://github.com/Lancercmd
 """
@@ -196,7 +196,7 @@ class Operator:
         if not self.local.get(module.project_link):
             self.local[module.project_link] = {}
         local = self.local.get(module.project_link)
-        _pypi = Operator.get_pypi_latest(module.module_name)
+        _pypi = Operator.get_pypi_latest(module.project_link)
         module.pypi_version = _pypi
         _git = await Operator.get_head_hash(module.homepage)
         module.git_hash = _git
