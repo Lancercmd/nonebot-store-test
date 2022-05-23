@@ -1285,9 +1285,9 @@
         "pypi_version": "0.2.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "54e56d8",
+        "git_hash": "a1cf612",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "af86b96"
     },
     "nonebot-plugin-emojimix": {
