@@ -2347,7 +2347,7 @@
         "project_link": "nonebot-plugin-tortoise-orm",
         "display_name": "数据库连接插件",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-tortoise-orm",
-        "pypi_version": "0.0.1a2",
+        "pypi_version": "0.0.1a3",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "004d165",
