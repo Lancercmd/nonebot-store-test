@@ -2317,10 +2317,10 @@
         "project_link": "nonebot-plugin-mockingbird",
         "display_name": "MockingBird语音",
         "homepage": "https://github.com/AkashiCoin/nonebot_plugin_mockingbird",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bb16034",
+        "git_hash": "7108716",
         "git_create": false,
         "git_run": false,
         "last_seen": "33c261c"
