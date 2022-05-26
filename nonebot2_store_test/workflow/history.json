@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0b2.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c9d8f30",
+        "git_hash": "162ebb6",
         "git_create": true,
         "git_run": true,
         "last_seen": "579839f"
@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "d8de78f",
+        "git_hash": "ae55af2",
         "git_create": true,
         "git_run": true,
         "last_seen": "579839f"
@@ -2077,7 +2077,7 @@
         "project_link": "nonebot-plugin-dida",
         "display_name": "nonebot-plugin-dida",
         "homepage": "https://github.com/TDK1969/nonebot_plugin_dida",
-        "pypi_version": null,
+        "pypi_version": "1.0.0",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "c791044",
