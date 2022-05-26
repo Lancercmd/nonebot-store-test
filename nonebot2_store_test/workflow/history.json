@@ -2077,7 +2077,7 @@
         "project_link": "nonebot-plugin-dida",
         "display_name": "nonebot-plugin-dida",
         "homepage": "https://github.com/TDK1969/nonebot_plugin_dida",
-        "pypi_version": "1.0.0",
+        "pypi_version": null,
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "c791044",
@@ -2380,7 +2380,7 @@
         "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "df6cb71",
+        "git_hash": "0d2b37e",
         "git_create": true,
         "git_run": true,
         "last_seen": "579839f"
