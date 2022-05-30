@@ -982,10 +982,10 @@
         "project_link": "nonebot-plugin-heisi",
         "display_name": "随机黑丝",
         "homepage": "https://github.com/yzyyz1387/nonebot_plugin_heisi",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "cabbe0e",
+        "git_hash": "51ee472",
         "git_create": true,
         "git_run": true,
         "last_seen": "3812347"
@@ -1072,10 +1072,10 @@
         "project_link": "nonebot-plugin-admin",
         "display_name": "简易群管",
         "homepage": "https://github.com/yzyyz1387/nonebot_plugin_admin",
-        "pypi_version": "0.3.18",
+        "pypi_version": "0.3.19",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "15b108a",
+        "git_hash": "cdcfc6a",
         "git_create": false,
         "git_run": false,
         "last_seen": "3812347"
@@ -1207,10 +1207,10 @@
         "project_link": "nonebot-plugin-covid19-news",
         "display_name": "新冠疫情查询",
         "homepage": "https://github.com/Zeta-qixi/nonebot-plugin-covid19-news",
-        "pypi_version": "0.2.8.4",
+        "pypi_version": "0.2.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4681a54",
+        "git_hash": "880f2d8",
         "git_create": true,
         "git_run": true,
         "last_seen": "3812347"
@@ -2410,9 +2410,9 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b51e8c3",
+        "git_hash": "a02e78c",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "3812347"
     }
 }
