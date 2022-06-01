@@ -2302,12 +2302,12 @@
         "project_link": "nonebot-plugin-imageutils",
         "display_name": "imageutils",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-imageutils",
-        "pypi_version": "0.1.4.1",
+        "pypi_version": "0.1.4.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c7b1e95",
+        "git_hash": "ec6028c",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "3962a98"
     },
     "nonebot-plugin-mockingbird": {
