@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0b2.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "759dac9",
+        "git_hash": "fa063b3",
         "git_create": true,
         "git_run": true,
         "last_seen": "3238a82"
@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "146a6bd",
+        "git_hash": "6d0a5a2",
         "git_create": true,
         "git_run": true,
         "last_seen": "3238a82"
@@ -592,10 +592,10 @@
         "project_link": "nonebot-plugin-heweather",
         "display_name": "和风天气",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-heweather",
-        "pypi_version": "0.5.6",
+        "pypi_version": "0.5.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "89749ec",
+        "git_hash": "1d3eca4",
         "git_create": true,
         "git_run": false,
         "last_seen": "3238a82"
@@ -1345,7 +1345,7 @@
         "pypi_version": "0.5.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "538f5fd",
+        "git_hash": "79d840a",
         "git_create": true,
         "git_run": false,
         "last_seen": "3238a82"
