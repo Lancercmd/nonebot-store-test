@@ -35,3 +35,6 @@ imgroot = ""
 read_qq_friends = [0]
 read_qq_groups = [0]
 read_inform_time = [{"HOUR": 0, "MINUTE": 0}]
+
+# hikari-bot
+api_token = ""
