@@ -8,33 +8,36 @@ nickname = ["awesome", "bot"]  # 配置机器人的昵称
 command_start = ["/", ""]  # 配置命令起始字符
 command_sep = ["."]  # 配置命令分割字符
 
-# nonebot_plugin_setu2
+# nonebot-plugin-setu2
 setu2_cd = 60
 setu2_enable_groups = [0]
 proxies_socks5 = ""
 
-# nonebot_plugin_pixivrank_search
+# nonebot-plugin-pixivrank-search
 local_proxy = ""
 
-# nonebot_plugin_heweather
+# nonebot-plugin-heweather
 qweather_apikey = ""
 qweather_apitype = ""
 
-# nonebot_plugin_heisi
+# nonebot-plugin-heisi
 heisi_group = [""]
 heisi_cd = 30
 
-# nonebot_plugin_admin
+# nonebot-plugin-admin
 tenid = ""
 tenkeys = ""
 
-# nonebot_plugin_pixiv
+# nonebot-plugin-pixiv
 imgroot = ""
 
-# nonebot_plugin_read_60s
+# nonebot-plugin-read-60s
 read_qq_friends = [0]
 read_qq_groups = [0]
 read_inform_time = [{"HOUR": 0, "MINUTE": 0}]
 
 # hikari-bot
 api_token = ""
+
+# nonebot-plugin-auto-teenstudy
+openid_zj = [""]
