@@ -1882,7 +1882,7 @@
         "project_link": "nonebot-plugin-ddcheck",
         "display_name": "成分姬",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-ddcheck",
-        "pypi_version": "0.1.4",
+        "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "efdf286",
