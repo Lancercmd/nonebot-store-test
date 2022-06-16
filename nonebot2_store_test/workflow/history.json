@@ -2182,10 +2182,10 @@
         "project_link": "nonebot-plugin-boardgame",
         "display_name": "棋类游戏",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-boardgame",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "269726d",
+        "git_hash": "841dbb7",
         "git_create": true,
         "git_run": true,
         "last_seen": "28c22b7"
