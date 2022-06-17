@@ -1312,10 +1312,10 @@
         "project_link": "nonebot-plugin-what2eat",
         "display_name": "今天吃什么",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_what2eat",
-        "pypi_version": "0.2.6",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "6a99e24",
+        "pypi_run": false,
+        "git_hash": "cc0cbcb",
         "git_create": true,
         "git_run": false,
         "last_seen": "28c22b7"
