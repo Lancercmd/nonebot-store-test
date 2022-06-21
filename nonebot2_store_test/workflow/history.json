@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0b4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4c7ca32",
+        "git_hash": "1fdd472",
         "git_create": true,
         "git_run": true,
         "last_seen": "58d8815"
@@ -2455,7 +2455,7 @@
         "pypi_version": "0.3.0.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "dedc5af",
+        "git_hash": "f44e95e",
         "git_create": true,
         "git_run": true,
         "last_seen": "58d8815"
@@ -2470,7 +2470,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7fac6c2",
+        "git_hash": "4283310",
         "git_create": true,
         "git_run": true,
         "last_seen": "58d8815"
@@ -2527,10 +2527,10 @@
         "project_link": "nonebot-plugin-setu4",
         "display_name": "nonebot_plugin_setu4",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_setu4",
-        "pypi_version": "0.0.5",
+        "pypi_version": "0.0.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8f9758e",
+        "git_hash": "38952e5",
         "git_create": false,
         "git_run": false,
         "last_seen": "58d8815"
