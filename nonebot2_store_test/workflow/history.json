@@ -2092,10 +2092,10 @@
         "project_link": "nonebot-plugin-alipayvoice",
         "display_name": "支付宝到账语音",
         "homepage": "https://github.com/A-kirami/nonebot-plugin-alipayvoice",
-        "pypi_version": "0.4.0",
+        "pypi_version": "0.5.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2fb37c2",
+        "git_hash": "dcc7dc4",
         "git_create": true,
         "git_run": true,
         "last_seen": "58d8815"
@@ -2455,7 +2455,7 @@
         "pypi_version": "0.3.0.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "d40606f",
+        "git_hash": "dedc5af",
         "git_create": true,
         "git_run": true,
         "last_seen": "58d8815"
