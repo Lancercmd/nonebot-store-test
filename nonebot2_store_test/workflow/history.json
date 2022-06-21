@@ -457,10 +457,10 @@
         "project_link": "nonebot-plugin-help",
         "display_name": "Nonebot2插件轻量帮助列表",
         "homepage": "https://github.com/XZhouQD/nonebot-plugin-help",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "f4fd6aa",
+        "git_hash": "0f71b3e",
         "git_create": true,
         "git_run": true,
         "last_seen": "58d8815"
