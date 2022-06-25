@@ -1672,10 +1672,10 @@
         "project_link": "yetanotherpicsearch",
         "display_name": "YetAnotherPicSearch",
         "homepage": "https://github.com/NekoAria/YetAnotherPicSearch",
-        "pypi_version": "1.5.5",
+        "pypi_version": "1.5.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "cea05ab",
+        "git_hash": "657baaf",
         "git_create": true,
         "git_run": true,
         "last_seen": "f1ffac5"
