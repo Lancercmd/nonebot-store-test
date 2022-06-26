@@ -1075,7 +1075,7 @@
         "pypi_version": "0.3.21",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4bde63b",
+        "git_hash": "01db997",
         "git_create": false,
         "git_run": false,
         "last_seen": "f1ffac5"
@@ -1282,12 +1282,12 @@
         "project_link": "nonebot-plugin-tarot",
         "display_name": "塔罗牌",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_tarot",
-        "pypi_version": "0.3.2",
+        "pypi_version": "0.3.3",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "92332a7",
+        "pypi_run": true,
+        "git_hash": "06beb04",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "f1ffac5"
     },
     "nonebot-plugin-emojimix": {
