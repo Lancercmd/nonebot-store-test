@@ -2455,9 +2455,9 @@
         "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "dfa7af5",
+        "git_hash": "43ead69",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "1aba737"
     },
     "nonebot-plugin-who-at-me": {
