@@ -655,7 +655,7 @@
         "pypi_version": "2.6.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2074e26",
+        "git_hash": "ba9bf24",
         "git_create": true,
         "git_run": true,
         "last_seen": "cf2137a"
@@ -2452,10 +2452,10 @@
         "project_link": "hikari-bot",
         "display_name": "Hikari-战舰世界水表查询",
         "homepage": "https://github.com/benx1n/HikariBot",
-        "pypi_version": "0.3.2",
+        "pypi_version": "0.3.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "91a57d0",
+        "git_hash": "768e2f2",
         "git_create": true,
         "git_run": true,
         "last_seen": "cf2137a"
