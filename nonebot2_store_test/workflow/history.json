@@ -2530,7 +2530,7 @@
         "pypi_version": "0.0.10",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c2e917d",
+        "git_hash": "0c74bb7",
         "git_create": false,
         "git_run": false,
         "last_seen": "cf2137a"
