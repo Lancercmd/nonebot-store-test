@@ -2065,9 +2065,9 @@
         "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "645b672",
+        "git_hash": "866c616",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "dddbeb3"
     },
     "nonebot-plugin-dida": {
