@@ -1402,10 +1402,10 @@
         "project_link": "nonebot-plugin-wordcloud",
         "display_name": "词云",
         "homepage": "https://github.com/he0119/nonebot-plugin-wordcloud",
-        "pypi_version": "0.2.3",
+        "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8ee07c4",
+        "git_hash": "4c80301",
         "git_create": true,
         "git_run": true,
         "last_seen": "dddbeb3"
