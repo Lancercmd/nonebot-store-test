@@ -2617,10 +2617,10 @@
         "project_link": "nonebot_plugin_PicMenu",
         "display_name": "PicMenu",
         "homepage": "https://github.com/hamo-reid/nonenot_plugin_PicMenu",
-        "pypi_version": "0.1.3.2",
+        "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "cc30aec",
+        "git_hash": "54bfc08",
         "git_create": false,
         "git_run": false,
         "last_seen": "dddbeb3"
