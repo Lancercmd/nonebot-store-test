@@ -2407,10 +2407,10 @@
         "project_link": "nonebot-plugin-arktools",
         "display_name": "明日方舟工具箱",
         "homepage": "https://github.com/NumberSir/nonebot_plugin_arktools",
-        "pypi_version": "0.4.0",
+        "pypi_version": "0.4.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d0b8acb",
+        "git_hash": "f501b6c",
         "git_create": true,
         "git_run": false,
         "last_seen": "c4d45c0"
