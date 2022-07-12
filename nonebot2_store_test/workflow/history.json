@@ -2605,9 +2605,9 @@
         "pypi_version": "0.1.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "f211662",
+        "git_hash": "f64fbe4",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "0ecea50"
     },
     "nonebot_plugin_PicMenu": {
