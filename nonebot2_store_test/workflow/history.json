@@ -1345,7 +1345,7 @@
         "pypi_version": "0.5.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9d13330",
+        "git_hash": "d122551",
         "git_create": true,
         "git_run": false,
         "last_seen": "9e908d5"
@@ -2602,12 +2602,12 @@
         "project_link": "nonebot-plugin-bread-shop",
         "display_name": "面包店小游戏",
         "homepage": "https://github.com/Mai-icy/nonebot-plugin-bread-shop",
-        "pypi_version": "0.1.9",
+        "pypi_version": "0.1.10",
         "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "d8a2ec8",
+        "pypi_run": false,
+        "git_hash": "a4d9c11",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "9e908d5"
     },
     "nonebot_plugin_PicMenu": {
