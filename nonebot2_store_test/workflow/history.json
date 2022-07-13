@@ -2467,10 +2467,10 @@
         "project_link": "nonebot-plugin-who-at-me",
         "display_name": "谁艾特我了",
         "homepage": "https://github.com/SEAFHMC/nonebot-plugin-who-at-me",
-        "pypi_version": "0.2.2",
+        "pypi_version": "0.2.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "868d054",
+        "git_hash": "76d6315",
         "git_create": true,
         "git_run": true,
         "last_seen": "9e908d5"
