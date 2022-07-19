@@ -652,10 +652,10 @@
         "project_link": "ELF-RSS",
         "display_name": "ELF_RSS",
         "homepage": "https://github.com/Quan666/ELF_RSS",
-        "pypi_version": "2.6.4",
+        "pypi_version": "2.6.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "1fb7dab",
+        "git_hash": "3b4e687",
         "git_create": true,
         "git_run": true,
         "last_seen": "19f4c01"
