@@ -2767,10 +2767,10 @@
         "project_link": "nonebot_plugin_addFriend",
         "display_name": "处理好友添加和群邀请",
         "homepage": "https://github.com/ziru-w/nonebot_plugin_addFriend",
-        "pypi_version": "2.2.2",
+        "pypi_version": "2.2.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0e00315",
+        "git_hash": "2bb0525",
         "git_create": true,
         "git_run": true,
         "last_seen": "9447b1f"
