@@ -2620,7 +2620,7 @@
         "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "aff05d8",
+        "git_hash": "24227c0",
         "git_create": false,
         "git_run": false,
         "last_seen": "bb02d50"
