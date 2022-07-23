@@ -130,7 +130,7 @@
         "pypi_version": "0.2.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "22062fe",
+        "git_hash": "6acee4a",
         "git_create": true,
         "git_run": true,
         "last_seen": "12942f2"
@@ -2767,12 +2767,12 @@
         "project_link": "nonebot_plugin_addFriend",
         "display_name": "处理好友添加和群邀请",
         "homepage": "https://github.com/ziru-w/nonebot_plugin_addFriend",
-        "pypi_version": "2.3.0",
+        "pypi_version": "2.3.1",
         "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "3a613c0",
+        "pypi_run": false,
+        "git_hash": "1c030ef",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "12942f2"
     },
     "nonebot-plugin-date-name": {
