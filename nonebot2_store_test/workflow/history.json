@@ -2770,9 +2770,9 @@
         "pypi_version": "2.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1c030ef",
+        "git_hash": "7649358",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "12942f2"
     },
     "nonebot-plugin-date-name": {
