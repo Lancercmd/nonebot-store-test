@@ -2782,10 +2782,10 @@
         "project_link": "nonebot-plugin-date-name",
         "display_name": "群昵称时间",
         "homepage": "https://github.com/bingqiu456/nonebot-plugin-date-name",
-        "pypi_version": "1.0",
+        "pypi_version": "2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "df0fa9a",
+        "git_hash": "e2f3eab",
         "git_create": true,
         "git_run": true,
         "last_seen": "732b5b0"
