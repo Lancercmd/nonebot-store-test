@@ -293,11 +293,11 @@
         "display_name": "nonebot-plugin-cocdicer",
         "homepage": "https://github.com/abrahum/nonebot_plugin_cocdicer",
         "pypi_version": "0.4.0",
-        "pypi_create": false,
-        "pypi_run": false,
+        "pypi_create": true,
+        "pypi_run": true,
         "git_hash": "348165a",
-        "git_create": false,
-        "git_run": false,
+        "git_create": true,
+        "git_run": true,
         "last_seen": "455752b"
     },
     "nonebot-plugin-trpglogger": {
