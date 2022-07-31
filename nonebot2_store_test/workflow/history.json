@@ -265,7 +265,7 @@
         "pypi_version": "0.5.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "87d588a",
+        "git_hash": "9eac2ff",
         "git_create": true,
         "git_run": true,
         "last_seen": "6e98ac0"
@@ -1312,10 +1312,10 @@
         "project_link": "nonebot-plugin-what2eat",
         "display_name": "今天吃什么",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_what2eat",
-        "pypi_version": "0.3.2",
+        "pypi_version": "0.3.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "538ae95",
+        "git_hash": "212b2de",
         "git_create": true,
         "git_run": true,
         "last_seen": "6e98ac0"
