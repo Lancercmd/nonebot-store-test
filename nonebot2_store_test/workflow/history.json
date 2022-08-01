@@ -1117,10 +1117,10 @@
         "project_link": "nonebot-plugin-repeater",
         "display_name": "群聊复读机",
         "homepage": "https://github.com/ninthseason/nonebot-plugin-repeater",
-        "pypi_version": "3.0.4",
+        "pypi_version": "3.1.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "953025c",
+        "git_hash": "d297fa7",
         "git_create": true,
         "git_run": true,
         "last_seen": "63f8d78"
@@ -2470,7 +2470,7 @@
         "pypi_version": "0.2.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5ee3bbe",
+        "git_hash": "81084ba",
         "git_create": true,
         "git_run": true,
         "last_seen": "63f8d78"
