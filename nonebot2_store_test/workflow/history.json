@@ -655,7 +655,7 @@
         "pypi_version": "2.6.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ff281d7",
+        "git_hash": "788c0b8",
         "git_create": true,
         "git_run": true,
         "last_seen": "732a13b"
@@ -1792,10 +1792,10 @@
         "project_link": "nonebot-plugin-broker",
         "display_name": "订阅推送管理",
         "homepage": "https://github.com/mwbimh/nonebot_plugin_broker",
-        "pypi_version": "0.4.0",
+        "pypi_version": "0.4.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "3f7d889",
+        "git_hash": "3f11e07",
         "git_create": true,
         "git_run": true,
         "last_seen": "732a13b"
