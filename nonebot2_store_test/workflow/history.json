@@ -607,12 +607,12 @@
         "project_link": "nonebot-plugin-autohelp",
         "display_name": "nonebot-plugin-autohelp",
         "homepage": "https://github.com/ffreemt/nonebot-plugin-autohelp",
-        "pypi_version": "0.1.5",
+        "pypi_version": "0.1.6",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "472b34a",
+        "pypi_run": true,
+        "git_hash": "fd3da43",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "e5e69c2"
     },
     "nonebot-plugin-flexperm": {
@@ -1345,7 +1345,7 @@
         "pypi_version": "0.5.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6b77306",
+        "git_hash": "db36133",
         "git_create": true,
         "git_run": false,
         "last_seen": "e5e69c2"
