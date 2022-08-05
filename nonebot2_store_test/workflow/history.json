@@ -2395,7 +2395,7 @@
         "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "921fa3d",
+        "git_hash": "4ee91dd",
         "git_create": true,
         "git_run": true,
         "last_seen": "e5e69c2"
@@ -2467,12 +2467,12 @@
         "project_link": "nonebot-plugin-who-at-me",
         "display_name": "谁艾特我了",
         "homepage": "https://github.com/SEAFHMC/nonebot-plugin-who-at-me",
-        "pypi_version": "0.2.5",
+        "pypi_version": "0.2.6",
         "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "81084ba",
+        "pypi_run": false,
+        "git_hash": "7478c99",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "e5e69c2"
     },
     "nonebot-plugin-covid-19-by": {
