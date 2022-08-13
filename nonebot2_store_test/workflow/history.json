@@ -1675,9 +1675,9 @@
         "pypi_version": "1.5.20",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "e41bc2b",
+        "git_hash": "f35258a",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "0e3ed0e"
     },
     "nonebot-plugin-gachalogs": {
@@ -2695,7 +2695,7 @@
         "pypi_version": "0.3.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "efd7359",
+        "git_hash": "aa92a27",
         "git_create": true,
         "git_run": false,
         "last_seen": "0e3ed0e"
@@ -2752,10 +2752,10 @@
         "project_link": "nonebot_plugin_arkrecord",
         "display_name": "明日方舟寻访记录分析",
         "homepage": "https://github.com/zheuziihau/nonebot_plugin_arkrecord",
-        "pypi_version": "1.5.3",
+        "pypi_version": "1.6.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c8403b5",
+        "git_hash": "c32cd6a",
         "git_create": false,
         "git_run": false,
         "last_seen": "0e3ed0e"
