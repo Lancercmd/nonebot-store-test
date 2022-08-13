@@ -2920,8 +2920,8 @@
         "pypi_version": "0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "35e01c7",
-        "git_create": true,
+        "git_hash": "cb502e8",
+        "git_create": false,
         "git_run": false,
         "last_seen": "0e3ed0e"
     }
