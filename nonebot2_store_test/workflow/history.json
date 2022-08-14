@@ -2917,11 +2917,11 @@
         "project_link": "nonebot-plugin-admin-hello",
         "display_name": "简易群管（带入群欢迎）",
         "homepage": "https://github.com/HuYihe2008/nonebot_plugin_admin_hello",
-        "pypi_version": "0.5",
+        "pypi_version": "0.5.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "82aafee",
-        "git_create": false,
+        "git_hash": "354a018",
+        "git_create": true,
         "git_run": false,
         "last_seen": "0e3ed0e"
     }
