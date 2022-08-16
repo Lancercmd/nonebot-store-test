@@ -2302,10 +2302,10 @@
         "project_link": "nonebot-plugin-imageutils",
         "display_name": "imageutils",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-imageutils",
-        "pypi_version": "0.1.8",
+        "pypi_version": "0.1.8.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "01fe3aa",
+        "git_hash": "25816f4",
         "git_create": true,
         "git_run": true,
         "last_seen": "51d7f17"
@@ -2620,7 +2620,7 @@
         "pypi_version": "0.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "6e557ff",
+        "git_hash": "ed8f375",
         "git_create": false,
         "git_run": false,
         "last_seen": "51d7f17"
