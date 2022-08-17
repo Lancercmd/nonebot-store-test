@@ -925,7 +925,7 @@
         "pypi_version": "0.3.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "bcb3de8",
+        "git_hash": "75f9da6",
         "git_create": true,
         "git_run": true,
         "last_seen": "51d7f17"
@@ -2917,10 +2917,10 @@
         "project_link": "nonebot-plugin-admin-hello",
         "display_name": "多功能简易群管",
         "homepage": "https://github.com/HuYihe2008/nonebot_plugin_manager",
-        "pypi_version": "0.6.4",
+        "pypi_version": "0.6.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6eeff3a",
+        "git_hash": "e78cea8",
         "git_create": true,
         "git_run": false,
         "last_seen": "51d7f17"
