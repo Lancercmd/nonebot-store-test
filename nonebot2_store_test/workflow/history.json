@@ -2917,10 +2917,10 @@
         "project_link": "nonebot-plugin-admin-hello",
         "display_name": "多功能简易群管",
         "homepage": "https://github.com/HuYihe2008/nonebot_plugin_manager",
-        "pypi_version": "0.6.5.6",
+        "pypi_version": "0.6.5.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fc2157d",
+        "git_hash": "e91c5c5",
         "git_create": true,
         "git_run": false,
         "last_seen": "96b0a86"
