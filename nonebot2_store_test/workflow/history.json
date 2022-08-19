@@ -1582,12 +1582,12 @@
         "project_link": "nonebot-plugin-pixiv",
         "display_name": "pixiv.net p站查询图片",
         "homepage": "https://github.com/anlen123/nonebot_plugin_pixiv",
-        "pypi_version": "1.0.8",
+        "pypi_version": "1.0.9",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "7891c6e",
+        "pypi_run": true,
+        "git_hash": "40ee6d6",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "0f70e97"
     },
     "nonebot-plugin-abbrreply": {
