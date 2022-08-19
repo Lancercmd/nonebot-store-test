@@ -1690,7 +1690,7 @@
         "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a8f6a6a",
+        "git_hash": "e2f38f3",
         "git_create": true,
         "git_run": true,
         "last_seen": "0f70e97"
@@ -2542,10 +2542,10 @@
         "project_link": "nonebot-plugin-smart-reply",
         "display_name": "智能回复",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_smart_reply",
-        "pypi_version": "0.0.5",
+        "pypi_version": "0.0.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "f8737a3",
+        "git_hash": "6210204",
         "git_create": false,
         "git_run": false,
         "last_seen": "0f70e97"
