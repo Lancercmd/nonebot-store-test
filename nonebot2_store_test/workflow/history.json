@@ -217,10 +217,10 @@
         "project_link": "nonebot-plugin-songpicker2",
         "display_name": "songpicker2",
         "homepage": "https://github.com/maxesisn/nonebot_plugin_songpicker2",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "52b7988",
+        "git_hash": "19f04e2",
         "git_create": true,
         "git_run": true,
         "last_seen": "0f70e97"
@@ -2545,7 +2545,7 @@
         "pypi_version": "0.0.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8688b36",
+        "git_hash": "f8737a3",
         "git_create": false,
         "git_run": false,
         "last_seen": "0f70e97"
