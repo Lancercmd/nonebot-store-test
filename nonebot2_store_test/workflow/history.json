@@ -1690,7 +1690,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "15ec9a6",
+        "git_hash": "433a2a8",
         "git_create": true,
         "git_run": true,
         "last_seen": "be5ac88"
@@ -1870,7 +1870,7 @@
         "pypi_version": "3.0.13",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "56dd331",
+        "git_hash": "71b1359",
         "git_create": true,
         "git_run": true,
         "last_seen": "be5ac88"
@@ -2722,10 +2722,10 @@
         "project_link": "nonebot_plugin_kawaii_robot",
         "display_name": "自动回复（文i）插件",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_kawaii_robot",
-        "pypi_version": "2.0",
+        "pypi_version": "2.0.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "65b7736",
+        "git_hash": "0c53e14",
         "git_create": false,
         "git_run": false,
         "last_seen": "be5ac88"
@@ -2947,10 +2947,10 @@
         "project_link": "nonebot-plugin-drawer",
         "display_name": "nonebot-plugin-drawer",
         "homepage": "https://github.com/CrazyBoyM/nonebot-plugin-drawer",
-        "pypi_version": "0.3.2",
+        "pypi_version": "0.3.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0b970ea",
+        "git_hash": "a22471e",
         "git_create": true,
         "git_run": true,
         "last_seen": "be5ac88"
