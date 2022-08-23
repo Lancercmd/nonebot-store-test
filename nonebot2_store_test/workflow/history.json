@@ -1345,7 +1345,7 @@
         "pypi_version": "0.5.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1f85053",
+        "git_hash": "567d767",
         "git_create": true,
         "git_run": false,
         "last_seen": "ef35266"
@@ -2722,10 +2722,10 @@
         "project_link": "nonebot_plugin_kawaii_robot",
         "display_name": "自动回复（文i）插件",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_kawaii_robot",
-        "pypi_version": "3.0.1",
+        "pypi_version": "3.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "957121e",
+        "git_hash": "19f6375",
         "git_create": false,
         "git_run": false,
         "last_seen": "ef35266"
