@@ -2992,10 +2992,10 @@
         "project_link": "nonebot-plugin-pixivbot",
         "display_name": "PixivBot",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-pixivbot",
-        "pypi_version": "1.3.1",
+        "pypi_version": "1.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1be8520",
+        "git_hash": "47b61c2",
         "git_create": true,
         "git_run": false,
         "last_seen": "767b6a9"
