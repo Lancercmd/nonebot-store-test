@@ -925,7 +925,7 @@
         "pypi_version": "0.3.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ad45e04",
+        "git_hash": "1b069e1",
         "git_create": true,
         "git_run": true,
         "last_seen": "135c6e8"
@@ -2947,10 +2947,10 @@
         "project_link": "nonebot-plugin-drawer",
         "display_name": "nonebot-plugin-drawer",
         "homepage": "https://github.com/CrazyBoyM/nonebot-plugin-drawer",
-        "pypi_version": "0.3.6",
+        "pypi_version": "0.3.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ee0c394",
+        "git_hash": "06705aa",
         "git_create": true,
         "git_run": true,
         "last_seen": "135c6e8"
