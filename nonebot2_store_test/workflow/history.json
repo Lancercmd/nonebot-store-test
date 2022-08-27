@@ -1027,10 +1027,10 @@
         "project_link": "nonebot-plugin-lolmatch",
         "display_name": "lol比赛信息",
         "homepage": "https://github.com/Diaosi1111/nonebot_plugin_lolmatch",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b0749e6",
+        "git_hash": "bb4da18",
         "git_create": true,
         "git_run": false,
         "last_seen": "e3a4834"
