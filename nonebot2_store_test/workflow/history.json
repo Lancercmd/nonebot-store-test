@@ -1927,10 +1927,10 @@
         "project_link": "nonebot-plugin-mediawiki",
         "display_name": "MediaWiki查询",
         "homepage": "https://github.com/KoishiStudio/nonebot-plugin-mediawiki",
-        "pypi_version": "0.1.11",
+        "pypi_version": "1.0.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "6f55117",
+        "git_hash": "9bd0d66",
         "git_create": true,
         "git_run": true,
         "last_seen": "60ab931"
