@@ -3052,10 +3052,10 @@
         "project_link": "nonebot-plugin-course",
         "display_name": "课表查询",
         "homepage": "https://github.com/InariInDream/nonebot_plugin_course",
-        "pypi_version": "0.0.9",
+        "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "abec1ad",
+        "git_hash": "f9e3c18",
         "git_create": false,
         "git_run": false,
         "last_seen": "e3a4834"
