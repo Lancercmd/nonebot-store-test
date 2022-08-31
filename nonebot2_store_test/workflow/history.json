@@ -3037,10 +3037,10 @@
         "project_link": "nonebot-plugin-cqsat",
         "display_name": "业余无线电助手",
         "homepage": "https://github.com/yzyyz1387/cqsat",
-        "pypi_version": "0.0.4",
+        "pypi_version": "0.0.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8673ec7",
+        "git_hash": "58191e7",
         "git_create": true,
         "git_run": false,
         "last_seen": "c76f492"
