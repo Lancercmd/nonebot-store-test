@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0b4.post3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "65a298e",
+        "git_hash": "04ca6b1",
         "git_create": true,
         "git_run": true,
         "last_seen": "373f525"
@@ -1675,7 +1675,7 @@
         "pypi_version": "1.6.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "f46f32c",
+        "git_hash": "4a257a0",
         "git_create": true,
         "git_run": true,
         "last_seen": "373f525"
@@ -2860,7 +2860,7 @@
         "pypi_version": "0.0.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "33c9f74",
+        "git_hash": "7f626b0",
         "git_create": true,
         "git_run": false,
         "last_seen": "373f525"
@@ -3247,7 +3247,7 @@
         "project_link": "nonebot-plugin-mcqq-mcrcon",
         "display_name": "MC_QQ_MCRcon",
         "homepage": "https://github.com/17TheWord/nonebot-plugin-mcqq/tree/mcqq_mcrcon",
-        "pypi_version": "0.0.3",
+        "pypi_version": "0.0.4",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": null,
