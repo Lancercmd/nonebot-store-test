@@ -3262,10 +3262,10 @@
         "project_link": "nonebot-plugin-gsmaterial",
         "display_name": "原神每日材料查询",
         "homepage": "https://github.com/monsterxcn/nonebot-plugin-gsmaterial",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "6974352",
+        "git_hash": "4eff4d8",
         "git_create": true,
         "git_run": true,
         "last_seen": "f87a38a"
