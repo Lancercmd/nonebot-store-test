@@ -925,7 +925,7 @@
         "pypi_version": "0.3.10",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "945facf",
+        "git_hash": "c76f42a",
         "git_create": true,
         "git_run": true,
         "last_seen": "f87a38a"
@@ -3172,10 +3172,10 @@
         "project_link": "nonebot-plugin-todo-nlp",
         "display_name": "自识别todo",
         "homepage": "https://github.com/CofinCup/nonebot-plugin-todo-nlp",
-        "pypi_version": "0.1.4",
+        "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "e8d44db",
+        "git_hash": "776236c",
         "git_create": true,
         "git_run": true,
         "last_seen": "f87a38a"
