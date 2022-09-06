@@ -730,7 +730,7 @@
         "pypi_version": "0.0.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "753b48f",
+        "git_hash": null,
         "git_create": true,
         "git_run": true,
         "last_seen": "595c64e"
@@ -2842,10 +2842,10 @@
         "project_link": "nonebot-plugin-bawiki",
         "display_name": "BAWiki",
         "homepage": "https://github.com/lgc2333/nonebot-plugin-bawiki/",
-        "pypi_version": "0.4.0",
+        "pypi_version": "0.4.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "788971d",
+        "git_hash": "5a39f37",
         "git_create": true,
         "git_run": true,
         "last_seen": "595c64e"
