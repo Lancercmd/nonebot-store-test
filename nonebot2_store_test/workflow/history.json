@@ -1492,10 +1492,10 @@
         "project_link": "nonebot-plugin-strman",
         "display_name": "字符串管理工具",
         "homepage": "https://github.com/echobot-dev/nonebot-plugin-strman",
-        "pypi_version": "1.0.0",
+        "pypi_version": "1.1.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5fc4115",
+        "git_hash": "89a60d0",
         "git_create": true,
         "git_run": true,
         "last_seen": "595c64e"
