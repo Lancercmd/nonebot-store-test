@@ -2755,7 +2755,7 @@
         "pypi_version": "1.6.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c32cd6a",
+        "git_hash": "2cfa428",
         "git_create": false,
         "git_run": false,
         "last_seen": "672f2ce"
@@ -3235,7 +3235,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2e1e81c",
+        "git_hash": "b8fec9a",
         "git_create": true,
         "git_run": true,
         "last_seen": "672f2ce"
@@ -3307,7 +3307,7 @@
         "project_link": "nonebot2-plugin-eth-terminal",
         "display_name": "查询ETH合并日期",
         "homepage": "https://github.com/Sclock/nonebot2_plugin_eth_terminal",
-        "pypi_version": "0.0.1",
+        "pypi_version": "0.0.2",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "eeeb4c2",
