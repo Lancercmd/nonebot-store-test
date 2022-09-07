@@ -3292,10 +3292,10 @@
         "project_link": "nonebot-plugin-warframe",
         "display_name": "星际战甲事件查询",
         "homepage": "https://github.com/17TheWord/nonebot-plugin-warframe",
-        "pypi_version": "0.0.1",
+        "pypi_version": "0.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5cf5470",
+        "git_hash": "e29435c",
         "git_create": true,
         "git_run": false,
         "last_seen": "672f2ce"
