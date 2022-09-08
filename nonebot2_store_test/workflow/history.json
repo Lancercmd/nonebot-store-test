@@ -1075,7 +1075,7 @@
         "pypi_version": "0.3.21",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1176879",
+        "git_hash": "66f8102",
         "git_create": false,
         "git_run": false,
         "last_seen": "c6eef06"
@@ -2527,10 +2527,10 @@
         "project_link": "nonebot-plugin-setu4",
         "display_name": "nonebot_plugin_setu4",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_setu4",
-        "pypi_version": "0.0.17",
+        "pypi_version": "0.0.18",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "03717e6",
+        "git_hash": "c5a15a3",
         "git_create": false,
         "git_run": false,
         "last_seen": "c6eef06"
@@ -3220,7 +3220,7 @@
         "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a6d69ff",
+        "git_hash": "4b5fd01",
         "git_create": false,
         "git_run": false,
         "last_seen": "c6eef06"
