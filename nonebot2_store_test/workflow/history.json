@@ -1585,9 +1585,9 @@
         "pypi_version": "1.0.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "40ee6d6",
+        "git_hash": "f193fc7",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "20f144b"
     },
     "nonebot-plugin-abbrreply": {
