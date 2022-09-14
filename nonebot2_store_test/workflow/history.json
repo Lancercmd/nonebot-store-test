@@ -3367,10 +3367,10 @@
         "project_link": "nonebot-plugin-ayaka",
         "display_name": "ayaka - 文字游戏开发辅助插件",
         "homepage": "https://github.com/bridgeL/nonebot-plugin-ayaka",
-        "pypi_version": "0.2.5",
+        "pypi_version": "0.2.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "e6f14b8",
+        "git_hash": "c048d77",
         "git_create": true,
         "git_run": false,
         "last_seen": "2cb8eaf"
