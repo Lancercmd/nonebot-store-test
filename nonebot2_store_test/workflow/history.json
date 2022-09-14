@@ -2410,7 +2410,7 @@
         "pypi_version": "0.5.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2f57dfc",
+        "git_hash": "42c76ac",
         "git_create": true,
         "git_run": false,
         "last_seen": "2cb8eaf"
@@ -3367,10 +3367,10 @@
         "project_link": "nonebot-plugin-ayaka",
         "display_name": "ayaka - 文字游戏开发辅助插件",
         "homepage": "https://github.com/bridgeL/nonebot-plugin-ayaka",
-        "pypi_version": "0.2.11",
+        "pypi_version": "0.2.12",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "851b922",
+        "git_hash": "0571c0c",
         "git_create": true,
         "git_run": false,
         "last_seen": "2cb8eaf"
