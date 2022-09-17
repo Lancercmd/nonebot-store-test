@@ -2530,7 +2530,7 @@
         "pypi_version": "0.0.18",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c5a15a3",
+        "git_hash": "23c7753",
         "git_create": false,
         "git_run": false,
         "last_seen": "638a9c9"
@@ -3382,10 +3382,10 @@
         "project_link": "nonebot-plugin-wolf-kill",
         "display_name": "狼人杀插件",
         "homepage": "https://github.com/AbCooly/nonebot_plugin_wolf_kill",
-        "pypi_version": "1.0.1",
+        "pypi_version": "1.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "043a8dc",
+        "git_hash": "746f842",
         "git_create": false,
         "git_run": false,
         "last_seen": "638a9c9"
