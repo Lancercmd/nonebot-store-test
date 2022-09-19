@@ -655,9 +655,9 @@
         "pypi_version": "2.6.12",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "593c0b2",
-        "git_create": true,
-        "git_run": true,
+        "git_hash": "41516ff",
+        "git_create": false,
+        "git_run": false,
         "last_seen": "b249802"
     },
     "nonebot-plugin-atri": {
@@ -2530,7 +2530,7 @@
         "pypi_version": "0.0.18",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "23c7753",
+        "git_hash": "7b0827d",
         "git_create": false,
         "git_run": false,
         "last_seen": "b249802"
@@ -3430,9 +3430,9 @@
         "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2f80d1c",
+        "git_hash": "3d662da",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "b249802"
     }
 }
