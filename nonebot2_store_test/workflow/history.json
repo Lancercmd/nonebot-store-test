@@ -1345,7 +1345,7 @@
         "pypi_version": "0.6.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "89a7e1c",
+        "git_hash": "629c03b",
         "git_create": true,
         "git_run": false,
         "last_seen": "b249802"
@@ -1372,10 +1372,10 @@
         "project_link": "nonebot-plugin-guild-patch",
         "display_name": "go-cqhttp 频道支持适配补丁",
         "homepage": "https://github.com/mnixry/nonebot-plugin-guild-patch",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ade5bbd",
+        "git_hash": "333ddb4",
         "git_create": true,
         "git_run": true,
         "last_seen": "b249802"
