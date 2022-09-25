@@ -3472,10 +3472,10 @@
         "project_link": "nonebot-plugin-picstatus",
         "display_name": "PicStatus",
         "homepage": "https://github.com/lgc2333/nonebot-plugin-picstatus",
-        "pypi_version": "0.2.3",
+        "pypi_version": "0.2.4.post0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ac77e99",
+        "git_hash": "08c3a87",
         "git_create": true,
         "git_run": true,
         "last_seen": "75470fe"
