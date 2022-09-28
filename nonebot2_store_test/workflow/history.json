@@ -1675,7 +1675,7 @@
         "pypi_version": "1.7.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4529334",
+        "git_hash": "97a2c1c",
         "git_create": true,
         "git_run": true,
         "last_seen": "75470fe"
@@ -3052,10 +3052,10 @@
         "project_link": "nonebot-plugin-course",
         "display_name": "课表查询",
         "homepage": "https://github.com/InariInDream/nonebot_plugin_course",
-        "pypi_version": "0.1.3",
+        "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2983306",
+        "git_hash": "1847514",
         "git_create": false,
         "git_run": false,
         "last_seen": "75470fe"
@@ -3445,8 +3445,8 @@
         "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b299388",
-        "git_create": false,
+        "git_hash": "9b177cb",
+        "git_create": true,
         "git_run": false,
         "last_seen": "75470fe"
     },
@@ -3460,7 +3460,7 @@
         "pypi_version": "1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f5816ca",
+        "git_hash": "3a9c8c6",
         "git_create": true,
         "git_run": false,
         "last_seen": "75470fe"
