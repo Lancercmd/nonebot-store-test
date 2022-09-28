@@ -3442,7 +3442,7 @@
         "project_link": "nonebot-plugin-tts-gal",
         "display_name": "gal角色语音生成",
         "homepage": "https://github.com/dpm12345/nonebot_plugin_tts_gal",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "b299388",
