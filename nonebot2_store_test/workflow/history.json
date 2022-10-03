@@ -1102,12 +1102,12 @@
         "project_link": "nonebot-plugin-memes",
         "display_name": "表情包制作",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-memes",
-        "pypi_version": "0.3.3",
+        "pypi_version": "0.3.4",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "2c14423",
+        "pypi_run": true,
+        "git_hash": "93fefa0",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "3234871"
     },
     "nonebot-plugin-repeater": {
