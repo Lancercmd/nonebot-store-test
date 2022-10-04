@@ -1075,7 +1075,7 @@
         "pypi_version": "0.3.21",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "66f8102",
+        "git_hash": "964e00f",
         "git_create": false,
         "git_run": false,
         "last_seen": "e9bd81d"
@@ -2977,7 +2977,7 @@
         "project_link": "nonebot-plugin-moegoe",
         "display_name": "日韩中 VITS 模型原神拟声",
         "homepage": "https://github.com/Yiyuiii/nonebot-plugin-moegoe",
-        "pypi_version": "0.5.1",
+        "pypi_version": "0.5.2",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "2a46b81",
