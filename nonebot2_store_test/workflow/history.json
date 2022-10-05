@@ -1327,12 +1327,12 @@
         "project_link": "nonebot-plugin-datastore",
         "display_name": "NoneBot 数据存储",
         "homepage": "https://github.com/he0119/nonebot-plugin-datastore",
-        "pypi_version": "0.3.3",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "ef1af5f",
+        "pypi_run": true,
+        "git_hash": "f842923",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "2de8c66"
     },
     "nonebot-plugin-gocqhttp": {
