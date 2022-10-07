@@ -3517,7 +3517,7 @@
         "project_link": "nonebot-plugin-ocr",
         "display_name": "文字识别",
         "homepage": "https://github.com/NewYearPrism/nonebot-plugin-ocr",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "1d2c512",
