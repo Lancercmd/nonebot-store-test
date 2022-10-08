@@ -37,10 +37,10 @@
         "project_link": "nonebot-plugin-rauthman",
         "display_name": "RAM 授权管理",
         "homepage": "https://github.com/Lancercmd/nonebot_plugin_rauthman",
-        "pypi_version": "2.0.0b4.post3",
+        "pypi_version": "2.0.0rc1.post0",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "20019d6",
+        "pypi_run": true,
+        "git_hash": "56a7799",
         "git_create": true,
         "git_run": true,
         "last_seen": "77aa16c"
@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0c4d7cb",
+        "git_hash": "91e5ef9",
         "git_create": true,
         "git_run": true,
         "last_seen": "77aa16c"
@@ -1675,7 +1675,7 @@
         "pypi_version": "1.7.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "f33ca54",
+        "git_hash": "4bf8e53",
         "git_create": true,
         "git_run": true,
         "last_seen": "77aa16c"
@@ -2905,7 +2905,7 @@
         "pypi_version": "0.0.4.post3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a7f4cb2",
+        "git_hash": "d79fbcf",
         "git_create": true,
         "git_run": true,
         "last_seen": "77aa16c"
