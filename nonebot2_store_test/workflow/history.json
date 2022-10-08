@@ -1057,10 +1057,10 @@
         "project_link": "nonebot-plugin-htmlrender",
         "display_name": "通过浏览器来生成图片",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-htmlrender",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.2.0.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "05a6ba1",
+        "git_hash": "72ae188",
         "git_create": true,
         "git_run": true,
         "last_seen": "138fb45"
