@@ -925,7 +925,7 @@
         "pypi_version": "0.3.13",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4833c1f",
+        "git_hash": "8284b89",
         "git_create": true,
         "git_run": true,
         "last_seen": "138fb45"
@@ -1192,10 +1192,10 @@
         "project_link": "nonebot-plugin-crazy-thursday",
         "display_name": "疯狂星期四",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_crazy_thursday",
-        "pypi_version": "0.2.5",
+        "pypi_version": "0.2.6",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "c1e670c",
+        "pypi_run": true,
+        "git_hash": "c23df7e",
         "git_create": true,
         "git_run": true,
         "last_seen": "138fb45"
