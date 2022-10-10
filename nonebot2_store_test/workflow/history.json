@@ -262,10 +262,10 @@
         "project_link": "nonebot-bison",
         "display_name": "Bison",
         "homepage": "https://github.com/felinae98/nonebot-bison",
-        "pypi_version": "0.5.5",
+        "pypi_version": "0.6.0",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "f6e392e",
+        "pypi_run": true,
+        "git_hash": "3b59c32",
         "git_create": true,
         "git_run": true,
         "last_seen": "138fb45"
@@ -2410,7 +2410,7 @@
         "pypi_version": "0.5.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "df30d6a",
+        "git_hash": "d3e22d7",
         "git_create": true,
         "git_run": false,
         "last_seen": "138fb45"
