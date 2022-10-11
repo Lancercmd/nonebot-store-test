@@ -1177,10 +1177,10 @@
         "project_link": "nonebot-plugin-roll",
         "display_name": "扔骰子",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_roll",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.2.2",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "9644cb6",
+        "pypi_run": true,
+        "git_hash": "583229a",
         "git_create": true,
         "git_run": true,
         "last_seen": "e6494dc"
@@ -1330,7 +1330,7 @@
         "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "aed7369",
+        "git_hash": "b265a01",
         "git_create": true,
         "git_run": true,
         "last_seen": "e6494dc"
@@ -1405,7 +1405,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "416308d",
+        "git_hash": "b5e9a1e",
         "git_create": true,
         "git_run": true,
         "last_seen": "e6494dc"
@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.24",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7e32cc9",
+        "git_hash": "9411a50",
         "git_create": false,
         "git_run": false,
         "last_seen": "e6494dc"
