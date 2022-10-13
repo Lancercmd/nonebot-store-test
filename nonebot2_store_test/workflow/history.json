@@ -3577,10 +3577,10 @@
         "project_link": "nonebot-plugin-russian-ban",
         "display_name": "轮盘禁言小游戏",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_russian_ban",
-        "pypi_version": "1.0.2",
+        "pypi_version": "1.0.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e298ab5",
+        "git_hash": "068c5ae",
         "git_create": false,
         "git_run": false,
         "last_seen": "67b9652"
