@@ -3217,10 +3217,10 @@
         "project_link": "nonebot-plugin-xiuxian",
         "display_name": "修仙模拟器",
         "homepage": "https://github.com/s52047qwas/nonebot_plugin_xiuxian",
-        "pypi_version": "0.4.24",
+        "pypi_version": "0.4.25",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "40f8721",
+        "git_hash": "227cf1b",
         "git_create": false,
         "git_run": false,
         "last_seen": "29ad8a6"
