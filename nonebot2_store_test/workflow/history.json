@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.25",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cb3941a",
+        "git_hash": "ab5f553",
         "git_create": false,
         "git_run": false,
         "last_seen": "29ad8a6"
@@ -3637,10 +3637,10 @@
         "project_link": "nonebot-plugin-aidraw",
         "display_name": "AI绘图",
         "homepage": "https://github.com/A-kirami/nonebot-plugin-aidraw",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "61ff944",
+        "git_hash": "1069058",
         "git_create": true,
         "git_run": true,
         "last_seen": "29ad8a6"
