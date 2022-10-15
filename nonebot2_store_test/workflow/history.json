@@ -1210,9 +1210,9 @@
         "pypi_version": "0.6.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ee91cd6",
+        "git_hash": "3d11b9d",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "512c66c"
     },
     "nonebot-plugin-remake": {
@@ -1675,7 +1675,7 @@
         "pypi_version": "1.7.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2c9f49f",
+        "git_hash": "0fe043c",
         "git_create": true,
         "git_run": true,
         "last_seen": "512c66c"
@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.25",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "111b733",
+        "git_hash": "3c720b9",
         "git_create": false,
         "git_run": false,
         "last_seen": "512c66c"
