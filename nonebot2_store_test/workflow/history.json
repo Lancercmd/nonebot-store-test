@@ -1105,7 +1105,7 @@
         "pypi_version": "0.3.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0ce8390",
+        "git_hash": "419171c",
         "git_create": true,
         "git_run": true,
         "last_seen": "eaa3dbd"
@@ -2845,7 +2845,7 @@
         "pypi_version": "0.4.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0fa290c",
+        "git_hash": "7eba5c9",
         "git_create": true,
         "git_run": true,
         "last_seen": "eaa3dbd"
@@ -3217,7 +3217,7 @@
         "project_link": "nonebot-plugin-xiuxian",
         "display_name": "修仙模拟器",
         "homepage": "https://github.com/s52047qwas/nonebot_plugin_xiuxian",
-        "pypi_version": "0.4.27",
+        "pypi_version": "0.4.28",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "123d9f4",
@@ -3640,7 +3640,7 @@
         "pypi_version": "0.6.0",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "135f348",
+        "git_hash": "0f2fd6d",
         "git_create": true,
         "git_run": true,
         "last_seen": "eaa3dbd"
