@@ -2527,10 +2527,10 @@
         "project_link": "nonebot-plugin-setu4",
         "display_name": "nonebot_plugin_setu4",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_setu4",
-        "pypi_version": "0.0.22",
+        "pypi_version": "0.0.23",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7600ae1",
+        "git_hash": "77fc98d",
         "git_create": false,
         "git_run": false,
         "last_seen": "ab54049"
