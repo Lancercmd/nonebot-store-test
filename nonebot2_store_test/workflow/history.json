@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.28",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2d01e40",
+        "git_hash": "96bd146",
         "git_create": false,
         "git_run": false,
         "last_seen": "ab54049"
@@ -3622,7 +3622,7 @@
         "project_link": "nonebot-plugin-novelai",
         "display_name": "novelai",
         "homepage": "https://github.com/sena-nana/MutsukiBot/tree/main/nonebot-plugin-novelai",
-        "pypi_version": "0.4.0",
+        "pypi_version": "0.4.1",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": null,
