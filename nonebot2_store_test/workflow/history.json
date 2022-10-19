@@ -265,7 +265,7 @@
         "pypi_version": "0.6.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "fdaee5f",
+        "git_hash": "95ca799",
         "git_create": true,
         "git_run": true,
         "last_seen": "6ae8911"
@@ -1345,7 +1345,7 @@
         "pypi_version": "0.6.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "948fb29",
+        "git_hash": "5d02d04",
         "git_create": true,
         "git_run": false,
         "last_seen": "6ae8911"
@@ -3442,10 +3442,10 @@
         "project_link": "nonebot-plugin-tts-gal",
         "display_name": "gal角色语音生成",
         "homepage": "https://github.com/dpm12345/nonebot_plugin_tts_gal",
-        "pypi_version": "0.2.3",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1124a51",
+        "git_hash": "39aa64a",
         "git_create": true,
         "git_run": false,
         "last_seen": "6ae8911"
@@ -3490,7 +3490,7 @@
         "pypi_version": "0.0.16",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "19699cf",
+        "git_hash": null,
         "git_create": true,
         "git_run": true,
         "last_seen": "6ae8911"
@@ -3595,7 +3595,7 @@
         "pypi_version": "0.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "35a0bfc",
+        "git_hash": null,
         "git_create": true,
         "git_run": false,
         "last_seen": "6ae8911"
@@ -3622,7 +3622,7 @@
         "project_link": "nonebot-plugin-novelai",
         "display_name": "novelai",
         "homepage": "https://github.com/sena-nana/MutsukiBot/tree/main/nonebot-plugin-novelai",
-        "pypi_version": "0.4.1",
+        "pypi_version": "0.4.3",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": null,
