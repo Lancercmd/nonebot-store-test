@@ -3232,10 +3232,10 @@
         "project_link": "nonebot-plugin-gspanel",
         "display_name": "原神角色展柜查询",
         "homepage": "https://github.com/monsterxcn/nonebot-plugin-gspanel",
-        "pypi_version": "0.1.8",
+        "pypi_version": "0.1.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ca31796",
+        "git_hash": "a959986",
         "git_create": true,
         "git_run": true,
         "last_seen": "6ae8911"
