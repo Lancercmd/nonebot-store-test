@@ -1597,12 +1597,12 @@
         "project_link": "nonebot-plugin-abbrreply",
         "display_name": "缩写查询器",
         "homepage": "https://github.com/anlen123/nonebot_plugin_abbrreply",
-        "pypi_version": "1.1.2",
+        "pypi_version": "1.1.3",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "8196f7c",
+        "pypi_run": true,
+        "git_hash": "72e79ec",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "876acf3"
     },
     "nonebot-plugin-biliav": {
@@ -2995,7 +2995,7 @@
         "pypi_version": "1.3.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cc55633",
+        "git_hash": "aa07c3d",
         "git_create": true,
         "git_run": false,
         "last_seen": "876acf3"
@@ -3682,10 +3682,10 @@
         "project_link": "nonebot-plugin-ayaka-who-is-suspect",
         "display_name": "ayaka衍生插件 - 谁是卧底",
         "homepage": "https://github.com/bridgeL/nonebot-plugin-ayaka-who-is-suspect",
-        "pypi_version": "0.0.3",
+        "pypi_version": "0.0.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b7a6eaa",
+        "git_hash": "42d31ec",
         "git_create": true,
         "git_run": false,
         "last_seen": "876acf3"
