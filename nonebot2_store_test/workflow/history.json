@@ -1642,12 +1642,12 @@
         "project_link": "nonebot-plugin-epicfree",
         "display_name": "Epic 限免游戏资讯",
         "homepage": "https://github.com/monsterxcn/nonebot_plugin_epicfree",
-        "pypi_version": "0.1.9",
+        "pypi_version": "0.1.10",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "d3dfb1a",
+        "pypi_run": true,
+        "git_hash": "1847544",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "876acf3"
     },
     "nonebot-plugin-read-60s": {
@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.29",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "39094cb",
+        "git_hash": "7687c17",
         "git_create": false,
         "git_run": false,
         "last_seen": "876acf3"
