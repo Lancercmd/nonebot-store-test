@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.29",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "066ef59",
+        "git_hash": "6a2a1b5",
         "git_create": false,
         "git_run": false,
         "last_seen": "876acf3"
@@ -3442,10 +3442,10 @@
         "project_link": "nonebot-plugin-tts-gal",
         "display_name": "gal角色语音生成",
         "homepage": "https://github.com/dpm12345/nonebot_plugin_tts_gal",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "81a864c",
+        "git_hash": "548952e",
         "git_create": true,
         "git_run": false,
         "last_seen": "876acf3"
