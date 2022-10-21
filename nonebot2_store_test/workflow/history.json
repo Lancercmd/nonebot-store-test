@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.29",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "58a75be",
+        "git_hash": "5ef0a5b",
         "git_create": false,
         "git_run": false,
         "last_seen": "876acf3"
@@ -3352,10 +3352,10 @@
         "project_link": "nonebot_plugin_RealESRGAN",
         "display_name": "图像超分辨率重建",
         "homepage": "https://github.com/ppxxxg22/nonebot_plugin_RealESRGAN",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "d968ca0",
+        "git_hash": "1ebb07a",
         "git_create": true,
         "git_run": false,
         "last_seen": "876acf3"
@@ -3685,7 +3685,7 @@
         "pypi_version": "0.0.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "42d31ec",
+        "git_hash": "e37bf16",
         "git_create": true,
         "git_run": false,
         "last_seen": "876acf3"
