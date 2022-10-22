@@ -3682,10 +3682,10 @@
         "project_link": "nonebot-plugin-ayaka-who-is-suspect",
         "display_name": "ayaka衍生插件 - 谁是卧底",
         "homepage": "https://github.com/bridgeL/nonebot-plugin-ayaka-who-is-suspect",
-        "pypi_version": "0.0.5",
+        "pypi_version": "0.0.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "e37bf16",
+        "git_hash": "b815e82",
         "git_create": true,
         "git_run": false,
         "last_seen": "876acf3"
