@@ -3622,7 +3622,7 @@
         "project_link": "nonebot-plugin-novelai",
         "display_name": "novelai",
         "homepage": "https://github.com/sena-nana/MutsukiBot/tree/main/nonebot-plugin-novelai",
-        "pypi_version": "0.4.7",
+        "pypi_version": "0.4.8",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": null,
