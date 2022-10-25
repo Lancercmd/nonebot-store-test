@@ -1630,7 +1630,7 @@
         "pypi_version": "1.1.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "528a1be",
+        "git_hash": "2e78f37",
         "git_create": true,
         "git_run": true,
         "last_seen": "f684b96"
@@ -1690,7 +1690,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7ec6db5",
+        "git_hash": "360ed74",
         "git_create": true,
         "git_run": true,
         "last_seen": "f684b96"
@@ -1807,10 +1807,10 @@
         "project_link": "nonebot-plugin-bilibilibot",
         "display_name": "bilibili通知插件",
         "homepage": "https://github.com/TDK1969/nonebot_plugin_bilibilibot",
-        "pypi_version": "2.2.0",
+        "pypi_version": "2.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "720dc6b",
+        "git_hash": "5f3f0ae",
         "git_create": false,
         "git_run": false,
         "last_seen": "f684b96"
@@ -2995,7 +2995,7 @@
         "pypi_version": "1.3.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2328604",
+        "git_hash": "7bcc577",
         "git_create": true,
         "git_run": false,
         "last_seen": "f684b96"
@@ -3445,7 +3445,7 @@
         "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "dad185d",
+        "git_hash": "9586609",
         "git_create": true,
         "git_run": false,
         "last_seen": "f684b96"
