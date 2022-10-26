@@ -1690,9 +1690,9 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "6a8f0cd",
+        "git_hash": "c231ab6",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "f684b96"
     },
     "nonebot-plugin-everyday-en": {
@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.30",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0995dbe",
+        "git_hash": "511e889",
         "git_create": false,
         "git_run": false,
         "last_seen": "f684b96"
