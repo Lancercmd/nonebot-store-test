@@ -2422,10 +2422,10 @@
         "project_link": "nonebot-plugin-imagetools",
         "display_name": "imagetools",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-imagetools",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8dfe0c0",
+        "git_hash": "cb9fb43",
         "git_create": true,
         "git_run": true,
         "last_seen": "bfa4a07"
@@ -3790,7 +3790,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "83f44b1",
+        "git_hash": "f50534b",
         "git_create": true,
         "git_run": true,
         "last_seen": "bfa4a07"
