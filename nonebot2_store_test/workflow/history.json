@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.31",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e5f3abb",
+        "git_hash": "afb479f",
         "git_create": false,
         "git_run": false,
         "last_seen": "c1aec63"
@@ -3232,10 +3232,10 @@
         "project_link": "nonebot-plugin-gspanel",
         "display_name": "原神角色展柜查询",
         "homepage": "https://github.com/monsterxcn/nonebot-plugin-gspanel",
-        "pypi_version": "0.1.11",
+        "pypi_version": "0.1.12",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "49d6a9b",
+        "git_hash": "339f7bf",
         "git_create": true,
         "git_run": true,
         "last_seen": "c1aec63"
