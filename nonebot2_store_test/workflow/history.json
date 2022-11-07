@@ -925,7 +925,7 @@
         "pypi_version": "0.3.15",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "e55f3ea",
+        "git_hash": "2372d34",
         "git_create": true,
         "git_run": true,
         "last_seen": "e1720d8"
@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.31",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0503c2f",
+        "git_hash": "c4c3d67",
         "git_create": false,
         "git_run": false,
         "last_seen": "e1720d8"
@@ -3667,10 +3667,10 @@
         "project_link": "nonebot-plugin-ayaka-games",
         "display_name": "ayaka衍生插件 - 小游戏合集",
         "homepage": "https://github.com/bridgeL/nonebot-plugin-ayaka-games",
-        "pypi_version": "0.3.2",
+        "pypi_version": "0.3.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b5f77e3",
+        "git_hash": "35ee12a",
         "git_create": true,
         "git_run": false,
         "last_seen": "e1720d8"
