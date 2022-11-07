@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.31",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "611c54d",
+        "git_hash": "0503c2f",
         "git_create": false,
         "git_run": false,
         "last_seen": "e1720d8"
@@ -3892,12 +3892,12 @@
         "project_link": "nonebot-plugin-animeres",
         "display_name": "动漫资源获取",
         "homepage": "https://github.com/Melodyknit/nonebot_plugin_animeres",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.1.2",
         "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "d0efb1e",
+        "pypi_run": false,
+        "git_hash": "be065e1",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "e1720d8"
     },
     "nonebot-plugin-person": {
