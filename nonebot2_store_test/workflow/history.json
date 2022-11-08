@@ -925,7 +925,7 @@
         "pypi_version": "0.3.15",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8597b14",
+        "git_hash": "fad434d",
         "git_create": true,
         "git_run": true,
         "last_seen": "e1720d8"
@@ -1105,7 +1105,7 @@
         "pypi_version": "0.3.8",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7df54dc",
+        "git_hash": "1f57626",
         "git_create": true,
         "git_run": true,
         "last_seen": "e1720d8"
@@ -1930,9 +1930,9 @@
         "pypi_version": "1.0.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "9bd0d66",
+        "git_hash": null,
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "e1720d8"
     },
     "nonebot-plugin-wordle": {
@@ -2422,10 +2422,10 @@
         "project_link": "nonebot-plugin-imagetools",
         "display_name": "imagetools",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-imagetools",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.1.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "cb9fb43",
+        "git_hash": "eaae703",
         "git_create": true,
         "git_run": true,
         "last_seen": "e1720d8"
@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.31",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "61530ee",
+        "git_hash": "50dfd3f",
         "git_create": false,
         "git_run": false,
         "last_seen": "e1720d8"
