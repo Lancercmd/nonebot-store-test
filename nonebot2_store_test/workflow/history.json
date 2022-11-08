@@ -3907,10 +3907,10 @@
         "project_link": "nonebot-plugin-person",
         "display_name": "随个人",
         "homepage": "https://github.com/jcjrobert/nonebot-plugin-person",
-        "pypi_version": "0.0.1",
+        "pypi_version": "0.0.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "855e6ed",
+        "git_hash": "ce03587",
         "git_create": true,
         "git_run": true,
         "last_seen": "e1720d8"
