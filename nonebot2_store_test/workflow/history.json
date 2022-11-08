@@ -925,7 +925,7 @@
         "pypi_version": "0.3.15",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8f349e3",
+        "git_hash": "0fac771",
         "git_create": true,
         "git_run": true,
         "last_seen": "e1720d8"
@@ -2302,10 +2302,10 @@
         "project_link": "nonebot-plugin-imageutils",
         "display_name": "imageutils",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-imageutils",
-        "pypi_version": "0.1.13.2",
+        "pypi_version": "0.1.13.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7d26cb0",
+        "git_hash": "e9a09bc",
         "git_create": true,
         "git_run": true,
         "last_seen": "e1720d8"
@@ -2380,7 +2380,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "4d51afa",
+        "git_hash": "6125190",
         "git_create": true,
         "git_run": true,
         "last_seen": "e1720d8"
@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.31",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "12ab8cb",
+        "git_hash": "6cebbe3",
         "git_create": false,
         "git_run": false,
         "last_seen": "e1720d8"
@@ -3775,7 +3775,7 @@
         "pypi_version": "0.1.4.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "33fa914",
+        "git_hash": "525cf2a",
         "git_create": true,
         "git_run": true,
         "last_seen": "e1720d8"
@@ -3832,10 +3832,10 @@
         "project_link": "nonebot-plugin-mahjong-scoreboard",
         "display_name": "日麻寄分器",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-mahjong-scoreboard",
-        "pypi_version": "0.1.7.post2",
+        "pypi_version": "0.1.8.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "07bbd0f",
+        "git_hash": "0e7e6a0",
         "git_create": true,
         "git_run": true,
         "last_seen": "e1720d8"
