@@ -2995,7 +2995,7 @@
         "pypi_version": "1.5.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5ea6713",
+        "git_hash": "500770a",
         "git_create": true,
         "git_run": false,
         "last_seen": "7de8912"
@@ -3832,10 +3832,10 @@
         "project_link": "nonebot-plugin-mahjong-scoreboard",
         "display_name": "日麻寄分器",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-mahjong-scoreboard",
-        "pypi_version": "0.1.8.post2",
+        "pypi_version": "0.1.8.post3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0e7e6a0",
+        "git_hash": "8144df1",
         "git_create": true,
         "git_run": true,
         "last_seen": "7de8912"
