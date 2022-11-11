@@ -1210,7 +1210,7 @@
         "pypi_version": "0.6.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4086717",
+        "git_hash": "395f728",
         "git_create": true,
         "git_run": true,
         "last_seen": "0bc8a39"
@@ -3745,7 +3745,7 @@
         "pypi_version": "2.0.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5d75c25",
+        "git_hash": "9524b2f",
         "git_create": true,
         "git_run": true,
         "last_seen": "0bc8a39"
@@ -3937,7 +3937,7 @@
         "project_link": "nonebot-plugin-reborn",
         "display_name": "投胎模拟器",
         "homepage": "https://github.com/Aziteee/nonebot_plugin_reborn",
-        "pypi_version": "0.2",
+        "pypi_version": "0.3",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "1329be7",
