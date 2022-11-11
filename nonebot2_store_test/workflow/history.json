@@ -1207,7 +1207,7 @@
         "project_link": "nonebot-plugin-covid19-news",
         "display_name": "新冠疫情查询",
         "homepage": "https://github.com/Zeta-qixi/nonebot-plugin-covid19-news",
-        "pypi_version": "0.6.3",
+        "pypi_version": "0.6.3.1",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "395f728",
@@ -2425,7 +2425,7 @@
         "pypi_version": "0.1.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "bc36576",
+        "git_hash": "3428a98",
         "git_create": true,
         "git_run": true,
         "last_seen": "0bc8a39"
