@@ -925,7 +925,7 @@
         "pypi_version": "0.3.16",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "29e0b28",
+        "git_hash": "27f7661",
         "git_create": true,
         "git_run": true,
         "last_seen": "0bc8a39"
@@ -2425,7 +2425,7 @@
         "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "98e40ed",
+        "git_hash": "3986595",
         "git_create": true,
         "git_run": true,
         "last_seen": "0bc8a39"
@@ -3742,10 +3742,10 @@
         "project_link": "nonebot-plugin-kfcrazy",
         "display_name": "kfcrazy",
         "homepage": "https://github.com/Kaguya233qwq/nonebot_plugin_kfcrazy",
-        "pypi_version": "2.0.3",
+        "pypi_version": "2.0.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "9524b2f",
+        "git_hash": "ed9b84f",
         "git_create": true,
         "git_run": true,
         "last_seen": "0bc8a39"
