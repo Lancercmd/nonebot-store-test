@@ -3967,10 +3967,10 @@
         "project_link": "nonebot-plugin-colab-novelai",
         "display_name": "Colab-NovelAI",
         "homepage": "https://github.com/EtherLeaF/nonebot-plugin-colab-novelai",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8e958c1",
+        "git_hash": "de3ba0c",
         "git_create": true,
         "git_run": false,
         "last_seen": "376a720"
