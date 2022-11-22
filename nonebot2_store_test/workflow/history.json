@@ -3760,7 +3760,7 @@
         "pypi_version": "0.0.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4dee307",
+        "git_hash": "ecdd6e7",
         "git_create": true,
         "git_run": true,
         "last_seen": "85390a1"
@@ -3907,10 +3907,10 @@
         "project_link": "nonebot-plugin-person",
         "display_name": "随个人",
         "homepage": "https://github.com/jcjrobert/nonebot-plugin-person",
-        "pypi_version": "0.0.3",
+        "pypi_version": "0.0.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4645e0c",
+        "git_hash": "2e9962a",
         "git_create": true,
         "git_run": true,
         "last_seen": "85390a1"
@@ -3952,10 +3952,10 @@
         "project_link": "nonebot-plugin-searchBiliInfo",
         "display_name": "b站用户信息查询",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_searchBiliInfo",
-        "pypi_version": "1.0.2",
+        "pypi_version": "1.0.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cffa057",
+        "git_hash": "3fce2bd",
         "git_create": true,
         "git_run": false,
         "last_seen": "85390a1"
@@ -4000,7 +4000,7 @@
         "pypi_version": "2022.11.20.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "db68a0a",
+        "git_hash": "a9b060e",
         "git_create": true,
         "git_run": false,
         "last_seen": "85390a1"
