@@ -265,7 +265,7 @@
         "pypi_version": "0.6.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2fc3e82",
+        "git_hash": "a6b6612",
         "git_create": true,
         "git_run": true,
         "last_seen": "85390a1"
@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.31",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bc8fe92",
+        "git_hash": "7db1742",
         "git_create": false,
         "git_run": false,
         "last_seen": "85390a1"
@@ -3232,10 +3232,10 @@
         "project_link": "nonebot-plugin-gspanel",
         "display_name": "原神角色展柜查询",
         "homepage": "https://github.com/monsterxcn/nonebot-plugin-gspanel",
-        "pypi_version": "0.2.6",
+        "pypi_version": "0.2.7.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b3b9139",
+        "git_hash": "0d3d3dc",
         "git_create": true,
         "git_run": true,
         "last_seen": "85390a1"
@@ -3952,10 +3952,10 @@
         "project_link": "nonebot-plugin-searchBiliInfo",
         "display_name": "b站用户信息查询",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_searchBiliInfo",
-        "pypi_version": "1.0.6",
+        "pypi_version": "1.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2f92389",
+        "git_hash": "5c062d3",
         "git_create": true,
         "git_run": false,
         "last_seen": "85390a1"
