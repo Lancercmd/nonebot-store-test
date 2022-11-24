@@ -3625,7 +3625,7 @@
         "pypi_version": "0.5.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6e15539",
+        "git_hash": "099325f",
         "git_create": false,
         "git_run": false,
         "last_seen": "d83866f"
@@ -3997,10 +3997,10 @@
         "project_link": "nonebot-plugin-zyk-novelai",
         "display_name": "免费版NovelAI生图插件",
         "homepage": "https://github.com/ZYKsslm/nonebot_plugin_zyk_novelai",
-        "pypi_version": "2.0",
+        "pypi_version": "2.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5577004",
+        "git_hash": "0735f5c",
         "git_create": true,
         "git_run": false,
         "last_seen": "d83866f"
