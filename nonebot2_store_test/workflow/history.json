@@ -22,12 +22,12 @@
         "project_link": "haruka-bot",
         "display_name": "HarukaBot",
         "homepage": "https://github.com/SK-415/HarukaBot",
-        "pypi_version": "1.4.2.post1",
+        "pypi_version": "1.5.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "cae36be",
+        "git_hash": "c5f9603",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "a758e6f"
     },
     "nonebot-plugin-rauthman": {
@@ -3835,7 +3835,7 @@
         "pypi_version": "0.1.8.post3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8144df1",
+        "git_hash": "3e606b1",
         "git_create": true,
         "git_run": true,
         "last_seen": "a758e6f"
