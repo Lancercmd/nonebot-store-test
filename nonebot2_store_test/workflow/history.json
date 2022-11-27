@@ -3757,10 +3757,10 @@
         "project_link": "nonebot-plugin-random",
         "display_name": "通用抽图/语音",
         "homepage": "https://github.com/jcjrobert/nonebot-plugin-random",
-        "pypi_version": "0.0.6",
+        "pypi_version": "0.0.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ecdd6e7",
+        "git_hash": "13faf24",
         "git_create": true,
         "git_run": true,
         "last_seen": "6c27ec7"
