@@ -22,10 +22,10 @@
         "project_link": "haruka-bot",
         "display_name": "HarukaBot",
         "homepage": "https://github.com/SK-415/HarukaBot",
-        "pypi_version": "1.5.0",
+        "pypi_version": "1.5.0.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c5f9603",
+        "git_hash": "f00af05",
         "git_create": true,
         "git_run": true,
         "last_seen": "a758e6f"
@@ -2707,10 +2707,10 @@
         "project_link": "nonebot-plugin-acc-calculate",
         "display_name": "ACC计算工具",
         "homepage": "https://github.com/10-24/nonebot-plugin-acc-calculate",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "eefa54b",
+        "git_hash": "e42dfc8",
         "git_create": true,
         "git_run": true,
         "last_seen": "a758e6f"
@@ -3520,7 +3520,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b43374f",
+        "git_hash": "41c3fde",
         "git_create": true,
         "git_run": true,
         "last_seen": "a758e6f"
@@ -3955,7 +3955,7 @@
         "pypi_version": "1.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ffc3046",
+        "git_hash": "4bc4acc",
         "git_create": true,
         "git_run": false,
         "last_seen": "a758e6f"
