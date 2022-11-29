@@ -1870,7 +1870,7 @@
         "pypi_version": "3.1.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5af1bd2",
+        "git_hash": "d64263c",
         "git_create": true,
         "git_run": true,
         "last_seen": "6c27ec7"
@@ -2992,10 +2992,10 @@
         "project_link": "nonebot-plugin-pixivbot",
         "display_name": "PixivBot",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-pixivbot",
-        "pypi_version": "1.5.2",
+        "pypi_version": "1.5.2.post1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ae92669",
+        "git_hash": "b146f62",
         "git_create": true,
         "git_run": false,
         "last_seen": "6c27ec7"
@@ -3235,7 +3235,7 @@
         "pypi_version": "0.2.8",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a4c6e9b",
+        "git_hash": "fecc793",
         "git_create": true,
         "git_run": true,
         "last_seen": "6c27ec7"
