@@ -1975,9 +1975,9 @@
         "pypi_version": "1.0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "89623bb",
+        "git_hash": "dab7d8d",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "c90ab94"
     },
     "nonebot-plugin-params": {
