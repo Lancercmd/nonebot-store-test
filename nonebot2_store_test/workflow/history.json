@@ -4042,10 +4042,10 @@
         "project_link": "nonebot-plugin-note",
         "display_name": "记事本",
         "homepage": "https://github.com/Passerby-D/nonebot_plugin_note",
-        "pypi_version": "0.1.7",
+        "pypi_version": "0.1.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1589cdd",
+        "git_hash": "3b4c5df",
         "git_create": true,
         "git_run": false,
         "last_seen": "c90ab94"
