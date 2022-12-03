@@ -1675,7 +1675,7 @@
         "pypi_version": "1.7.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "12d8750",
+        "git_hash": "bc0021b",
         "git_create": true,
         "git_run": true,
         "last_seen": "5006cf7"
@@ -3757,10 +3757,10 @@
         "project_link": "nonebot-plugin-random",
         "display_name": "通用抽图/语音",
         "homepage": "https://github.com/jcjrobert/nonebot-plugin-random",
-        "pypi_version": "0.0.7",
+        "pypi_version": "0.0.8",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "9fc56a8",
+        "git_hash": "ba81e79",
         "git_create": true,
         "git_run": true,
         "last_seen": "5006cf7"
@@ -3835,7 +3835,7 @@
         "pypi_version": "0.1.8.post3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "3e606b1",
+        "git_hash": "f886d34",
         "git_create": true,
         "git_run": true,
         "last_seen": "5006cf7"
