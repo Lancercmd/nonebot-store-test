@@ -4102,10 +4102,10 @@
         "project_link": "nonebot-plugin-chatgpt",
         "display_name": "ChatGPT",
         "homepage": "https://github.com/A-kirami/nonebot-plugin-chatgpt",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fe9a462",
+        "git_hash": "28bda8d",
         "git_create": true,
         "git_run": false,
         "last_seen": "9826bc2"
