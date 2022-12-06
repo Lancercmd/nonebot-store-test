@@ -4042,10 +4042,10 @@
         "project_link": "nonebot-plugin-note",
         "display_name": "记事本",
         "homepage": "https://github.com/Passerby-D/nonebot_plugin_note",
-        "pypi_version": "0.1.8",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3b4c5df",
+        "git_hash": "00651ef",
         "git_create": true,
         "git_run": false,
         "last_seen": "6bb15f6"
@@ -4072,12 +4072,12 @@
         "project_link": "nonebot-plugin-trace-moe",
         "display_name": "动画截图追溯来源",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_trace_moe",
-        "pypi_version": "0.0.1",
+        "pypi_version": "0.0.2",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "c67cba4",
+        "pypi_run": true,
+        "git_hash": "69d15d3",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "6bb15f6"
     },
     "nonebot-plugin-zyk-music": {
@@ -4105,7 +4105,7 @@
         "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "46f8c3d",
+        "git_hash": "1a0804f",
         "git_create": true,
         "git_run": false,
         "last_seen": "6bb15f6"
@@ -4132,12 +4132,12 @@
         "project_link": "nonebot-plugin-remove-bg",
         "display_name": "图片背景消除",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_remove_bg",
-        "pypi_version": "0.0.1",
+        "pypi_version": "0.0.2",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "8ca726f",
+        "pypi_run": true,
+        "git_hash": "2b7031f",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "6bb15f6"
     }
 }
