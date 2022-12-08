@@ -442,12 +442,12 @@
         "project_link": "nonebot-plugin-mcstatus",
         "display_name": "Minecraft 服务器状态查询",
         "homepage": "https://github.com/nonepkg/nonebot-plugin-mcstatus",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.1.7",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "d62fae6",
+        "pypi_run": true,
+        "git_hash": "1a513c5",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "b25de93"
     },
     "nonebot-plugin-help": {
@@ -1075,7 +1075,7 @@
         "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "942816f",
+        "git_hash": "5cde6d5",
         "git_create": true,
         "git_run": true,
         "last_seen": "b25de93"
@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.31",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0d5def9",
+        "git_hash": "b7c63aa",
         "git_create": false,
         "git_run": false,
         "last_seen": "b25de93"
