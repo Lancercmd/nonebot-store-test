@@ -3652,10 +3652,10 @@
         "project_link": "nonebot-plugin-bnhhsh",
         "display_name": "bnhhsh -「不能好好说话！」",
         "homepage": "https://github.com/lgc2333/nonebot-plugin-bnhhsh",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.1.2.post0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "24a1e20",
+        "git_hash": "01dba9b",
         "git_create": true,
         "git_run": false,
         "last_seen": "b25de93"
