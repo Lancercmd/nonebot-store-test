@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.32",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "673ed92",
+        "git_hash": "6ce0c67",
         "git_create": false,
         "git_run": false,
         "last_seen": "b6cd042"
@@ -4000,7 +4000,7 @@
         "pypi_version": "2.8.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "1473c3e",
+        "git_hash": "473a42b",
         "git_create": true,
         "git_run": false,
         "last_seen": "b6cd042"
@@ -4072,10 +4072,10 @@
         "project_link": "nonebot-plugin-trace-moe",
         "display_name": "动画截图追溯来源",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_trace_moe",
-        "pypi_version": "0.0.2",
-        "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "69d15d3",
+        "pypi_version": "0.0.3",
+        "pypi_create": false,
+        "pypi_run": false,
+        "git_hash": "7e067ff",
         "git_create": true,
         "git_run": true,
         "last_seen": "b6cd042"
