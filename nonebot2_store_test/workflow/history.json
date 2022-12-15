@@ -382,10 +382,10 @@
         "project_link": "nonebot-plugin-manager",
         "display_name": "插件管理器",
         "homepage": "https://github.com/nonepkg/nonebot-plugin-manager",
-        "pypi_version": "0.5.10",
+        "pypi_version": "0.5.11",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "fbdccba",
+        "git_hash": "5e71715",
         "git_create": true,
         "git_run": true,
         "last_seen": "60733c9"
@@ -4105,7 +4105,7 @@
         "pypi_version": "0.7.1",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "10950a3",
+        "git_hash": "a75e9d3",
         "git_create": true,
         "git_run": false,
         "last_seen": "60733c9"
