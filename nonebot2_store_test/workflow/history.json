@@ -3220,7 +3220,7 @@
         "pypi_version": "0.4.33",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "0e962e9",
+        "git_hash": "69d28e7",
         "git_create": false,
         "git_run": false,
         "last_seen": "60733c9"
@@ -3625,7 +3625,7 @@
         "pypi_version": "0.5.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "099325f",
+        "git_hash": "1a4b74c",
         "git_create": false,
         "git_run": false,
         "last_seen": "60733c9"
@@ -4192,7 +4192,7 @@
         "project_link": "nonebot-plugin-multi-chatgpt",
         "display_name": "multi-ChatGPT",
         "homepage": "https://github.com/chrisyy2003/lingyin-bot/tree/main/plugins/chatGPT",
-        "pypi_version": "2.0.3",
+        "pypi_version": "3.0.0",
         "pypi_create": false,
         "pypi_run": false,
         "git_hash": null,
