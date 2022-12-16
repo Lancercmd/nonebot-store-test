@@ -772,12 +772,12 @@
         "project_link": "nonebot-plugin-setu-now",
         "display_name": "nonebot-plugin-setu-now",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-setu-now",
-        "pypi_version": "0.4.1",
-        "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "449adae",
+        "pypi_version": "0.4.2",
+        "pypi_create": false,
+        "pypi_run": false,
+        "git_hash": "b3b14fa",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "5a49d1e"
     },
     "nonebot-plugin-leetcode": {
@@ -1345,7 +1345,7 @@
         "pypi_version": "0.6.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b3674dd",
+        "git_hash": "246b3f3",
         "git_create": true,
         "git_run": false,
         "last_seen": "5a49d1e"
