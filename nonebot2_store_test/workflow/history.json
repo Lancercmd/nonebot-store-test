@@ -2725,7 +2725,7 @@
         "pypi_version": "3.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e062b76",
+        "git_hash": "de248c6",
         "git_create": false,
         "git_run": false,
         "last_seen": "60733c9"
@@ -4207,10 +4207,10 @@
         "project_link": "nonebot-plugin-colormind",
         "display_name": "随机配色方案",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_colormind",
-        "pypi_version": "0.0.1",
+        "pypi_version": "0.0.2",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "08baca5",
+        "git_hash": "f908a74",
         "git_create": true,
         "git_run": true,
         "last_seen": "60733c9"
