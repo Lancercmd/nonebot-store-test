@@ -775,7 +775,7 @@
         "pypi_version": "0.4.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "a57217d",
+        "git_hash": "d87913e",
         "git_create": true,
         "git_run": true,
         "last_seen": "3de2922"
@@ -1060,7 +1060,7 @@
         "pypi_version": "0.2.0.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a39347e",
+        "git_hash": "88d8b68",
         "git_create": true,
         "git_run": true,
         "last_seen": "3de2922"
@@ -2995,7 +2995,7 @@
         "pypi_version": "1.6.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "b006509",
+        "git_hash": "282c183",
         "git_create": true,
         "git_run": false,
         "last_seen": "3de2922"
@@ -3367,7 +3367,7 @@
         "project_link": "nonebot-plugin-ayaka",
         "display_name": "ayaka - 文字游戏开发辅助插件",
         "homepage": "https://bridgel.github.io/ayaka_doc/",
-        "pypi_version": "0.5.4",
+        "pypi_version": "0.5.5",
         "pypi_create": false,
         "pypi_run": false,
         "git_hash": null,
@@ -3667,10 +3667,10 @@
         "project_link": "nonebot-plugin-ayaka-games",
         "display_name": "ayaka衍生插件 - 小游戏合集",
         "homepage": "https://github.com/bridgeL/nonebot-plugin-ayaka-games",
-        "pypi_version": "0.4.4",
+        "pypi_version": "0.4.5",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "622dd8c",
+        "git_hash": "1c368e4",
         "git_create": true,
         "git_run": false,
         "last_seen": "3de2922"
@@ -3835,7 +3835,7 @@
         "pypi_version": "0.1.8.post3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c079558",
+        "git_hash": "91da85a",
         "git_create": true,
         "git_run": true,
         "last_seen": "3de2922"
@@ -3880,7 +3880,7 @@
         "pypi_version": "0.2.3.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c68823b",
+        "git_hash": "eb6d2b3",
         "git_create": true,
         "git_run": true,
         "last_seen": "3de2922"
@@ -4102,10 +4102,10 @@
         "project_link": "nonebot-plugin-chatgpt",
         "display_name": "ChatGPT",
         "homepage": "https://github.com/A-kirami/nonebot-plugin-chatgpt",
-        "pypi_version": "0.7.2",
+        "pypi_version": "0.7.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "020b268",
+        "git_hash": "7bc3c97",
         "git_create": true,
         "git_run": false,
         "last_seen": "3de2922"
@@ -4120,7 +4120,7 @@
         "pypi_version": "0.1.2",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "2f14bf9",
+        "git_hash": "5bf6aca",
         "git_create": true,
         "git_run": true,
         "last_seen": "3de2922"
@@ -4180,7 +4180,7 @@
         "pypi_version": "0.1.0",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "5692a06",
+        "git_hash": "1bc68b0",
         "git_create": true,
         "git_run": true,
         "last_seen": "3de2922"
