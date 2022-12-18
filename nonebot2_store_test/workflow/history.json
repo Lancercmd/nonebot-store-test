@@ -472,10 +472,10 @@
         "project_link": "nonebot-plugin-gamedraw",
         "display_name": "nonebot_plugin_gamedraw",
         "homepage": "https://github.com/HibiKier/nonebot_plugin_gamedraw",
-        "pypi_version": "0.3.9",
+        "pypi_version": "0.4.0",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "cbe6557",
+        "git_hash": "4cc6094",
         "git_create": true,
         "git_run": false,
         "last_seen": "909b811"
@@ -3790,7 +3790,7 @@
         "pypi_version": "0.2.4",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "58c00d2",
+        "git_hash": "7a0d1f8",
         "git_create": true,
         "git_run": true,
         "last_seen": "909b811"
@@ -3805,7 +3805,7 @@
         "pypi_version": "0.2.6",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "6480573",
+        "git_hash": "81a35cf",
         "git_create": true,
         "git_run": true,
         "last_seen": "909b811"
@@ -4000,7 +4000,7 @@
         "pypi_version": "2.9.1",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "f075002",
+        "git_hash": "c121a7c",
         "git_create": true,
         "git_run": false,
         "last_seen": "909b811"
