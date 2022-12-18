@@ -1675,7 +1675,7 @@
         "pypi_version": "1.7.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8924258",
+        "git_hash": "a031edd",
         "git_create": true,
         "git_run": true,
         "last_seen": "909b811"
@@ -2605,7 +2605,7 @@
         "pypi_version": "0.1.13",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "f3779d2",
+        "git_hash": "f6144df",
         "git_create": true,
         "git_run": true,
         "last_seen": "909b811"
@@ -4282,7 +4282,7 @@
         "project_link": "nonebot-plugin-gpt3",
         "display_name": "GPT3",
         "homepage": "https://github.com/chrisyy2003/lingyin-bot/tree/main/plugins/gpt3",
-        "pypi_version": "1.0.4",
+        "pypi_version": "1.0.5",
         "pypi_create": false,
         "pypi_run": false,
         "git_hash": null,
