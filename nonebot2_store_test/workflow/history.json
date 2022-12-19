@@ -3100,7 +3100,7 @@
         "pypi_version": "1.3.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "f9094f4",
+        "git_hash": "7aa9ea1",
         "git_create": false,
         "git_run": false,
         "last_seen": "909b811"
@@ -4252,10 +4252,10 @@
         "project_link": "nonebot-plugin-backup",
         "display_name": "QQ群文件备份",
         "homepage": "https://github.com/Yuelioi/nonebot-plugin-backup",
-        "pypi_version": "1.0.1",
+        "pypi_version": "1.0.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "15f98d3",
+        "git_hash": "be4cec3",
         "git_create": true,
         "git_run": false,
         "last_seen": "909b811"
