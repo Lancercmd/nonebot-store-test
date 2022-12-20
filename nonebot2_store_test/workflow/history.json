@@ -1072,10 +1072,10 @@
         "project_link": "nonebot-plugin-admin",
         "display_name": "简易群管",
         "homepage": "https://github.com/yzyyz1387/nonebot_plugin_admin",
-        "pypi_version": "0.4.1",
+        "pypi_version": "0.4.2",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "ff2c233",
+        "git_hash": "9dd77d0",
         "git_create": true,
         "git_run": false,
         "last_seen": "909b811"
@@ -1582,12 +1582,12 @@
         "project_link": "nonebot-plugin-pixiv",
         "display_name": "pixiv.net p站查询图片",
         "homepage": "https://github.com/anlen123/nonebot_plugin_pixiv",
-        "pypi_version": "1.1.2",
+        "pypi_version": "1.1.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "3ecb69d",
+        "git_hash": "bedd9d8",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "909b811"
     },
     "nonebot-plugin-abbrreply": {
@@ -2380,7 +2380,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "a8e7698",
+        "git_hash": "14d646a",
         "git_create": true,
         "git_run": true,
         "last_seen": "909b811"
