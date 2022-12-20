@@ -2932,10 +2932,10 @@
         "project_link": "nonebot_plugin_game_collection",
         "display_name": "小游戏合集",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_game_collection",
-        "pypi_version": "1.6.5.post1",
+        "pypi_version": "1.6.6",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "e9a9671",
+        "git_hash": "de557f8",
         "git_create": false,
         "git_run": false,
         "last_seen": "2d08465"
