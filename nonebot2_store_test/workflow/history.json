@@ -1162,10 +1162,10 @@
         "project_link": "nonebot-plugin-forwarder",
         "display_name": "转发姬",
         "homepage": "https://github.com/ninthseason/nonebot_plugin_forwarder",
-        "pypi_version": "2.0.5",
+        "pypi_version": "2.1.5",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "08ea1dd",
+        "git_hash": "2e5338e",
         "git_create": true,
         "git_run": true,
         "last_seen": "73d1e5d"
