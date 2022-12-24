@@ -2722,10 +2722,10 @@
         "project_link": "nonebot_plugin_kawaii_robot",
         "display_name": "自动回复（文i）插件",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_kawaii_robot",
-        "pypi_version": "3.2.2",
+        "pypi_version": "3.3.0",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "9cc8785",
+        "git_hash": "8ecb7dd",
         "git_create": false,
         "git_run": false,
         "last_seen": "136778a"
@@ -3472,10 +3472,10 @@
         "project_link": "nonebot-plugin-picstatus",
         "display_name": "PicStatus",
         "homepage": "https://github.com/lgc2333/nonebot-plugin-picstatus",
-        "pypi_version": "0.3.0",
-        "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "3852bfb",
+        "pypi_version": "0.3.1",
+        "pypi_create": false,
+        "pypi_run": false,
+        "git_hash": "d22e6d6",
         "git_create": true,
         "git_run": true,
         "last_seen": "136778a"
@@ -4195,7 +4195,7 @@
         "pypi_version": "3.0.0",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "7b8c3dd",
+        "git_hash": "c5afb65",
         "git_create": true,
         "git_run": false,
         "last_seen": "136778a"
@@ -4285,9 +4285,9 @@
         "pypi_version": "1.0.11",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "b66cda7",
+        "git_hash": "2fb0223",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "136778a"
     },
     "nonebot-plugin-ikun-evolution": {
