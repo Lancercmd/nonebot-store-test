@@ -3112,10 +3112,10 @@
         "project_link": "nonebot-plugin-offline-mahjong-helper",
         "display_name": "面麻小助手",
         "homepage": "https://github.com/Nranphy/nonebot_plugin_offline_mahjong_helper",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.2.2",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "f9465d7",
+        "git_hash": "122a0fe",
         "git_create": false,
         "git_run": false,
         "last_seen": "136778a"
