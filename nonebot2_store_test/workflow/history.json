@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "23238de",
+        "git_hash": "63f85f5",
         "git_create": true,
         "git_run": true,
         "last_seen": "e5ad15d"
@@ -3925,9 +3925,9 @@
         "pypi_version": "22.12.24",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "78b3800",
+        "git_hash": "9a5f80a",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "e5ad15d"
     },
     "nonebot-plugin-reborn": {
