@@ -1567,12 +1567,12 @@
         "project_link": "nonebot-plugin-morning",
         "display_name": "おはよう！",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_morning",
-        "pypi_version": "0.3.1",
-        "pypi_create": true,
+        "pypi_version": "0.3.2",
+        "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "b154925",
+        "git_hash": "2887a28",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "adbe341"
     },
     "nonebot-plugin-pixiv": {
@@ -1675,7 +1675,7 @@
         "pypi_version": "1.7.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "fdb519e",
+        "git_hash": "563851c",
         "git_create": true,
         "git_run": true,
         "last_seen": "adbe341"
