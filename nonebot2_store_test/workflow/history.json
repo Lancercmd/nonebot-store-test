@@ -4417,10 +4417,10 @@
         "project_link": "nonebot_plugin_face2cartoonpic",
         "display_name": "腾讯云图像变换",
         "homepage": "https://github.com/ANGJustinl/nonebot_plugin_face2cartoonpic_main",
-        "pypi_version": "0.3.1",
+        "pypi_version": "0.3.2",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "4e18354",
+        "git_hash": "a1b4825",
         "git_create": false,
         "git_run": false,
         "last_seen": "f4668bf"
