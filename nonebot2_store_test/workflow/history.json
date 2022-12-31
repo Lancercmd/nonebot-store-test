@@ -1675,9 +1675,9 @@
         "pypi_version": "1.7.5",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "6f310ca",
-        "git_create": true,
-        "git_run": true,
+        "git_hash": "f938338",
+        "git_create": false,
+        "git_run": false,
         "last_seen": "f0bebb6"
     },
     "nonebot-plugin-gachalogs": {
