@@ -1345,7 +1345,7 @@
         "pypi_version": "0.6.4",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "234d346",
+        "git_hash": "e282156",
         "git_create": true,
         "git_run": false,
         "last_seen": "53dded5"
@@ -3760,7 +3760,7 @@
         "pypi_version": "0.0.8",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ba81e79",
+        "git_hash": "f8e10a4",
         "git_create": true,
         "git_run": true,
         "last_seen": "53dded5"
@@ -3985,7 +3985,7 @@
         "pypi_version": "2.0.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "c79d839",
+        "git_hash": "5025f48",
         "git_create": true,
         "git_run": true,
         "last_seen": "53dded5"
@@ -4087,10 +4087,10 @@
         "project_link": "nonebot-plugin-zyk-music",
         "display_name": "免费快捷点歌插件",
         "homepage": "https://github.com/ZYKsslm/nonebot_plugin_zyk_music",
-        "pypi_version": "0.1.3",
+        "pypi_version": "0.1.4",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "c5eb327",
+        "git_hash": "9e1ca5e",
         "git_create": true,
         "git_run": true,
         "last_seen": "53dded5"
@@ -4297,10 +4297,10 @@
         "project_link": "nonebot-plugin-ikun-evolution",
         "display_name": "只因进化录",
         "homepage": "https://github.com/RShock/nonebot_plugin_ikun_evolution",
-        "pypi_version": "1.0.11",
+        "pypi_version": "1.0.12",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "1c9e0c7",
+        "git_hash": "715d08c",
         "git_create": true,
         "git_run": false,
         "last_seen": "53dded5"
