@@ -4252,10 +4252,10 @@
         "project_link": "nonebot-plugin-backup",
         "display_name": "QQ群文件备份",
         "homepage": "https://github.com/Yuelioi/nonebot-plugin-backup",
-        "pypi_version": "1.0.4",
+        "pypi_version": "1.0.5",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "efaadb9",
+        "git_hash": "a5cdf6e",
         "git_create": true,
         "git_run": true,
         "last_seen": "c38437a"
