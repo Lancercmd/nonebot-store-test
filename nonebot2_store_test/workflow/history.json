@@ -1675,7 +1675,7 @@
         "pypi_version": "1.7.8",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "ecec31d",
+        "git_hash": "47252e8",
         "git_create": true,
         "git_run": true,
         "last_seen": "1d5d160"
@@ -3235,7 +3235,7 @@
         "pypi_version": "0.2.10",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "23e2454",
+        "git_hash": "6d93ae9",
         "git_create": true,
         "git_run": true,
         "last_seen": "1d5d160"
@@ -3262,10 +3262,10 @@
         "project_link": "nonebot-plugin-gsmaterial",
         "display_name": "原神每日材料查询",
         "homepage": "https://github.com/monsterxcn/nonebot-plugin-gsmaterial",
-        "pypi_version": "0.2.2",
+        "pypi_version": "0.2.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "003c793",
+        "git_hash": "a231b3f",
         "git_create": true,
         "git_run": true,
         "last_seen": "1d5d160"
