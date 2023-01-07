@@ -4507,7 +4507,7 @@
         "project_link": "nonebot-plugin-setu-customization",
         "display_name": "setu_customization",
         "homepage": "https://github.com/nikissXI/nonebot_plugins/tree/main/nonebot_plugin_setu_customization",
-        "pypi_version": "1.3.1",
+        "pypi_version": "1.4.0",
         "pypi_create": false,
         "pypi_run": false,
         "git_hash": null,
