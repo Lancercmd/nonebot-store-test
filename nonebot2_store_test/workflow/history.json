@@ -925,7 +925,7 @@
         "pypi_version": "0.3.18",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "cf17980",
+        "git_hash": "c9436cd",
         "git_create": true,
         "git_run": true,
         "last_seen": "bbaba1c"
