@@ -2212,10 +2212,10 @@
         "project_link": "nonebot-plugin-miragetank",
         "display_name": "幻影坦克图片合成",
         "homepage": "https://github.com/RafuiiChan/nonebot_plugin_miragetank",
-        "pypi_version": "0.0.5",
+        "pypi_version": "0.1.1",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "dc7b2c2",
+        "git_hash": "03a8437",
         "git_create": false,
         "git_run": false,
         "last_seen": "a930fc0"
