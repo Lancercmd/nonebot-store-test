@@ -4042,12 +4042,12 @@
         "project_link": "nonebot-plugin-note",
         "display_name": "记事本",
         "homepage": "https://github.com/Passerby-D/nonebot_plugin_note",
-        "pypi_version": "0.2.0",
-        "pypi_create": true,
+        "pypi_version": "0.2.1",
+        "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "00651ef",
+        "git_hash": "95d5119",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "a3af8da"
     },
     "nonebot-plugin-bilibili-image": {
