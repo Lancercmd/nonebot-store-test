@@ -1627,10 +1627,10 @@
         "project_link": "nonebot-plugin-setu",
         "display_name": "nonebot_plugin_setu",
         "homepage": "https://github.com/ayanamiblhx/nonebot_plugin_setu",
-        "pypi_version": "1.1.8",
+        "pypi_version": "1.1.9",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "ecfcbf6",
+        "git_hash": "72f2dac",
         "git_create": true,
         "git_run": true,
         "last_seen": "a3af8da"
@@ -4525,7 +4525,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "3c92f05",
+        "git_hash": "84a4224",
         "git_create": true,
         "git_run": false,
         "last_seen": "a3af8da"
