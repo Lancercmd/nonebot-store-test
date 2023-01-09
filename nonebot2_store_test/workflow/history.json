@@ -1675,7 +1675,7 @@
         "pypi_version": "1.7.8",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "47252e8",
+        "git_hash": "f9a9c92",
         "git_create": true,
         "git_run": true,
         "last_seen": "bbaba1c"
@@ -3985,9 +3985,9 @@
         "pypi_version": "2.0.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "5025f48",
+        "git_hash": "6d41d17",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "bbaba1c"
     },
     "nonebot-plugin-zyk-novelai": {
@@ -4627,10 +4627,10 @@
         "project_link": "nonebot-plugin-nowtime",
         "display_name": "整点报时",
         "homepage": "https://github.com/Cvandia/nonebot_plugin_nowtime",
-        "pypi_version": "0.1.3",
+        "pypi_version": "0.1.4",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "4ba55bc",
+        "git_hash": "f5c8691",
         "git_create": true,
         "git_run": true,
         "last_seen": "bbaba1c"
