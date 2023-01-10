@@ -925,7 +925,7 @@
         "pypi_version": "0.3.19",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "3a4b61a",
+        "git_hash": "2afb13b",
         "git_create": true,
         "git_run": true,
         "last_seen": "f43c008"
@@ -1027,12 +1027,12 @@
         "project_link": "nonebot-plugin-lolmatch",
         "display_name": "lol比赛信息",
         "homepage": "https://github.com/Diaosi1111/nonebot_plugin_lolmatch",
-        "pypi_version": "0.3.0.1",
+        "pypi_version": "0.3.0.2",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "403d6ec",
-        "git_create": false,
-        "git_run": false,
+        "git_hash": "9ff8dab",
+        "git_create": true,
+        "git_run": true,
         "last_seen": "f43c008"
     },
     "olivos.nb2": {
@@ -3445,7 +3445,7 @@
         "pypi_version": "0.3.6",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "69a00f6",
+        "git_hash": "13c2506",
         "git_create": true,
         "git_run": true,
         "last_seen": "f43c008"
