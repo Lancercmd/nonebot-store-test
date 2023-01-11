@@ -4402,10 +4402,10 @@
         "project_link": "nonebot-plugin-ping",
         "display_name": "Ping",
         "homepage": "https://github.com/zhulinyv/nonebot_plugin_ping",
-        "pypi_version": "1.3.2",
+        "pypi_version": "1.4.2",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "e29b143",
+        "git_hash": "f9ae5d0",
         "git_create": false,
         "git_run": false,
         "last_seen": "f43c008"
@@ -4645,7 +4645,7 @@
         "pypi_version": "1.0.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "34018cf",
+        "git_hash": "d2ec24d",
         "git_create": true,
         "git_run": true,
         "last_seen": "f43c008"
@@ -4675,7 +4675,7 @@
         "pypi_version": "0.0.1",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "9801c9a",
+        "git_hash": "807a687",
         "git_create": true,
         "git_run": true,
         "last_seen": "f43c008"
