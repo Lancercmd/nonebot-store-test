@@ -2545,7 +2545,7 @@
         "pypi_version": "0.0.16",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "2be6ad5",
+        "git_hash": "68c07f0",
         "git_create": false,
         "git_run": false,
         "last_seen": "081d212"
@@ -4342,7 +4342,7 @@
         "project_link": "nonebot-plugin-javamc-status",
         "display_name": "JAVA MC服务器信息查询",
         "homepage": "https://github.com/nikissXI/nonebot_plugins/tree/main/nonebot_plugin_javamc_status",
-        "pypi_version": "0.1.3",
+        "pypi_version": null,
         "pypi_create": false,
         "pypi_run": false,
         "git_hash": null,
