@@ -3952,10 +3952,10 @@
         "project_link": "nonebot-plugin-searchBiliInfo",
         "display_name": "b站用户信息查询",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_searchBiliInfo",
-        "pypi_version": "1.3.10",
+        "pypi_version": "1.4.0",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "512c172",
+        "git_hash": "dbbd874",
         "git_create": true,
         "git_run": false,
         "last_seen": "8be262d"
@@ -4087,12 +4087,12 @@
         "project_link": "nonebot-plugin-zyk-music",
         "display_name": "免费快捷点歌插件",
         "homepage": "https://github.com/ZYKsslm/nonebot_plugin_zyk_music",
-        "pypi_version": "0.1.5",
+        "pypi_version": "0.1.5.1",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "f2aeb83",
+        "git_hash": "bd2c431",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "8be262d"
     },
     "nonebot-plugin-chatgpt": {
