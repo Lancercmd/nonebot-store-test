@@ -1870,7 +1870,7 @@
         "pypi_version": "3.1.6",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "c2c6ec7",
+        "git_hash": "ef09219",
         "git_create": true,
         "git_run": true,
         "last_seen": "8be262d"
@@ -3277,10 +3277,10 @@
         "project_link": "nonebot-plugin-mystool",
         "display_name": "米游社辅助工具",
         "homepage": "https://github.com/Ljzd-PRO/nonebot-plugin-mystool",
-        "pypi_version": "0.2.2",
+        "pypi_version": "0.2.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "d67a530",
+        "git_hash": "8e05c79",
         "git_create": true,
         "git_run": true,
         "last_seen": "8be262d"
@@ -4435,7 +4435,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "ef5616c",
+        "git_hash": "d6acdbb",
         "git_create": true,
         "git_run": false,
         "last_seen": "8be262d"
@@ -4780,7 +4780,7 @@
         "pypi_version": "0.1.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "3c77049",
+        "git_hash": "839315c",
         "git_create": true,
         "git_run": true,
         "last_seen": "8be262d"
