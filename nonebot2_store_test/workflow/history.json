@@ -4702,7 +4702,7 @@
         "project_link": "ayaka_games",
         "display_name": "ayaka小游戏合集",
         "homepage": "https://bridgel.github.io/ayaka_games/",
-        "pypi_version": "0.0.4",
+        "pypi_version": "0.0.5",
         "pypi_create": false,
         "pypi_run": false,
         "git_hash": null,
@@ -4780,7 +4780,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "45c6eb2",
+        "git_hash": "725a664",
         "git_create": true,
         "git_run": true,
         "last_seen": "8be262d"
