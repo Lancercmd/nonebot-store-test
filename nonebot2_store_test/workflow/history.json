@@ -1435,7 +1435,7 @@
         "pypi_version": "0.1.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "852cd14",
+        "git_hash": "51cd696",
         "git_create": true,
         "git_run": true,
         "last_seen": "8be262d"
@@ -4777,10 +4777,10 @@
         "project_link": "nonebot-plugin-orangedice",
         "display_name": "OrangeDice!",
         "homepage": "https://github.com/BigOrangeQWQ/nonebot_plugin_orangedice",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.3.0",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "cfdd19c",
+        "git_hash": "de812d7",
         "git_create": true,
         "git_run": true,
         "last_seen": "8be262d"
