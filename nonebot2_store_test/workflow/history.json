@@ -1330,7 +1330,7 @@
         "pypi_version": "0.5.4",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "03b5f93",
+        "git_hash": "ba6357e",
         "git_create": true,
         "git_run": true,
         "last_seen": "9a2edbb"
@@ -3547,10 +3547,10 @@
         "project_link": "nonebot-plugin-BiliRequestAll",
         "display_name": "BiliRequestAll",
         "homepage": "https://github.com/Shadow403/nonebot_plugin_BiliRequestAll",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "d146ee6",
+        "git_hash": "e96d734",
         "git_create": false,
         "git_run": false,
         "last_seen": "9a2edbb"
@@ -4525,7 +4525,7 @@
         "pypi_version": "0.1.6",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "25ba5ed",
+        "git_hash": "3b689a3",
         "git_create": false,
         "git_run": false,
         "last_seen": "9a2edbb"
