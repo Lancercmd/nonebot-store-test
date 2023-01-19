@@ -1630,7 +1630,7 @@
         "pypi_version": "1.1.9",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "c8fe2fc",
+        "git_hash": null,
         "git_create": true,
         "git_run": true,
         "last_seen": "9a2edbb"
@@ -2080,7 +2080,7 @@
         "pypi_version": "2.0.0.1",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "1dec1fb",
+        "git_hash": null,
         "git_create": false,
         "git_run": false,
         "last_seen": "9a2edbb"
@@ -2710,7 +2710,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "255bb7a",
+        "git_hash": null,
         "git_create": true,
         "git_run": true,
         "last_seen": "9a2edbb"
@@ -2932,10 +2932,10 @@
         "project_link": "nonebot_plugin_game_collection",
         "display_name": "小游戏合集",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_game_collection",
-        "pypi_version": "2.0.2",
+        "pypi_version": "2.0.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "0f5fd8e",
+        "git_hash": "e920fa9",
         "git_create": false,
         "git_run": false,
         "last_seen": "9a2edbb"
@@ -3070,7 +3070,7 @@
         "pypi_version": "1.0.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5af0a31",
+        "git_hash": null,
         "git_create": true,
         "git_run": true,
         "last_seen": "9a2edbb"
@@ -3472,10 +3472,10 @@
         "project_link": "nonebot-plugin-picstatus",
         "display_name": "PicStatus",
         "homepage": "https://github.com/lgc2333/nonebot-plugin-picstatus",
-        "pypi_version": "0.3.1",
+        "pypi_version": "0.3.2",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "d22e6d6",
+        "git_hash": "98469e9",
         "git_create": true,
         "git_run": true,
         "last_seen": "9a2edbb"
