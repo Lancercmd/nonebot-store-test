@@ -2260,9 +2260,9 @@
         "pypi_version": "2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9677ee3",
+        "git_hash": "2448af9",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "03cf7f2"
     },
     "nonebot-plugin-maze": {
