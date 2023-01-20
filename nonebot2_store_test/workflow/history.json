@@ -2257,10 +2257,10 @@
         "project_link": "nonebot-plugin-yulu",
         "display_name": "语录娱乐",
         "homepage": "https://github.com/bingqiu456/nonebot-plugin-yulu",
-        "pypi_version": "2.0",
-        "pypi_create": true,
+        "pypi_version": "3.0",
+        "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "2448af9",
+        "git_hash": "6aab1f7",
         "git_create": true,
         "git_run": true,
         "last_seen": "03cf7f2"
@@ -4525,7 +4525,7 @@
         "pypi_version": "0.1.7",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "3436d74",
+        "git_hash": "30be2da",
         "git_create": false,
         "git_run": false,
         "last_seen": "03cf7f2"
@@ -4780,7 +4780,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "de812d7",
+        "git_hash": "aa3f1cc",
         "git_create": true,
         "git_run": true,
         "last_seen": "03cf7f2"
