@@ -1330,7 +1330,7 @@
         "pypi_version": "0.5.4",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "ba6357e",
+        "git_hash": "2298225",
         "git_create": true,
         "git_run": true,
         "last_seen": "03cf7f2"
@@ -4732,7 +4732,7 @@
         "project_link": "nonebot-plugin-mc-server-status",
         "display_name": "Minecraft服务器信息查询",
         "homepage": "https://github.com/nikissXI/nonebot_plugins/tree/main/nonebot_plugin_mc_server_status",
-        "pypi_version": "0.2.4",
+        "pypi_version": "0.2.7",
         "pypi_create": false,
         "pypi_run": false,
         "git_hash": null,
