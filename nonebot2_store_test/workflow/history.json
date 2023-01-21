@@ -4822,10 +4822,10 @@
         "project_link": "criminal-dance",
         "display_name": "犯人在跳舞",
         "homepage": "https://github.com/bridgeL/criminal_dance",
-        "pypi_version": "0.0.2",
+        "pypi_version": "0.0.3",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "a309aae",
+        "git_hash": "902497b",
         "git_create": true,
         "git_run": false,
         "last_seen": "6f57a29"
