@@ -532,10 +532,10 @@
         "project_link": "nonebot-plugin-russian",
         "display_name": "nonebot_plugin_russian",
         "homepage": "https://github.com/HibiKier/nonebot_plugin_russian",
-        "pypi_version": "0.2.3",
-        "pypi_create": true,
+        "pypi_version": "0.2.5",
+        "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "fb826d1",
+        "git_hash": "2032939",
         "git_create": true,
         "git_run": false,
         "last_seen": "6f57a29"
