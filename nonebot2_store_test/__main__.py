@@ -2,7 +2,7 @@
 Author       : Lancercmd
 Date         : 2022-01-21 12:09:00
 LastEditors  : Lancercmd
-LastEditTime : 2022-05-21 08:11:22
+LastEditTime : 2023-01-23 16:32:06
 Description  : None
 GitHub       : https://github.com/Lancercmd
 """
@@ -195,7 +195,7 @@ class Operator:
         print()
         if not self.local.get(module.project_link):
             self.local[module.project_link] = {}
-        local = self.local.get(module.project_link)
+        local: dict = self.local.get(module.project_link)
         _pypi = Operator.get_pypi_latest(module.project_link)
         module.pypi_version = _pypi
         _git = await Operator.get_head_hash(module.homepage)
@@ -285,10 +285,14 @@ class Operator:
                 stderr=subprocess.PIPE,
             )
             stdout, stderr = await proc.communicate()
-            if not stderr and not "Error" in stdout.decode():
+            failed = "Error" in stdout.decode() or \
+                "Error" in stderr.decode() or \
+                "fatal" in stdout.decode() or \
+                "fatal" in stderr.decode()
+            if not failed:
                 print(f"Created project {module.module_name} from PyPI peacefully.")
-            module._pypi_create = not stderr
-            await self.copy_env_file(_path)
+                module._pypi_create = True
+                await self.copy_env_file(_path)
         else:
             print(f"Project {module.module_name} already exists.")
             module._pypi_create = True
@@ -317,8 +321,8 @@ class Operator:
             _, stderr = await proc.communicate()
             if not "ERROR" in stderr.decode():
                 print(f"Created project {module.module_name} from Git peacefully.")
-            module._git_create = not "ERROR" in stderr.decode()
-            await self.copy_env_file(_path)
+                module._git_create = True
+                await self.copy_env_file(_path)
         else:
             print(f"Project {module.module_name} already exists.")
             module._git_create = True
