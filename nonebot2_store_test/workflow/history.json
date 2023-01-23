@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0rc1.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "d3880cf",
+        "git_hash": "2b22492",
         "git_create": true,
         "git_run": true,
         "last_seen": "6410af1"
@@ -1402,10 +1402,10 @@
         "project_link": "nonebot-plugin-wordcloud",
         "display_name": "词云",
         "homepage": "https://github.com/he0119/nonebot-plugin-wordcloud",
-        "pypi_version": "0.4.0",
+        "pypi_version": "0.4.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4e8673a",
+        "git_hash": "7bb1e82",
         "git_create": true,
         "git_run": true,
         "last_seen": "6410af1"
@@ -1435,7 +1435,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fda72ba",
+        "git_hash": "056d40b",
         "git_create": true,
         "git_run": false,
         "last_seen": "6410af1"
@@ -2692,10 +2692,10 @@
         "project_link": "nonebot-plugin-osubot",
         "display_name": "OSU查分插件",
         "homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-        "pypi_version": "0.10.4",
+        "pypi_version": "0.11.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "258ea41",
+        "git_hash": "2adea46",
         "git_create": true,
         "git_run": false,
         "last_seen": "6410af1"
