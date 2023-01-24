@@ -412,10 +412,10 @@
         "project_link": "nonebot-plugin-localstore",
         "display_name": "本地数据存储",
         "homepage": "https://github.com/nonebot/plugin-localstore",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a78ab69",
+        "git_hash": "0a5c06b",
         "git_create": true,
         "git_run": false,
         "last_seen": "6410af1"
