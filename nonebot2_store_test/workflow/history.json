@@ -925,9 +925,9 @@
         "pypi_version": "0.3.19",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "654fe40",
+        "git_hash": "86fcd93",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "6410af1"
     },
     "nonebot-plugin-shindan": {
@@ -4867,10 +4867,10 @@
         "project_link": "nonebot-plugin-pvz",
         "display_name": "植物大战僵尸小游戏",
         "homepage": "https://github.com/longchengguxiao/nonebot_plugin_pvz",
-        "pypi_version": "1.1.1",
+        "pypi_version": "1.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8c5830a",
+        "git_hash": "d80efbe",
         "git_create": true,
         "git_run": false,
         "last_seen": "6410af1"
