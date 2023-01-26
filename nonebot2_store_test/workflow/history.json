@@ -7,7 +7,7 @@
         "project_link": "nonebot-plugin-status",
         "display_name": "服务器状态查看",
         "homepage": "https://github.com/cscs181/QQ-GitHub-Bot/tree/master/src/plugins/nonebot_plugin_status",
-        "pypi_version": "0.6.0",
+        "pypi_version": "0.6.1",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": null,
@@ -1330,7 +1330,7 @@
         "pypi_version": "0.5.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fa56e8b",
+        "git_hash": "ad643fd",
         "git_create": true,
         "git_run": false,
         "last_seen": "735cf9d"
@@ -1870,7 +1870,7 @@
         "pypi_version": "3.1.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "dad569e",
+        "git_hash": "c09ad05",
         "git_create": true,
         "git_run": false,
         "last_seen": "735cf9d"
