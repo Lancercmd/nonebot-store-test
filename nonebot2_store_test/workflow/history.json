@@ -925,7 +925,7 @@
         "pypi_version": "0.3.19",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "86fcd93",
+        "git_hash": "1f64a41",
         "git_create": true,
         "git_run": true,
         "last_seen": "735cf9d"
@@ -1147,10 +1147,10 @@
         "project_link": "nonebot-plugin-directlinker",
         "display_name": "群文件直链提取器",
         "homepage": "https://github.com/ninthseason/nonebot-plugin-directlinker",
-        "pypi_version": "2.2.2",
+        "pypi_version": "2.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f0b5f22",
+        "git_hash": "ed0bd77",
         "git_create": true,
         "git_run": false,
         "last_seen": "735cf9d"
@@ -2980,7 +2980,7 @@
         "pypi_version": "0.7.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c443d4c",
+        "git_hash": "66897a1",
         "git_create": true,
         "git_run": false,
         "last_seen": "735cf9d"
