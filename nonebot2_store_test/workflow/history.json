@@ -1870,7 +1870,7 @@
         "pypi_version": "3.1.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c09ad05",
+        "git_hash": "3126c3f",
         "git_create": true,
         "git_run": false,
         "last_seen": "c369475"
@@ -3712,10 +3712,10 @@
         "project_link": "nonebot-plugin-ayaka-prevent-bad-words",
         "display_name": "ayaka衍生插件 - 坏词撤回",
         "homepage": "https://github.com/bridgeL/nonebot-plugin-ayaka-prevent-bad-words",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "47ddd0a",
+        "pypi_run": true,
+        "git_hash": "c47e8d4",
         "git_create": true,
         "git_run": false,
         "last_seen": "c369475"
@@ -4870,7 +4870,7 @@
         "pypi_version": "1.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "388fbb1",
+        "git_hash": "20a87ec",
         "git_create": true,
         "git_run": false,
         "last_seen": "c369475"
