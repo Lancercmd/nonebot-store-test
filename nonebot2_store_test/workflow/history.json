@@ -1945,9 +1945,9 @@
         "pypi_version": "0.1.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f4ec2f1",
+        "git_hash": "94feddb",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "c369475"
     },
     "nonebot-plugin-giyf": {
@@ -2005,9 +2005,9 @@
         "pypi_version": "0.1.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d494561",
+        "git_hash": "dfc7a2b",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "c369475"
     },
     "nonebot-plugin-minesweeper": {
@@ -4957,10 +4957,10 @@
         "project_link": "nonebot-plugin-alconna",
         "display_name": "Alconna 命令工具",
         "homepage": "https://github.com/ArcletProject/nonebot-plugin-alconna",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e39b9fe",
+        "git_hash": "997bd47",
         "git_create": true,
         "git_run": false,
         "last_seen": "c369475"
