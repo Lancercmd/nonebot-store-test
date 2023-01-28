@@ -2332,10 +2332,10 @@
         "project_link": "nonebot-plugin-baidutranslate",
         "display_name": "百度翻译",
         "homepage": "https://github.com/NumberSir/nonebot_plugin_baidutranslate",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "62e5265",
+        "git_hash": "660e6c0",
         "git_create": true,
         "git_run": false,
         "last_seen": "c5a0f0b"
