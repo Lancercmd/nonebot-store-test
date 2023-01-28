@@ -1675,7 +1675,7 @@
         "pypi_version": "1.7.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "59466a9",
+        "git_hash": "47ebb87",
         "git_create": true,
         "git_run": false,
         "last_seen": "c369475"
@@ -2305,9 +2305,9 @@
         "pypi_version": "0.1.13.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "83f3724",
+        "git_hash": "bb5c296",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "c369475"
     },
     "nonebot-plugin-mockingbird": {
@@ -3982,10 +3982,10 @@
         "project_link": "nonebot-plugin-sky",
         "display_name": "sky光遇",
         "homepage": "https://github.com/Kaguya233qwq/nonebot_plugin_sky",
-        "pypi_version": "2.0.6.post3",
+        "pypi_version": "2.0.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1b95e5b",
+        "git_hash": "465021b",
         "git_create": true,
         "git_run": false,
         "last_seen": "c369475"
