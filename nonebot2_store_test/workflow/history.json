@@ -2692,10 +2692,10 @@
         "project_link": "nonebot-plugin-osubot",
         "display_name": "OSU查分插件",
         "homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-        "pypi_version": "0.12.3",
+        "pypi_version": "0.13.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "755322e",
+        "git_hash": "60c6c85",
         "git_create": true,
         "git_run": false,
         "last_seen": "0533058"
