@@ -1390,9 +1390,9 @@
         "pypi_version": "0.2.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fff3746",
+        "git_hash": "a0883d3",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "9e1b439"
     },
     "nonebot-plugin-wordcloud": {
@@ -2155,9 +2155,9 @@
         "pypi_version": "0.1.12",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f826dd6",
+        "git_hash": "c80721d",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "9e1b439"
     },
     "nonebot-plugin-rtfm": {
@@ -2185,9 +2185,9 @@
         "pypi_version": "0.1.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5288abf",
+        "git_hash": "2f9320d",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "9e1b439"
     },
     "nonebot-plugin-charpic": {
@@ -3235,7 +3235,7 @@
         "pypi_version": "0.2.13",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4c63b76",
+        "git_hash": "012144b",
         "git_create": true,
         "git_run": false,
         "last_seen": "9e1b439"
@@ -3952,10 +3952,10 @@
         "project_link": "nonebot-plugin-searchBiliInfo",
         "display_name": "b站用户信息查询",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_searchBiliInfo",
-        "pypi_version": "1.4.6",
+        "pypi_version": "1.4.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "184665d",
+        "git_hash": "0473d69",
         "git_create": true,
         "git_run": false,
         "last_seen": "9e1b439"
@@ -4987,7 +4987,7 @@
         "project_link": "nonebot_plugin_xdu_support",
         "display_name": "XDU校园服务",
         "homepage": "https://github.com/longchengguxiao/nonebot_plugin_xdu_support",
-        "pypi_version": "0.2.9",
+        "pypi_version": "0.3.4",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "30cc912",
@@ -5020,7 +5020,7 @@
         "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bccd57c",
+        "git_hash": "fbc8f44",
         "git_create": true,
         "git_run": false,
         "last_seen": "9e1b439"
