@@ -265,7 +265,7 @@
         "pypi_version": "0.6.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "69a705d",
+        "git_hash": "3d9d3b4",
         "git_create": true,
         "git_run": false,
         "last_seen": "646ab10"
@@ -505,9 +505,9 @@
         "pypi_version": "0.2.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0368bf4",
+        "git_hash": "d5aeccf",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "646ab10"
     },
     "nonebot-plugin-pixivrank-search": {
@@ -1390,7 +1390,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "d04df1d",
+        "git_hash": "ac61756",
         "git_create": true,
         "git_run": true,
         "last_seen": "646ab10"
@@ -2005,7 +2005,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "dbe402d",
+        "git_hash": "db882a5",
         "git_create": true,
         "git_run": true,
         "last_seen": "646ab10"
@@ -2017,12 +2017,12 @@
         "project_link": "nonebot-plugin-minesweeper",
         "display_name": "扫雷游戏",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-minesweeper",
-        "pypi_version": "0.1.8",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "f8a78a1",
+        "pypi_run": true,
+        "git_hash": "685ec92",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "646ab10"
     },
     "nonebot_plugin_draw": {
@@ -2155,7 +2155,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "1cd7c33",
+        "git_hash": "69be32d",
         "git_create": true,
         "git_run": true,
         "last_seen": "646ab10"
@@ -2182,10 +2182,10 @@
         "project_link": "nonebot-plugin-boardgame",
         "display_name": "棋类游戏",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-boardgame",
-        "pypi_version": "0.1.8",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "6f0108a",
+        "pypi_run": true,
+        "git_hash": "29d8cf2",
         "git_create": true,
         "git_run": true,
         "last_seen": "646ab10"
