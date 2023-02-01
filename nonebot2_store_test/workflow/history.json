@@ -2770,7 +2770,7 @@
         "pypi_version": "2.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "161c61d",
+        "git_hash": "9e4c58d",
         "git_create": true,
         "git_run": false,
         "last_seen": "6e214ef"
@@ -4375,7 +4375,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e04c20a",
+        "git_hash": "6f6b01f",
         "git_create": true,
         "git_run": false,
         "last_seen": "6e214ef"
@@ -4645,7 +4645,7 @@
         "pypi_version": "1.0.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9ec1604",
+        "git_hash": "8e91ac5",
         "git_create": true,
         "git_run": false,
         "last_seen": "6e214ef"
@@ -5062,10 +5062,10 @@
         "project_link": "nonebot-plugin-impact",
         "display_name": "impact淫趴",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_impact",
-        "pypi_version": "0.0.1",
+        "pypi_version": "0.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "808c102",
+        "git_hash": "070ac81",
         "git_create": false,
         "git_run": false,
         "last_seen": "6e214ef"
