@@ -937,10 +937,10 @@
         "project_link": "nonebot-plugin-shindan",
         "display_name": "ShindanMaker",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-shindan",
-        "pypi_version": "0.2.11",
+        "pypi_version": "0.2.12",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "1f1c8e1",
+        "pypi_run": true,
+        "git_hash": "77723d2",
         "git_create": true,
         "git_run": true,
         "last_seen": "646ab10"
@@ -3805,7 +3805,7 @@
         "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0b1b216",
+        "git_hash": "3f1823b",
         "git_create": true,
         "git_run": false,
         "last_seen": "646ab10"
@@ -4105,7 +4105,7 @@
         "pypi_version": "0.7.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "36716af",
+        "git_hash": "a9ee8d2",
         "git_create": false,
         "git_run": false,
         "last_seen": "646ab10"
@@ -4870,7 +4870,7 @@
         "pypi_version": "1.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4f3d2ae",
+        "git_hash": "31327ff",
         "git_create": true,
         "git_run": false,
         "last_seen": "646ab10"
@@ -4990,7 +4990,7 @@
         "pypi_version": "0.3.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a2bab77",
+        "git_hash": "d1d91fd",
         "git_create": true,
         "git_run": false,
         "last_seen": "646ab10"
@@ -5065,7 +5065,7 @@
         "pypi_version": "0.0.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ddf3475",
+        "git_hash": "808c102",
         "git_create": false,
         "git_run": false,
         "last_seen": "646ab10"
