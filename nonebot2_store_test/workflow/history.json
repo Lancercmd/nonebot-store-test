@@ -940,9 +940,9 @@
         "pypi_version": "0.2.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ee76238",
+        "git_hash": "1f1c8e1",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "646ab10"
     },
     "nonebot-plugin-vf": {
@@ -1402,10 +1402,10 @@
         "project_link": "nonebot-plugin-wordcloud",
         "display_name": "词云",
         "homepage": "https://github.com/he0119/nonebot-plugin-wordcloud",
-        "pypi_version": "0.4.2",
+        "pypi_version": "0.4.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b0e11e2",
+        "git_hash": "410918d",
         "git_create": true,
         "git_run": true,
         "last_seen": "646ab10"
@@ -3817,12 +3817,12 @@
         "project_link": "nonebot-plugin-oddtext",
         "display_name": "文本生成器",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-oddtext",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.1.2",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "cb28342",
+        "pypi_run": true,
+        "git_hash": "13c27b1",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "646ab10"
     },
     "nonebot-plugin-mahjong-scoreboard": {
@@ -3982,10 +3982,10 @@
         "project_link": "nonebot-plugin-sky",
         "display_name": "sky光遇",
         "homepage": "https://github.com/Kaguya233qwq/nonebot_plugin_sky",
-        "pypi_version": "2.0.8",
+        "pypi_version": "2.0.8.post1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3a8b018",
+        "git_hash": "5c3eedb",
         "git_create": true,
         "git_run": false,
         "last_seen": "646ab10"
@@ -4525,7 +4525,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "425c753",
+        "git_hash": "f04f8a0",
         "git_create": true,
         "git_run": false,
         "last_seen": "646ab10"
