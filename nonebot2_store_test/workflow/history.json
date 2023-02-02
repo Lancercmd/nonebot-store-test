@@ -4870,7 +4870,7 @@
         "pypi_version": "1.3.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e611d3d",
+        "git_hash": "7ec5ead",
         "git_create": true,
         "git_run": false,
         "last_seen": "d2f000b"
@@ -5107,10 +5107,10 @@
         "project_link": "nonebot-plugin-autoreply",
         "display_name": "AutoReply",
         "homepage": "https://github.com/lgc2333/nonebot-plugin-autoreply/",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.0.post0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6c14be6",
+        "git_hash": "9e606ef",
         "git_create": true,
         "git_run": false,
         "last_seen": "d2f000b"
