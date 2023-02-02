@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0rc1.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2b22492",
+        "git_hash": "bc2f1e8",
         "git_create": true,
         "git_run": true,
         "last_seen": "b534b3b"
@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "912d4d6",
+        "git_hash": "30a7302",
         "git_create": true,
         "git_run": true,
         "last_seen": "b534b3b"
@@ -3790,7 +3790,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "614a18a",
+        "git_hash": "e4b0697",
         "git_create": true,
         "git_run": false,
         "last_seen": "b534b3b"
@@ -5077,10 +5077,10 @@
         "project_link": "nonebot-plugin-mcping",
         "display_name": "MC Ping",
         "homepage": "https://github.com/17TheWord/nonebot-plugin-mcping",
-        "pypi_version": "0.0.1",
+        "pypi_version": "0.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d572707",
+        "git_hash": "fdffee9",
         "git_create": true,
         "git_run": false,
         "last_seen": "b534b3b"
