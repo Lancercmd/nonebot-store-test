@@ -5122,10 +5122,10 @@
         "project_link": "nonebot-plugin-setu-collection",
         "display_name": "我要一张xx涩图",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_setu_collection",
-        "pypi_version": "0.0.4",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "da1910b",
+        "git_hash": "9d88c3c",
         "git_create": false,
         "git_run": false,
         "last_seen": "e8760b6"
