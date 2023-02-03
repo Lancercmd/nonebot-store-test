@@ -4867,10 +4867,10 @@
         "project_link": "nonebot-plugin-pvz",
         "display_name": "植物大战僵尸小游戏",
         "homepage": "https://github.com/longchengguxiao/nonebot_plugin_pvz",
-        "pypi_version": "1.3.4",
+        "pypi_version": "1.3.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7ec5ead",
+        "git_hash": "9bcb62b",
         "git_create": true,
         "git_run": false,
         "last_seen": "d2f000b"
