@@ -3430,7 +3430,7 @@
         "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2f31196",
+        "git_hash": "6dc9ce8",
         "git_create": true,
         "git_run": false,
         "last_seen": "e8760b6"
@@ -4090,7 +4090,7 @@
         "pypi_version": "0.1.6.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "028b6f4",
+        "git_hash": "0996a9f",
         "git_create": true,
         "git_run": false,
         "last_seen": "e8760b6"
@@ -5002,10 +5002,10 @@
         "project_link": "nonebot-plugin-zyk-lightNVL",
         "display_name": "查找轻小说",
         "homepage": "https://github.com/ZYKsslm/nonebot_plugin_zyk_lightNVL",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cd1c2bb",
+        "git_hash": "0765105",
         "git_create": true,
         "git_run": false,
         "last_seen": "e8760b6"
