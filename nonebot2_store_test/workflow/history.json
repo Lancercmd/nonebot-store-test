@@ -4987,10 +4987,10 @@
         "project_link": "nonebot_plugin_xdu_support",
         "display_name": "XDU校园服务",
         "homepage": "https://github.com/longchengguxiao/nonebot_plugin_xdu_support",
-        "pypi_version": "0.3.6",
+        "pypi_version": "0.3.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d1d91fd",
+        "git_hash": "8ef4864",
         "git_create": true,
         "git_run": false,
         "last_seen": "d8cc1bd"
