@@ -1045,7 +1045,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "23a2864",
+        "git_hash": "53038cc",
         "git_create": true,
         "git_run": false,
         "last_seen": "6d7435b"
@@ -4525,7 +4525,7 @@
         "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4908e84",
+        "git_hash": "b162ba3",
         "git_create": true,
         "git_run": false,
         "last_seen": "6d7435b"
@@ -4837,10 +4837,10 @@
         "project_link": "nonebot-plugin-picmcstat",
         "display_name": "PicMCStat",
         "homepage": "https://github.com/lgc2333/nonebot-plugin-picmcstat",
-        "pypi_version": "0.2.4",
+        "pypi_version": "0.2.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5339f66",
+        "git_hash": "073ea5e",
         "git_create": true,
         "git_run": true,
         "last_seen": "6d7435b"
@@ -4990,7 +4990,7 @@
         "pypi_version": "0.3.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8ef4864",
+        "git_hash": "a2ee570",
         "git_create": true,
         "git_run": false,
         "last_seen": "6d7435b"
