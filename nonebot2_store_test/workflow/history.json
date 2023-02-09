@@ -3235,7 +3235,7 @@
         "pypi_version": "0.2.17",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cd94dde",
+        "git_hash": "a694bdf",
         "git_create": true,
         "git_run": false,
         "last_seen": "c03e416"
@@ -4942,10 +4942,10 @@
         "project_link": "nonebot-plugin-group-link-guild",
         "display_name": "Group_Link_Guild",
         "homepage": "https://github.com/17TheWord/nonebot-plugin-group-link-guild",
-        "pypi_version": "0.0.2",
+        "pypi_version": "0.0.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1bfc20a",
+        "git_hash": "a67ad5b",
         "git_create": true,
         "git_run": false,
         "last_seen": "c03e416"
