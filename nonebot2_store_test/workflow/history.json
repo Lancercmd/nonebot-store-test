@@ -1327,10 +1327,10 @@
         "project_link": "nonebot-plugin-datastore",
         "display_name": "NoneBot 数据存储",
         "homepage": "https://github.com/he0119/nonebot-plugin-datastore",
-        "pypi_version": "0.5.7",
+        "pypi_version": "0.5.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ff87636",
+        "git_hash": "b4581d2",
         "git_create": true,
         "git_run": false,
         "last_seen": "635668e"
