@@ -1687,10 +1687,10 @@
         "project_link": "nonebot-plugin-gachalogs",
         "display_name": "原神抽卡记录分析",
         "homepage": "https://github.com/monsterxcn/nonebot-plugin-gachalogs",
-        "pypi_version": "0.2.9",
+        "pypi_version": "0.2.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d215485",
+        "git_hash": "742fb12",
         "git_create": true,
         "git_run": false,
         "last_seen": "dc5ebd7"
