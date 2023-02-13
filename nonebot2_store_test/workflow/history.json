@@ -4597,10 +4597,10 @@
         "project_link": "nonebot-plugin-imgexploration",
         "display_name": "查找图片出处",
         "homepage": "https://github.com/cpuopt/nonebot_plugin_imgexploration",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0c652f0",
+        "git_hash": "178ee34",
         "git_create": true,
         "git_run": false,
         "last_seen": "dc5ebd7"
@@ -5260,7 +5260,7 @@
         "pypi_version": "0.1.0a0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "216966a",
+        "git_hash": "cb158c5",
         "git_create": true,
         "git_run": false,
         "last_seen": "dc5ebd7"
