@@ -1405,7 +1405,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0906a73",
+        "git_hash": "1a1a838",
         "git_create": true,
         "git_run": true,
         "last_seen": "dc5ebd7"
@@ -1672,10 +1672,10 @@
         "project_link": "yetanotherpicsearch",
         "display_name": "YetAnotherPicSearch",
         "homepage": "https://github.com/NekoAria/YetAnotherPicSearch",
-        "pypi_version": "1.7.10",
+        "pypi_version": "1.7.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "72e6ae7",
+        "git_hash": "18954bf",
         "git_create": true,
         "git_run": false,
         "last_seen": "dc5ebd7"
@@ -3175,7 +3175,7 @@
         "pypi_version": "0.1.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4576691",
+        "git_hash": "ed0ff83",
         "git_create": true,
         "git_run": false,
         "last_seen": "dc5ebd7"
@@ -5260,7 +5260,7 @@
         "pypi_version": "0.1.0a0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cb158c5",
+        "git_hash": "1036009",
         "git_create": true,
         "git_run": false,
         "last_seen": "dc5ebd7"
