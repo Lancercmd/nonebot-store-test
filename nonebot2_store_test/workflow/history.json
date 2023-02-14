@@ -22,10 +22,10 @@
         "project_link": "haruka-bot",
         "display_name": "HarukaBot",
         "homepage": "https://github.com/SK-415/HarukaBot",
-        "pypi_version": "1.5.3.post1",
+        "pypi_version": "1.5.3.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "d6dff37",
+        "git_hash": "9123cee",
         "git_create": true,
         "git_run": true,
         "last_seen": "dc5ebd7"
@@ -4525,8 +4525,8 @@
         "pypi_version": "0.2.5.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "50dde16",
-        "git_create": true,
+        "git_hash": "9c051b8",
+        "git_create": false,
         "git_run": false,
         "last_seen": "dc5ebd7"
     },
@@ -5245,9 +5245,9 @@
         "pypi_version": "0.0.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e9f43ae",
+        "git_hash": "47e5834",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "dc5ebd7"
     },
     "nonebot-plugin-all4one": {
@@ -5260,7 +5260,7 @@
         "pypi_version": "0.1.0a0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9f83d09",
+        "git_hash": "5d16b7c",
         "git_create": true,
         "git_run": false,
         "last_seen": "dc5ebd7"
