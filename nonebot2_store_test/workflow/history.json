@@ -1042,10 +1042,10 @@
         "project_link": "olivos.nb2",
         "display_name": "OlivOS.nb2",
         "homepage": "https://github.com/nonepkg/OlivOS.nb2",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "53038cc",
+        "git_hash": "ffc2a62",
         "git_create": true,
         "git_run": false,
         "last_seen": "dc5ebd7"
@@ -1345,7 +1345,7 @@
         "pypi_version": "0.6.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8261b65",
+        "git_hash": "313dcba",
         "git_create": true,
         "git_run": false,
         "last_seen": "dc5ebd7"
