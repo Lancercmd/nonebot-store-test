@@ -265,7 +265,7 @@
         "pypi_version": "0.7.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d9ca7cc",
+        "git_hash": "e594962",
         "git_create": true,
         "git_run": false,
         "last_seen": "dc5ebd7"
@@ -2410,9 +2410,9 @@
         "pypi_version": "1.0.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4382b56",
+        "git_hash": "054c981",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "dc5ebd7"
     },
     "nonebot-plugin-imagetools": {
