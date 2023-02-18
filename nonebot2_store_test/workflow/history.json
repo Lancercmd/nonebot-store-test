@@ -5167,10 +5167,10 @@
         "project_link": "nonebot-plugin-dicky-pk",
         "display_name": "DickyPK",
         "homepage": "https://github.com/tkgs0/nonebot-plugin-dicky-pk",
-        "pypi_version": "0.3.1",
+        "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "43fa50b",
+        "git_hash": "5037cd6",
         "git_create": true,
         "git_run": false,
         "last_seen": "1dc02bf"
