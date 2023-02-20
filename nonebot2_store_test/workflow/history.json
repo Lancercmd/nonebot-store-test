@@ -1675,7 +1675,7 @@
         "pypi_version": "1.7.13",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e90a3ac",
+        "git_hash": "e2ecb0f",
         "git_create": true,
         "git_run": false,
         "last_seen": "e11298d"
@@ -2452,7 +2452,7 @@
         "project_link": "hikari-bot",
         "display_name": "Hikari-战舰世界水表查询",
         "homepage": "https://github.com/benx1n/HikariBot",
-        "pypi_version": "0.3.6.2",
+        "pypi_version": "0.3.6.3",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "75030da",
@@ -4522,12 +4522,12 @@
         "project_link": "nonebot-plugin-l4d2-server",
         "display_name": "求生之路2——服务器操作",
         "homepage": "https://github.com/Umamusume-Agnes-Digital/nonebot_plugin_l4d2_server",
-        "pypi_version": "0.3.1.1",
+        "pypi_version": "0.3.1.2",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "c478888",
+        "pypi_run": true,
+        "git_hash": "b221503",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "e11298d"
     },
     "nonebot-plugin-learning-chat": {
@@ -5260,7 +5260,7 @@
         "pypi_version": "0.1.0a1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f34e7d6",
+        "git_hash": "bc93059",
         "git_create": true,
         "git_run": false,
         "last_seen": "e11298d"
