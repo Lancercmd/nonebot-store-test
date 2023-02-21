@@ -4282,10 +4282,10 @@
         "project_link": "nonebot-plugin-gpt3",
         "display_name": "GPT3",
         "homepage": "https://github.com/chrisyy2003/nonebot-plugin-gpt3",
-        "pypi_version": "1.0.17",
+        "pypi_version": "1.0.18",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8cec0c6",
+        "git_hash": "daf35cf",
         "git_create": true,
         "git_run": false,
         "last_seen": "4dc92ff"
@@ -5260,7 +5260,7 @@
         "pypi_version": "0.1.0a1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e60698b",
+        "git_hash": "abf96b1",
         "git_create": true,
         "git_run": false,
         "last_seen": "4dc92ff"
