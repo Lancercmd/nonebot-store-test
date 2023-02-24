@@ -2992,10 +2992,10 @@
         "project_link": "nonebot-plugin-pixivbot",
         "display_name": "PixivBot",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-pixivbot",
-        "pypi_version": "1.7.4",
+        "pypi_version": "1.7.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "53848a8",
+        "git_hash": "4da2ef7",
         "git_create": true,
         "git_run": false,
         "last_seen": "74743e6"
@@ -3430,7 +3430,7 @@
         "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6dc9ce8",
+        "git_hash": "c23e89c",
         "git_create": true,
         "git_run": false,
         "last_seen": "74743e6"
@@ -3790,7 +3790,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2de0b17",
+        "git_hash": "2ff6500",
         "git_create": true,
         "git_run": false,
         "last_seen": "74743e6"
@@ -3835,7 +3835,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5a011cc",
+        "git_hash": "b088da2",
         "git_create": true,
         "git_run": false,
         "last_seen": "74743e6"
@@ -3982,10 +3982,10 @@
         "project_link": "nonebot-plugin-sky",
         "display_name": "sky光遇",
         "homepage": "https://github.com/Kaguya233qwq/nonebot_plugin_sky",
-        "pypi_version": "2.1.1",
+        "pypi_version": "2.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a6cb57f",
+        "git_hash": "6ff6bf8",
         "git_create": true,
         "git_run": false,
         "last_seen": "74743e6"
@@ -5350,7 +5350,7 @@
         "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c640297",
+        "git_hash": "1725589",
         "git_create": true,
         "git_run": false,
         "last_seen": "74743e6"
