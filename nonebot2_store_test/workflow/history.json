@@ -655,7 +655,7 @@
         "pypi_version": "2.6.14",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "697fc81",
+        "git_hash": "f4a4416",
         "git_create": true,
         "git_run": false,
         "last_seen": "dd04190"
@@ -3427,10 +3427,10 @@
         "project_link": "nonebot-plugin-bottle",
         "display_name": "漂流瓶",
         "homepage": "https://github.com/Todysheep/nonebot_plugin_bottle",
-        "pypi_version": "0.2.6",
+        "pypi_version": "0.2.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "87d02a8",
+        "git_hash": "2823740",
         "git_create": true,
         "git_run": false,
         "last_seen": "dd04190"
@@ -4525,7 +4525,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8174070",
+        "git_hash": "d4b4fb6",
         "git_create": true,
         "git_run": true,
         "last_seen": "dd04190"
@@ -4957,10 +4957,10 @@
         "project_link": "nonebot-plugin-alconna",
         "display_name": "Alconna 命令工具",
         "homepage": "https://github.com/ArcletProject/nonebot-plugin-alconna",
-        "pypi_version": "0.3.1",
+        "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "55dfea6",
+        "git_hash": "717fa41",
         "git_create": true,
         "git_run": false,
         "last_seen": "dd04190"
