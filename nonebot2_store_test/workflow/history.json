@@ -3325,7 +3325,7 @@
         "pypi_version": "1.0.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "de553bc",
+        "git_hash": "3b8e4ba",
         "git_create": false,
         "git_run": false,
         "last_seen": "74743e6"
@@ -3787,10 +3787,10 @@
         "project_link": "nonebot-plugin-blacklist",
         "display_name": "用户&群聊黑名单",
         "homepage": "https://github.com/tkgs0/nonebot-plugin-blacklist",
-        "pypi_version": "0.3.2",
+        "pypi_version": "0.3.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2ff6500",
+        "git_hash": "b1f2fcd",
         "git_create": true,
         "git_run": false,
         "last_seen": "74743e6"
@@ -4780,7 +4780,7 @@
         "pypi_version": "0.3.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9f357d6",
+        "git_hash": "f3d530a",
         "git_create": true,
         "git_run": false,
         "last_seen": "74743e6"
