@@ -3052,10 +3052,10 @@
         "project_link": "nonebot-plugin-course",
         "display_name": "课表查询",
         "homepage": "https://github.com/InariInDream/nonebot_plugin_course",
-        "pypi_version": "0.1.8",
+        "pypi_version": "0.1.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "554e879",
+        "git_hash": "e94e514",
         "git_create": false,
         "git_run": false,
         "last_seen": "34223d6"
@@ -4525,7 +4525,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "fb320d0",
+        "git_hash": "0317127",
         "git_create": true,
         "git_run": true,
         "last_seen": "34223d6"
@@ -5335,7 +5335,7 @@
         "pypi_version": "0.2.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7ec4b34",
+        "git_hash": "c66105c",
         "git_create": true,
         "git_run": false,
         "last_seen": "34223d6"
@@ -5377,10 +5377,10 @@
         "project_link": "nonebot_plugin_xiuxian_2",
         "display_name": "修仙_2.0",
         "homepage": "https://github.com/QingMuCat/nonebot_plugin_xiuxian_2.0",
-        "pypi_version": "2.2.1",
+        "pypi_version": "2.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a60c52f",
+        "git_hash": "1e4220b",
         "git_create": false,
         "git_run": false,
         "last_seen": "34223d6"
