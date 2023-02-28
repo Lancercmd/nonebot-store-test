@@ -1330,7 +1330,7 @@
         "pypi_version": "0.5.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fb7e7e1",
+        "git_hash": "02c7c0f",
         "git_create": true,
         "git_run": false,
         "last_seen": "be81d09"
@@ -3925,7 +3925,7 @@
         "pypi_version": "23.2.24",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "1576d68",
+        "git_hash": "92d4c9e",
         "git_create": true,
         "git_run": true,
         "last_seen": "be81d09"
@@ -3985,7 +3985,7 @@
         "pypi_version": "2.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d2c8cf0",
+        "git_hash": "977075f",
         "git_create": true,
         "git_run": false,
         "last_seen": "be81d09"
@@ -5287,7 +5287,7 @@
         "project_link": "nonebot-plugin-gsabyss",
         "display_name": "原神深境螺旋数据查询",
         "homepage": "https://github.com/monsterxcn/nonebot-plugin-gsabyss",
-        "pypi_version": "0.1.3",
+        "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "9680f80",
