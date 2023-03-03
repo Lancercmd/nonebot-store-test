@@ -4282,10 +4282,10 @@
         "project_link": "nonebot-plugin-gpt3",
         "display_name": "GPT3",
         "homepage": "https://github.com/chrisyy2003/nonebot-plugin-gpt3",
-        "pypi_version": "1.0.22",
+        "pypi_version": "1.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d4e867c",
+        "git_hash": "9d562e0",
         "git_create": true,
         "git_run": false,
         "last_seen": "8dc36aa"
@@ -4525,9 +4525,9 @@
         "pypi_version": "0.3.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a67055a",
+        "git_hash": "67b7914",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "8dc36aa"
     },
     "nonebot-plugin-learning-chat": {
@@ -4837,10 +4837,10 @@
         "project_link": "nonebot-plugin-picmcstat",
         "display_name": "PicMCStat",
         "homepage": "https://github.com/lgc2333/nonebot-plugin-picmcstat",
-        "pypi_version": "0.2.6.post1",
+        "pypi_version": "0.2.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "df7bff6",
+        "git_hash": "a8b77b3",
         "git_create": true,
         "git_run": true,
         "last_seen": "8dc36aa"
@@ -5380,7 +5380,7 @@
         "pypi_version": "2.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "be508c6",
+        "git_hash": "c4b87e2",
         "git_create": false,
         "git_run": false,
         "last_seen": "8dc36aa"
