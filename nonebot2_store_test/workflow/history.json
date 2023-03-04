@@ -2935,7 +2935,7 @@
         "pypi_version": "2.0.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ab99614",
+        "git_hash": "6a1ea40",
         "git_create": false,
         "git_run": false,
         "last_seen": "40bccbc"
@@ -5377,10 +5377,10 @@
         "project_link": "nonebot_plugin_xiuxian_2",
         "display_name": "修仙_2.0",
         "homepage": "https://github.com/QingMuCat/nonebot_plugin_xiuxian_2.0",
-        "pypi_version": "2.2.2",
+        "pypi_version": "2.3.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "95414d4",
+        "git_hash": "e656cfe",
         "git_create": false,
         "git_run": false,
         "last_seen": "40bccbc"
