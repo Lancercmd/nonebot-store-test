@@ -5020,7 +5020,7 @@
         "pypi_version": "0.2.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0a6308d",
+        "git_hash": "96e15b3",
         "git_create": true,
         "git_run": false,
         "last_seen": "6116d39"
@@ -5050,7 +5050,7 @@
         "pypi_version": "1.5.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7f198cc",
+        "git_hash": "8f2602b",
         "git_create": false,
         "git_run": false,
         "last_seen": "6116d39"
@@ -5182,10 +5182,10 @@
         "project_link": "nonebot-plugin-eventmonitor",
         "display_name": "Q群消息事件监控",
         "homepage": "https://github.com/Reversedeer/nonebot_plugin_eventmonitor",
-        "pypi_version": "0.0.6",
+        "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ef70092",
+        "git_hash": "c2f7177",
         "git_create": true,
         "git_run": false,
         "last_seen": "6116d39"
@@ -5335,7 +5335,7 @@
         "pypi_version": "0.3.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "87a9bd4",
+        "git_hash": "52c04f4",
         "git_create": true,
         "git_run": false,
         "last_seen": "6116d39"
