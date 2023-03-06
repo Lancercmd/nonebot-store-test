@@ -1435,7 +1435,7 @@
         "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a602331",
+        "git_hash": "ddc8101",
         "git_create": true,
         "git_run": true,
         "last_seen": "7e614bb"
@@ -2935,7 +2935,7 @@
         "pypi_version": "2.0.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "d041855",
+        "git_hash": "e61975f",
         "git_create": false,
         "git_run": false,
         "last_seen": "7e614bb"
@@ -5047,10 +5047,10 @@
         "project_link": "nonebot-plugin-naturel-gpt",
         "display_name": "更人性化的GPT-Ai聊天插件",
         "homepage": "https://github.com/KroMiose/nonebot_plugin_naturel_gpt",
-        "pypi_version": "1.5.1",
+        "pypi_version": "1.5.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3041f79",
+        "git_hash": "aaa095e",
         "git_create": false,
         "git_run": false,
         "last_seen": "7e614bb"
@@ -5380,7 +5380,7 @@
         "pypi_version": "2.4.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "31a04c0",
+        "git_hash": "5f7ed42",
         "git_create": false,
         "git_run": false,
         "last_seen": "7e614bb"
@@ -5527,10 +5527,10 @@
         "project_link": "nonebot-plugin-ai-timetable",
         "display_name": "小爱课程表",
         "homepage": "https://github.com/maoxig/nonebot-plugin-ai-timetable",
-        "pypi_version": "0.1.4",
+        "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5485ea5",
+        "git_hash": "6b3a598",
         "git_create": true,
         "git_run": false,
         "last_seen": "7e614bb"
