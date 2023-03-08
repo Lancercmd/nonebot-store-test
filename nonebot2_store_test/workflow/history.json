@@ -1165,7 +1165,7 @@
         "pypi_version": "2.1.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0f67c40",
+        "git_hash": "b52a58f",
         "git_create": true,
         "git_run": false,
         "last_seen": "06fa0fb"
@@ -5527,10 +5527,10 @@
         "project_link": "nonebot-plugin-ai-timetable",
         "display_name": "小爱课程表",
         "homepage": "https://github.com/maoxig/nonebot-plugin-ai-timetable",
-        "pypi_version": "0.1.7",
+        "pypi_version": "0.1.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "541ec6f",
+        "git_hash": "4193cbb",
         "git_create": true,
         "git_run": false,
         "last_seen": "06fa0fb"
