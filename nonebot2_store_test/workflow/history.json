@@ -5197,10 +5197,10 @@
         "project_link": "nonebot-plugin-whateat-pic",
         "display_name": "今天吃喝什么（图片版）",
         "homepage": "https://github.com/Cvandia/nonebot-plugin-whateat-pic",
-        "pypi_version": "1.0.8",
+        "pypi_version": "1.0.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7b57a7d",
+        "git_hash": "4bceb1a",
         "git_create": true,
         "git_run": false,
         "last_seen": "3ec7645"
