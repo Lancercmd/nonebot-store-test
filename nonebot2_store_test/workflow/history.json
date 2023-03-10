@@ -3802,10 +3802,10 @@
         "project_link": "nonebot-plugin-antiinsult",
         "display_name": "反嘴臭插件",
         "homepage": "https://github.com/tkgs0/nonebot-plugin-antiinsult",
-        "pypi_version": "0.3.2",
+        "pypi_version": "0.3.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b83a57b",
+        "git_hash": "5872d20",
         "git_create": true,
         "git_run": false,
         "last_seen": "3ec7645"
