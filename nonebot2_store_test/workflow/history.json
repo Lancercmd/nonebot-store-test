@@ -2542,10 +2542,10 @@
         "project_link": "nonebot-plugin-smart-reply",
         "display_name": "智能回复",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_smart_reply",
-        "pypi_version": "0.0.18",
+        "pypi_version": "0.0.19",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e2e44eb",
+        "git_hash": "c8996cc",
         "git_create": false,
         "git_run": false,
         "last_seen": "856f0b9"
