@@ -3952,10 +3952,10 @@
         "project_link": "nonebot-plugin-searchBiliInfo",
         "display_name": "b站用户信息查询",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_searchBiliInfo",
-        "pypi_version": "1.6.5",
+        "pypi_version": "1.6.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9665df0",
+        "git_hash": "e11dfcf",
         "git_create": true,
         "git_run": false,
         "last_seen": "3a14203"
@@ -5260,7 +5260,7 @@
         "pypi_version": "0.1.0a1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7196ed1",
+        "git_hash": "0afb434",
         "git_create": true,
         "git_run": false,
         "last_seen": "3a14203"
@@ -5530,7 +5530,7 @@
         "pypi_version": "0.1.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bbcb86b",
+        "git_hash": "c9791f0",
         "git_create": true,
         "git_run": false,
         "last_seen": "3a14203"
@@ -5620,7 +5620,7 @@
         "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f4bf567",
+        "git_hash": "3548661",
         "git_create": true,
         "git_run": false,
         "last_seen": "3a14203"
