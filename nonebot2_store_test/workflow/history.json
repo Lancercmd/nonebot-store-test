@@ -2935,7 +2935,7 @@
         "pypi_version": "2.0.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "e61975f",
+        "git_hash": "5a93d34",
         "git_create": false,
         "git_run": false,
         "last_seen": "856f0b9"
@@ -3625,7 +3625,7 @@
         "pypi_version": "0.5.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d1dc21f",
+        "git_hash": "c2b2cd4",
         "git_create": true,
         "git_run": false,
         "last_seen": "856f0b9"
@@ -4180,7 +4180,7 @@
         "pypi_version": "0.3.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "09a5ef5",
+        "git_hash": "9acc2ca",
         "git_create": true,
         "git_run": false,
         "last_seen": "856f0b9"
@@ -5332,10 +5332,10 @@
         "project_link": "nonebot-plugin-bing-chat",
         "display_name": "Bing Chat",
         "homepage": "https://github.com/Harry-Jing/nonebot-plugin-bing-chat",
-        "pypi_version": "0.5.2",
+        "pypi_version": "0.5.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bb602d4",
+        "git_hash": "08941a3",
         "git_create": true,
         "git_run": false,
         "last_seen": "856f0b9"
@@ -5530,7 +5530,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1aae798",
+        "git_hash": "fda044b",
         "git_create": true,
         "git_run": false,
         "last_seen": "856f0b9"
@@ -5575,7 +5575,7 @@
         "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "06b61e1",
+        "git_hash": "561ab06",
         "git_create": true,
         "git_run": false,
         "last_seen": "856f0b9"
