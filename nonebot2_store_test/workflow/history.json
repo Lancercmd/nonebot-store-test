@@ -265,7 +265,7 @@
         "pypi_version": "0.7.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "45cec9d",
+        "git_hash": "010e633",
         "git_create": true,
         "git_run": false,
         "last_seen": "97eee5a"
@@ -4000,7 +4000,7 @@
         "pypi_version": "2.9.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c6ccf5d",
+        "git_hash": "e21ed3f",
         "git_create": true,
         "git_run": false,
         "last_seen": "97eee5a"
@@ -5380,7 +5380,7 @@
         "pypi_version": "2.4.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5f7ed42",
+        "git_hash": "85dfdf5",
         "git_create": false,
         "git_run": false,
         "last_seen": "97eee5a"
@@ -5602,10 +5602,10 @@
         "project_link": "nonebot-plugin-tuan-chatgpt",
         "display_name": "和团子聊天！",
         "homepage": "https://github.com/TheLZY/nonebot_plugin_tuan_chatgpt",
-        "pypi_version": "0.1.8",
+        "pypi_version": "0.1.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6a94498",
+        "git_hash": "b8cd69d",
         "git_create": true,
         "git_run": false,
         "last_seen": "97eee5a"
@@ -5617,10 +5617,10 @@
         "project_link": "nonebot-plugin-chatpdf",
         "display_name": "ChatPDF文章分析",
         "homepage": "https://github.com/Alpaca4610/nonebot_plugin_chatpdf",
-        "pypi_version": "0.2.2",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7bef2cd",
+        "git_hash": "8052fd4",
         "git_create": true,
         "git_run": false,
         "last_seen": "97eee5a"
