@@ -2695,7 +2695,7 @@
         "pypi_version": "1.5.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2311456",
+        "git_hash": "cc3ce33",
         "git_create": true,
         "git_run": false,
         "last_seen": "fca2d07"
@@ -5050,7 +5050,7 @@
         "pypi_version": "1.5.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bbff48d",
+        "git_hash": "2bbd5c6",
         "git_create": false,
         "git_run": false,
         "last_seen": "fca2d07"
@@ -5227,10 +5227,10 @@
         "project_link": "nonebot-plugin-acm-reminder",
         "display_name": "ACMReminder",
         "homepage": "https://github.com/BigOrangeQWQ/nonebot_plugin_acm_reminder",
-        "pypi_version": "0.1.4",
+        "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "673acab",
+        "git_hash": "e717d23",
         "git_create": true,
         "git_run": false,
         "last_seen": "fca2d07"
@@ -5332,10 +5332,10 @@
         "project_link": "nonebot-plugin-bing-chat",
         "display_name": "Bing Chat",
         "homepage": "https://github.com/Harry-Jing/nonebot-plugin-bing-chat",
-        "pypi_version": "0.5.4",
+        "pypi_version": "0.6.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a0a73a1",
+        "git_hash": "101ab4a",
         "git_create": true,
         "git_run": false,
         "last_seen": "fca2d07"
@@ -5650,7 +5650,7 @@
         "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9c17864",
+        "git_hash": "4da7a8a",
         "git_create": true,
         "git_run": true,
         "last_seen": "fca2d07"
