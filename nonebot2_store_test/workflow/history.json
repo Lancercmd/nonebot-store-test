@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0rc1.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "959c91a",
+        "git_hash": "88902ba",
         "git_create": true,
         "git_run": true,
         "last_seen": "9f1b9ce"
@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "3a4def4",
+        "git_hash": "78ffaae",
         "git_create": true,
         "git_run": true,
         "last_seen": "9f1b9ce"
@@ -5752,10 +5752,10 @@
         "project_link": "nonebot-plugin-randomnana",
         "display_name": "随机狗妈",
         "homepage": "https://github.com/NanakoOfficial/nonebot_plugin_randomnana",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d18fd42",
+        "git_hash": "13bcd5c",
         "git_create": true,
         "git_run": false,
         "last_seen": "9f1b9ce"
