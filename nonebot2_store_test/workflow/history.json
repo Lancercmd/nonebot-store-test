@@ -5767,10 +5767,10 @@
         "project_link": "nonebot-plugin-quote",
         "display_name": "群聊语录库",
         "homepage": "https://github.com/RongRongJi/nonebot_plugin_quote",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "662213b",
+        "git_hash": "0185b79",
         "git_create": true,
         "git_run": false,
         "last_seen": "8d09dd9"
