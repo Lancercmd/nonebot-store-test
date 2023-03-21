@@ -5707,10 +5707,10 @@
         "project_link": "nonebot-plugin-gshisbanner",
         "display_name": "原神历史卡池",
         "homepage": "https://github.com/forchannot/nonebot-plugin-gshisbanner",
-        "pypi_version": "0.3.5",
+        "pypi_version": "0.3.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5e0e146",
+        "git_hash": "061fa75",
         "git_create": true,
         "git_run": false,
         "last_seen": "8d09dd9"
