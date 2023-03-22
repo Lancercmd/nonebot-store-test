@@ -1345,7 +1345,7 @@
         "pypi_version": "0.6.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c325587",
+        "git_hash": "f52002b",
         "git_create": true,
         "git_run": false,
         "last_seen": "9afaf3d"
@@ -1687,10 +1687,10 @@
         "project_link": "nonebot-plugin-gachalogs",
         "display_name": "原神抽卡记录分析",
         "homepage": "https://github.com/monsterxcn/nonebot-plugin-gachalogs",
-        "pypi_version": "0.2.11",
+        "pypi_version": "0.2.12",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b2b32bb",
+        "git_hash": "68ca1d2",
         "git_create": true,
         "git_run": false,
         "last_seen": "9afaf3d"
@@ -4600,7 +4600,7 @@
         "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "178ee34",
+        "git_hash": "744abb8",
         "git_create": true,
         "git_run": false,
         "last_seen": "9afaf3d"
