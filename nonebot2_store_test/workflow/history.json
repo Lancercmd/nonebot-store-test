@@ -652,12 +652,12 @@
         "project_link": "ELF-RSS",
         "display_name": "ELF_RSS",
         "homepage": "https://github.com/Quan666/ELF_RSS",
-        "pypi_version": "2.6.15",
+        "pypi_version": "2.6.16",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "9039520",
+        "pypi_run": true,
+        "git_hash": "2b4384b",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "909a335"
     },
     "nonebot-plugin-atri": {
@@ -4375,7 +4375,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6f6b01f",
+        "git_hash": "bdfc8c2",
         "git_create": true,
         "git_run": false,
         "last_seen": "909a335"
