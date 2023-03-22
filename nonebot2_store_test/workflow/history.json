@@ -1600,7 +1600,7 @@
         "pypi_version": "1.1.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "72e79ec",
+        "git_hash": "7ef9ee5",
         "git_create": true,
         "git_run": false,
         "last_seen": "9afaf3d"
@@ -5050,7 +5050,7 @@
         "pypi_version": "2.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1e682c1",
+        "git_hash": "8bc5cba",
         "git_create": false,
         "git_run": false,
         "last_seen": "9afaf3d"
