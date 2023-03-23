@@ -1627,10 +1627,10 @@
         "project_link": "nonebot-plugin-setu",
         "display_name": "nonebot_plugin_setu",
         "homepage": "https://github.com/ayanamiblhx/nonebot_plugin_setu",
-        "pypi_version": "1.1.10",
+        "pypi_version": "1.1.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "355afb2",
+        "git_hash": "43afde1",
         "git_create": true,
         "git_run": false,
         "last_seen": "d4da953"
@@ -3952,10 +3952,10 @@
         "project_link": "nonebot-plugin-searchBiliInfo",
         "display_name": "b站用户信息查询",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_searchBiliInfo",
-        "pypi_version": "1.7.0",
+        "pypi_version": "1.7.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bb0090b",
+        "git_hash": "9614c54",
         "git_create": true,
         "git_run": false,
         "last_seen": "d4da953"
@@ -5050,7 +5050,7 @@
         "pypi_version": "2.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4c88a9c",
+        "git_hash": "cd7d742",
         "git_create": false,
         "git_run": false,
         "last_seen": "d4da953"
@@ -5350,7 +5350,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "454ab93",
+        "git_hash": "4582542",
         "git_create": true,
         "git_run": false,
         "last_seen": "d4da953"
@@ -5590,7 +5590,7 @@
         "pypi_version": "0.6.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "02108f3",
+        "git_hash": "0c29203",
         "git_create": false,
         "git_run": false,
         "last_seen": "d4da953"
