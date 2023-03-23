@@ -5602,10 +5602,10 @@
         "project_link": "nonebot-plugin-tuan-chatgpt",
         "display_name": "和团子聊天！",
         "homepage": "https://github.com/TheLZY/nonebot_plugin_tuan_chatgpt",
-        "pypi_version": "0.2.4",
+        "pypi_version": "0.2.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9f88902",
+        "git_hash": "71c5e6b",
         "git_create": true,
         "git_run": false,
         "last_seen": "909a335"
