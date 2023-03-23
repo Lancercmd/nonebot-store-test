@@ -775,7 +775,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "655c113",
+        "git_hash": "b90d624",
         "git_create": true,
         "git_run": false,
         "last_seen": "d4da953"
@@ -1867,10 +1867,10 @@
         "project_link": "nonebot-plugin-arcaeabot",
         "display_name": "Arcaea查分插件",
         "homepage": "https://github.com/SEAFHMC/nonebot-plugin-arcaeabot",
-        "pypi_version": "3.1.7",
+        "pypi_version": "3.1.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5adba6a",
+        "git_hash": "d758688",
         "git_create": true,
         "git_run": false,
         "last_seen": "d4da953"
@@ -4525,7 +4525,7 @@
         "pypi_version": "0.3.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7d3f404",
+        "git_hash": "2a169f9",
         "git_create": true,
         "git_run": true,
         "last_seen": "d4da953"
@@ -5350,7 +5350,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3187d25",
+        "git_hash": "454ab93",
         "git_create": true,
         "git_run": false,
         "last_seen": "d4da953"
@@ -5572,10 +5572,10 @@
         "project_link": "nonebot-plugin-chatgpt-turbo",
         "display_name": "ChatGPT官方接口版",
         "homepage": "https://github.com/Alpaca4610/nonebot_plugin_chatgpt_turbo",
-        "pypi_version": "0.2.5",
+        "pypi_version": "0.2.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "96e08b2",
+        "git_hash": "1202f5f",
         "git_create": true,
         "git_run": false,
         "last_seen": "d4da953"
