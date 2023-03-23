@@ -4177,10 +4177,10 @@
         "project_link": "nonebot-plugin-access-control",
         "display_name": "权限控制",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-access-control",
-        "pypi_version": "0.3.8",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "47d9fef",
+        "git_hash": "dd64e5e",
         "git_create": true,
         "git_run": false,
         "last_seen": "d4da953"
