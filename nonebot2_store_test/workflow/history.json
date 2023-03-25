@@ -2560,7 +2560,7 @@
         "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e31bc29",
+        "git_hash": "f2bc986",
         "git_create": true,
         "git_run": false,
         "last_seen": "744443a"
@@ -3805,7 +3805,7 @@
         "pypi_version": "0.3.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f914f6c",
+        "git_hash": "e267502",
         "git_create": true,
         "git_run": false,
         "last_seen": "744443a"
@@ -5422,10 +5422,10 @@
         "project_link": "nonebot-plugin-warframe-mode",
         "display_name": "wf的wm市场",
         "homepage": "https://github.com/mmxd12/nonebot_plugin_warframe_mode",
-        "pypi_version": "0.0.3",
+        "pypi_version": "0.0.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b4f940a",
+        "git_hash": "5d2a2c2",
         "git_create": true,
         "git_run": false,
         "last_seen": "744443a"
