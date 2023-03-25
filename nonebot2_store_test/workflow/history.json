@@ -2557,10 +2557,10 @@
         "project_link": "nonebot-plugin-today-in-history",
         "display_name": "历史上的今天",
         "homepage": "https://github.com/AquamarineCyan/nonebot-plugin-today-in-history",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f2bc986",
+        "git_hash": "98cbd66",
         "git_create": true,
         "git_run": false,
         "last_seen": "744443a"
