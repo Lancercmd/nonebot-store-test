@@ -1102,10 +1102,10 @@
         "project_link": "nonebot-plugin-memes",
         "display_name": "表情包制作",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-memes",
-        "pypi_version": "0.4.2",
+        "pypi_version": "0.4.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8adbe7b",
+        "git_hash": "ee2b9f8",
         "git_create": true,
         "git_run": true,
         "last_seen": "744443a"
@@ -4525,7 +4525,7 @@
         "pypi_version": "0.3.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8746f9e",
+        "git_hash": "10ee3b8",
         "git_create": true,
         "git_run": true,
         "last_seen": "744443a"
@@ -5650,7 +5650,7 @@
         "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4da7a8a",
+        "git_hash": "73fe745",
         "git_create": true,
         "git_run": true,
         "last_seen": "744443a"
@@ -5782,10 +5782,10 @@
         "project_link": "nonebot-plugin-memes-api",
         "display_name": "表情包制作（调用API版）",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-memes-api",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "af07cda",
+        "git_hash": "451d31f",
         "git_create": true,
         "git_run": true,
         "last_seen": "744443a"
