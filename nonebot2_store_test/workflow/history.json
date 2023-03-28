@@ -1105,7 +1105,7 @@
         "pypi_version": "0.4.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ee2b9f8",
+        "git_hash": "41c00f1",
         "git_create": true,
         "git_run": true,
         "last_seen": "3709e0b"
@@ -1345,7 +1345,7 @@
         "pypi_version": "0.6.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f52002b",
+        "git_hash": "e8b91f1",
         "git_create": true,
         "git_run": false,
         "last_seen": "3709e0b"
@@ -2407,10 +2407,10 @@
         "project_link": "nonebot-plugin-arktools",
         "display_name": "明日方舟工具箱",
         "homepage": "https://github.com/NumberSir/nonebot_plugin_arktools",
-        "pypi_version": "1.0.14",
+        "pypi_version": "1.0.15",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "c6ef2aa",
+        "git_hash": "6ba810b",
         "git_create": true,
         "git_run": false,
         "last_seen": "3709e0b"
@@ -4120,7 +4120,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9661f06",
+        "git_hash": "5cd01a7",
         "git_create": true,
         "git_run": false,
         "last_seen": "3709e0b"
@@ -5335,7 +5335,7 @@
         "pypi_version": "0.7.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8d0d3ce",
+        "git_hash": "b500fcf",
         "git_create": true,
         "git_run": false,
         "last_seen": "3709e0b"
@@ -5635,7 +5635,7 @@
         "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "60de06e",
+        "git_hash": "5376e65",
         "git_create": true,
         "git_run": false,
         "last_seen": "3709e0b"
@@ -5767,10 +5767,10 @@
         "project_link": "nonebot-plugin-quote",
         "display_name": "群聊语录库",
         "homepage": "https://github.com/RongRongJi/nonebot_plugin_quote",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7652921",
+        "git_hash": "c88d704",
         "git_create": true,
         "git_run": false,
         "last_seen": "3709e0b"
@@ -5860,7 +5860,7 @@
         "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0dfbb81",
+        "git_hash": "a06fe14",
         "git_create": true,
         "git_run": false,
         "last_seen": "3709e0b"
