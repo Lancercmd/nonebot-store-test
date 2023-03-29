@@ -4525,7 +4525,7 @@
         "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "59c03f4",
+        "git_hash": "2b6a408",
         "git_create": true,
         "git_run": true,
         "last_seen": "315dcb3"
@@ -5932,10 +5932,10 @@
         "project_link": "nonebot-plugin-questionmark",
         "display_name": "颠倒问号",
         "homepage": "https://github.com/NumberSir/nonebot-plugin-questionmark",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8b6e95b",
+        "git_hash": "3bf5f52",
         "git_create": true,
         "git_run": false,
         "last_seen": "315dcb3"
