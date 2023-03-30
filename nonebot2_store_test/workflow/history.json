@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0rc1.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "88902ba",
+        "git_hash": "9393faf",
         "git_create": true,
         "git_run": true,
         "last_seen": "4393392"
@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "78ffaae",
+        "git_hash": "84d8e44",
         "git_create": true,
         "git_run": true,
         "last_seen": "4393392"
@@ -652,10 +652,10 @@
         "project_link": "ELF-RSS",
         "display_name": "ELF_RSS",
         "homepage": "https://github.com/Quan666/ELF_RSS",
-        "pypi_version": "2.6.16",
+        "pypi_version": "2.6.17",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "08f4a12",
+        "git_hash": "18b1178",
         "git_create": true,
         "git_run": true,
         "last_seen": "4393392"
@@ -5332,10 +5332,10 @@
         "project_link": "nonebot-plugin-bing-chat",
         "display_name": "Bing Chat",
         "homepage": "https://github.com/Harry-Jing/nonebot-plugin-bing-chat",
-        "pypi_version": "0.7.5",
+        "pypi_version": "0.7.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5eb1cf6",
+        "git_hash": "8a813f9",
         "git_create": true,
         "git_run": false,
         "last_seen": "4393392"
@@ -5605,7 +5605,7 @@
         "pypi_version": "0.2.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "26855a6",
+        "git_hash": "10f1e40",
         "git_create": true,
         "git_run": false,
         "last_seen": "4393392"
@@ -5950,7 +5950,7 @@
         "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "40b0f49",
+        "git_hash": "9751df0",
         "git_create": true,
         "git_run": false,
         "last_seen": "4393392"
