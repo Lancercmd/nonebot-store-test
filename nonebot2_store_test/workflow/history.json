@@ -655,7 +655,7 @@
         "pypi_version": "2.6.17",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "e0987c8",
+        "git_hash": "17b2cec",
         "git_create": true,
         "git_run": true,
         "last_seen": "c8c5f17"
@@ -5981,6 +5981,21 @@
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "3466514",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "c8c5f17"
+    },
+    "nonebot-plugin-gw2": {
+        "_runtime_latest": "2.0.0rc4",
+        "first_seen": "c8c5f17",
+        "module_name": "nonebot-plugin-gw2",
+        "project_link": "nonebot-plugin-gw2",
+        "display_name": "激战2！！！",
+        "homepage": "https://github.com/Umamusume-Agnes-Digital/nonebot_plugin_gw2",
+        "pypi_version": "0.0.1",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "11ae31f",
         "git_create": true,
         "git_run": false,
         "last_seen": "c8c5f17"
