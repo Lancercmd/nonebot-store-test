@@ -1870,7 +1870,7 @@
         "pypi_version": "3.1.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f2e9085",
+        "git_hash": "431e92b",
         "git_create": true,
         "git_run": false,
         "last_seen": "d028960"
@@ -5767,10 +5767,10 @@
         "project_link": "nonebot-plugin-quote",
         "display_name": "群聊语录库",
         "homepage": "https://github.com/RongRongJi/nonebot_plugin_quote",
-        "pypi_version": "0.3.2",
+        "pypi_version": "0.3.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3bf14ce",
+        "git_hash": "8d29882",
         "git_create": true,
         "git_run": false,
         "last_seen": "d028960"
