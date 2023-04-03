@@ -1267,7 +1267,7 @@
         "project_link": "nonebot-plugin-fortune",
         "display_name": "今日运势",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_fortune",
-        "pypi_version": "0.4.10.post1",
+        "pypi_version": "0.4.10.post2",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "8746cdb",
@@ -4525,7 +4525,7 @@
         "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2acf236",
+        "git_hash": "4a1039a",
         "git_create": true,
         "git_run": true,
         "last_seen": "d028960"
@@ -5260,7 +5260,7 @@
         "pypi_version": "0.1.0a2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9fcf965",
+        "git_hash": "23b1d75",
         "git_create": true,
         "git_run": false,
         "last_seen": "d028960"
