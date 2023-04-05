@@ -1330,7 +1330,7 @@
         "pypi_version": "0.6.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "da4c0a7",
+        "git_hash": "079c650",
         "git_create": true,
         "git_run": false,
         "last_seen": "36e4c02"
@@ -1405,9 +1405,9 @@
         "pypi_version": "0.4.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "eba1ca7",
+        "git_hash": "336cc91",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "36e4c02"
     },
     "nonebot-plugin-fg": {
@@ -3025,7 +3025,7 @@
         "pypi_version": "0.0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b5ea5a6",
+        "git_hash": "53dc45a",
         "git_create": true,
         "git_run": false,
         "last_seen": "36e4c02"
