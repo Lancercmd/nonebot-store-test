@@ -2452,7 +2452,7 @@
         "project_link": "hikari-bot",
         "display_name": "Hikari-战舰世界水表查询",
         "homepage": "https://github.com/benx1n/HikariBot",
-        "pypi_version": "0.3.7.2",
+        "pypi_version": "0.3.8",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "14a4a62",
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7b00d1d",
+        "git_hash": "1b8e775",
         "git_create": true,
         "git_run": false,
         "last_seen": "ba3fc6a"
