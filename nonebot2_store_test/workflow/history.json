@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "857d02f",
+        "git_hash": "77ea2a0",
         "git_create": true,
         "git_run": false,
         "last_seen": "97829aa"
@@ -6157,10 +6157,10 @@
         "project_link": "nonebot-plugin-SDGPT",
         "display_name": "SDGPT",
         "homepage": "https://github.com/thx114/sdgpt",
-        "pypi_version": "0.1.8",
+        "pypi_version": "0.1.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a5767c3",
+        "git_hash": "74f68fe",
         "git_create": true,
         "git_run": false,
         "last_seen": "97829aa"
