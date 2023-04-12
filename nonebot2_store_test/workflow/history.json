@@ -5482,10 +5482,10 @@
         "project_link": "teenstudy",
         "display_name": "青年大学习提交(Web UI)",
         "homepage": "https://github.com/ZM25XC/TeenStudy",
-        "pypi_version": "0.1.5",
+        "pypi_version": "0.1.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "26148d5",
+        "git_hash": "ed28082",
         "git_create": true,
         "git_run": false,
         "last_seen": "04be5cb"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7808c2b",
+        "git_hash": "58eba41",
         "git_create": true,
         "git_run": false,
         "last_seen": "04be5cb"
