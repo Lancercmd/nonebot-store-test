@@ -5485,7 +5485,7 @@
         "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5a67f7e",
+        "git_hash": "26148d5",
         "git_create": true,
         "git_run": false,
         "last_seen": "04be5cb"
@@ -5557,7 +5557,7 @@
         "project_link": "nonebot-plugin-arkrecord",
         "display_name": "明日方舟抽卡记录分析",
         "homepage": "https://github.com/zheuziihau/nonebot_plugin_arkrecord",
-        "pypi_version": "1.7.0",
+        "pypi_version": "1.7.1",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "5b979cc",
