@@ -505,7 +505,7 @@
         "pypi_version": "0.2.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0ff353f",
+        "git_hash": "6c478e4",
         "git_create": true,
         "git_run": true,
         "last_seen": "04be5cb"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "73b12bf",
+        "git_hash": "9c05a84",
         "git_create": true,
         "git_run": false,
         "last_seen": "04be5cb"
@@ -6142,10 +6142,10 @@
         "project_link": "nonebot-plugin-clock",
         "display_name": "nonebot clock 群闹钟 ⏰",
         "homepage": "https://github.com/Zeta-qixi/nonebot-plugin-clock",
-        "pypi_version": "0.8.4",
+        "pypi_version": "0.8.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "003d808",
+        "git_hash": "6e9ecb6",
         "git_create": true,
         "git_run": false,
         "last_seen": "04be5cb"
@@ -6157,10 +6157,10 @@
         "project_link": "nonebot-plugin-SDGPT",
         "display_name": "SDGPT",
         "homepage": "https://github.com/thx114/sdgpt",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a54e030",
+        "git_hash": "a97f8ee",
         "git_create": true,
         "git_run": false,
         "last_seen": "04be5cb"
