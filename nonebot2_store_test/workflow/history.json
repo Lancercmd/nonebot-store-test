@@ -937,12 +937,12 @@
         "project_link": "nonebot-plugin-shindan",
         "display_name": "ShindanMaker",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-shindan",
-        "pypi_version": "0.3.1",
+        "pypi_version": "0.3.2",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "c1ac4b7",
+        "pypi_run": true,
+        "git_hash": "ed21f97",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "04be5cb"
     },
     "nonebot-plugin-vf": {
@@ -1945,7 +1945,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7ed0d89",
+        "git_hash": "be558f8",
         "git_create": true,
         "git_run": true,
         "last_seen": "04be5cb"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "58eba41",
+        "git_hash": "73b12bf",
         "git_create": true,
         "git_run": false,
         "last_seen": "04be5cb"
@@ -6142,10 +6142,10 @@
         "project_link": "nonebot-plugin-clock",
         "display_name": "nonebot clock 群闹钟 ⏰",
         "homepage": "https://github.com/Zeta-qixi/nonebot-plugin-clock",
-        "pypi_version": "0.8.1",
+        "pypi_version": "0.8.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9b200df",
+        "git_hash": "003d808",
         "git_create": true,
         "git_run": false,
         "last_seen": "04be5cb"
