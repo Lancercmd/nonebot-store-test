@@ -5047,11 +5047,11 @@
         "project_link": "nonebot-plugin-naturel-gpt",
         "display_name": "更人性化的GPT-Ai聊天插件",
         "homepage": "https://github.com/KroMiose/nonebot_plugin_naturel_gpt",
-        "pypi_version": "2.0.5",
+        "pypi_version": "2.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "767eb27",
-        "git_create": false,
+        "git_hash": "f8f8c81",
+        "git_create": true,
         "git_run": false,
         "last_seen": "99b26fc"
     },
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1f41172",
+        "git_hash": "b4f2389",
         "git_create": true,
         "git_run": false,
         "last_seen": "99b26fc"
