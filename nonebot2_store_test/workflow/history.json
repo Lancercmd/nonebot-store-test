@@ -6142,10 +6142,10 @@
         "project_link": "nonebot-plugin-clock",
         "display_name": "nonebot clock 群闹钟 ⏰",
         "homepage": "https://github.com/Zeta-qixi/nonebot-plugin-clock",
-        "pypi_version": "0.8.6",
+        "pypi_version": "0.8.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b9bbd92",
+        "git_hash": "d4d4ec6",
         "git_create": true,
         "git_run": false,
         "last_seen": "21eb289"
