@@ -5332,10 +5332,10 @@
         "project_link": "nonebot-plugin-bing-chat",
         "display_name": "Bing Chat",
         "homepage": "https://github.com/Harry-Jing/nonebot-plugin-bing-chat",
-        "pypi_version": "0.7.9",
+        "pypi_version": "0.7.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2b0393c",
+        "git_hash": "d85a87c",
         "git_create": true,
         "git_run": false,
         "last_seen": "ff1ace7"
