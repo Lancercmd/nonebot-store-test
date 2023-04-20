@@ -6277,10 +6277,10 @@
         "project_link": "nonebot-plugin-rename",
         "display_name": "更改BOT群名片",
         "homepage": "https://github.com/forchannot/nonebot_plugin_rename",
-        "pypi_version": "1.0.0",
+        "pypi_version": "1.0.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9f794f0",
+        "git_hash": "193a6f7",
         "git_create": true,
         "git_run": false,
         "last_seen": "2061887"
