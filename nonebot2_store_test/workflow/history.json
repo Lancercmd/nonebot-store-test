@@ -5605,7 +5605,7 @@
         "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6af50ac",
+        "git_hash": "3575a0a",
         "git_create": true,
         "git_run": false,
         "last_seen": "2061887"
@@ -5707,10 +5707,10 @@
         "project_link": "nonebot-plugin-gshisbanner",
         "display_name": "原神历史卡池",
         "homepage": "https://github.com/forchannot/nonebot-plugin-gshisbanner",
-        "pypi_version": "0.4.8",
+        "pypi_version": "0.5.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "242f832",
+        "git_hash": "48e3ce3",
         "git_create": true,
         "git_run": false,
         "last_seen": "2061887"
@@ -6037,10 +6037,10 @@
         "project_link": "nonebot-api-paddle",
         "display_name": "nonebot_api_paddle",
         "homepage": "https://github.com/canxin121/nonebot_api_paddleocr",
-        "pypi_version": "1.0.2",
+        "pypi_version": "1.0.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "96bc175",
+        "git_hash": "41ba5eb",
         "git_create": false,
         "git_run": false,
         "last_seen": "2061887"
@@ -6100,7 +6100,7 @@
         "pypi_version": "1.4.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8f85a77",
+        "git_hash": "21f3601",
         "git_create": true,
         "git_run": false,
         "last_seen": "2061887"
