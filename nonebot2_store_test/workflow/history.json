@@ -1552,10 +1552,10 @@
         "project_link": "nonebot-plugin-txt2img",
         "display_name": "轻量文字转图片插件",
         "homepage": "https://github.com/mobyw/nonebot-plugin-txt2img",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b5720db",
+        "git_hash": "d0d534c",
         "git_create": true,
         "git_run": true,
         "last_seen": "392502d"
@@ -6175,7 +6175,7 @@
         "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "005540e",
+        "git_hash": "e0ae05c",
         "git_create": true,
         "git_run": false,
         "last_seen": "392502d"
