@@ -5110,7 +5110,7 @@
         "pypi_version": "0.2.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "dd26c68",
+        "git_hash": "5617968",
         "git_create": true,
         "git_run": false,
         "last_seen": "4b9ae5f"
@@ -6292,7 +6292,7 @@
         "project_link": "nonebot-poe-chat",
         "display_name": "nonebot_poe_chat",
         "homepage": "https://github.com/canxin121/nonebot_poe_chat",
-        "pypi_version": "1.0.1",
+        "pypi_version": "1.0.3",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "bf658fb",
