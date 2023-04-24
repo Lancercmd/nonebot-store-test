@@ -4912,10 +4912,10 @@
         "project_link": "qinglan-bot",
         "display_name": "青岚",
         "homepage": "https://github.com/17TheWord/qinglan_bot",
-        "pypi_version": "0.0.8",
+        "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4d726e3",
+        "git_hash": "d9ee018",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
