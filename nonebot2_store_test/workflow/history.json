@@ -4105,7 +4105,7 @@
         "pypi_version": "0.7.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "02505ee",
+        "git_hash": "44c6aaa",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
@@ -5107,10 +5107,10 @@
         "project_link": "nonebot-plugin-autoreply",
         "display_name": "AutoReply",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-autoreply/",
-        "pypi_version": "0.2.6",
+        "pypi_version": "0.2.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cd0f69b",
+        "git_hash": "7767313",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "437f715",
+        "git_hash": "569c774",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
@@ -6292,10 +6292,10 @@
         "project_link": "nonebot-poe-chat",
         "display_name": "nonebot_poe_chat",
         "homepage": "https://github.com/canxin121/nonebot_poe_chat",
-        "pypi_version": "1.0.6",
+        "pypi_version": "1.0.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cd43926",
+        "git_hash": "df8d729",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
