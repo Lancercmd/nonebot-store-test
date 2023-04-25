@@ -2842,10 +2842,10 @@
         "project_link": "nonebot-plugin-bawiki",
         "display_name": "BAWiki",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-bawiki/",
-        "pypi_version": "0.7.4",
+        "pypi_version": "0.7.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e94151e",
+        "git_hash": "0361990",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
@@ -4525,9 +4525,9 @@
         "pypi_version": "0.4.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "972e1b5",
+        "git_hash": "6ba5610",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "6173836"
     },
     "nonebot-plugin-learning-chat": {
@@ -5110,7 +5110,7 @@
         "pypi_version": "0.2.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e1f95e8",
+        "git_hash": "cd0f69b",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b09b27f",
+        "git_hash": "437f715",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
