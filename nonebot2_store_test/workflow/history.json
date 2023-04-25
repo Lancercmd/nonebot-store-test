@@ -2845,7 +2845,7 @@
         "pypi_version": "0.7.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "90ee2a3",
+        "git_hash": "e94151e",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
@@ -4987,10 +4987,10 @@
         "project_link": "nonebot_plugin_xdu_support",
         "display_name": "XDU校园服务",
         "homepage": "https://github.com/longchengguxiao/nonebot_plugin_xdu_support",
-        "pypi_version": "0.5.15",
+        "pypi_version": "0.5.16",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "799c801",
+        "git_hash": "f403316",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
@@ -5905,7 +5905,7 @@
         "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "900a215",
+        "git_hash": "edfc653",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a48832d",
+        "git_hash": "b09b27f",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
@@ -6325,7 +6325,7 @@
         "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "405874e",
+        "git_hash": "fd0f235",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
