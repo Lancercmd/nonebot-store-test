@@ -1345,7 +1345,7 @@
         "pypi_version": "0.6.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2ed305b",
+        "git_hash": "d2d1d96",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
@@ -3982,10 +3982,10 @@
         "project_link": "nonebot-plugin-sky",
         "display_name": "sky光遇",
         "homepage": "https://github.com/Kaguya233qwq/nonebot_plugin_sky",
-        "pypi_version": "2.2.5.post2",
+        "pypi_version": "2.2.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6583185",
+        "git_hash": "cdccc9a",
         "git_create": true,
         "git_run": false,
         "last_seen": "6173836"
