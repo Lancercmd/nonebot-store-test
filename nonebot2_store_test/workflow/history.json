@@ -3280,7 +3280,7 @@
         "pypi_version": "0.2.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b137f66",
+        "git_hash": "482392b",
         "git_create": true,
         "git_run": false,
         "last_seen": "f00c0ae"
@@ -6187,10 +6187,10 @@
         "project_link": "nonebot-plugin-pokemonfusion",
         "display_name": "宝可梦融合",
         "homepage": "https://github.com/IllusiveBull/nonebot_plugin_pokemonfusion",
-        "pypi_version": "1.0.6",
-        "pypi_create": true,
+        "pypi_version": "1.0.7",
+        "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "6234370",
+        "git_hash": "9f49a5c",
         "git_create": true,
         "git_run": false,
         "last_seen": "f00c0ae"
