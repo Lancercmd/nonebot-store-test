@@ -4087,10 +4087,10 @@
         "project_link": "nonebot-plugin-zyk-music",
         "display_name": "免费快捷点歌插件",
         "homepage": "https://github.com/ZYKsslm/nonebot_plugin_zyk_music",
-        "pypi_version": "0.1.7.1",
+        "pypi_version": "0.1.7.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8400d99",
+        "git_hash": "fd1c651",
         "git_create": true,
         "git_run": false,
         "last_seen": "cfe182f"
