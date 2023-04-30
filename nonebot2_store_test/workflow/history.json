@@ -3427,10 +3427,10 @@
         "project_link": "nonebot-plugin-bottle",
         "display_name": "漂流瓶",
         "homepage": "https://github.com/Todysheep/nonebot_plugin_bottle",
-        "pypi_version": "1.0.0.2",
+        "pypi_version": "1.0.0.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f420686",
+        "git_hash": "a736756",
         "git_create": true,
         "git_run": false,
         "last_seen": "cfe182f"
@@ -3982,10 +3982,10 @@
         "project_link": "nonebot-plugin-sky",
         "display_name": "sky光遇",
         "homepage": "https://github.com/Kaguya233qwq/nonebot_plugin_sky",
-        "pypi_version": "2.2.6",
+        "pypi_version": "2.2.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cdccc9a",
+        "git_hash": "1205081",
         "git_create": true,
         "git_run": false,
         "last_seen": "cfe182f"
@@ -6100,7 +6100,7 @@
         "pypi_version": "1.8.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8d6d3d8",
+        "git_hash": "bfad05e",
         "git_create": true,
         "git_run": false,
         "last_seen": "cfe182f"
@@ -6295,7 +6295,7 @@
         "pypi_version": "1.1.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f24aeee",
+        "git_hash": "1b9b9cc",
         "git_create": true,
         "git_run": false,
         "last_seen": "cfe182f"
