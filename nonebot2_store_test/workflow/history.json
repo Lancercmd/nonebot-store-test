@@ -4522,10 +4522,10 @@
         "project_link": "nonebot-plugin-l4d2-server",
         "display_name": "求生之路2——服务器操作",
         "homepage": "https://github.com/Umamusume-Agnes-Digital/nonebot_plugin_l4d2_server",
-        "pypi_version": "0.5.0",
+        "pypi_version": "0.5.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "e96e003",
+        "git_hash": "8359786",
         "git_create": true,
         "git_run": true,
         "last_seen": "e98d28f"
