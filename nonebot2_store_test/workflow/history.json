@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7ecbf76",
+        "git_hash": "e32e163",
         "git_create": true,
         "git_run": false,
         "last_seen": "e98d28f"
@@ -6397,10 +6397,10 @@
         "project_link": "nonebot-plugin-manga-translator",
         "display_name": "图片/漫画翻译",
         "homepage": "https://github.com/maoxig/nonebot-plugin-manga-translator",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ba146b0",
+        "git_hash": "3a0a867",
         "git_create": true,
         "git_run": false,
         "last_seen": "e98d28f"
