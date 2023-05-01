@@ -6292,10 +6292,10 @@
         "project_link": "nonebot-poe-chat",
         "display_name": "nonebot_poe_chat",
         "homepage": "https://github.com/canxin121/nonebot_poe_chat",
-        "pypi_version": "1.1.5",
+        "pypi_version": "1.1.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6cf8e24",
+        "git_hash": "4431d1f",
         "git_create": true,
         "git_run": false,
         "last_seen": "e98d28f"
