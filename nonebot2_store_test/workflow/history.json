@@ -5002,10 +5002,10 @@
         "project_link": "nonebot-plugin-zyk-lightNVL",
         "display_name": "查找轻小说",
         "homepage": "https://github.com/ZYKsslm/nonebot_plugin_zyk_lightNVL",
-        "pypi_version": "0.2",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "854d773",
+        "git_hash": "a764ed5",
         "git_create": true,
         "git_run": false,
         "last_seen": "50237fb"
