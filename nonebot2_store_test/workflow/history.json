@@ -5347,10 +5347,10 @@
         "project_link": "nonebot-plugin-send-anything-anywhere",
         "display_name": "峯驰物流",
         "homepage": "https://github.com/felinae98/nonebot-plugin-send-anything-anywhere",
-        "pypi_version": "0.2.2",
+        "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8dd8e2d",
+        "git_hash": "a67ebad",
         "git_create": true,
         "git_run": false,
         "last_seen": "4b0b1e6"
