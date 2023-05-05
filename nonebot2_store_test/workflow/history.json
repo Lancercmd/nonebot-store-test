@@ -397,10 +397,10 @@
         "project_link": "nonebot-plugin-analysis-bilibili",
         "display_name": "bilibili视频、番剧解析",
         "homepage": "https://github.com/mengshouer/nonebot_plugin_analysis_bilibili",
-        "pypi_version": "2.4.12",
+        "pypi_version": "2.5.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ffa5297",
+        "git_hash": "ce34bf5",
         "git_create": true,
         "git_run": false,
         "last_seen": "9d8f16f"
@@ -2980,7 +2980,7 @@
         "pypi_version": "0.7.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "674f96a",
+        "git_hash": "2ea811c",
         "git_create": true,
         "git_run": false,
         "last_seen": "9d8f16f"
@@ -5965,7 +5965,7 @@
         "pypi_version": "0.8.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4d878be",
+        "git_hash": "1816a22",
         "git_create": true,
         "git_run": false,
         "last_seen": "9d8f16f"
@@ -6067,10 +6067,10 @@
         "project_link": "nonebot-plugin-chatppt",
         "display_name": "AI生成PPT",
         "homepage": "https://github.com/Alpaca4610/nonebot-plugin-chatppt",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0171585",
+        "git_hash": "71b8f35",
         "git_create": true,
         "git_run": false,
         "last_seen": "9d8f16f"
