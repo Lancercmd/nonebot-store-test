@@ -6157,10 +6157,10 @@
         "project_link": "nonebot-plugin-SDGPT",
         "display_name": "SDGPT",
         "homepage": "https://github.com/thx114/sdgpt",
-        "pypi_version": "0.2.7",
+        "pypi_version": "0.2.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "10a71cd",
+        "git_hash": "8c787e3",
         "git_create": true,
         "git_run": false,
         "last_seen": "9d8f16f"
