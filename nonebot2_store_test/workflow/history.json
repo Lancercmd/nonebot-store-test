@@ -5482,10 +5482,10 @@
         "project_link": "teenstudy",
         "display_name": "青年大学习提交(Web UI)",
         "homepage": "https://github.com/ZM25XC/TeenStudy",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.1.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "544e5b7",
+        "git_hash": "04bbbef",
         "git_create": true,
         "git_run": false,
         "last_seen": "4b0b1e6"
