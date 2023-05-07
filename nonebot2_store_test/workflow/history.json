@@ -5947,10 +5947,10 @@
         "project_link": "nonebot-plugin-genshin-cos",
         "display_name": "原神cos",
         "homepage": "https://github.com/Cvandia/nonebot_plugin_genshin_cos",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.1.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "348979d",
+        "git_hash": "691bff5",
         "git_create": true,
         "git_run": false,
         "last_seen": "bbb2cb3"
