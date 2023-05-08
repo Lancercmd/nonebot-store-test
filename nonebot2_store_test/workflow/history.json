@@ -652,7 +652,7 @@
         "project_link": "ELF-RSS",
         "display_name": "ELF_RSS",
         "homepage": "https://github.com/Quan666/ELF_RSS",
-        "pypi_version": "2.6.18",
+        "pypi_version": "2.6.19",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "fb32d0b",
