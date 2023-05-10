@@ -6202,10 +6202,10 @@
         "project_link": "tatarubot2",
         "display_name": "TataruBot2",
         "homepage": "https://github.com/aaron-lii/TataruBot2",
-        "pypi_version": "0.1.12",
+        "pypi_version": "0.1.13",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b93774e",
+        "git_hash": "1fb3698",
         "git_create": true,
         "git_run": false,
         "last_seen": "6c26982"
