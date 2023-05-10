@@ -712,10 +712,10 @@
         "project_link": "nonebot-plugin-simplemusic",
         "display_name": "SimpleMusic",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-simplemusic",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.1.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cebb05d",
+        "git_hash": "f55ac60",
         "git_create": true,
         "git_run": false,
         "last_seen": "6c26982"
