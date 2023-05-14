@@ -5587,10 +5587,10 @@
         "project_link": "nonebot-plugin-chatgpt-on-qq",
         "display_name": "多功能的ChatGPT机器人",
         "homepage": "https://github.com/Suxmx/nonebot_plugin_chatgpt_on_qq",
-        "pypi_version": "1.5.1",
+        "pypi_version": "1.6.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "136cc1a",
+        "git_hash": "3e19569",
         "git_create": false,
         "git_run": false,
         "last_seen": "9c0ecb4"
