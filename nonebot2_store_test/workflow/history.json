@@ -4027,7 +4027,7 @@
         "project_link": "nonebot-plugin-gscode",
         "display_name": "原神前瞻直播兑换码查询",
         "homepage": "https://github.com/monsterxcn/nonebot-plugin-gscode",
-        "pypi_version": "0.1.7",
+        "pypi_version": "0.1.8",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "48fddc2",
