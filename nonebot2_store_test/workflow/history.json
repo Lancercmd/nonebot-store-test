@@ -6622,10 +6622,10 @@
         "project_link": "nonebot-plugin-multincm",
         "display_name": "MultiNCM",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-multincm",
-        "pypi_version": "0.2.4",
+        "pypi_version": "0.2.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "22f187b",
+        "git_hash": "3294e5c",
         "git_create": true,
         "git_run": false,
         "last_seen": "0c4a040"
