@@ -3427,10 +3427,10 @@
         "project_link": "nonebot-plugin-bottle",
         "display_name": "漂流瓶",
         "homepage": "https://github.com/Todysheep/nonebot_plugin_bottle",
-        "pypi_version": "1.0.0.4",
+        "pypi_version": "1.0.0.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "554baa4",
+        "git_hash": "3428184",
         "git_create": true,
         "git_run": true,
         "last_seen": "0c4a040"
@@ -4420,7 +4420,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2c51a32",
+        "git_hash": "41750f0",
         "git_create": false,
         "git_run": false,
         "last_seen": "0c4a040"
