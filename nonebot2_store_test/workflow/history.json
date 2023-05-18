@@ -6217,7 +6217,7 @@
         "project_link": "nonebot-plugin-talk-with-chatgpt",
         "display_name": "与ChatGpt聊天",
         "homepage": "https://github.com/nikissXI/nonebot_plugins/tree/main/nonebot_plugin_talk_with_chatgpt",
-        "pypi_version": "0.4.1",
+        "pypi_version": "0.4.2",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": null,
