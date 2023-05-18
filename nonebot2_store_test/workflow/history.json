@@ -4600,7 +4600,7 @@
         "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "85d0b3d",
+        "git_hash": "744abb8",
         "git_create": true,
         "git_run": false,
         "last_seen": "170fb94"
@@ -4957,10 +4957,10 @@
         "project_link": "nonebot-plugin-alconna",
         "display_name": "Alconna 命令工具",
         "homepage": "https://github.com/ArcletProject/nonebot-plugin-alconna",
-        "pypi_version": "0.4.2",
+        "pypi_version": "0.5.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3c2a9ca",
+        "git_hash": "1927ff1",
         "git_create": true,
         "git_run": false,
         "last_seen": "170fb94"
@@ -6517,10 +6517,10 @@
         "project_link": "nonebot-plugin-spark-gpt",
         "display_name": "Spark-GPT",
         "homepage": "https://github.com/canxin121/Spark-GPT",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "99e5857",
+        "git_hash": "42dde54",
         "git_create": true,
         "git_run": false,
         "last_seen": "170fb94"
@@ -6625,7 +6625,7 @@
         "pypi_version": "0.2.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3294e5c",
+        "git_hash": "55d2b37",
         "git_create": true,
         "git_run": false,
         "last_seen": "170fb94"
