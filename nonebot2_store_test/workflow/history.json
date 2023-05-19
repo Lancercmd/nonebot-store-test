@@ -5752,7 +5752,7 @@
         "project_link": "nonebot-plugin-randomnana",
         "display_name": "随机狗妈",
         "homepage": "https://github.com/NanakoOfficial/nonebot_plugin_randomnana",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "9aacfa4",
