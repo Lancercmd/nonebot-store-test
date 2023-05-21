@@ -2845,7 +2845,7 @@
         "pypi_version": "0.7.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0b0fb70",
+        "git_hash": "663d2e0",
         "git_create": true,
         "git_run": false,
         "last_seen": "99197f3"
@@ -5110,7 +5110,7 @@
         "pypi_version": "0.2.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "de4fd1a",
+        "git_hash": "4c3e0d1",
         "git_create": true,
         "git_run": false,
         "last_seen": "99197f3"
@@ -5602,10 +5602,10 @@
         "project_link": "nonebot-plugin-tuan-chatgpt",
         "display_name": "和团子聊天！",
         "homepage": "https://github.com/TheLZY/nonebot_plugin_tuan_chatgpt",
-        "pypi_version": "0.3.1",
+        "pypi_version": "0.4.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "60d0eed",
+        "git_hash": "9d9a19c",
         "git_create": true,
         "git_run": false,
         "last_seen": "99197f3"
