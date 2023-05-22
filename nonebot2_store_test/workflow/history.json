@@ -5050,7 +5050,7 @@
         "pypi_version": "2.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e1fdcd1",
+        "git_hash": "c4e7bae",
         "git_create": true,
         "git_run": false,
         "last_seen": "c6f41e1"
@@ -6517,10 +6517,10 @@
         "project_link": "nonebot-plugin-spark-gpt",
         "display_name": "Spark-GPT",
         "homepage": "https://github.com/canxin121/Spark-GPT",
-        "pypi_version": "0.2.2",
+        "pypi_version": "0.2.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1931f31",
+        "git_hash": "4b9f1e2",
         "git_create": true,
         "git_run": false,
         "last_seen": "c6f41e1"
