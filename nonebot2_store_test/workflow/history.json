@@ -5887,10 +5887,10 @@
         "project_link": "nonebot-plugin-helloworld",
         "display_name": "Hello World",
         "homepage": "https://github.com/A-kirami/nonebot-plugin-helloworld",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "58bd379",
+        "git_hash": "012e672",
         "git_create": true,
         "git_run": false,
         "last_seen": "7986c45"
@@ -6520,7 +6520,7 @@
         "pypi_version": "0.2.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c4e52f2",
+        "git_hash": "4f64efb",
         "git_create": true,
         "git_run": false,
         "last_seen": "7986c45"
