@@ -6637,10 +6637,10 @@
         "project_link": "nonebot-plugin-smallapi",
         "display_name": "小小的WEBAPI调用插件",
         "homepage": "https://github.com/chaichaisi/nonebot_plugin_smallapi",
-        "pypi_version": "1.0.4",
+        "pypi_version": "1.0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0a31786",
+        "git_hash": "7d14e3a",
         "git_create": true,
         "git_run": false,
         "last_seen": "2b337e1"
