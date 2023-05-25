@@ -5380,9 +5380,9 @@
         "pypi_version": "2.9.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a99b5e2",
+        "git_hash": "df8c218",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "cc214c3"
     },
     "nonebot-plugin-h2e": {
@@ -6580,7 +6580,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7a8de55",
+        "git_hash": "521222e",
         "git_create": true,
         "git_run": false,
         "last_seen": "cc214c3"
