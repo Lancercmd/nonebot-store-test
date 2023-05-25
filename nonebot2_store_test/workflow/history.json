@@ -4117,10 +4117,10 @@
         "project_link": "nonebot-plugin-majsoul",
         "display_name": "雀魂信息查询",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-majsoul",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.2.0.post1",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "ea0994b",
+        "pypi_run": true,
+        "git_hash": "2f4297a",
         "git_create": true,
         "git_run": false,
         "last_seen": "cc214c3"
