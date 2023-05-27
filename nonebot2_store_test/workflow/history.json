@@ -1675,7 +1675,7 @@
         "pypi_version": "1.9.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "40d6564",
+        "git_hash": "692ceee",
         "git_create": true,
         "git_run": false,
         "last_seen": "cc214c3"
@@ -6127,10 +6127,10 @@
         "project_link": "nonebot-plugin-blive-danmaku",
         "display_name": "B站直播间路灯",
         "homepage": "https://github.com/zangxx66/nonebot_plugin_blive_danmaku",
-        "pypi_version": "0.2.6",
+        "pypi_version": "0.2.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7ebe320",
+        "git_hash": "62222ff",
         "git_create": true,
         "git_run": true,
         "last_seen": "cc214c3"
