@@ -655,7 +655,7 @@
         "pypi_version": "2.6.19",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c47adc3",
+        "git_hash": "68f4a29",
         "git_create": true,
         "git_run": true,
         "last_seen": "cc214c3"
@@ -6277,10 +6277,10 @@
         "project_link": "nonebot-plugin-rename",
         "display_name": "更改BOT群名片",
         "homepage": "https://github.com/forchannot/nonebot_plugin_rename",
-        "pypi_version": "1.2.3",
+        "pypi_version": "1.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1db07c0",
+        "git_hash": "509f091",
         "git_create": true,
         "git_run": false,
         "last_seen": "cc214c3"
