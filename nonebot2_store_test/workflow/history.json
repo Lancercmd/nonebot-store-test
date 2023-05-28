@@ -1675,7 +1675,7 @@
         "pypi_version": "1.9.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "692ceee",
+        "git_hash": "431ebb3",
         "git_create": true,
         "git_run": false,
         "last_seen": "cc214c3"
@@ -4117,7 +4117,7 @@
         "project_link": "nonebot-plugin-majsoul",
         "display_name": "雀魂信息查询",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-majsoul",
-        "pypi_version": "0.2.0.post1",
+        "pypi_version": "0.2.0.post3",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "2f4297a",
@@ -4642,10 +4642,10 @@
         "project_link": "nonebot-plugin-cave",
         "display_name": "回声洞",
         "homepage": "https://github.com/hmzz804/nonebot_plugin_cave",
-        "pypi_version": "1.1.9",
+        "pypi_version": "1.1.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a4f5ef7",
+        "git_hash": "7c55275",
         "git_create": true,
         "git_run": false,
         "last_seen": "cc214c3"
@@ -5050,7 +5050,7 @@
         "pypi_version": "2.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5b50f9c",
+        "git_hash": "34bfcc6",
         "git_create": true,
         "git_run": false,
         "last_seen": "cc214c3"
@@ -6415,7 +6415,7 @@
         "pypi_version": "0.1.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4cb4592",
+        "git_hash": "a9ef517",
         "git_create": false,
         "git_run": false,
         "last_seen": "cc214c3"
