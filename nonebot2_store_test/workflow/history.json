@@ -2377,10 +2377,10 @@
         "project_link": "nonebot-plugin-tetris-stats",
         "display_name": "TETRIS Stats",
         "homepage": "https://github.com/shoucandanghehe/nonebot-plugin-tetris-stats",
-        "pypi_version": "0.3.3.post1",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "972f7e9",
+        "git_hash": "d7b6e3c",
         "git_create": true,
         "git_run": false,
         "last_seen": "3199fc4"
