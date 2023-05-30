@@ -3895,7 +3895,7 @@
         "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4b05a05",
+        "git_hash": "259d83c",
         "git_create": true,
         "git_run": false,
         "last_seen": "40d2f97"
@@ -6217,7 +6217,7 @@
         "project_link": "nonebot-plugin-talk-with-chatgpt",
         "display_name": "与ChatGpt聊天",
         "homepage": "https://github.com/nikissXI/nonebot_plugins/tree/main/nonebot_plugin_talk_with_chatgpt",
-        "pypi_version": "0.4.3",
+        "pypi_version": "0.5.0",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": null,
