@@ -2392,10 +2392,10 @@
         "project_link": "nonebot_plugin_bilibili_viode",
         "display_name": "B站视频伪分享卡片",
         "homepage": "https://github.com/ASTWY/nonebot_plugin_bilibili_viode",
-        "pypi_version": "1.0.0",
+        "pypi_version": "1.0.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d6acb9c",
+        "git_hash": "f9a334f",
         "git_create": true,
         "git_run": false,
         "last_seen": "40d2f97"
