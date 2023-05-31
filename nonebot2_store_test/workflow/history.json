@@ -4960,7 +4960,7 @@
         "pypi_version": "0.6.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ba61d78",
+        "git_hash": "b3117b2",
         "git_create": true,
         "git_run": false,
         "last_seen": "40d2f97"
@@ -5497,10 +5497,10 @@
         "project_link": "nonebot-plugin-60s",
         "display_name": "60s日历",
         "homepage": "https://github.com/techotaku39/nonebot-plugin-60s",
-        "pypi_version": "0.1.9",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4bcad6c",
+        "git_hash": "fc54623",
         "git_create": true,
         "git_run": false,
         "last_seen": "40d2f97"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8ed8865",
+        "git_hash": "2a5a514",
         "git_create": true,
         "git_run": false,
         "last_seen": "40d2f97"
