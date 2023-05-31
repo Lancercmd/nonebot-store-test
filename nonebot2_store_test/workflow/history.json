@@ -3772,10 +3772,10 @@
         "project_link": "nonebot-plugin-sqlalchemy",
         "display_name": "NoneBot SQLAlchemy封装",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-sqlalchemy",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fb436d0",
+        "git_hash": "3361b15",
         "git_create": true,
         "git_run": false,
         "last_seen": "40d2f97"
