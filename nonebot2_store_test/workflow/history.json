@@ -3892,12 +3892,12 @@
         "project_link": "nonebot-plugin-animeres",
         "display_name": "动漫资源获取",
         "homepage": "https://github.com/Melodyknit/nonebot_plugin_animeres",
-        "pypi_version": "0.1.5",
+        "pypi_version": "1.0.0",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "209e461",
+        "pypi_run": true,
+        "git_hash": "00d5f8a",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "40d2f97"
     },
     "nonebot-plugin-person": {
