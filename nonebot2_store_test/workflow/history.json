@@ -6727,10 +6727,10 @@
         "project_link": "nonebot-plugin-githubcard",
         "display_name": "Github仓库卡片",
         "homepage": "https://github.com/ElainaFanBoy/nonebot_plugin_githubcard",
-        "pypi_version": "0.1.4",
+        "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "88c719b",
+        "git_hash": "0ea7702",
         "git_create": true,
         "git_run": false,
         "last_seen": "9141c88"
