@@ -3787,10 +3787,10 @@
         "project_link": "nonebot-plugin-blacklist",
         "display_name": "用户&群聊黑名单",
         "homepage": "https://github.com/tkgs0/nonebot-plugin-blacklist",
-        "pypi_version": "0.3.3",
+        "pypi_version": "0.3.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b1f2fcd",
+        "git_hash": "93480ae",
         "git_create": true,
         "git_run": false,
         "last_seen": "9141c88"
