@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0rc1.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "88de06d",
+        "git_hash": "b7426a7",
         "git_create": true,
         "git_run": true,
         "last_seen": "572be1e"
@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "db79cf2",
+        "git_hash": "d4e6add",
         "git_create": true,
         "git_run": true,
         "last_seen": "572be1e"
@@ -4312,10 +4312,10 @@
         "project_link": "nonebot-plugin-random-ban",
         "display_name": "随机禁言",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_random_ban",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c44906d",
+        "git_hash": "4d87565",
         "git_create": true,
         "git_run": false,
         "last_seen": "572be1e"
