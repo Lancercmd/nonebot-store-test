@@ -1267,10 +1267,10 @@
         "project_link": "nonebot-plugin-fortune",
         "display_name": "今日运势",
         "homepage": "https://github.com/KafCoppelia/nonebot_plugin_fortune",
-        "pypi_version": "0.4.10.post2",
+        "pypi_version": "0.4.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8746cdb",
+        "git_hash": "ff8c244",
         "git_create": true,
         "git_run": false,
         "last_seen": "572be1e"
@@ -5710,7 +5710,7 @@
         "pypi_version": "0.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a92c393",
+        "git_hash": "578184a",
         "git_create": true,
         "git_run": false,
         "last_seen": "572be1e"
@@ -6097,10 +6097,10 @@
         "project_link": "nonebot-plugin-bilichat",
         "display_name": "多功能 BiliBili 解析工具",
         "homepage": "https://github.com/djkcyl/nonebot-plugin-bilichat",
-        "pypi_version": "2.4.2",
+        "pypi_version": "2.5.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b7ab010",
+        "git_hash": "cb251ad",
         "git_create": true,
         "git_run": false,
         "last_seen": "572be1e"
@@ -6280,7 +6280,7 @@
         "pypi_version": "1.3.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2a96401",
+        "git_hash": "98a9c61",
         "git_create": true,
         "git_run": false,
         "last_seen": "572be1e"
