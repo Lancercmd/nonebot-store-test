@@ -2530,7 +2530,7 @@
         "pypi_version": "0.0.38",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c3797a1",
+        "git_hash": "4d68c0f",
         "git_create": false,
         "git_run": false,
         "last_seen": "572be1e"
@@ -5962,10 +5962,10 @@
         "project_link": "nonebot-plugin-chatgpt-plus",
         "display_name": "ChatGPT网页端API",
         "homepage": "https://github.com/AkashiCoin/nonebot-plugin-chatgpt-plus",
-        "pypi_version": "0.8.6",
+        "pypi_version": "0.8.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6d9f4fd",
+        "git_hash": "c9b06de",
         "git_create": true,
         "git_run": false,
         "last_seen": "572be1e"
