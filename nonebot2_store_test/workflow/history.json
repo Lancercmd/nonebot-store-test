@@ -3280,7 +3280,7 @@
         "pypi_version": "0.2.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "22d12c3",
+        "git_hash": "ed7dbc6",
         "git_create": true,
         "git_run": false,
         "last_seen": "572be1e"
@@ -4537,12 +4537,12 @@
         "project_link": "nonebot-plugin-learning-chat",
         "display_name": "群聊学习",
         "homepage": "https://github.com/CMHopeSunshine/nonebot-plugin-learning-chat",
-        "pypi_version": "0.2.2",
+        "pypi_version": "0.2.3",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "bf4acb3",
+        "pypi_run": true,
+        "git_hash": "3182419",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "572be1e"
     },
     "nonebot-plugin-couplets": {
@@ -5710,7 +5710,7 @@
         "pypi_version": "0.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "469035d",
+        "git_hash": "b35fb17",
         "git_create": true,
         "git_run": false,
         "last_seen": "572be1e"
@@ -6280,7 +6280,7 @@
         "pypi_version": "1.3.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d3465e0",
+        "git_hash": "ab96726",
         "git_create": true,
         "git_run": false,
         "last_seen": "572be1e"
