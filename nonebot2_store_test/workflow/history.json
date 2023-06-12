@@ -6892,10 +6892,10 @@
         "project_link": "nonebot-plugin-pcrjjc",
         "display_name": "pcrjjc",
         "homepage": "https://github.com/reine-ishyanami/nonebot-plugin-pcrjjc",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.1.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2bf1649",
+        "git_hash": "90531b8",
         "git_create": true,
         "git_run": false,
         "last_seen": "2de1524"
