@@ -5092,10 +5092,10 @@
         "project_link": "nonebot-plugin-b23",
         "display_name": "B站热搜",
         "homepage": "https://github.com/eya46/nonebot_plugin_b23",
-        "pypi_version": "0.0.7",
+        "pypi_version": "0.0.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a0007de",
+        "git_hash": "020afb0",
         "git_create": true,
         "git_run": false,
         "last_seen": "8601942"
