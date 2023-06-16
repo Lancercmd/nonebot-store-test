@@ -2497,10 +2497,10 @@
         "project_link": "nonebot-plugin-auto-teenstudy",
         "display_name": "青年大学习提交(基础版)",
         "homepage": "https://github.com/ZM25XC/nonebot_plugin_auto_teenstudy",
-        "pypi_version": "0.1.8",
+        "pypi_version": "0.1.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "48ab177",
+        "git_hash": "91b18bc",
         "git_create": true,
         "git_run": false,
         "last_seen": "1b1ddc5"
@@ -6925,7 +6925,7 @@
         "pypi_version": "0.1.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "86527bc",
+        "git_hash": "36a1091",
         "git_create": false,
         "git_run": false,
         "last_seen": "1b1ddc5"
