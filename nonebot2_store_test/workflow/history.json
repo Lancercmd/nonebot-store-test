@@ -3832,7 +3832,7 @@
         "project_link": "nonebot-plugin-mahjong-scoreboard",
         "display_name": "日麻寄分器",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-mahjong-scoreboard",
-        "pypi_version": "0.4.1.post2",
+        "pypi_version": "0.4.1.post4",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "1680fdb",
