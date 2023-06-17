@@ -4552,10 +4552,10 @@
         "project_link": "nonebot-plugin-couplets",
         "display_name": "对对联",
         "homepage": "https://github.com/CMHopeSunshine/nonebot-plugin-couplets",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ef1ce0f",
+        "git_hash": "8a434b7",
         "git_create": true,
         "git_run": false,
         "last_seen": "1b1ddc5"
@@ -6925,7 +6925,7 @@
         "pypi_version": "0.1.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "36a1091",
+        "git_hash": "d55ec1a",
         "git_create": false,
         "git_run": false,
         "last_seen": "1b1ddc5"
