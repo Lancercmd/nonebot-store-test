@@ -6205,7 +6205,7 @@
         "pypi_version": "0.1.16",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "15036ce",
+        "git_hash": "80bce3b",
         "git_create": true,
         "git_run": false,
         "last_seen": "20d3d62"
@@ -6925,7 +6925,7 @@
         "pypi_version": "0.1.17.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4adeb70",
+        "git_hash": "7139e5b",
         "git_create": false,
         "git_run": false,
         "last_seen": "20d3d62"
@@ -6952,10 +6952,10 @@
         "project_link": "nonebot-plugin-follow-withdraw",
         "display_name": "follow_withdraw",
         "homepage": "https://github.com/CMHopeSunshine/nonebot-plugin-follow-withdraw",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "43b8cab",
+        "git_hash": "253dfd8",
         "git_create": true,
         "git_run": false,
         "last_seen": "20d3d62"
