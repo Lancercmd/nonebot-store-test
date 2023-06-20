@@ -1042,10 +1042,10 @@
         "project_link": "olivos.nb2",
         "display_name": "OlivOS.nb2",
         "homepage": "https://github.com/nonepkg/OlivOS.nb2",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6d0d8f0",
+        "git_hash": "3205ce3",
         "git_create": true,
         "git_run": false,
         "last_seen": "263e6b2"
