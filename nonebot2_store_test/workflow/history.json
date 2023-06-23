@@ -6577,10 +6577,10 @@
         "project_link": "nonebot-plugin-msgbuf",
         "display_name": "信鸽巴夫",
         "homepage": "https://github.com/NCBM/nonebot-plugin-msgbuf",
-        "pypi_version": "0.3.2",
+        "pypi_version": "0.4.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c59a26c",
+        "git_hash": "be84fe3",
         "git_create": true,
         "git_run": false,
         "last_seen": "89596fb"
