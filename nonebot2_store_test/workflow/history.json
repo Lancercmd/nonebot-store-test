@@ -6982,10 +6982,10 @@
         "project_link": "nonebot-plugin-ocgbot-v2",
         "display_name": "nonbot-plugin-ocgbot-v2",
         "homepage": "https://github.com/fireinsect/nonebot-plugin-ocgbot-v2/",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7bac74c",
+        "git_hash": "14687da",
         "git_create": true,
         "git_run": false,
         "last_seen": "fe21cbf"
