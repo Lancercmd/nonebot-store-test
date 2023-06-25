@@ -3895,7 +3895,7 @@
         "pypi_version": "1.0.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "63c41c0",
+        "git_hash": "c38c673",
         "git_create": true,
         "git_run": false,
         "last_seen": "7282da8"
@@ -4522,10 +4522,10 @@
         "project_link": "nonebot-plugin-l4d2-server",
         "display_name": "求生之路2—相关功能",
         "homepage": "https://github.com/Agnes4m/nonebot_plugin_l4d2_server",
-        "pypi_version": "0.5.7",
+        "pypi_version": "0.5.7.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7a389bb",
+        "git_hash": "5559689",
         "git_create": true,
         "git_run": true,
         "last_seen": "7282da8"
