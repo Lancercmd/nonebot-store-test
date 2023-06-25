@@ -127,10 +127,10 @@
         "project_link": "nonebot-plugin-navicat",
         "display_name": "通用数据库连接",
         "homepage": "https://github.com/synodriver/nonebot_plugin_navicat",
-        "pypi_version": "0.2.3",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f288a99",
+        "git_hash": "0dfa300",
         "git_create": true,
         "git_run": false,
         "last_seen": "7282da8"
@@ -4915,7 +4915,7 @@
         "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7e01ee5",
+        "git_hash": "e174ee0",
         "git_create": true,
         "git_run": false,
         "last_seen": "7282da8"
@@ -4945,7 +4945,7 @@
         "pypi_version": "0.0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "79f5214",
+        "git_hash": "e7beaa6",
         "git_create": true,
         "git_run": false,
         "last_seen": "7282da8"
