@@ -2845,9 +2845,9 @@
         "pypi_version": "0.8.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "aec4101",
+        "git_hash": "5ce6734",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "3a12984"
     },
     "nonebot-plugin-mcqq": {
@@ -6622,10 +6622,10 @@
         "project_link": "nonebot-plugin-multincm",
         "display_name": "MultiNCM",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-multincm",
-        "pypi_version": "0.3.6",
+        "pypi_version": "0.3.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "56027a0",
+        "git_hash": "6e0764b",
         "git_create": true,
         "git_run": false,
         "last_seen": "3a12984"
