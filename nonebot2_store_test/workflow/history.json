@@ -7027,10 +7027,10 @@
         "project_link": "nonebot-plugin-eitherchoice",
         "display_name": "EitherChoice",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-eitherchoice",
-        "pypi_version": "0.1.0.post1",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "50617c7",
+        "git_hash": "e982ed1",
         "git_create": true,
         "git_run": true,
         "last_seen": "a899523"
