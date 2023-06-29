@@ -22,10 +22,10 @@
         "project_link": "haruka-bot",
         "display_name": "HarukaBot",
         "homepage": "https://github.com/SK-415/HarukaBot",
-        "pypi_version": "1.6.0.post2",
+        "pypi_version": "1.6.0.post4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "1fce7b7",
+        "git_hash": "51dc6c3",
         "git_create": true,
         "git_run": true,
         "last_seen": "a899523"
@@ -3880,7 +3880,7 @@
         "pypi_version": "0.4.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8f5bb65",
+        "git_hash": "f29b99b",
         "git_create": true,
         "git_run": false,
         "last_seen": "a899523"
