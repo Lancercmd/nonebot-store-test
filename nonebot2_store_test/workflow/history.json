@@ -6922,10 +6922,10 @@
         "project_link": "nonebot-plugin-bili-push",
         "display_name": "bili_push",
         "homepage": "https://github.com/SuperGuGuGu/nonebot_plugin_bili_push",
-        "pypi_version": "0.1.22",
+        "pypi_version": "0.1.23",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0b1eda2",
+        "git_hash": "857b589",
         "git_create": false,
         "git_run": false,
         "last_seen": "3bee189"
