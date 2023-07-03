@@ -5242,10 +5242,10 @@
         "project_link": "nonebot-plugin-maimai",
         "display_name": "舞萌maimai插件版",
         "homepage": "https://github.com/Agnes4m/nonebot_plugin_maimai",
-        "pypi_version": "0.2.3",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a0f9713",
+        "git_hash": "fe08561",
         "git_create": true,
         "git_run": true,
         "last_seen": "c40b95f"
