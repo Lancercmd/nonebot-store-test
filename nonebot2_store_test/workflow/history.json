@@ -6130,7 +6130,7 @@
         "pypi_version": "0.3.22",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0592f16",
+        "git_hash": "d255e7c",
         "git_create": true,
         "git_run": true,
         "last_seen": "04182ee"
@@ -7042,10 +7042,10 @@
         "project_link": "nonebot-plugin-poke",
         "display_name": "戳一戳事件",
         "homepage": "https://github.com/Agnes4m/nonebot_plugin_poke",
-        "pypi_version": "0.0.5",
+        "pypi_version": "0.0.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d3e4f6a",
+        "git_hash": "d6b04da",
         "git_create": true,
         "git_run": false,
         "last_seen": "04182ee"
