@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "046ad66",
+        "git_hash": "0252909",
         "git_create": true,
         "git_run": false,
         "last_seen": "b2b20ff"
@@ -6130,7 +6130,7 @@
         "pypi_version": "0.3.31",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4850739",
+        "git_hash": "7b19d1f",
         "git_create": true,
         "git_run": true,
         "last_seen": "b2b20ff"
@@ -6922,10 +6922,10 @@
         "project_link": "nonebot-plugin-bili-push",
         "display_name": "bili_push",
         "homepage": "https://github.com/SuperGuGuGu/nonebot_plugin_bili_push",
-        "pypi_version": "0.1.26",
+        "pypi_version": "0.1.26.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "07d6d1c",
+        "git_hash": "77a3ae6",
         "git_create": false,
         "git_run": false,
         "last_seen": "b2b20ff"
