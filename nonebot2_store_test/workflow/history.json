@@ -3727,10 +3727,10 @@
         "project_link": "nonebot-plugin-savor",
         "display_name": "二次元图像鉴赏",
         "homepage": "https://github.com/A-kirami/nonebot-plugin-savor",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3c4474b",
+        "git_hash": "43ece5f",
         "git_create": true,
         "git_run": false,
         "last_seen": "13ddfa1"
