@@ -6982,10 +6982,10 @@
         "project_link": "nonebot-plugin-ocgbot-v2",
         "display_name": "游戏王小蓝卡查",
         "homepage": "https://github.com/fireinsect/nonebot-plugin-ocgbot-v2/",
-        "pypi_version": "0.2.5",
+        "pypi_version": "0.2.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "43387f1",
+        "git_hash": "6e406ad",
         "git_create": true,
         "git_run": false,
         "last_seen": "21376a5"
