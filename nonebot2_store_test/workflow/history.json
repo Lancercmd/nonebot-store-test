@@ -7132,10 +7132,10 @@
         "project_link": "nonebot-plugin-capoo",
         "display_name": "猫猫虫咖波图片发送",
         "homepage": "https://github.com/HuParry/nonebot-plugin-capoo",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "94a7469",
+        "git_hash": "f160db8",
         "git_create": true,
         "git_run": false,
         "last_seen": "21376a5"
