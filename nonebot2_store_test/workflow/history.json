@@ -5212,10 +5212,10 @@
         "project_link": "nonebot-plugin-matcher-block",
         "display_name": "通用指令阻断",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_matcher_block",
-        "pypi_version": "0.0.4",
+        "pypi_version": "0.0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1cfd5ee",
+        "git_hash": "4226606",
         "git_create": false,
         "git_run": false,
         "last_seen": "21376a5"
