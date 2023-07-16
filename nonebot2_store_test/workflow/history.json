@@ -2545,7 +2545,7 @@
         "pypi_version": "0.2.114514",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5e284f2",
+        "git_hash": "4019da6",
         "git_create": true,
         "git_run": false,
         "last_seen": "2936467"
@@ -6097,10 +6097,10 @@
         "project_link": "nonebot-plugin-bilichat",
         "display_name": "多功能 BiliBili 解析工具",
         "homepage": "https://github.com/djkcyl/nonebot-plugin-bilichat",
-        "pypi_version": "2.11.2",
+        "pypi_version": "2.11.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5db94a5",
+        "git_hash": "07b0eeb",
         "git_create": true,
         "git_run": true,
         "last_seen": "2936467"
