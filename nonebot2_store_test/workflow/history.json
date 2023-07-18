@@ -265,7 +265,7 @@
         "pypi_version": "0.7.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1db15ff",
+        "git_hash": "5922a78",
         "git_create": true,
         "git_run": true,
         "last_seen": "7a34571"
@@ -6520,7 +6520,7 @@
         "pypi_version": "1.1.8",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "f82aa5f",
+        "git_hash": "20dd6f3",
         "git_create": true,
         "git_run": false,
         "last_seen": "7a34571"
