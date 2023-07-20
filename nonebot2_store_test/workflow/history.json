@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a55a674",
+        "git_hash": "73a6847",
         "git_create": true,
         "git_run": true,
         "last_seen": "70ece41"
@@ -1870,7 +1870,7 @@
         "pypi_version": "3.1.19",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d124501",
+        "git_hash": "d2a469e",
         "git_create": true,
         "git_run": false,
         "last_seen": "70ece41"
@@ -2692,10 +2692,10 @@
         "project_link": "nonebot-plugin-osubot",
         "display_name": "OSU查分插件",
         "homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-        "pypi_version": "2.0.7",
+        "pypi_version": "2.0.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6bdafb3",
+        "git_hash": "8d11c4f",
         "git_create": true,
         "git_run": false,
         "last_seen": "70ece41"
@@ -2995,7 +2995,7 @@
         "pypi_version": "2.0.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "60d0582",
+        "git_hash": "fb263d7",
         "git_create": true,
         "git_run": false,
         "last_seen": "70ece41"
@@ -5980,7 +5980,7 @@
         "pypi_version": "0.4.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ebe06ba",
+        "git_hash": "363dcd8",
         "git_create": true,
         "git_run": false,
         "last_seen": "70ece41"
@@ -6847,7 +6847,7 @@
         "project_link": "nonebot-plugin-stable-diffusion-diao",
         "display_name": "stablediffusion绘画插件",
         "homepage": "https://github.com/DiaoDaiaChan/nonebot-plugin-stable-diffusion-diao",
-        "pypi_version": "0.3.9.5.1",
+        "pypi_version": "0.3.9.5.2",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "eaec0aa",
