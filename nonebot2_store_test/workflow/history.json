@@ -4390,7 +4390,7 @@
         "pypi_version": "2.5.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2d3bd4f",
+        "git_hash": "02be872",
         "git_create": false,
         "git_run": false,
         "last_seen": "ac90df9"
@@ -4405,7 +4405,7 @@
         "pypi_version": "1.6.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7cd5c19",
+        "git_hash": "1983f60",
         "git_create": false,
         "git_run": false,
         "last_seen": "ac90df9"
@@ -4522,12 +4522,12 @@
         "project_link": "nonebot-plugin-l4d2-server",
         "display_name": "求生之路2—相关功能",
         "homepage": "https://github.com/Agnes4m/nonebot_plugin_l4d2_server",
-        "pypi_version": "0.6.0",
+        "pypi_version": "0.6.0.1",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "20f6fff",
+        "pypi_run": true,
+        "git_hash": "ddf2730",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "ac90df9"
     },
     "nonebot-plugin-learning-chat": {
@@ -4930,7 +4930,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7826c79",
+        "git_hash": "a005cca",
         "git_create": false,
         "git_run": false,
         "last_seen": "ac90df9"
@@ -6610,7 +6610,7 @@
         "pypi_version": "2.0.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5fc8185",
+        "git_hash": "525a8b5",
         "git_create": false,
         "git_run": false,
         "last_seen": "ac90df9"
@@ -7117,10 +7117,10 @@
         "project_link": "nonebot-plugin-splatoon3",
         "display_name": "nonebot-plugin-splatoon3",
         "homepage": "https://github.com/Skyminers/Bot-Splatoon3",
-        "pypi_version": "1.1.9",
+        "pypi_version": "1.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9ff9ebc",
+        "git_hash": "5fd86d6",
         "git_create": true,
         "git_run": false,
         "last_seen": "ac90df9"
