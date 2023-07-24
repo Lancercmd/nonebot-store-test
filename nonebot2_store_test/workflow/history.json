@@ -655,7 +655,7 @@
         "pypi_version": "2.6.20",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "95dea50",
+        "git_hash": "232cca6",
         "git_create": true,
         "git_run": true,
         "last_seen": "ad4cf86"
@@ -1675,7 +1675,7 @@
         "pypi_version": "1.9.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "dbc9392",
+        "git_hash": "681144e",
         "git_create": true,
         "git_run": false,
         "last_seen": "ad4cf86"
@@ -6562,10 +6562,10 @@
         "project_link": "nonebot-plugin-arkgacha",
         "display_name": "明日方舟抽卡模拟",
         "homepage": "https://github.com/RF-Tar-Railt/nonebot-plugin-arkgacha",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c5732e9",
+        "git_hash": "7b21623",
         "git_create": true,
         "git_run": false,
         "last_seen": "ad4cf86"
