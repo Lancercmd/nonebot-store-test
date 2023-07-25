@@ -4927,10 +4927,10 @@
         "project_link": "nonebot-plugin-easy-group-manager",
         "display_name": "简易群管女生自用99新",
         "homepage": "https://github.com/zhulinyv/nonebot_plugin_easy_group_manager",
-        "pypi_version": "0.3.2",
+        "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a005cca",
+        "git_hash": "d35c19a",
         "git_create": false,
         "git_run": false,
         "last_seen": "a2f2b81"
