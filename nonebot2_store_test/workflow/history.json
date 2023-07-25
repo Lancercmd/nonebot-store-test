@@ -742,10 +742,10 @@
         "project_link": "nonebot-plugin-twitter",
         "display_name": "twitter订阅",
         "homepage": "https://github.com/nek0us/nonebot-plugin-twitter",
-        "pypi_version": "0.1.9",
+        "pypi_version": "0.1.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7bd3ef9",
+        "git_hash": "ea946e0",
         "git_create": true,
         "git_run": false,
         "last_seen": "a2f2b81"
