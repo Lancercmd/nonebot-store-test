@@ -7222,10 +7222,10 @@
         "project_link": "nonebot-plugin-pjsk",
         "display_name": "pjsk表情",
         "homepage": "https://github.com/Agnes4m/nonebot_plugin_pjsk",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "debf379",
+        "git_hash": "c7ef973",
         "git_create": true,
         "git_run": false,
         "last_seen": "a2f2b81"
