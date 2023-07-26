@@ -265,7 +265,7 @@
         "pypi_version": "0.8.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "be17988",
+        "git_hash": "42435cc",
         "git_create": true,
         "git_run": true,
         "last_seen": "a2f2b81"
@@ -1435,7 +1435,7 @@
         "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "fab62f8",
+        "git_hash": "867d499",
         "git_create": true,
         "git_run": true,
         "last_seen": "a2f2b81"
@@ -5980,7 +5980,7 @@
         "pypi_version": "0.4.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e14f33d",
+        "git_hash": "cfdd5f7",
         "git_create": true,
         "git_run": false,
         "last_seen": "a2f2b81"
@@ -6520,7 +6520,7 @@
         "pypi_version": "1.2.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ce96121",
+        "git_hash": "102ebb2",
         "git_create": true,
         "git_run": false,
         "last_seen": "a2f2b81"
@@ -7252,10 +7252,10 @@
         "project_link": "nonebot-plugin-templates",
         "display_name": "templates_render",
         "homepage": "https://github.com/canxin121/nonebot_plugin_templates",
-        "pypi_version": "0.1.4",
+        "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ae98fe7",
+        "git_hash": "92c81c4",
         "git_create": true,
         "git_run": true,
         "last_seen": "a2f2b81"
