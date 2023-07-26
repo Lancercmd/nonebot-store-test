@@ -6682,10 +6682,10 @@
         "project_link": "nonebot-plugin-session",
         "display_name": "会话 id",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-session",
-        "pypi_version": "0.0.6",
+        "pypi_version": "0.0.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "9302df7",
+        "git_hash": "78f9733",
         "git_create": true,
         "git_run": true,
         "last_seen": "a2f2b81"
