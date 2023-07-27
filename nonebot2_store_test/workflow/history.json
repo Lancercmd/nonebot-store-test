@@ -265,7 +265,7 @@
         "pypi_version": "0.8.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "78c66e8",
+        "git_hash": "34e8a60",
         "git_create": true,
         "git_run": true,
         "last_seen": "a2f2b81"
@@ -2695,7 +2695,7 @@
         "pypi_version": "3.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1a15dfa",
+        "git_hash": "4825476",
         "git_create": true,
         "git_run": false,
         "last_seen": "a2f2b81"
@@ -3502,7 +3502,7 @@
         "project_link": "nonebot_plugin_makemidi",
         "display_name": "在线编曲",
         "homepage": "https://github.com/RandomEnch/nonebot_plugin_makemidi",
-        "pypi_version": "0.1.11",
+        "pypi_version": "0.1.12",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "3056897",
