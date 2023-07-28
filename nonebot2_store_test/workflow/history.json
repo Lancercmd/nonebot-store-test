@@ -2845,7 +2845,7 @@
         "pypi_version": "0.8.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "1e0115b",
+        "git_hash": "376d803",
         "git_create": true,
         "git_run": true,
         "last_seen": "062af45"
@@ -4117,10 +4117,10 @@
         "project_link": "nonebot-plugin-majsoul",
         "display_name": "雀魂信息查询",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-majsoul",
-        "pypi_version": "0.2.1.post1",
+        "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "e28c242",
+        "git_hash": "a749f9f",
         "git_create": true,
         "git_run": true,
         "last_seen": "062af45"
@@ -4960,7 +4960,7 @@
         "pypi_version": "0.11.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "416749d",
+        "git_hash": "aaff880",
         "git_create": true,
         "git_run": false,
         "last_seen": "062af45"
@@ -6817,10 +6817,10 @@
         "project_link": "nonebot-plugin-nagabus",
         "display_name": "NAGA公交车",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-nagabus",
-        "pypi_version": "0.2.4",
+        "pypi_version": "0.2.5.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "eb1b8c9",
+        "git_hash": "014a7ad",
         "git_create": true,
         "git_run": true,
         "last_seen": "062af45"
@@ -6925,7 +6925,7 @@
         "pypi_version": "0.1.32",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bb785dd",
+        "git_hash": "29afa17",
         "git_create": false,
         "git_run": false,
         "last_seen": "062af45"
@@ -7225,7 +7225,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "daa6d4c",
+        "git_hash": "6ae5dbc",
         "git_create": true,
         "git_run": false,
         "last_seen": "062af45"
