@@ -5182,10 +5182,10 @@
         "project_link": "nonebot-plugin-eventmonitor",
         "display_name": "Q群消息事件监控",
         "homepage": "https://github.com/Reversedeer/nonebot_plugin_eventmonitor",
-        "pypi_version": "0.1.9",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "571d989",
+        "git_hash": "ff4cab5",
         "git_create": true,
         "git_run": false,
         "last_seen": "062af45"
@@ -7120,7 +7120,7 @@
         "pypi_version": "1.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c77c548",
+        "git_hash": "0fc9f00",
         "git_create": true,
         "git_run": false,
         "last_seen": "062af45"
