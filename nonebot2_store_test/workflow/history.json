@@ -7372,10 +7372,10 @@
         "project_link": "nonebot-plugin-aujob",
         "display_name": "Among US中的TOH模组职业介绍",
         "homepage": "https://github.com/qwqZYLqwq/nonebot-plugin-aujob",
-        "pypi_version": "0.1.4",
+        "pypi_version": "1.1.514",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e80cd1f",
+        "git_hash": "97a3a71",
         "git_create": true,
         "git_run": false,
         "last_seen": "6bb2c46"
