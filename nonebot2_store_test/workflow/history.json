@@ -7042,10 +7042,10 @@
         "project_link": "nonebot-plugin-poke",
         "display_name": "戳一戳事件",
         "homepage": "https://github.com/Agnes4m/nonebot_plugin_poke",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "58e8905",
+        "git_hash": "adfefe2",
         "git_create": true,
         "git_run": false,
         "last_seen": "6bb2c46"
