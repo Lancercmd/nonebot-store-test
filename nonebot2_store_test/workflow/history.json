@@ -2695,7 +2695,7 @@
         "pypi_version": "3.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5532daf",
+        "git_hash": "a7feee9",
         "git_create": true,
         "git_run": false,
         "last_seen": "6bb2c46"
@@ -4525,7 +4525,7 @@
         "pypi_version": "0.6.0.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b202403",
+        "git_hash": "6094faa",
         "git_create": true,
         "git_run": false,
         "last_seen": "6bb2c46"
@@ -5092,10 +5092,10 @@
         "project_link": "nonebot-plugin-b23",
         "display_name": "B站热搜",
         "homepage": "https://github.com/eya46/nonebot_plugin_b23",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3ba895a",
+        "git_hash": "c661551",
         "git_create": true,
         "git_run": false,
         "last_seen": "6bb2c46"
@@ -5350,7 +5350,7 @@
         "pypi_version": "0.2.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "13b5484",
+        "git_hash": "d2c110f",
         "git_create": true,
         "git_run": false,
         "last_seen": "6bb2c46"
