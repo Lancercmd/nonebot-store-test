@@ -1222,10 +1222,10 @@
         "project_link": "nonebot-plugin-remake",
         "display_name": "人生重开模拟器",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-remake",
-        "pypi_version": "0.2.7",
+        "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b111aca",
+        "git_hash": "b915d4f",
         "git_create": true,
         "git_run": false,
         "last_seen": "babafca"
