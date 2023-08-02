@@ -7177,10 +7177,10 @@
         "project_link": "nonebot-plugin-blocker",
         "display_name": "Blocker",
         "homepage": "https://github.com/MerCuJerry/nonebot-plugin-blocker",
-        "pypi_version": "0.3.7",
+        "pypi_version": "0.3.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a2c615d",
+        "git_hash": "424e6e2",
         "git_create": true,
         "git_run": true,
         "last_seen": "2394483"
