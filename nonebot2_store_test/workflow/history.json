@@ -4267,10 +4267,10 @@
         "project_link": "nonebot-plugin-kuma-san",
         "display_name": "熊老板",
         "homepage": "https://github.com/ReiiNoki/nonebot-plugin-kuma-san",
-        "pypi_version": "1.0.4",
+        "pypi_version": "1.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fbf2efa",
+        "git_hash": "d7f3a90",
         "git_create": true,
         "git_run": false,
         "last_seen": "cfda433"
@@ -6925,7 +6925,7 @@
         "pypi_version": "0.1.33",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "29afa17",
+        "git_hash": "855e4eb",
         "git_create": false,
         "git_run": false,
         "last_seen": "cfda433"
