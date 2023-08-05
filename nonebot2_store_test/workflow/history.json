@@ -265,7 +265,7 @@
         "pypi_version": "0.8.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a1178e2",
+        "git_hash": "e6a2998",
         "git_create": true,
         "git_run": true,
         "last_seen": "383699a"
@@ -4090,7 +4090,7 @@
         "pypi_version": "0.1.7.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fd1c651",
+        "git_hash": "9865906",
         "git_create": true,
         "git_run": false,
         "last_seen": "383699a"
@@ -5350,7 +5350,7 @@
         "pypi_version": "0.2.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d2c110f",
+        "git_hash": "3fcdaa7",
         "git_create": true,
         "git_run": false,
         "last_seen": "383699a"
@@ -7417,12 +7417,12 @@
         "project_link": "nonebot-plugin-lostark-wandering-trader",
         "display_name": "命运方舟流浪商人卡牌刷新提示",
         "homepage": "https://github.com/EmiyaGm/nonebot-plugin-lostark-wandering-trader",
-        "pypi_version": "0.0.3",
-        "pypi_create": true,
+        "pypi_version": "0.0.4",
+        "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "444185b",
+        "git_hash": "9547078",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "383699a"
     },
     "nonebot-plugin-talk-with-poe-ai": {
