@@ -5062,10 +5062,10 @@
         "project_link": "nonebot-plugin-impact",
         "display_name": "impact淫趴",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_impact",
-        "pypi_version": "0.6.114514",
+        "pypi_version": "0.8.114514",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c384ccc",
+        "git_hash": "70e4bc1",
         "git_create": true,
         "git_run": false,
         "last_seen": "383699a"
