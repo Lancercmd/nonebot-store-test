@@ -655,7 +655,7 @@
         "pypi_version": "2.6.20",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "63361d1",
+        "git_hash": "09f6075",
         "git_create": true,
         "git_run": true,
         "last_seen": "383699a"
@@ -1675,7 +1675,7 @@
         "pypi_version": "1.9.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5e3549b",
+        "git_hash": "316916d",
         "git_create": true,
         "git_run": false,
         "last_seen": "383699a"
@@ -7222,10 +7222,10 @@
         "project_link": "nonebot-plugin-pjsk",
         "display_name": "pjsk表情",
         "homepage": "https://github.com/Agnes4m/nonebot_plugin_pjsk",
-        "pypi_version": "0.2.5",
+        "pypi_version": "0.2.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ffe4f7a",
+        "git_hash": "2bcb46a",
         "git_create": true,
         "git_run": false,
         "last_seen": "383699a"
