@@ -2695,7 +2695,7 @@
         "pypi_version": "3.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f7ec9dc",
+        "git_hash": "16dc270",
         "git_create": true,
         "git_run": false,
         "last_seen": "383699a"
@@ -4060,7 +4060,7 @@
         "pypi_version": "0.0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "00b4990",
+        "git_hash": null,
         "git_create": true,
         "git_run": false,
         "last_seen": "383699a"
@@ -7417,10 +7417,10 @@
         "project_link": "nonebot-plugin-lostark-wandering-trader",
         "display_name": "命运方舟流浪商人卡牌刷新提示",
         "homepage": "https://github.com/EmiyaGm/nonebot-plugin-lostark-wandering-trader",
-        "pypi_version": "0.0.6",
+        "pypi_version": "0.0.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4138765",
+        "git_hash": "b8ca025",
         "git_create": true,
         "git_run": true,
         "last_seen": "383699a"
