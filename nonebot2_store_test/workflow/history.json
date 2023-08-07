@@ -1432,7 +1432,7 @@
         "project_link": "nonebot-plugin-chatrecorder",
         "display_name": "聊天记录插件",
         "homepage": "https://github.com/MeetWq/nonebot-plugin-chatrecorder",
-        "pypi_version": "0.2.5",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "56bfd37",
@@ -1585,7 +1585,7 @@
         "pypi_version": "1.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "69e766a",
+        "git_hash": "92cfbf1",
         "git_create": true,
         "git_run": false,
         "last_seen": "383699a"
