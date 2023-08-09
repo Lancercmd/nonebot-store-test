@@ -265,7 +265,7 @@
         "pypi_version": "0.8.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "374a9d7",
+        "git_hash": "7d7c71d",
         "git_create": true,
         "git_run": true,
         "last_seen": "1f3abc2"
@@ -1405,7 +1405,7 @@
         "pypi_version": "0.4.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c35d234",
+        "git_hash": "8cba150",
         "git_create": true,
         "git_run": true,
         "last_seen": "1f3abc2"
@@ -2692,10 +2692,10 @@
         "project_link": "nonebot-plugin-osubot",
         "display_name": "OSU查分插件",
         "homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-        "pypi_version": "3.1.2",
+        "pypi_version": "3.1.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "12f249b",
+        "git_hash": "ee01207",
         "git_create": true,
         "git_run": false,
         "last_seen": "1f3abc2"
@@ -5350,7 +5350,7 @@
         "pypi_version": "0.2.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3fcdaa7",
+        "git_hash": "555dc34",
         "git_create": true,
         "git_run": false,
         "last_seen": "1f3abc2"
@@ -7417,10 +7417,10 @@
         "project_link": "nonebot-plugin-lostark-wandering-trader",
         "display_name": "命运方舟流浪商人卡牌刷新提示",
         "homepage": "https://github.com/EmiyaGm/nonebot-plugin-lostark-wandering-trader",
-        "pypi_version": "0.0.8",
+        "pypi_version": "0.0.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "475c423",
+        "git_hash": "be5c040",
         "git_create": true,
         "git_run": true,
         "last_seen": "1f3abc2"
