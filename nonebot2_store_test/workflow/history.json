@@ -265,7 +265,7 @@
         "pypi_version": "0.8.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7d7c71d",
+        "git_hash": "532a5fd",
         "git_create": true,
         "git_run": true,
         "last_seen": "1f3abc2"
@@ -1330,7 +1330,7 @@
         "pypi_version": "1.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4bafc7d",
+        "git_hash": "43bd8c9",
         "git_create": true,
         "git_run": false,
         "last_seen": "1f3abc2"
@@ -3025,7 +3025,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "194baa0",
+        "git_hash": "0088a88",
         "git_create": true,
         "git_run": false,
         "last_seen": "1f3abc2"
@@ -5347,10 +5347,10 @@
         "project_link": "nonebot-plugin-send-anything-anywhere",
         "display_name": "峯驰物流",
         "homepage": "https://github.com/felinae98/nonebot-plugin-send-anything-anywhere",
-        "pypi_version": "0.2.7",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "555dc34",
+        "git_hash": "c89cc14",
         "git_create": true,
         "git_run": false,
         "last_seen": "1f3abc2"
