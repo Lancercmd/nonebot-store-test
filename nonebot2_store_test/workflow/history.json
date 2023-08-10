@@ -7507,10 +7507,10 @@
         "project_link": "nonebot-plugin-jx3",
         "display_name": "剑网三查询和推送",
         "homepage": "https://github.com/fuyang0811/nonebot-plugin-jx3",
-        "pypi_version": "0.6.4",
+        "pypi_version": "0.6.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d6a8fda",
+        "git_hash": "558e673",
         "git_create": true,
         "git_run": false,
         "last_seen": "d982289"
