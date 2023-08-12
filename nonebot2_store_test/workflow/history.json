@@ -6097,10 +6097,10 @@
         "project_link": "nonebot-plugin-bilichat",
         "display_name": "多功能 BiliBili 解析工具",
         "homepage": "https://github.com/djkcyl/nonebot-plugin-bilichat",
-        "pypi_version": "3.0.1",
+        "pypi_version": "3.1.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "9841903",
+        "git_hash": "0e8f225",
         "git_create": true,
         "git_run": true,
         "last_seen": "e0d74a1"
