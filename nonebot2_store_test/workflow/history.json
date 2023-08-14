@@ -4960,7 +4960,7 @@
         "pypi_version": "0.14.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "566b228",
+        "git_hash": "19d10bb",
         "git_create": true,
         "git_run": false,
         "last_seen": "e3a1c02"
@@ -6460,7 +6460,7 @@
         "pypi_version": "0.1.19",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a2e6abe",
+        "git_hash": "3bd25b7",
         "git_create": true,
         "git_run": false,
         "last_seen": "e3a1c02"
@@ -7117,10 +7117,10 @@
         "project_link": "nonebot-plugin-splatoon3",
         "display_name": "nonebot-plugin-splatoon3",
         "homepage": "https://github.com/Skyminers/Bot-Splatoon3",
-        "pypi_version": "1.2.4",
+        "pypi_version": "1.2.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1cfffec",
+        "git_hash": "8e7efda",
         "git_create": true,
         "git_run": false,
         "last_seen": "e3a1c02"
@@ -7537,10 +7537,10 @@
         "project_link": "dicergirl",
         "display_name": "欧若可骰娘",
         "homepage": "https://gitee.com/unvisitor/dicer",
-        "pypi_version": "3.1.22",
+        "pypi_version": "3.1.23",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bf6c5b8",
+        "git_hash": "c0a6e24",
         "git_create": true,
         "git_run": false,
         "last_seen": "e3a1c02"
