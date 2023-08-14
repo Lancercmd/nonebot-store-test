@@ -5017,10 +5017,10 @@
         "project_link": "nonebot-plugin-dog",
         "display_name": "舔狗日记",
         "homepage": "https://github.com/Reversedeer/nonebot_plugin_dog",
-        "pypi_version": "0.2.8",
+        "pypi_version": "0.2.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ec6fdf8",
+        "git_hash": "c36ca36",
         "git_create": true,
         "git_run": false,
         "last_seen": "a284e6d"
