@@ -7462,10 +7462,10 @@
         "project_link": "nonebot-plugin-kanonbot",
         "display_name": "KanonBot",
         "homepage": "https://github.com/SuperGuGuGu/nonebot_plugin_kanonbot",
-        "pypi_version": "0.0.1b3",
+        "pypi_version": "0.0.1b5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "71b5cb8",
+        "git_hash": "cdadab9",
         "git_create": false,
         "git_run": false,
         "last_seen": "a284e6d"
