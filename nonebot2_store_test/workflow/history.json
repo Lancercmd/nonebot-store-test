@@ -2695,7 +2695,7 @@
         "pypi_version": "3.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9d0a2c8",
+        "git_hash": "22121ef",
         "git_create": true,
         "git_run": false,
         "last_seen": "417f586"
@@ -5212,10 +5212,10 @@
         "project_link": "nonebot-plugin-matcher-block",
         "display_name": "通用指令阻断",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_matcher_block",
-        "pypi_version": "0.0.7",
+        "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6136a61",
+        "git_hash": "6edf975",
         "git_create": false,
         "git_run": false,
         "last_seen": "417f586"
