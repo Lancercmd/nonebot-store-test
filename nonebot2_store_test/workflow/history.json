@@ -1435,7 +1435,7 @@
         "pypi_version": "0.4.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "86fc3f4",
+        "git_hash": "1cda631",
         "git_create": true,
         "git_run": true,
         "last_seen": "53d1de4"
@@ -7612,10 +7612,10 @@
         "project_link": "nonebot-plugin-anime-trace",
         "display_name": "识别动漫gal角色",
         "homepage": "https://github.com/tomorinao-www/nonebot-plugin-anime-trace",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c671cd9",
+        "git_hash": "7c90827",
         "git_create": true,
         "git_run": false,
         "last_seen": "53d1de4"
