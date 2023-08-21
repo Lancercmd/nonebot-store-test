@@ -6187,10 +6187,10 @@
         "project_link": "nonebot-plugin-pokemonfusion",
         "display_name": "宝可梦融合",
         "homepage": "https://github.com/IllusiveBull/nonebot_plugin_pokemonfusion",
-        "pypi_version": "1.0.7",
-        "pypi_create": false,
+        "pypi_version": "1.0.9",
+        "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ed4d170",
+        "git_hash": "c36fff1",
         "git_create": true,
         "git_run": false,
         "last_seen": "53d1de4"
