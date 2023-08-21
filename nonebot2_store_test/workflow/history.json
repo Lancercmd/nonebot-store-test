@@ -1405,7 +1405,7 @@
         "pypi_version": "0.4.9",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c4ab338",
+        "git_hash": "2fba709",
         "git_create": true,
         "git_run": true,
         "last_seen": "53d1de4"
@@ -7492,10 +7492,10 @@
         "project_link": "nonebot-plugin-muteme",
         "display_name": "Muteme(我禁我自己)",
         "homepage": "https://github.com/XTxiaoting14332/nonebot-plugin-muteme",
-        "pypi_version": "0.0.4",
+        "pypi_version": "0.0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0ba888c",
+        "git_hash": "d63c80f",
         "git_create": true,
         "git_run": false,
         "last_seen": "53d1de4"
