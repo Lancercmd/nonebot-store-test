@@ -5020,7 +5020,7 @@
         "pypi_version": "0.2.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c36ca36",
+        "git_hash": "475ac92",
         "git_create": true,
         "git_run": false,
         "last_seen": "53d1de4"
@@ -5185,7 +5185,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ff4cab5",
+        "git_hash": "38dd59b",
         "git_create": true,
         "git_run": false,
         "last_seen": "53d1de4"
@@ -7522,10 +7522,10 @@
         "project_link": "nonebot-plugin-xinghuo-api",
         "display_name": "科大讯飞星火大模型聊天",
         "homepage": "https://github.com/Alpaca4610/nonebot-plugin-xinghuo-api",
-        "pypi_version": "1.0.0",
+        "pypi_version": "2.0.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "da33f58",
+        "git_hash": "3bb644d",
         "git_create": true,
         "git_run": false,
         "last_seen": "53d1de4"
