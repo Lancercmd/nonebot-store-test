@@ -6817,10 +6817,10 @@
         "project_link": "nonebot-plugin-nagabus",
         "display_name": "NAGA公交车",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-nagabus",
-        "pypi_version": "0.2.8",
+        "pypi_version": "0.2.10",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2ccbd1e",
+        "git_hash": "ce6232c",
         "git_create": true,
         "git_run": true,
         "last_seen": "117ef18"
