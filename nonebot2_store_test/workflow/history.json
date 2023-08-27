@@ -4537,10 +4537,10 @@
         "project_link": "nonebot-plugin-learning-chat",
         "display_name": "群聊学习",
         "homepage": "https://github.com/CMHopeSunshine/nonebot-plugin-learning-chat",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "95a3e10",
+        "git_hash": "ee79cc6",
         "git_create": true,
         "git_run": true,
         "last_seen": "13e4045"
