@@ -4762,7 +4762,7 @@
         "project_link": "nonebot-plugin-easy-translate",
         "display_name": "简易谷歌翻译插件",
         "homepage": "https://github.com/nikissXI/nonebot_plugins/tree/main/nonebot_plugin_easy_translate",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": null,
