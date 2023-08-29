@@ -2980,7 +2980,7 @@
         "pypi_version": "0.8.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "05f4fed",
+        "git_hash": "a974b9a",
         "git_create": true,
         "git_run": false,
         "last_seen": "f6dd988"
@@ -2995,7 +2995,7 @@
         "pypi_version": "2.0.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fb263d7",
+        "git_hash": "dbc183a",
         "git_create": true,
         "git_run": false,
         "last_seen": "f6dd988"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.0.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "66d84f0",
+        "git_hash": "5ecf558",
         "git_create": true,
         "git_run": false,
         "last_seen": "f6dd988"
@@ -6817,10 +6817,10 @@
         "project_link": "nonebot-plugin-nagabus",
         "display_name": "NAGA公交车",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-nagabus",
-        "pypi_version": "0.2.10",
+        "pypi_version": "0.2.13",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ce6232c",
+        "git_hash": "8260b8f",
         "git_create": true,
         "git_run": true,
         "last_seen": "f6dd988"
@@ -6847,10 +6847,10 @@
         "project_link": "nonebot-plugin-stable-diffusion-diao",
         "display_name": "stablediffusion绘画插件",
         "homepage": "https://github.com/DiaoDaiaChan/nonebot-plugin-stable-diffusion-diao",
-        "pypi_version": "0.4.3.2",
+        "pypi_version": "0.4.3.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "27343c1",
+        "git_hash": "744d769",
         "git_create": true,
         "git_run": false,
         "last_seen": "f6dd988"
