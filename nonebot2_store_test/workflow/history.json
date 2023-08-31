@@ -3877,7 +3877,7 @@
         "project_link": "nonebot-plugin-mahjong-utils",
         "display_name": "日麻小工具",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-mahjong-utils",
-        "pypi_version": "0.4.2",
+        "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "5d3a23e",
@@ -7510,7 +7510,7 @@
         "pypi_version": "0.6.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cdb5353",
+        "git_hash": "83d7ed4",
         "git_create": true,
         "git_run": false,
         "last_seen": "14cb447"
