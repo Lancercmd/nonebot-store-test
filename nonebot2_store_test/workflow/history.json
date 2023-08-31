@@ -1075,7 +1075,7 @@
         "pypi_version": "0.4.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7f0fdb6",
+        "git_hash": "31677b7",
         "git_create": true,
         "git_run": false,
         "last_seen": "75c5678"
@@ -7702,10 +7702,10 @@
         "project_link": "nonebot-plugin-fakemsg",
         "display_name": "消息伪造",
         "homepage": "https://github.com/Cvandia/nonebot-plugin-fakemsg",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.1.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1120e11",
+        "git_hash": "6433d7b",
         "git_create": true,
         "git_run": false,
         "last_seen": "75c5678"
