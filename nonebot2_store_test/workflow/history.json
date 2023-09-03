@@ -1330,7 +1330,7 @@
         "pypi_version": "1.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5b11e92",
+        "git_hash": "25a21ce",
         "git_create": true,
         "git_run": false,
         "last_seen": "8076c6b"
@@ -6970,7 +6970,7 @@
         "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ba3aa09",
+        "git_hash": "7286779",
         "git_create": true,
         "git_run": false,
         "last_seen": "8076c6b"
@@ -7477,10 +7477,10 @@
         "project_link": "nonebot-plugin-mcversion",
         "display_name": "MC版本更新检测",
         "homepage": "https://github.com/CN171-1/nonebot_plugin_mcversion",
-        "pypi_version": "0.2.8",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4c0158e",
+        "git_hash": "fae3cbb",
         "git_create": true,
         "git_run": false,
         "last_seen": "8076c6b"
