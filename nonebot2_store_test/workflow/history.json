@@ -7387,7 +7387,7 @@
         "project_link": "nonebot-plugin-bind",
         "display_name": "跨平台账户绑定",
         "homepage": "https://github.com/canxin121/nonebot_plugin_bind",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.1.8",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "b4434b7",
