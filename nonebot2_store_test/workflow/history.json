@@ -100,7 +100,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0f88ed3",
+        "git_hash": "dbce5cf",
         "git_create": true,
         "git_run": false,
         "last_seen": "ec1f7ba"
@@ -415,7 +415,7 @@
         "pypi_version": "0.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bce63d3",
+        "git_hash": "48caff4",
         "git_create": true,
         "git_run": false,
         "last_seen": "ec1f7ba"
@@ -3427,10 +3427,10 @@
         "project_link": "nonebot-plugin-bottle",
         "display_name": "漂流瓶",
         "homepage": "https://github.com/Todysheep/nonebot_plugin_bottle",
-        "pypi_version": "1.0.2.1",
+        "pypi_version": "1.0.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "1f79011",
+        "git_hash": "41dcb80",
         "git_create": true,
         "git_run": true,
         "last_seen": "ec1f7ba"
@@ -4750,7 +4750,7 @@
         "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "161247d",
+        "git_hash": "0f47e79",
         "git_create": true,
         "git_run": true,
         "last_seen": "ec1f7ba"
@@ -5710,7 +5710,7 @@
         "pypi_version": "0.6.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2f03fc4",
+        "git_hash": "14b81ac",
         "git_create": true,
         "git_run": false,
         "last_seen": "ec1f7ba"
@@ -6280,7 +6280,7 @@
         "pypi_version": "1.6.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "33b60d3",
+        "git_hash": "3626ca7",
         "git_create": true,
         "git_run": false,
         "last_seen": "ec1f7ba"
@@ -7510,7 +7510,7 @@
         "pypi_version": "0.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4c3f0e2",
+        "git_hash": "0457a9f",
         "git_create": true,
         "git_run": false,
         "last_seen": "ec1f7ba"
