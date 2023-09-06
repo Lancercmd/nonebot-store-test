@@ -265,7 +265,7 @@
         "pypi_version": "0.8.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0046982",
+        "git_hash": "9766e40",
         "git_create": true,
         "git_run": true,
         "last_seen": "ec1f7ba"
@@ -7552,10 +7552,10 @@
         "project_link": "nonebot-plugin-uvdiviner",
         "display_name": "周易蓍草占卜",
         "homepage": "https://gitee.com/unvisitor/nonebot-plugin-uvdiviner",
-        "pypi_version": "2.2.5",
+        "pypi_version": "2.2.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ed3a88a",
+        "git_hash": "9d9254e",
         "git_create": true,
         "git_run": false,
         "last_seen": "ec1f7ba"
