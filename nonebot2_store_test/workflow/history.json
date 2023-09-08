@@ -2845,7 +2845,7 @@
         "pypi_version": "0.8.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "268a9e0",
+        "git_hash": "51380e2",
         "git_create": true,
         "git_run": true,
         "last_seen": "2bd377a"
@@ -7582,10 +7582,10 @@
         "project_link": "nonebot-plugin-sudo",
         "display_name": "SUDO",
         "homepage": "https://github.com/This-is-XiaoDeng/nonebot-plugin-sudo",
-        "pypi_version": "1.0.4",
+        "pypi_version": "1.0.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fd417e1",
+        "git_hash": "d4d2105",
         "git_create": true,
         "git_run": false,
         "last_seen": "2bd377a"
