@@ -7726,7 +7726,7 @@
         "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-souti": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "4fa2af4",
         "module_name": "nonebot_plugin_souti",
         "project_link": "nonebot-plugin-souti",
@@ -7738,10 +7738,10 @@
         "git_hash": "74f39c6",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-helper-plus": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "111dfbf",
         "module_name": "nonebot_plugin_helper_plus",
         "project_link": "nonebot-plugin-helper-plus",
@@ -7753,10 +7753,10 @@
         "git_hash": "a6c334f",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-wearskirt": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "fbc4225",
         "module_name": "nonebot_plugin_wearskirt",
         "project_link": "nonebot-plugin-wearskirt",
@@ -7768,25 +7768,25 @@
         "git_hash": "8d89e1f",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-skland-arksign": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "139b399",
         "module_name": "nonebot_plugin_skland_arksign",
         "project_link": "nonebot-plugin-skland-arksign",
         "display_name": "森空岛明日方舟签到器",
         "homepage": "https://github.com/GuGuMur/nonebot-plugin-skland-arksign",
-        "pypi_version": "0.3.1",
+        "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "22de3da",
+        "git_hash": "379a5e7",
         "git_create": true,
         "git_run": true,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-group-whitelist": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "8057787",
         "module_name": "nonebot_plugin_group_whitelist",
         "project_link": "nonebot-plugin-group-whitelist",
@@ -7798,10 +7798,10 @@
         "git_hash": "d2df3df",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-ernie": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "66384ad",
         "module_name": "nonebot_plugin_ernie",
         "project_link": "nonebot-plugin-ernie",
@@ -7813,6 +7813,6 @@
         "git_hash": "610753e",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     }
 }
