@@ -2932,10 +2932,10 @@
         "project_link": "nonebot_plugin_game_collection",
         "display_name": "小游戏合集",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_game_collection",
-        "pypi_version": "2.3.36",
+        "pypi_version": "2.3.37",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9511f6a",
+        "git_hash": "77342ef",
         "git_create": false,
         "git_run": false,
         "last_seen": "1e8c2cf"
@@ -5461,7 +5461,7 @@
         "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-ncm-saying": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "a21b511",
         "module_name": "nonebot_plugin_ncm_saying",
         "project_link": "nonebot-plugin-ncm-saying",
@@ -5473,7 +5473,7 @@
         "git_hash": "9342ebe",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "teenstudy": {
         "_runtime_latest": "2.0.1",
@@ -5491,7 +5491,7 @@
         "last_seen": "75c5678"
     },
     "nonebot-plugin-60s": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "a5302a1",
         "module_name": "nonebot_plugin_60s",
         "project_link": "nonebot-plugin-60s",
@@ -5503,10 +5503,10 @@
         "git_hash": "fc54623",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-AutoRepeater": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "b209b77",
         "module_name": "nonebot_plugin_AutoRepeater",
         "project_link": "nonebot-plugin-AutoRepeater",
@@ -5518,10 +5518,10 @@
         "git_hash": "96bab30",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-ai-timetable": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "6116d39",
         "module_name": "nonebot_plugin_ai_timetable",
         "project_link": "nonebot-plugin-ai-timetable",
@@ -5533,10 +5533,10 @@
         "git_hash": "a7254dc",
         "git_create": true,
         "git_run": true,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-sanae": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "7e614bb",
         "module_name": "nonebot_plugin_sanae",
         "project_link": "nonebot-plugin-sanae",
@@ -5548,10 +5548,10 @@
         "git_hash": "9f2ec34",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-arkrecord": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "3ec7645",
         "module_name": "nonebot_plugin_arkrecord",
         "project_link": "nonebot-plugin-arkrecord",
@@ -5563,10 +5563,10 @@
         "git_hash": "5b979cc",
         "git_create": false,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-chatgpt-turbo": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "e788705",
         "module_name": "nonebot_plugin_chatgpt_turbo",
         "project_link": "nonebot-plugin-chatgpt-turbo",
@@ -5578,10 +5578,10 @@
         "git_hash": "9296923",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-chatgpt-on-qq": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "e788705",
         "module_name": "nonebot_plugin_chatgpt_on_qq",
         "project_link": "nonebot-plugin-chatgpt-on-qq",
@@ -5593,10 +5593,10 @@
         "git_hash": "6ce7c8f",
         "git_create": false,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-tuan-chatgpt": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "e788705",
         "module_name": "nonebot_plugin_tuan_chatgpt",
         "project_link": "nonebot-plugin-tuan-chatgpt",
@@ -5608,10 +5608,10 @@
         "git_hash": "9d9a19c",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-chatpdf": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "3a14203",
         "module_name": "nonebot_plugin_chatpdf",
         "project_link": "nonebot-plugin-chatpdf",
@@ -5623,10 +5623,10 @@
         "git_hash": "eee8ef1",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-rimofun": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "856f0b9",
         "module_name": "nonebot_plugin_rimofun",
         "project_link": "nonebot-plugin-rimofun",
@@ -5638,10 +5638,10 @@
         "git_hash": "bf91336",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-customemote": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "97eee5a",
         "module_name": "nonebot_plugin_customemote",
         "project_link": "nonebot-plugin-customemote",
@@ -5653,10 +5653,10 @@
         "git_hash": "73fe745",
         "git_create": true,
         "git_run": true,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-justsix": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "fca2d07",
         "module_name": "nonebot_plugin_justsix",
         "project_link": "nonebot-plugin-justsix",
@@ -5668,10 +5668,10 @@
         "git_hash": "df9c6b5",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-simulator-xiuxian": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "cf9788e",
         "module_name": "nonebot_plugin_simulator_xiuxian",
         "project_link": "nonebot-plugin-simulator-xiuxian",
@@ -5683,10 +5683,10 @@
         "git_hash": "e00fe69",
         "git_create": false,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-bracket": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "ad4b244",
         "module_name": "nonebot_plugin_bracket",
         "project_link": "nonebot-plugin-bracket",
@@ -5698,10 +5698,10 @@
         "git_hash": "a7ae3d1",
         "git_create": true,
         "git_run": true,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-gshisbanner": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "ad4b244",
         "module_name": "nonebot_plugin_gshisbanner",
         "project_link": "nonebot-plugin-gshisbanner",
@@ -5713,10 +5713,10 @@
         "git_hash": "14b81ac",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-unoconv": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "d1404f6",
         "module_name": "nonebot_plugin_unoconv",
         "project_link": "nonebot-plugin-unoconv",
@@ -5728,10 +5728,10 @@
         "git_hash": "105eb1d",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-apexranklookup": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "d1404f6",
         "module_name": "nonebot_plugin_apexranklookup",
         "project_link": "nonebot-plugin-apexranklookup",
@@ -5743,10 +5743,10 @@
         "git_hash": "5fc911c",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-randomnana": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "7822cab",
         "module_name": "nonebot_plugin_randomnana",
         "project_link": "nonebot-plugin-randomnana",
@@ -5758,10 +5758,10 @@
         "git_hash": "ae3eee5",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-quote": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "9f1b9ce",
         "module_name": "nonebot_plugin_quote",
         "project_link": "nonebot-plugin-quote",
@@ -5773,10 +5773,10 @@
         "git_hash": "68aca25",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-memes-api": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "53898df",
         "module_name": "nonebot_plugin_memes_api",
         "project_link": "nonebot-plugin-memes-api",
@@ -5788,10 +5788,10 @@
         "git_hash": "c470c5a",
         "git_create": true,
         "git_run": true,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-rrc": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "c544479",
         "module_name": "nonebot_plugin_rrc",
         "project_link": "nonebot-plugin-rrc",
@@ -5803,10 +5803,10 @@
         "git_hash": "7e4d812",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-hotsearch": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "05a6af4",
         "module_name": "nonebot_plugin_hotsearch",
         "project_link": "nonebot-plugin-hotsearch",
@@ -5818,10 +5818,10 @@
         "git_hash": "4401750",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-ai-interviewer": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "9afaf3d",
         "module_name": "nonebot_plugin_ai_interviewer",
         "project_link": "nonebot-plugin-ai-interviewer",
@@ -5833,10 +5833,10 @@
         "git_hash": "65c6628",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-chatglm": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "d4da953",
         "module_name": "nonebot_plugin_chatglm",
         "project_link": "nonebot-plugin-chatglm",
@@ -5848,10 +5848,10 @@
         "git_hash": null,
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-chatglm6b": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "d4da953",
         "module_name": "nonebot_plugin_chatglm6b",
         "project_link": "nonebot-plugin-chatglm6b",
@@ -5863,10 +5863,10 @@
         "git_hash": "35dc91f",
         "git_create": true,
         "git_run": true,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-nya-music": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "744443a",
         "module_name": "nonebot_plugin_nya_music",
         "project_link": "nonebot-plugin-nya-music",
@@ -5878,10 +5878,10 @@
         "git_hash": null,
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-helloworld": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "d5234e4",
         "module_name": "nonebot_plugin_helloworld",
         "project_link": "nonebot-plugin-helloworld",
@@ -5893,10 +5893,10 @@
         "git_hash": "012e672",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-overbracket": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "3709e0b",
         "module_name": "nonebot_plugin_overbracket",
         "project_link": "nonebot-plugin-overbracket",
@@ -5908,10 +5908,10 @@
         "git_hash": "d691f2b",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-miao": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "3709e0b",
         "module_name": "nonebot_plugin_miao",
         "project_link": "nonebot-plugin-miao",
@@ -5923,10 +5923,10 @@
         "git_hash": "f756667",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-questionmark": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "47536e6",
         "module_name": "nonebot_plugin_questionmark",
         "project_link": "nonebot-plugin-questionmark",
@@ -5938,10 +5938,10 @@
         "git_hash": "98c91b6",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-genshin-cos": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "315dcb3",
         "module_name": "nonebot_plugin_genshin_cos",
         "project_link": "nonebot-plugin-genshin-cos",
@@ -5953,10 +5953,10 @@
         "git_hash": "2b4faf5",
         "git_create": true,
         "git_run": true,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-chatgpt-plus": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "0091a03",
         "module_name": "nonebot_plugin_chatgpt_plus",
         "project_link": "nonebot-plugin-chatgpt-plus",
@@ -5968,10 +5968,10 @@
         "git_hash": "be65820",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-sayoroll": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "c8c5f17",
         "module_name": "nonebot_plugin_sayoroll",
         "project_link": "nonebot-plugin-sayoroll",
@@ -5983,10 +5983,10 @@
         "git_hash": "e12f925",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-gw2": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "c8c5f17",
         "module_name": "nonebot_plugin_gw2",
         "project_link": "nonebot-plugin-gw2",
@@ -5998,10 +5998,10 @@
         "git_hash": "7a8c996",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-today-waifu": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "d028960",
         "module_name": "nonebot_plugin_today_waifu",
         "project_link": "nonebot-plugin-today-waifu",
@@ -6013,10 +6013,10 @@
         "git_hash": "9a527c4",
         "git_create": true,
         "git_run": true,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-sleep": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "d028960",
         "module_name": "nonebot_plugin_sleep",
         "project_link": "nonebot-plugin-sleep",
@@ -6028,10 +6028,10 @@
         "git_hash": "af5e47e",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-api-paddle": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "8e5ec5c",
         "module_name": "nonebot_api_paddle",
         "project_link": "nonebot-api-paddle",
@@ -6043,7 +6043,7 @@
         "git_hash": "41ba5eb",
         "git_create": false,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-paddle-ocr": {
         "_runtime_latest": "2.0.0rc4",
@@ -6061,7 +6061,7 @@
         "last_seen": "2dcbce9"
     },
     "nonebot-plugin-chatppt": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "8e5ec5c",
         "module_name": "nonebot_plugin_chatppt",
         "project_link": "nonebot-plugin-chatppt",
@@ -6073,10 +6073,10 @@
         "git_hash": "71b8f35",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-steam-game-status": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "8e5ec5c",
         "module_name": "nonebot_plugin_steam_game_status",
         "project_link": "nonebot-plugin-steam-game-status",
@@ -6088,10 +6088,10 @@
         "git_hash": "0afbdb0",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-bilichat": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "f3d7a30",
         "module_name": "nonebot_plugin_bilichat",
         "project_link": "nonebot-plugin-bilichat",
@@ -6103,10 +6103,10 @@
         "git_hash": "92df563",
         "git_create": true,
         "git_run": true,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-genshinuid": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "716a047",
         "module_name": "GenshinUID",
         "project_link": "nonebot-plugin-genshinuid",
@@ -6115,13 +6115,13 @@
         "pypi_version": "4.0.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5ecf558",
+        "git_hash": "d5035a6",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-blive-danmaku": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "020705b",
         "module_name": "nonebot_plugin_blive_danmaku",
         "project_link": "nonebot-plugin-blive-danmaku",
@@ -6133,10 +6133,10 @@
         "git_hash": "ed7f9fc",
         "git_create": true,
         "git_run": true,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-clock": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "139eeac",
         "module_name": "nonebot_plugin_clock",
         "project_link": "nonebot-plugin-clock",
@@ -6148,10 +6148,10 @@
         "git_hash": "38853f1",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-SDGPT": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "1bc3a8e",
         "module_name": "nonebot_plugin_SDGPT",
         "project_link": "nonebot-plugin-SDGPT",
@@ -6163,10 +6163,10 @@
         "git_hash": "c6b6f89",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-fuckyou": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "97829aa",
         "module_name": "nonebot_plugin_fuckyou",
         "project_link": "nonebot-plugin-fuckyou",
@@ -6178,10 +6178,10 @@
         "git_hash": "2a633f2",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-pokemonfusion": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "97829aa",
         "module_name": "nonebot_plugin_pokemonfusion",
         "project_link": "nonebot-plugin-pokemonfusion",
@@ -6193,10 +6193,10 @@
         "git_hash": "c36fff1",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "tatarubot2": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "04be5cb",
         "module_name": "tatarubot2",
         "project_link": "tatarubot2",
@@ -6208,10 +6208,10 @@
         "git_hash": "9ecc867",
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-talk-with-chatgpt": {
-        "_runtime_latest": "2.0.1",
+        "_runtime_latest": "2.1.0",
         "first_seen": "04be5cb",
         "module_name": "nonebot_plugin_talk_with_chatgpt",
         "project_link": "nonebot-plugin-talk-with-chatgpt",
@@ -6223,7 +6223,7 @@
         "git_hash": null,
         "git_create": true,
         "git_run": false,
-        "last_seen": "4e6b52b"
+        "last_seen": "1e8c2cf"
     },
     "nonebot-plugin-osuverify": {
         "_runtime_latest": "2.0.1",
