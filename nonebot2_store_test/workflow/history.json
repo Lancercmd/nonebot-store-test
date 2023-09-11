@@ -3025,7 +3025,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f93211f",
+        "git_hash": "79f08f8",
         "git_create": true,
         "git_run": false,
         "last_seen": "f4a7ce2"
@@ -4432,10 +4432,10 @@
         "project_link": "nonebot-plugin-servicestate",
         "display_name": "服务状态查询",
         "homepage": "https://github.com/OREOCODEDEV/nonebot-plugin-servicestate",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8fdbaa6",
+        "git_hash": "6c9f042",
         "git_create": true,
         "git_run": false,
         "last_seen": "f4a7ce2"
