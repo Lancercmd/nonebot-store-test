@@ -6457,10 +6457,10 @@
         "project_link": "nonebot-plugin-csgo-case-simulator",
         "display_name": "CSGO开箱模拟器",
         "homepage": "https://github.com/roiiiu/nonebot-plugin-csgo-case-simulator",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5a95c0e",
+        "git_hash": "7362008",
         "git_create": true,
         "git_run": false,
         "last_seen": "005968a"
@@ -7420,7 +7420,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "e3f8281",
+        "git_hash": "fbaeacc",
         "git_create": true,
         "git_run": true,
         "last_seen": "005968a"
