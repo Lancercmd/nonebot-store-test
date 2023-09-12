@@ -7117,10 +7117,10 @@
         "project_link": "nonebot-plugin-splatoon3",
         "display_name": "nonebot-plugin-splatoon3",
         "homepage": "https://github.com/Skyminers/Bot-Splatoon3",
-        "pypi_version": "1.2.9",
+        "pypi_version": "1.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f280799",
+        "git_hash": "110aff4",
         "git_create": true,
         "git_run": false,
         "last_seen": "005968a"
