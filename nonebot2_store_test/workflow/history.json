@@ -4237,10 +4237,10 @@
         "project_link": "nonebot-plugin-abstain-diary",
         "display_name": "戒x打卡日记",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_abstain_diary",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "66af998",
+        "git_hash": "099f0c5",
         "git_create": true,
         "git_run": false,
         "last_seen": "00c97fd"
