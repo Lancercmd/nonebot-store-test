@@ -6937,10 +6937,10 @@
         "project_link": "nonebot-plugin-warthunder-player-check",
         "display_name": "战雷查水表",
         "homepage": "https://github.com/0Neptune0/nonebot-plugin-warthunder-player-check",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.1.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "839d0bd",
+        "git_hash": "82b6a07",
         "git_create": true,
         "git_run": false,
         "last_seen": "00c97fd"
