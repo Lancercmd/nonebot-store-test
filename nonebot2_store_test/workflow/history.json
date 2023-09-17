@@ -7192,10 +7192,10 @@
         "project_link": "nonebot-plugin-picture-api",
         "display_name": "nonebot-plugin-picture-api",
         "homepage": "https://github.com/Q1351998764/nonebot-plugin-picture-api",
-        "pypi_version": "1.3",
+        "pypi_version": "1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7d72ee7",
+        "git_hash": "6917681",
         "git_create": true,
         "git_run": false,
         "last_seen": "00c97fd"
