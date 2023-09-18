@@ -6127,10 +6127,10 @@
         "project_link": "nonebot-plugin-blive-danmaku",
         "display_name": "B站直播间路灯",
         "homepage": "https://github.com/zangxx66/nonebot_plugin_blive_danmaku",
-        "pypi_version": "0.3.50",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ed7f9fc",
+        "git_hash": "cf59756",
         "git_create": true,
         "git_run": true,
         "last_seen": "00c97fd"
