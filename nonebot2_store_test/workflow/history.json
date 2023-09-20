@@ -6022,10 +6022,10 @@
         "project_link": "nonebot-plugin-sleep",
         "display_name": "来份睡眠套餐",
         "homepage": "https://github.com/mas-alone/nonebot-plugin-sleep",
-        "pypi_version": "0.0.2",
+        "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "af5e47e",
+        "git_hash": "e28913d",
         "git_create": true,
         "git_run": false,
         "last_seen": "fd9ba67"
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.3.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8c47893",
+        "git_hash": "9caac04",
         "git_create": true,
         "git_run": false,
         "last_seen": "fd9ba67"
