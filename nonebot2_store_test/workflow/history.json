@@ -7822,10 +7822,10 @@
         "project_link": "nonebot-plugin-video-api",
         "display_name": "nonebot-plugin-video-api",
         "homepage": "https://github.com/Q1351998764/nonebot-plugin-video-api",
-        "pypi_version": "1.2",
+        "pypi_version": "1.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0a9715e",
+        "git_hash": "42038e2",
         "git_create": true,
         "git_run": false,
         "last_seen": "fd9ba67"
