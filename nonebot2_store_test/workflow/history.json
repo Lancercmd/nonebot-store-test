@@ -6112,7 +6112,7 @@
         "project_link": "nonebot-plugin-genshinuid",
         "display_name": "GenshinUID",
         "homepage": "https://github.com/KimigaiiWuyi/GenshinUID",
-        "pypi_version": "4.1.0",
+        "pypi_version": "4.2.0",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "a044d32",
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.3.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "804d6fb",
+        "git_hash": "c5207b7",
         "git_create": true,
         "git_run": false,
         "last_seen": "fd9ba67"
