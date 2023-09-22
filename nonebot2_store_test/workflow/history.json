@@ -3040,7 +3040,7 @@
         "pypi_version": "0.1.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "82e02a9",
+        "git_hash": "2899b29",
         "git_create": true,
         "git_run": false,
         "last_seen": "ba3efa9"
@@ -4177,10 +4177,10 @@
         "project_link": "nonebot-plugin-access-control",
         "display_name": "权限控制",
         "homepage": "https://github.com/ssttkkl/nonebot-plugin-access-control",
-        "pypi_version": "0.5.8",
+        "pypi_version": "0.6.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2706911",
+        "git_hash": "8c9e553",
         "git_create": true,
         "git_run": true,
         "last_seen": "ba3efa9"
@@ -7465,7 +7465,7 @@
         "pypi_version": "0.0.1b8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ee8b311",
+        "git_hash": "57536e5",
         "git_create": false,
         "git_run": false,
         "last_seen": "ba3efa9"
