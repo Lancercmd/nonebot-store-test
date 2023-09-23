@@ -3040,7 +3040,7 @@
         "pypi_version": "0.1.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2899b29",
+        "git_hash": "52544ca",
         "git_create": true,
         "git_run": false,
         "last_seen": "ede1a20"
@@ -7462,7 +7462,7 @@
         "project_link": "nonebot-plugin-kanonbot",
         "display_name": "KanonBot",
         "homepage": "https://github.com/SuperGuGuGu/nonebot_plugin_kanonbot",
-        "pypi_version": "0.0.1b10",
+        "pypi_version": "0.0.1b11",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "4d658d6",
