@@ -3040,7 +3040,7 @@
         "pypi_version": "0.1.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "424e739",
+        "git_hash": "91ed16b",
         "git_create": true,
         "git_run": false,
         "last_seen": "7754f6d"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d43f16c",
+        "git_hash": "dbcec1b",
         "git_create": true,
         "git_run": false,
         "last_seen": "7754f6d"
@@ -7642,10 +7642,10 @@
         "project_link": "nonebot-plugin-requests",
         "display_name": "Nonebot Requests",
         "homepage": "https://github.com/Ailitonia/nonebot-plugin-requests",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.1.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "238e9b9",
+        "git_hash": "7df202c",
         "git_create": true,
         "git_run": false,
         "last_seen": "7754f6d"
