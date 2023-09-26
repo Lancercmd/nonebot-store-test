@@ -6925,7 +6925,7 @@
         "pypi_version": "1.0.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cfe7bdd",
+        "git_hash": "02a158a",
         "git_create": false,
         "git_run": false,
         "last_seen": "7754f6d"
@@ -7465,7 +7465,7 @@
         "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4b72549",
+        "git_hash": "811e3ff",
         "git_create": false,
         "git_run": false,
         "last_seen": "7754f6d"
@@ -7537,10 +7537,10 @@
         "project_link": "dicergirl",
         "display_name": "欧若可骰娘",
         "homepage": "https://gitee.com/unvisitor/dicer",
-        "pypi_version": "3.4.0",
+        "pypi_version": "3.4.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c50deb3",
+        "git_hash": "2e491d8",
         "git_create": true,
         "git_run": false,
         "last_seen": "7754f6d"
