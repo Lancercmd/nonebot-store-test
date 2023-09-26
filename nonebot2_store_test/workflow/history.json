@@ -7777,10 +7777,10 @@
         "project_link": "nonebot-plugin-skland-arksign",
         "display_name": "森空岛明日方舟签到器",
         "homepage": "https://github.com/GuGuMur/nonebot-plugin-skland-arksign",
-        "pypi_version": "0.5.0",
+        "pypi_version": "0.5.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b6659b1",
+        "git_hash": "cf1b5a8",
         "git_create": true,
         "git_run": true,
         "last_seen": "7754f6d"
