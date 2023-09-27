@@ -4120,9 +4120,9 @@
         "pypi_version": "0.2.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a0cde2a",
+        "git_hash": "5dfde18",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "e2b49f9"
     },
     "nonebot-plugin-remove-bg": {
