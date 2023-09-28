@@ -6847,10 +6847,10 @@
         "project_link": "nonebot-plugin-stable-diffusion-diao",
         "display_name": "stablediffusion绘画插件",
         "homepage": "https://github.com/DiaoDaiaChan/nonebot-plugin-stable-diffusion-diao",
-        "pypi_version": "0.4.5.8",
+        "pypi_version": "0.4.5.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "067ec0c",
+        "git_hash": "3030bf0",
         "git_create": true,
         "git_run": false,
         "last_seen": "e2b49f9"
