@@ -1,15 +1,7 @@
-"""
-Author       : Lancercmd
-Date         : 2022-01-21 12:09:00
-LastEditors  : Lancercmd
-LastEditTime : 2023-01-23 16:32:06
-Description  : None
-GitHub       : https://github.com/Lancercmd
-"""
 from asyncio import create_subprocess_shell, run, subprocess
 from copy import deepcopy
-from getopt import getopt
 from dataclasses import dataclass, field
+from getopt import getopt
 from json import dumps, loads
 from os import system
 from pathlib import Path
@@ -19,7 +11,7 @@ from typing import Optional
 
 from requests import get
 
-COMMIT = "master"
+COMMIT = "results"
 HOME = Path("workflow") / COMMIT
 ENV = HOME.parent / "env"
 LOCAL = HOME.parent / "history.json"
@@ -121,7 +113,10 @@ class Operator:
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
         }
-        url = f"https://raw.githubusercontent.com/nonebot/nonebot2/{branch}/website/static/plugins.json"
+        # url = f"https://raw.githubusercontent.com/nonebot/nonebot2/{branch}/website/static/plugins.json"
+        url = (
+            f"https://raw.githubusercontent.com/nonebot/registry/{branch}/plugins.json"
+        )
         r = get(url, headers=headers)
         return loads(r.text)
 
@@ -153,7 +148,7 @@ class Operator:
     @staticmethod
     def get_pypi_latest(pypi: str) -> Optional[str]:
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47"
         }
         url = f"https://pypi.org/pypi/{pypi}/json"
         r = get(url, headers=headers)
@@ -285,10 +280,12 @@ class Operator:
                 stderr=subprocess.PIPE,
             )
             stdout, stderr = await proc.communicate()
-            failed = "Error" in stdout.decode() or \
-                "Error" in stderr.decode() or \
-                "fatal" in stdout.decode() or \
-                "fatal" in stderr.decode()
+            failed = (
+                "Error" in stdout.decode()
+                or "Error" in stderr.decode()
+                or "fatal" in stdout.decode()
+                or "fatal" in stderr.decode()
+            )
             if not failed:
                 print(f"Created project {module.module_name} from PyPI peacefully.")
                 module._pypi_create = True
@@ -365,6 +362,12 @@ class Operator:
                 else:
                     print(_err)
             module._pypi_run = not code
+            proc = await create_subprocess_shell(
+                f"cd {_path.resolve()} && poetry env remove python",
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+            )
+            stdout, stderr = await proc.communicate()
         else:
             print(f"Project {module.module_name} does not exist.")
 
@@ -393,6 +396,12 @@ class Operator:
                 else:
                     print(_err)
             module._git_run = not code
+            proc = await create_subprocess_shell(
+                f"cd {_path.resolve()} && poetry env remove python",
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+            )
+            stdout, stderr = await proc.communicate()
         else:
             print(f"Project {module.module_name} does not exist.")
 

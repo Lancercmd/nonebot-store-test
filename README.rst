@@ -55,13 +55,13 @@ NoneBot2 商店插件速测工具
 * ``-n`` ``--no-commit`` 不提交更改
    | 测试结束时不提交更改，默认为提交。
 * ``branch`` 特定提交
-   | 手动指定商店的提交，默认为自动获取最新提交。
+   | 手动指定 `nonebot/registry <https://github.com/nonebot/registry/tree/results>`_ 的提交，默认为自动获取最新提交。
 
  | 参数先后顺序同上。
 .. code:: cmd
 
  > cd nonebot2_store_test
- > python . -s _status -l 200 --no-commit 1b6b9d6
+ > python . -s _status -l 200 --no-commit fa8d0ed
             ---------- ------ ----------- --------
             关键字查询 限制个数 不提交更改  指定提交
 
