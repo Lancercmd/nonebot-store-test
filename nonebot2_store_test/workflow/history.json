@@ -937,10 +937,10 @@
         "project_link": "nonebot-plugin-shindan",
         "display_name": "趣味占卜",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-shindan",
-        "pypi_version": "0.4.1",
+        "pypi_version": "0.5.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a05a5f2",
+        "git_hash": "fcdd221",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
