@@ -8069,5 +8069,20 @@
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
+    },
+    "nonebot-plugin-scheduled-broadcast": {
+        "_runtime_latest": "2.1.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_scheduled_broadcast",
+        "project_link": "nonebot-plugin-scheduled-broadcast",
+        "display_name": "定时广播插件",
+        "homepage": "https://github.com/T0nyX1ang/nonebot-plugin-scheduled-broadcast",
+        "pypi_version": "0.1.1",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "73007e4",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
     }
 }
