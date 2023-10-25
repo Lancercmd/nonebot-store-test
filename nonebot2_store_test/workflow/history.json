@@ -7537,10 +7537,10 @@
         "project_link": "dicergirl",
         "display_name": "DicerGirl",
         "homepage": "https://gitee.com/unvisitor/dicer",
-        "pypi_version": "3.4.17",
+        "pypi_version": "3.4.20",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "da8152b",
+        "git_hash": "c52d2b6",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
