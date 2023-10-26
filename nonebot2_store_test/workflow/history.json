@@ -4960,7 +4960,7 @@
         "pypi_version": "0.30.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3254297",
+        "git_hash": "4d03cbe",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5242,10 +5242,10 @@
         "project_link": "nonebot-plugin-maimai",
         "display_name": "舞萌maimai",
         "homepage": "https://github.com/Agnes4m/maimai_plugin",
-        "pypi_version": "0.4.1",
+        "pypi_version": "0.4.3",
         "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "66dfb6e",
+        "pypi_run": false,
+        "git_hash": "a91751a",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.4.20",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c52d2b6",
+        "git_hash": "e64e225",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
