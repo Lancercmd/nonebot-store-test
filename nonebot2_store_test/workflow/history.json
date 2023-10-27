@@ -2695,7 +2695,7 @@
         "pypi_version": "4.0.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fd662a9",
+        "git_hash": "d8bc84b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7897,10 +7897,10 @@
         "project_link": "nonebot-plugin-matchreminder",
         "display_name": "算法比赛查询和今日比赛自动提醒",
         "homepage": "https://github.com/zhuhiki/nonebot_plugin_matchreminder",
-        "pypi_version": "1.0.3",
+        "pypi_version": "1.0.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "64b95df",
+        "git_hash": "4c64fc1",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8080,7 +8080,7 @@
         "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "dd00c95",
+        "git_hash": "1074549",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
