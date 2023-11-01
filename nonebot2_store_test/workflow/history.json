@@ -2932,10 +2932,10 @@
         "project_link": "nonebot_plugin_game_collection",
         "display_name": "小游戏合集",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_game_collection",
-        "pypi_version": "2.4.8",
+        "pypi_version": "2.4.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1bdac05",
+        "git_hash": "bb009cf",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -5476,7 +5476,7 @@
         "last_seen": "results"
     },
     "teenstudy": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "8dc36aa",
         "module_name": "TeenStudy",
         "project_link": "teenstudy",
@@ -7786,7 +7786,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-group-whitelist": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "8057787",
         "module_name": "nonebot_plugin_group_whitelist",
         "project_link": "nonebot-plugin-group-whitelist",
@@ -7801,7 +7801,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-ernie": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "66384ad",
         "module_name": "nonebot_plugin_ernie",
         "project_link": "nonebot-plugin-ernie",
@@ -7816,7 +7816,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-video-api": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "fd9ba67",
         "module_name": "nonebot_plugin_video_api",
         "project_link": "nonebot-plugin-video-api",
@@ -7831,7 +7831,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-ottohzys": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "ba3efa9",
         "module_name": "nonebot_plugin_ottohzys",
         "project_link": "nonebot-plugin-ottohzys",
@@ -7846,7 +7846,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-ability": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_ability",
         "project_link": "nonebot-plugin-ability",
@@ -7861,7 +7861,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-agent": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_agent",
         "project_link": "nonebot-plugin-agent",
@@ -7876,7 +7876,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-blockwords": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_blockwords",
         "project_link": "nonebot-plugin-blockwords",
@@ -7885,13 +7885,13 @@
         "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "302a22a",
+        "git_hash": "08d771e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
     },
     "nonebot-plugin-matchreminder": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_matchreminder",
         "project_link": "nonebot-plugin-matchreminder",
@@ -7906,7 +7906,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-eop-ai": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_eop_ai",
         "project_link": "nonebot-plugin-eop-ai",
@@ -7921,7 +7921,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-playercheck": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_playercheck",
         "project_link": "nonebot-plugin-playercheck",
@@ -7936,7 +7936,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-morep-finder": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_morep_finder",
         "project_link": "nonebot-plugin-morep-finder",
@@ -7951,7 +7951,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-yesman": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot-plugin-yesman",
         "project_link": "nonebot-plugin-yesman",
@@ -7966,7 +7966,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-fgoavatarguess": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_fgoavatarguess",
         "project_link": "nonebot-plugin-fgoavatarguess",
@@ -7981,7 +7981,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-vrchat": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_vrchat",
         "project_link": "nonebot-plugin-vrchat",
@@ -7996,7 +7996,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-batitle": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_batitle",
         "project_link": "nonebot-plugin-batitle",
@@ -8011,7 +8011,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-maimaidx": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_maimaidx",
         "project_link": "nonebot-plugin-maimaidx",
@@ -8026,7 +8026,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-getbapics": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_getbapics",
         "project_link": "nonebot-plugin-getbapics",
@@ -8041,7 +8041,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-make-choice": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_make_choice",
         "project_link": "nonebot-plugin-make-choice",
@@ -8056,7 +8056,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-op-finder": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_op_finder",
         "project_link": "nonebot-plugin-op-finder",
@@ -8071,7 +8071,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-scheduled-broadcast": {
-        "_runtime_latest": "2.1.1",
+        "_runtime_latest": "2.1.2",
         "first_seen": "results",
         "module_name": "nonebot_plugin_scheduled_broadcast",
         "project_link": "nonebot-plugin-scheduled-broadcast",
