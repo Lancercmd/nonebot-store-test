@@ -4957,10 +4957,10 @@
         "project_link": "nonebot-plugin-alconna",
         "display_name": "Alconna 插件",
         "homepage": "https://github.com/nonebot/plugin-alconna",
-        "pypi_version": "0.31.5",
+        "pypi_version": "0.31.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2611d69",
+        "git_hash": "0e2e550",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
