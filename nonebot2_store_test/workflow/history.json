@@ -3235,7 +3235,7 @@
         "pypi_version": "0.2.24",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7f31342",
+        "git_hash": "6b321be",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -3265,7 +3265,7 @@
         "pypi_version": "0.2.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1dc27e1",
+        "git_hash": "b1c5898",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -4960,7 +4960,7 @@
         "pypi_version": "0.31.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "731c04a",
+        "git_hash": "abf6239",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5707,10 +5707,10 @@
         "project_link": "nonebot-plugin-gshisbanner",
         "display_name": "gshisbanner",
         "homepage": "https://github.com/forchannot/nonebot-plugin-gshisbanner",
-        "pypi_version": "1.0.6",
+        "pypi_version": "1.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "02f5339",
+        "git_hash": "6bd3e04",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
