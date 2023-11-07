@@ -67,7 +67,7 @@
         "project_link": "nonebot-plugin-sentry",
         "display_name": "Sentry日志监控",
         "homepage": "https://github.com/cscs181/QQ-GitHub-Bot/tree/master/src/plugins/nonebot_plugin_sentry",
-        "pypi_version": "0.5.0",
+        "pypi_version": "1.0.0",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": null,
@@ -100,7 +100,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f74c00f",
+        "git_hash": "0f422bf",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -415,7 +415,7 @@
         "pypi_version": "0.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "384b107",
+        "git_hash": "6186005",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -1810,7 +1810,7 @@
         "pypi_version": "2.3.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1fde79c",
+        "git_hash": "681ecd2",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -2692,10 +2692,10 @@
         "project_link": "nonebot-plugin-osubot",
         "display_name": "OSU查分插件",
         "homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-        "pypi_version": "4.0.2",
+        "pypi_version": "4.0.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7ea22f5",
+        "git_hash": "5b46ae2",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7990,7 +7990,7 @@
         "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c2f4134",
+        "git_hash": "5b18fef",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
