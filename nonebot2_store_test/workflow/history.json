@@ -2980,7 +2980,7 @@
         "pypi_version": "0.9.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2b6f966",
+        "git_hash": "f078f7c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7990,9 +7990,9 @@
         "pypi_version": "0.1.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4f126b9",
+        "git_hash": "1790f79",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "results"
     },
     "nonebot-plugin-batitle": {
@@ -8111,6 +8111,21 @@
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "ae1611e",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-wake-on-lan": {
+        "_runtime_latest": "2.1.2",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_wake_on_lan",
+        "project_link": "nonebot-plugin-wake-on-lan",
+        "display_name": "局域网唤醒",
+        "homepage": "https://github.com/tiehu/nonebot-plugin-wol",
+        "pypi_version": "0.1.2",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "33314ed",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
