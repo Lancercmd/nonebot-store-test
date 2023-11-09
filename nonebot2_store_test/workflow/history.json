@@ -3232,10 +3232,10 @@
         "project_link": "nonebot-plugin-gspanel",
         "display_name": "原神角色展柜查询",
         "homepage": "https://github.com/monsterxcn/nonebot-plugin-gspanel",
-        "pypi_version": "0.2.24",
+        "pypi_version": "0.2.25",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8e9f15d",
+        "git_hash": "cd49ca7",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8127,6 +8127,21 @@
         "pypi_run": false,
         "git_hash": "33314ed",
         "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-bingimagecreator": {
+        "_runtime_latest": "2.1.2",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_bingimagecreator",
+        "project_link": "nonebot-plugin-bingimagecreator",
+        "display_name": "DALL-E 3绘图",
+        "homepage": "https://github.com/Alpaca4610/nonebot_plugin_BingImageCreator.git",
+        "pypi_version": "0.0.4",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "49c266d",
+        "git_create": false,
         "git_run": false,
         "last_seen": "results"
     }
