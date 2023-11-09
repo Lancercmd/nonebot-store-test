@@ -2980,7 +2980,7 @@
         "pypi_version": "0.9.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e868a58",
+        "git_hash": "821b2a0",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -3265,7 +3265,7 @@
         "pypi_version": "0.2.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9cdc78d",
+        "git_hash": "da7fa4d",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6847,7 +6847,7 @@
         "project_link": "nonebot-plugin-stable-diffusion-diao",
         "display_name": "stablediffusion绘画插件",
         "homepage": "https://github.com/DiaoDaiaChan/nonebot-plugin-stable-diffusion-diao",
-        "pypi_version": "0.4.7.1",
+        "pypi_version": "0.4.7.2",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "a86ce4d",
