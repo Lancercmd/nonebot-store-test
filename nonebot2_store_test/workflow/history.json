@@ -2380,7 +2380,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1ca6d1f",
+        "git_hash": "87e6a54",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2425,7 +2425,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "6f85764",
+        "git_hash": "676ff9e",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -2572,10 +2572,10 @@
         "project_link": "nonebot_plugin_BitTorrent",
         "display_name": "bittorrent",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_BitTorrent",
-        "pypi_version": "0.0.14",
+        "pypi_version": "0.0.15",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "eb8d8ce",
+        "git_hash": "ae10abb",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -5260,7 +5260,7 @@
         "pypi_version": "0.1.0a3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fb02e89",
+        "git_hash": "2a02b06",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
