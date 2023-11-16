@@ -2845,7 +2845,7 @@
         "pypi_version": "0.9.7.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "9c1ed10",
+        "git_hash": "1334843",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -3472,7 +3472,7 @@
         "project_link": "nonebot-plugin-picstatus",
         "display_name": "PicStatus",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-picstatus",
-        "pypi_version": "0.5.3",
+        "pypi_version": "0.5.4",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "a0c74db",
