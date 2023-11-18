@@ -2572,10 +2572,10 @@
         "project_link": "nonebot_plugin_BitTorrent",
         "display_name": "bittorrent",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_BitTorrent",
-        "pypi_version": "0.0.15",
+        "pypi_version": "0.0.16",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ae10abb",
+        "git_hash": "4ca143e",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
