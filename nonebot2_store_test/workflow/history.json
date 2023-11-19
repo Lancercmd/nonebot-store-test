@@ -6607,10 +6607,10 @@
         "project_link": "nonebot-plugin-hoshino-sign",
         "display_name": "签到",
         "homepage": "https://github.com/zhulinyv/nonebot_plugin_hoshino_sign",
-        "pypi_version": "2.2.2",
+        "pypi_version": "2.2.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d412a19",
+        "git_hash": "5b3db98",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
