@@ -592,10 +592,10 @@
         "project_link": "nonebot-plugin-heweather",
         "display_name": "nonebot-plugin-heweather",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-heweather",
-        "pypi_version": "0.6.11",
+        "pypi_version": "0.7.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4bcc591",
+        "git_hash": "ece15f8",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
