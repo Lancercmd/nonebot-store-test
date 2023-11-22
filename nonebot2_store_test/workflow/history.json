@@ -265,7 +265,7 @@
         "pypi_version": "0.8.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ae9ac99",
+        "git_hash": "badb264",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -6922,10 +6922,10 @@
         "project_link": "nonebot-plugin-bili-push",
         "display_name": "bili_push",
         "homepage": "https://github.com/SuperGuGuGu/nonebot_plugin_bili_push",
-        "pypi_version": "1.1.13",
+        "pypi_version": "1.1.14",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "97d7a75",
+        "git_hash": "81eb7c8",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -7537,10 +7537,10 @@
         "project_link": "dicergirl",
         "display_name": "DicerGirl",
         "homepage": "https://gitee.com/unvisitor/dicer",
-        "pypi_version": "3.5.0",
+        "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d30c651",
+        "git_hash": "9c65ed3",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8142,6 +8142,21 @@
         "pypi_run": false,
         "git_hash": "49c266d",
         "git_create": false,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-user": {
+        "_runtime_latest": "2.1.2",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_user",
+        "project_link": "nonebot-plugin-user",
+        "display_name": "用户",
+        "homepage": "https://github.com/he0119/nonebot-plugin-user",
+        "pypi_version": "0.1.2",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "b672447",
+        "git_create": true,
         "git_run": false,
         "last_seen": "results"
     }
