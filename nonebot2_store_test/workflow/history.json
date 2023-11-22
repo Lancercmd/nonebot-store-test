@@ -2380,7 +2380,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7bbdeac",
+        "git_hash": "805da8c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6097,10 +6097,10 @@
         "project_link": "nonebot-plugin-bilichat",
         "display_name": "nonebot-plugin-bilichat",
         "homepage": "https://github.com/Well2333/nonebot-plugin-bilichat",
-        "pypi_version": "4.11.0",
+        "pypi_version": "4.11.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ddc01d4",
+        "git_hash": "fcd20b8",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9c65ed3",
+        "git_hash": null,
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
