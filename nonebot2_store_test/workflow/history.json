@@ -2420,7 +2420,7 @@
         "first_seen": "c34b343",
         "module_name": "nonebot_plugin_imagetools",
         "project_link": "nonebot-plugin-imagetools",
-        "display_name": "imagetools",
+        "display_name": "图片操作",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-imagetools",
         "pypi_version": "0.3.0",
         "pypi_create": true,
@@ -4960,7 +4960,7 @@
         "pypi_version": "0.33.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8c08dd5",
+        "git_hash": "2027d9f",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6097,10 +6097,10 @@
         "project_link": "nonebot-plugin-bilichat",
         "display_name": "nonebot-plugin-bilichat",
         "homepage": "https://github.com/Well2333/nonebot-plugin-bilichat",
-        "pypi_version": "4.11.1",
+        "pypi_version": "4.11.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "fcd20b8",
+        "git_hash": "8f76236",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "9c65ed3",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8155,7 +8155,7 @@
         "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b672447",
+        "git_hash": "95ff761",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
