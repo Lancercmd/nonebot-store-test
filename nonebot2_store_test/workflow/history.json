@@ -2380,7 +2380,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bd10549",
+        "git_hash": "7bbdeac",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2422,10 +2422,10 @@
         "project_link": "nonebot-plugin-imagetools",
         "display_name": "imagetools",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-imagetools",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "676ff9e",
+        "git_hash": "ec5e112",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -5260,7 +5260,7 @@
         "pypi_version": "0.1.0a3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "072f579",
+        "git_hash": "1419b27",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5782,10 +5782,10 @@
         "project_link": "nonebot-plugin-memes-api",
         "display_name": "表情包制作",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-memes-api",
-        "pypi_version": "0.1.5",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c470c5a",
+        "git_hash": "d5791c0",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
