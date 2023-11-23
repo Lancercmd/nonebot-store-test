@@ -5707,10 +5707,10 @@
         "project_link": "nonebot-plugin-gshisbanner",
         "display_name": "gshisbanner",
         "homepage": "https://github.com/forchannot/nonebot-plugin-gshisbanner",
-        "pypi_version": "1.1.0",
+        "pypi_version": "1.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4c1d444",
+        "git_hash": "dad9298",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6685,7 +6685,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1526be3",
+        "git_hash": "5ae5bed",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
