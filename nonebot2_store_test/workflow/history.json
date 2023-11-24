@@ -691,19 +691,19 @@
         "last_seen": "78a90ef"
     },
     "nonebot-plugin-filehost": {
-        "_runtime_latest": "2.0.0rc2",
+        "_runtime_latest": "2.1.2",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_filehost",
         "project_link": "nonebot-plugin-filehost",
-        "display_name": "HTTP静态文件托管",
-        "homepage": "https://github.com/mnixry/nonebot-plugin-filehost",
-        "pypi_version": "0.1.1",
+        "display_name": "文件托管支持",
+        "homepage": "https://github.com/nonebot/plugin-filehost",
+        "pypi_version": "1.0.2",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "b708eb3",
+        "pypi_run": true,
+        "git_hash": "ff06487",
         "git_create": true,
-        "git_run": false,
-        "last_seen": "c91926a"
+        "git_run": true,
+        "last_seen": "results"
     },
     "nonebot-plugin-simplemusic": {
         "_runtime_latest": "2.1.2",
@@ -4177,10 +4177,10 @@
         "project_link": "nonebot-plugin-access-control",
         "display_name": "权限控制",
         "homepage": "https://github.com/bot-ssttkkl/nonebot-plugin-access-control",
-        "pypi_version": "1.1.2",
+        "pypi_version": "1.1.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "025caff",
+        "git_hash": "9043c5b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8167,10 +8167,10 @@
         "project_link": "nonebot-plugin-shorturl",
         "display_name": "短链接服务支持",
         "homepage": "https://github.com/StarHeartHunt/nonebot-plugin-shorturl",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6aa37e9",
+        "git_hash": "0e3f387",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
