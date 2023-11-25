@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "85fc619",
+        "git_hash": "4b3f4c0",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
