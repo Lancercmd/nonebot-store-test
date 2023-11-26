@@ -1945,7 +1945,7 @@
         "pypi_version": "0.3.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "bcbf9f4",
+        "git_hash": "142d68f",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -2845,7 +2845,7 @@
         "pypi_version": "0.9.7.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "1334843",
+        "git_hash": "f96686d",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -4177,10 +4177,10 @@
         "project_link": "nonebot-plugin-access-control",
         "display_name": "权限控制",
         "homepage": "https://github.com/bot-ssttkkl/nonebot-plugin-access-control",
-        "pypi_version": "1.1.4",
+        "pypi_version": "1.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c407ce7",
+        "git_hash": "a9c18cf",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5050,7 +5050,7 @@
         "pypi_version": "2.1.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3bba238",
+        "git_hash": "98228a4",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6817,10 +6817,10 @@
         "project_link": "nonebot-plugin-nagabus",
         "display_name": "NAGA公交车",
         "homepage": "https://github.com/bot-ssttkkl/nonebot-plugin-nagabus",
-        "pypi_version": "0.2.16",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "0f8b8aa",
+        "pypi_run": true,
+        "git_hash": "e31be6b",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
