@@ -67,10 +67,10 @@
         "project_link": "nonebot-plugin-sentry",
         "display_name": "Sentry日志监控",
         "homepage": "https://github.com/nonebot/plugin-sentry",
-        "pypi_version": "1.0.0",
+        "pypi_version": "1.0.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c29950e",
+        "git_hash": "fa77158",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2380,7 +2380,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b6d63c9",
+        "git_hash": "88c2915",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
