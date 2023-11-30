@@ -1822,10 +1822,10 @@
         "project_link": "nonebot-plugin-color",
         "display_name": "色图生成",
         "homepage": "https://github.com/monsterxcn/nonebot-plugin-color",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.2.0.post1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a8feb3b",
+        "git_hash": "443d5f0",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
