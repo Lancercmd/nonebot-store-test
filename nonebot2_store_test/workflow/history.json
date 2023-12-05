@@ -70,7 +70,7 @@
         "pypi_version": "1.0.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fa77158",
+        "git_hash": "b1d0ca4",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -100,7 +100,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0f422bf",
+        "git_hash": "5c6bf98",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -415,7 +415,7 @@
         "pypi_version": "0.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6186005",
+        "git_hash": "ef8cbe9",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8203,6 +8203,21 @@
         "git_hash": "b36230b",
         "git_create": true,
         "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-batarot": {
+        "_runtime_latest": "2.1.2",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_batarot",
+        "project_link": "nonebot-plugin-batarot",
+        "display_name": "ba塔罗牌，运势与魔法占卜！",
+        "homepage": "https://github.com/Perseus037/nonebot_plugin_batarot",
+        "pypi_version": "0.1.4.post2",
+        "pypi_create": true,
+        "pypi_run": true,
+        "git_hash": "306fe65",
+        "git_create": true,
+        "git_run": true,
         "last_seen": "results"
     }
 }
