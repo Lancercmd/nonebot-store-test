@@ -6097,12 +6097,12 @@
         "project_link": "nonebot-plugin-bilichat",
         "display_name": "nonebot-plugin-bilichat",
         "homepage": "https://github.com/Well2333/nonebot-plugin-bilichat",
-        "pypi_version": "4.11.3",
+        "pypi_version": "4.12.0",
         "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "38a04a1",
+        "pypi_run": false,
+        "git_hash": "c58a3be",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "results"
     },
     "nonebot-plugin-genshinuid": {
