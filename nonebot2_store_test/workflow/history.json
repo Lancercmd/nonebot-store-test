@@ -8212,7 +8212,7 @@
         "project_link": "nonebot-plugin-batarot",
         "display_name": "nonebot_plugin_batarot",
         "homepage": "https://github.com/Perseus037/nonebot_plugin_batarot",
-        "pypi_version": "0.2.0.post1",
+        "pypi_version": "0.2.0.post2",
         "pypi_create": true,
         "pypi_run": true,
         "git_hash": "88c90f7",
