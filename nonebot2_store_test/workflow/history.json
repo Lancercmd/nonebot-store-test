@@ -2977,10 +2977,10 @@
         "project_link": "nonebot-plugin-moegoe",
         "display_name": "日韩中 VITS 模型原神拟声",
         "homepage": "https://github.com/Yiyuiii/nonebot-plugin-moegoe",
-        "pypi_version": "0.9.1",
+        "pypi_version": "0.10.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "821b2a0",
+        "git_hash": "74482a5",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -4960,7 +4960,7 @@
         "pypi_version": "0.34.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4f33799",
+        "git_hash": "cf6af48",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6100,7 +6100,7 @@
         "pypi_version": "4.12.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "6ea3864",
+        "git_hash": "c35899f",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -7465,7 +7465,7 @@
         "pypi_version": "0.2.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c9c8cb1",
+        "git_hash": "7f22b66",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -8227,10 +8227,10 @@
         "project_link": "nonebot-plugin-cnrail",
         "display_name": "CNRail",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-cnrail",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "dd0ab06",
+        "git_hash": "4e7a525",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
