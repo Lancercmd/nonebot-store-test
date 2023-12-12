@@ -8210,7 +8210,7 @@
         "first_seen": "results",
         "module_name": "nonebot_plugin_batarot",
         "project_link": "nonebot-plugin-batarot",
-        "display_name": "nonebot_plugin_batarot",
+        "display_name": "碧蓝档案塔罗牌",
         "homepage": "https://github.com/Perseus037/nonebot_plugin_batarot",
         "pypi_version": "0.2.0.post3",
         "pypi_create": true,
@@ -8233,6 +8233,21 @@
         "git_hash": "59c1330",
         "git_create": true,
         "git_run": true,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-longtu": {
+        "_runtime_latest": "2.1.2",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_longtu",
+        "project_link": "nonebot-plugin-longtu",
+        "display_name": "随机龙图",
+        "homepage": "https://github.com/Perseus037/nonebot_plugin_longtu",
+        "pypi_version": "0.1.0.post3",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "c3c9d8f",
+        "git_create": true,
+        "git_run": false,
         "last_seen": "results"
     }
 }
