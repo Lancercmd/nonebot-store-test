@@ -2980,7 +2980,7 @@
         "pypi_version": "0.10.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7bf6f9d",
+        "git_hash": "c0a5b36",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7885,7 +7885,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "04cd1b8",
+        "git_hash": "d17467f",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8242,10 +8242,10 @@
         "project_link": "nonebot-plugin-longtu",
         "display_name": "随机龙图",
         "homepage": "https://github.com/Perseus037/nonebot_plugin_longtu",
-        "pypi_version": "0.1.0.post3",
+        "pypi_version": "0.1.0.post4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c3c9d8f",
+        "git_hash": "dbd1fe2",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
