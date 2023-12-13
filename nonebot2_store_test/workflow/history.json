@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0rc1.post3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "07f6e0e",
+        "git_hash": "b83e95a",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "d2bfcfa",
+        "git_hash": "3eb6c06",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -3427,10 +3427,10 @@
         "project_link": "nonebot-plugin-bottle",
         "display_name": "漂流瓶",
         "homepage": "https://github.com/Todysheep/nonebot_plugin_bottle",
-        "pypi_version": "2.0.0.3",
+        "pypi_version": "2.0.0.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "45084ed",
+        "git_hash": "e24a6da",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -5047,10 +5047,10 @@
         "project_link": "nonebot-plugin-naturel-gpt",
         "display_name": "更人性化的GPT-Ai聊天插件",
         "homepage": "https://github.com/KroMiose/nonebot_plugin_naturel_gpt",
-        "pypi_version": "2.1.8",
+        "pypi_version": "2.1.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f8ecab5",
+        "git_hash": "344ce94",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4f2f8b2",
+        "git_hash": "56f74b2",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
