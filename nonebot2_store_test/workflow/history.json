@@ -1057,10 +1057,10 @@
         "project_link": "nonebot-plugin-htmlrender",
         "display_name": "nonebot-plugin-htmlrender",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-htmlrender",
-        "pypi_version": "0.2.2",
+        "pypi_version": "0.2.3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "9347020",
+        "git_hash": "0341484",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8245,7 +8245,7 @@
         "pypi_version": "0.1.0.post4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "84afaaf",
+        "git_hash": "fef8b1b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
