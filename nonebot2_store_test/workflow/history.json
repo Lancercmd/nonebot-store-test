@@ -5452,10 +5452,10 @@
         "project_link": "nonebot-plugin-afd",
         "display_name": "爱发电进群审核",
         "homepage": "https://github.com/17TheWord/nonebot-plugin-afd",
-        "pypi_version": "0.0.3",
+        "pypi_version": "0.0.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c5d4c62",
+        "git_hash": "5158c36",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6100,7 +6100,7 @@
         "pypi_version": "4.12.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c35899f",
+        "git_hash": "564a696",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
