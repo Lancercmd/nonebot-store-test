@@ -6100,7 +6100,7 @@
         "pypi_version": "4.12.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "9fa0e29",
+        "git_hash": "fde4ddf",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8197,10 +8197,10 @@
         "project_link": "nonebot-plugin-nsfw",
         "display_name": "群聊 NSFW 图片检测",
         "homepage": "https://github.com/iyume/nonebot-plugin-nsfw",
-        "pypi_version": "0.9",
+        "pypi_version": "0.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d894d05",
+        "git_hash": "b7fedf8",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
