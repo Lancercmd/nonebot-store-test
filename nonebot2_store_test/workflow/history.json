@@ -2692,10 +2692,10 @@
         "project_link": "nonebot-plugin-osubot",
         "display_name": "OSUBot",
         "homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-        "pypi_version": "4.0.13",
+        "pypi_version": "4.0.14",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "72e2d2f",
+        "git_hash": "31b2a41",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8215,9 +8215,9 @@
         "pypi_version": "0.2.0.post3",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "8ea4ffa",
+        "git_hash": "cf82f26",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "results"
     },
     "nonebot-plugin-cnrail": {
