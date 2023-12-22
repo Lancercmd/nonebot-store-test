@@ -1690,7 +1690,7 @@
         "pypi_version": "0.2.13",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "085f6c0",
+        "git_hash": "bdd86ce",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -3235,7 +3235,7 @@
         "pypi_version": "0.2.25",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7948f7e",
+        "git_hash": "a30cc38",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -3265,7 +3265,7 @@
         "pypi_version": "0.2.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e716ca7",
+        "git_hash": "456cb9a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
