@@ -8279,5 +8279,20 @@
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
+    },
+    "nonebot-plugin-phigros-qq": {
+        "_runtime_latest": "2.1.2",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_phigros_qq",
+        "project_link": "nonebot-plugin-phigros-qq",
+        "display_name": "Phigros查分器(Adapter-qq)",
+        "homepage": "https://github.com/XTxiaoting14332/nonebot-plugin-phigros",
+        "pypi_version": "0.1.2",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "bfbd935",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
     }
 }
