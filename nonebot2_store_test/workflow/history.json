@@ -6112,10 +6112,10 @@
         "project_link": "nonebot-plugin-genshinuid",
         "display_name": "GenshinUID",
         "homepage": "https://github.com/KimigaiiWuyi/GenshinUID",
-        "pypi_version": "4.5.0",
+        "pypi_version": "4.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fcea871",
+        "git_hash": "8c2a925",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
