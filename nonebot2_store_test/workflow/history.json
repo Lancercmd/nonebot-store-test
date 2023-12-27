@@ -8294,5 +8294,20 @@
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
+    },
+    "nonebot-plugin-antimonkey": {
+        "_runtime_latest": "2.1.3",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_antimonkey",
+        "project_link": "nonebot-plugin-antimonkey",
+        "display_name": "AntiMonkey",
+        "homepage": "https://github.com/phquathi/nonebot_plugin_antimonkey",
+        "pypi_version": "1.0.0",
+        "pypi_create": false,
+        "pypi_run": false,
+        "git_hash": "edfebf7",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
     }
 }
