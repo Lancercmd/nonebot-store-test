@@ -8302,10 +8302,10 @@
         "project_link": "nonebot-plugin-antimonkey",
         "display_name": "AntiMonkey",
         "homepage": "https://github.com/phquathi/nonebot_plugin_antimonkey",
-        "pypi_version": "1.0.1",
+        "pypi_version": "1.0.2",
         "pypi_create": false,
         "pypi_run": false,
-        "git_hash": "8706c67",
+        "git_hash": "44bc07e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
