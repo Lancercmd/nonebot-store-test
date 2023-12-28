@@ -7021,7 +7021,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-eitherchoice": {
-        "_runtime_latest": "2.1.2",
+        "_runtime_latest": "2.1.3",
         "first_seen": "2c16233",
         "module_name": "nonebot_plugin_eitherchoice",
         "project_link": "nonebot-plugin-eitherchoice",
@@ -8306,6 +8306,21 @@
         "pypi_create": false,
         "pypi_run": false,
         "git_hash": "44bc07e",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-waiter": {
+        "_runtime_latest": "2.1.3",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_waiter",
+        "project_link": "nonebot-plugin-waiter",
+        "display_name": "Waiter 插件",
+        "homepage": "https://github.com/RF-Tar-Railt/nonebot-plugin-waiter",
+        "pypi_version": "0.1.0",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "bcef90b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
