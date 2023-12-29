@@ -8324,5 +8324,20 @@
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
+    },
+    "nonebot-plugin-nikke": {
+        "_runtime_latest": "2.1.3",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_nikke",
+        "project_link": "nonebot-plugin-nikke",
+        "display_name": "nonebot_plugin_nikke",
+        "homepage": "https://github.com/Perseus037/nonebot_plugin_nikke",
+        "pypi_version": "0.1.0.post4",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "dc70e50",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
     }
 }
