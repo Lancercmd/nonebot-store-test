@@ -4330,7 +4330,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2dbf245",
+        "git_hash": "883927e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6892,10 +6892,10 @@
         "project_link": "nonebot-plugin-pcrjjc",
         "display_name": "pcrjjc",
         "homepage": "https://github.com/reine-ishyanami/nonebot-plugin-pcrjjc",
-        "pypi_version": "0.5.1",
+        "pypi_version": "0.6.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b517705",
+        "git_hash": "d77cae2",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
