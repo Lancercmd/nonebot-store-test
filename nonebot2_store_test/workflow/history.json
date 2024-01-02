@@ -3922,12 +3922,12 @@
         "project_link": "nonebot-plugin-apex-api-query",
         "display_name": "Apex API Query",
         "homepage": "https://github.com/H-xiaoH/nonebot-plugin-apex-api-query",
-        "pypi_version": "23.10.15",
+        "pypi_version": "24.1.2",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "fe9efd0",
+        "pypi_run": true,
+        "git_hash": "da376fd",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "results"
     },
     "nonebot-plugin-reborn": {
