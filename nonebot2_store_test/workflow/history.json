@@ -2977,10 +2977,10 @@
         "project_link": "nonebot-plugin-moegoe",
         "display_name": "日韩中 VITS 模型原神拟声",
         "homepage": "https://github.com/Yiyuiii/nonebot-plugin-moegoe",
-        "pypi_version": "0.10.5",
+        "pypi_version": "0.10.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4aef3c0",
+        "git_hash": "073e7e4",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
