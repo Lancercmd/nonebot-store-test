@@ -1807,7 +1807,7 @@
         "project_link": "nonebot-plugin-bilibilibot",
         "display_name": "bilibili通知插件",
         "homepage": "https://github.com/TDK1969/nonebot_plugin_bilibilibot",
-        "pypi_version": "2.3.3",
+        "pypi_version": "2.3.4",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "9614d4e",
