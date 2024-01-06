@@ -742,10 +742,10 @@
         "project_link": "nonebot-plugin-twitter",
         "display_name": "twitter 推特订阅",
         "homepage": "https://github.com/nek0us/nonebot-plugin-twitter",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c98996e",
+        "git_hash": "47958fb",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bf3c5a4",
+        "git_hash": "e821c45",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8125,7 +8125,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0702964",
+        "git_hash": "0cdb4e2",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8215,7 +8215,7 @@
         "pypi_version": "0.2.1.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "fc6067d",
+        "git_hash": "ee7a478",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8245,7 +8245,7 @@
         "pypi_version": "0.1.0.post4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fef8b1b",
+        "git_hash": "543805e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8335,7 +8335,7 @@
         "pypi_version": "0.1.0.post4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "dc70e50",
+        "git_hash": "a7b4bbb",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
