@@ -6115,7 +6115,7 @@
         "pypi_version": "4.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "417f625",
+        "git_hash": "fe357f2",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7780,7 +7780,7 @@
         "pypi_version": "0.6.4",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "99c1cbb",
+        "git_hash": "0b4f456",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8287,10 +8287,10 @@
         "project_link": "nonebot-plugin-phigros-qq",
         "display_name": "Phigros查分器(Adapter-qq)",
         "homepage": "https://github.com/XTxiaoting14332/nonebot-plugin-phigros",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.1.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cf6dd7d",
+        "git_hash": "8a3b038",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8335,7 +8335,7 @@
         "pypi_version": "0.1.0.post4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a7b4bbb",
+        "git_hash": "0faf16d",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
