@@ -700,7 +700,7 @@
         "pypi_version": "1.0.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ff06487",
+        "git_hash": "56da98c",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -4330,7 +4330,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "883927e",
+        "git_hash": "5d5a017",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5015,7 +5015,7 @@
         "first_seen": "9e1b439",
         "module_name": "nonebot_plugin_dog",
         "project_link": "nonebot-plugin-dog",
-        "display_name": "舔狗日记",
+        "display_name": "dog",
         "homepage": "https://github.com/Reversedeer/nonebot_plugin_dog",
         "pypi_version": "0.3.1",
         "pypi_create": true,
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "dd7395e",
+        "git_hash": null,
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
