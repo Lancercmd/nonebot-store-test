@@ -8377,10 +8377,10 @@
         "project_link": "nonebot-plugin-pingti",
         "display_name": "最佳平替",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-pingti",
-        "pypi_version": "0.1.0.post1",
+        "pypi_version": "0.1.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "17998c6",
+        "git_hash": "4715e7e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
