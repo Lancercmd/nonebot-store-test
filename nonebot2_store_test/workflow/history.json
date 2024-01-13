@@ -4330,7 +4330,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5d5a017",
+        "git_hash": "c4df4f3",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7777,10 +7777,10 @@
         "project_link": "nonebot-plugin-skland-arksign",
         "display_name": "森空岛明日方舟签到器",
         "homepage": "https://github.com/GuGuMur/nonebot-plugin-skland-arksign",
-        "pypi_version": "0.6.4",
+        "pypi_version": "0.6.5",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "3ddda6c",
+        "git_hash": "61a2eb6",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
