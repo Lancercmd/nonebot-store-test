@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "dd7395e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7555,7 +7555,7 @@
         "pypi_version": "2.2.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "3415d6c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8017,7 +8017,7 @@
         "project_link": "nonebot-plugin-maimaidx",
         "display_name": "nonebot-plugin-maimaidx",
         "homepage": "https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx",
-        "pypi_version": "0.0.9",
+        "pypi_version": "0.0.10",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "ea54a95",
