@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "542c33a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8407,10 +8407,10 @@
         "project_link": "nonebot-plugin-mypower",
         "display_name": "nonebot-plugin-mypower",
         "homepage": "https://github.com/tianyisama/nonebot_plugin_mypower",
-        "pypi_version": "0.1.4",
+        "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7df776f",
+        "git_hash": "dce7ff7",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
