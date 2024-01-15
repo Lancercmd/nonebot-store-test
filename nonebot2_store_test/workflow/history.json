@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "dd7395e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8398,6 +8398,36 @@
         "git_hash": "e52d953",
         "git_create": true,
         "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-mypower": {
+        "_runtime_latest": "2.1.3",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_mypower",
+        "project_link": "nonebot-plugin-mypower",
+        "display_name": "nonebot-plugin-mypower",
+        "homepage": "https://github.com/tianyisama/nonebot_plugin_mypower",
+        "pypi_version": "0.1.4",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "7df776f",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-finallines": {
+        "_runtime_latest": "2.1.3",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_finallines",
+        "project_link": "nonebot-plugin-finallines",
+        "display_name": "最终台词",
+        "homepage": "https://github.com/Perseus037/nonebot_plugin_finallines",
+        "pypi_version": "0.1.1.post2",
+        "pypi_create": true,
+        "pypi_run": true,
+        "git_hash": "e478138",
+        "git_create": true,
+        "git_run": true,
         "last_seen": "results"
     }
 }
