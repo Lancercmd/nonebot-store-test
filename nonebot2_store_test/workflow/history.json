@@ -6247,10 +6247,10 @@
         "project_link": "nonebot-plugin-bilifan",
         "display_name": "bilifan",
         "homepage": "https://github.com/Agnes4m/nonebot_plugin_bilifan",
-        "pypi_version": "0.3.0.post2",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e64c846",
+        "git_hash": "6d708e5",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7465,7 +7465,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4c20b12",
+        "git_hash": "07200a7",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
