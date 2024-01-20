@@ -4330,7 +4330,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c4df4f3",
+        "git_hash": "aca0a71",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8227,10 +8227,10 @@
         "project_link": "nonebot-plugin-cnrail",
         "display_name": "CNRail",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-cnrail",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.1.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a10f21f",
+        "git_hash": "ca90eed",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
