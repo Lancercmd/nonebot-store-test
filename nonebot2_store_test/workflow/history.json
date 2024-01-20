@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "542c33a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8272,10 +8272,10 @@
         "project_link": "nonebot-plugin-splatoon3-schedule",
         "display_name": "splatoon3游戏日程查询",
         "homepage": "https://github.com/Cypas/splatoon3-schedule",
-        "pypi_version": "1.5.1",
+        "pypi_version": "1.5.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fd06108",
+        "git_hash": "18e98c5",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
