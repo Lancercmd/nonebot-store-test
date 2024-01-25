@@ -7555,7 +7555,7 @@
         "pypi_version": "2.2.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "3415d6c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8452,10 +8452,10 @@
         "project_link": "nonebot-plugin-enatfrp",
         "display_name": "SakuraFrp",
         "homepage": "https://github.com/eya46/nonebot_plugin_enatfrp",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "28f4331",
+        "git_hash": "ef9626f",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
