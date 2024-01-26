@@ -6250,7 +6250,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "77758c0",
+        "git_hash": "853782b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7087,12 +7087,12 @@
         "project_link": "nonebot-plugin-cp-broadcast",
         "display_name": "算法竞赛比赛查询",
         "homepage": "https://github.com/HuParry/nonebot-plugin-cp-broadcast",
-        "pypi_version": "2.1.3",
+        "pypi_version": "2.1.4",
         "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "1474dd4",
+        "pypi_run": false,
+        "git_hash": "30ea8f7",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "results"
     },
     "nonebot-plugin-cfassistant": {
@@ -8452,10 +8452,10 @@
         "project_link": "nonebot-plugin-enatfrp",
         "display_name": "SakuraFrp",
         "homepage": "https://github.com/eya46/nonebot_plugin_enatfrp",
-        "pypi_version": "0.1.4",
+        "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ef9626f",
+        "git_hash": "58e461d",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
