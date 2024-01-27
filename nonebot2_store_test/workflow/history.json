@@ -2527,10 +2527,10 @@
         "project_link": "nonebot-plugin-setu4",
         "display_name": "setu4",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_setu4",
-        "pypi_version": "0.12.114514",
+        "pypi_version": "0.13.114514",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4266f67",
+        "git_hash": "75d11e5",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2572,10 +2572,10 @@
         "project_link": "nonebot_plugin_BitTorrent",
         "display_name": "bittorrent",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_BitTorrent",
-        "pypi_version": "0.0.18",
+        "pypi_version": "0.0.19",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a45f607",
+        "git_hash": "07678f3",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -7465,7 +7465,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "34d536e",
+        "git_hash": "50d4ec4",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "542c33a",
+        "git_hash": null,
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8473,6 +8473,21 @@
         "git_hash": "b664411",
         "git_create": true,
         "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-randpic": {
+        "_runtime_latest": "2.1.3",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_randpic",
+        "project_link": "nonebot-plugin-randpic",
+        "display_name": "随机发送图片",
+        "homepage": "https://github.com/HuParry/nonebot-plugin-randpic",
+        "pypi_version": "0.1.2",
+        "pypi_create": true,
+        "pypi_run": true,
+        "git_hash": "e7cd89e",
+        "git_create": true,
+        "git_run": true,
         "last_seen": "results"
     }
 }
