@@ -3277,10 +3277,10 @@
         "project_link": "nonebot-plugin-mystool",
         "display_name": "米游社辅助工具",
         "homepage": "https://github.com/Ljzd-PRO/nonebot-plugin-mystool",
-        "pypi_version": "1.4.4",
+        "pypi_version": "2.0.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b556b10",
+        "git_hash": "44e9eda",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
