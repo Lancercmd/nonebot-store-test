@@ -6607,7 +6607,7 @@
         "project_link": "nonebot-plugin-hoshino-sign",
         "display_name": "签到",
         "homepage": "https://github.com/zhulinyv/nonebot_plugin_hoshino_sign",
-        "pypi_version": "2.3.2",
+        "pypi_version": "2.3.3",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "4b7ba73",
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "542c33a",
+        "git_hash": null,
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
