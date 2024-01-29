@@ -265,7 +265,7 @@
         "pypi_version": "0.8.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "f6ee4a4",
+        "git_hash": "517a9db",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "542c33a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8488,6 +8488,21 @@
         "git_hash": "b1a34b6",
         "git_create": true,
         "git_run": true,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-badrawcard": {
+        "_runtime_latest": "2.1.3",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_BAdrawcard",
+        "project_link": "nonebot-plugin-badrawcard",
+        "display_name": "BA模拟抽卡",
+        "homepage": "https://github.com/lengmianzz/nonebot-plugin-BAdrawcard",
+        "pypi_version": "0.2.1",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "677d058",
+        "git_create": false,
+        "git_run": false,
         "last_seen": "results"
     }
 }
