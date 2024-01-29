@@ -8497,10 +8497,10 @@
         "project_link": "nonebot-plugin-badrawcard",
         "display_name": "BA模拟抽卡",
         "homepage": "https://github.com/lengmianzz/nonebot-plugin-BAdrawcard",
-        "pypi_version": "0.2.1",
+        "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "677d058",
+        "git_hash": "e1a68e5",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
