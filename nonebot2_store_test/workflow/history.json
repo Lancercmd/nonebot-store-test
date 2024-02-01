@@ -2692,10 +2692,10 @@
         "project_link": "nonebot-plugin-osubot",
         "display_name": "OSUBot",
         "homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-        "pypi_version": "4.1.0",
+        "pypi_version": "4.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d07430b",
+        "git_hash": "0e17583",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8548,6 +8548,21 @@
         "git_hash": "ddfe6ef",
         "git_create": true,
         "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-gpt": {
+        "_runtime_latest": "2.1.3",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_gpt",
+        "project_link": "nonebot-plugin-gpt",
+        "display_name": "ChatGPT 聊天",
+        "homepage": "https://github.com/nek0us/nonebot-plugin-gpt",
+        "pypi_version": "0.0.4",
+        "pypi_create": true,
+        "pypi_run": true,
+        "git_hash": "397d688",
+        "git_create": true,
+        "git_run": true,
         "last_seen": "results"
     }
 }
