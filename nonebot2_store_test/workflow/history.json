@@ -7222,12 +7222,12 @@
         "project_link": "nonebot-plugin-pjsk",
         "display_name": "Sekai Stickers",
         "homepage": "https://github.com/Agnes4m/nonebot_plugin_pjsk",
-        "pypi_version": "0.2.10",
+        "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1e751f0",
+        "git_hash": "5de84c7",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "results"
     },
     "nonebot-plugin-mongodb": {
