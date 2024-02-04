@@ -8579,5 +8579,20 @@
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
+    },
+    "nonebot-plugin-reminder": {
+        "_runtime_latest": "2.1.3",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_reminder",
+        "project_link": "nonebot-plugin-reminder",
+        "display_name": "定时提醒",
+        "homepage": "https://github.com/velor2012/nonebot_plugin_reminder",
+        "pypi_version": "0.2.1",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "1dbe7ae",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
     }
 }
