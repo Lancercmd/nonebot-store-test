@@ -7555,7 +7555,7 @@
         "pypi_version": "2.2.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "3415d6c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7990,7 +7990,7 @@
         "pypi_version": "0.1.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "201a320",
+        "git_hash": "0e3b986",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8467,10 +8467,10 @@
         "project_link": "nonebot-plugin-gemini",
         "display_name": "nonebot-plugin-gemini",
         "homepage": "https://github.com/zhaomaoniu/nonebot-plugin-gemini",
-        "pypi_version": "0.1.4",
+        "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6da3a00",
+        "git_hash": "141c28b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
