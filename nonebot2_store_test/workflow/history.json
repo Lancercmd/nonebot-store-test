@@ -1825,7 +1825,7 @@
         "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ea0255a",
+        "git_hash": "1b35486",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6625,7 +6625,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b89e517",
+        "git_hash": "88e29db",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8002,7 +8002,7 @@
         "project_link": "nonebot-plugin-batitle",
         "display_name": "BlueArchive Title Generator",
         "homepage": "https://github.com/MerCuJerry/nonebot-plugin-batitle",
-        "pypi_version": "0.1.5",
+        "pypi_version": "0.1.6",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "c74dd58",
