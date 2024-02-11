@@ -265,7 +265,7 @@
         "pypi_version": "0.8.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "73f0ad7",
+        "git_hash": "f7b5394",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -7222,10 +7222,10 @@
         "project_link": "nonebot-plugin-pjsk",
         "display_name": "Sekai Stickers",
         "homepage": "https://github.com/Agnes4m/nonebot_plugin_pjsk",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "24d97f1",
+        "git_hash": "65850a1",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
