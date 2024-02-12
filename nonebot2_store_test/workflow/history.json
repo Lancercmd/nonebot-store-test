@@ -97,10 +97,10 @@
         "project_link": "nonebot-plugin-apscheduler",
         "display_name": "定时任务",
         "homepage": "https://github.com/nonebot/plugin-apscheduler",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e15f6c2",
+        "git_hash": "95c932c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
