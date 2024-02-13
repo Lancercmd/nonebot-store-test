@@ -70,7 +70,7 @@
         "pypi_version": "1.0.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8ce61a7",
+        "git_hash": "8950ce4",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7177,11 +7177,11 @@
         "project_link": "nonebot-plugin-blocker",
         "display_name": "Blocker",
         "homepage": "https://github.com/MerCuJerry/nonebot-plugin-blocker",
-        "pypi_version": "0.3.10",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e2f7b87",
-        "git_create": true,
+        "git_hash": "6d0e294",
+        "git_create": false,
         "git_run": false,
         "last_seen": "results"
     },
@@ -8440,7 +8440,7 @@
         "pypi_version": "0.1.7",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "08c1b1d",
+        "git_hash": "e88b8f0",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8590,7 +8590,7 @@
         "pypi_version": "0.2.3.post1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6a16acc",
+        "git_hash": "54ac4ff",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
