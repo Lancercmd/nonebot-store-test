@@ -4480,7 +4480,7 @@
         "pypi_version": "0.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "01e93f2",
+        "git_hash": "fc4621e",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -5362,10 +5362,10 @@
         "project_link": "nonebot-plugin-random-stereotypes",
         "display_name": "发病语录",
         "homepage": "https://github.com/Ikaros-521/nonebot_plugin_random_stereotypes",
-        "pypi_version": "0.1.1",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "58135e2",
+        "git_hash": "d25a9a6",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5590,7 +5590,7 @@
         "pypi_version": "1.6.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6ce7c8f",
+        "git_hash": "937c50b",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "542c33a",
+        "git_hash": null,
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
