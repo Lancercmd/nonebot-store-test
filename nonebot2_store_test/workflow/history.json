@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "542c33a",
+        "git_hash": null,
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8572,10 +8572,10 @@
         "project_link": "nonebot-plugin-easy-blacklist",
         "display_name": "黑名单插件",
         "homepage": "https://github.com/bingqiu456/nonebot-plugin-easy-blacklist",
-        "pypi_version": "1.4",
+        "pypi_version": "1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ee55250",
+        "git_hash": "29431e6",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
