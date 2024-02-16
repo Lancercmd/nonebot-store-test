@@ -8602,10 +8602,10 @@
         "project_link": "nonebot-plugin-chikari-yinpa",
         "display_name": "Chikari_yinpa",
         "homepage": "https://github.com/mrqx0195/nonebot_plugin_chikari_yinpa",
-        "pypi_version": "1.1.7",
+        "pypi_version": "1.1.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d9eff0e",
+        "git_hash": "3dcf949",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
