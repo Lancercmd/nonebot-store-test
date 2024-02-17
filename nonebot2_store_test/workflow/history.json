@@ -8602,12 +8602,27 @@
         "project_link": "nonebot-plugin-chikari-yinpa",
         "display_name": "Chikari_yinpa",
         "homepage": "https://github.com/mrqx0195/nonebot_plugin_chikari_yinpa",
-        "pypi_version": "1.2.2",
+        "pypi_version": "1.2.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "683724e",
+        "git_hash": "fcebe73",
         "git_create": true,
         "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-splatoon3-nso": {
+        "_runtime_latest": "2.2.0",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_splatoon3_nso",
+        "project_link": "nonebot-plugin-splatoon3-nso",
+        "display_name": "splatoon3游戏nso查询",
+        "homepage": "https://github.com/Cypas/splatoon3-nso",
+        "pypi_version": "0.1.9",
+        "pypi_create": true,
+        "pypi_run": true,
+        "git_hash": "8e1886d",
+        "git_create": true,
+        "git_run": true,
         "last_seen": "results"
     }
 }
