@@ -4780,7 +4780,7 @@
         "pypi_version": "0.3.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1f96d10",
+        "git_hash": "5943640",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6982,10 +6982,10 @@
         "project_link": "nonebot-plugin-ocgbot-v2",
         "display_name": "游戏王小蓝卡查",
         "homepage": "https://github.com/fireinsect/nonebot-plugin-ocgbot-v2/",
-        "pypi_version": "0.2.8.2",
+        "pypi_version": "0.2.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7ae5436",
+        "git_hash": "6bba53c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7180,7 +7180,7 @@
         "pypi_version": "0.4.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7486651",
+        "git_hash": "9b4f428",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8602,10 +8602,10 @@
         "project_link": "nonebot-plugin-chikari-yinpa",
         "display_name": "Chikari_yinpa",
         "homepage": "https://github.com/mrqx0195/nonebot_plugin_chikari_yinpa",
-        "pypi_version": "1.2.5",
+        "pypi_version": "1.2.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7eb31e0",
+        "git_hash": "1a7d720",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
