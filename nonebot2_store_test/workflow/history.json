@@ -8587,10 +8587,10 @@
         "project_link": "nonebot-plugin-reminder",
         "display_name": "定时提醒",
         "homepage": "https://github.com/velor2012/nonebot_plugin_reminder",
-        "pypi_version": "0.3.0.post4",
+        "pypi_version": "0.3.1.post1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ed2b9f4",
+        "git_hash": "be877b0",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
