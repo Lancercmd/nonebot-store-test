@@ -8617,10 +8617,10 @@
         "project_link": "nonebot-plugin-splatoon3-nso",
         "display_name": "splatoon3游戏nso查询",
         "homepage": "https://github.com/Cypas/splatoon3-nso",
-        "pypi_version": "0.1.9",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2714f7d",
+        "git_hash": "c85df62",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
