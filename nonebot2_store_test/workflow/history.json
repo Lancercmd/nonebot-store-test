@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0rc1.post3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c94f042",
+        "git_hash": "3b258f3",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "df195d3",
+        "git_hash": "e10ab9d",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -5977,10 +5977,10 @@
         "project_link": "nonebot-plugin-sayoroll",
         "display_name": "sayoroll",
         "homepage": "https://github.com/mas-alone/nonebot-plugin-sayoroll",
-        "pypi_version": "0.5.1",
+        "pypi_version": "0.5.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f501947",
+        "git_hash": "60f8262",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
