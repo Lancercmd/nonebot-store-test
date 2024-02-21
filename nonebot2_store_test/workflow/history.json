@@ -40,9 +40,9 @@
         "pypi_version": "2.0.0rc1.post3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6cf6162",
+        "git_hash": "c34f45c",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "results"
     },
     "nonebot-plugin-docs": {
@@ -7555,7 +7555,7 @@
         "pypi_version": "2.2.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "3415d6c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
