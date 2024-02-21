@@ -265,7 +265,7 @@
         "pypi_version": "0.8.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2a33d51",
+        "git_hash": "2fc6e25",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8617,10 +8617,10 @@
         "project_link": "nonebot-plugin-splatoon3-nso",
         "display_name": "splatoon3游戏nso查询",
         "homepage": "https://github.com/Cypas/splatoon3-nso",
-        "pypi_version": "0.2.0",
+        "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a5426cd",
+        "git_hash": "37db47f",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
