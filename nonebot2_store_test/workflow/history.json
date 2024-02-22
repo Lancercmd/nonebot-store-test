@@ -3472,12 +3472,12 @@
         "project_link": "nonebot-plugin-picstatus",
         "display_name": "PicStatus",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-picstatus",
-        "pypi_version": "1.1.0",
+        "pypi_version": "1.1.1",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "9c1cf67",
+        "pypi_run": true,
+        "git_hash": "df6bc77",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "results"
     },
     "nonebot-plugin-tuling": {
@@ -4480,7 +4480,7 @@
         "pypi_version": "0.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b69f3bb",
+        "git_hash": "ef10880",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
