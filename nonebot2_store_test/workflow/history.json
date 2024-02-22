@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5d0f224",
+        "git_hash": "e86f6de",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -1552,10 +1552,10 @@
         "project_link": "nonebot-plugin-txt2img",
         "display_name": "文字转图片",
         "homepage": "https://github.com/mobyw/nonebot-plugin-txt2img",
-        "pypi_version": "0.4.0",
+        "pypi_version": "0.4.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "eb70bb3",
+        "git_hash": "b385ecd",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -2695,7 +2695,7 @@
         "pypi_version": "4.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fded3a7",
+        "git_hash": "1b3a70a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "542c33a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7555,7 +7555,7 @@
         "pypi_version": "2.2.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "3415d6c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
