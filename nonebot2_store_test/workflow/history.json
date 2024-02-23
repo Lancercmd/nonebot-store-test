@@ -8630,7 +8630,7 @@
         "first_seen": "results",
         "module_name": "nonebot_plugin_bf1marneserverlist",
         "project_link": "nonebot-plugin-bf1marneserverlist",
-        "display_name": "nonebot-plugin-bf1marneserverlist",
+        "display_name": "战地1-马恩私人服务器服务器查询",
         "homepage": "https://github.com/SAFEluren/nonebot-plugin-bf1marneserverlist",
         "pypi_version": "0.1.22",
         "pypi_create": true,
