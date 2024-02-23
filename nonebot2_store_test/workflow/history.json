@@ -6922,10 +6922,10 @@
         "project_link": "nonebot-plugin-bili-push",
         "display_name": "bili_push",
         "homepage": "https://github.com/SuperGuGuGu/nonebot_plugin_bili_push",
-        "pypi_version": "1.1.17",
+        "pypi_version": "1.1.18",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "dbdebb4",
+        "git_hash": "f9416c6",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -8602,10 +8602,10 @@
         "project_link": "nonebot-plugin-chikari-yinpa",
         "display_name": "Chikari_yinpa",
         "homepage": "https://github.com/mrqx0195/nonebot_plugin_chikari_yinpa",
-        "pypi_version": "1.2.7",
+        "pypi_version": "1.2.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "710ca41",
+        "git_hash": "2d95d6a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8638,6 +8638,21 @@
         "git_hash": "1b114a7",
         "git_create": true,
         "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-kawaii-status": {
+        "_runtime_latest": "2.2.0",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_kawaii_status",
+        "project_link": "nonebot-plugin-kawaii-status",
+        "display_name": "运行状态",
+        "homepage": "https://github.com/KomoriDev/nonebot-plugin-kawaii-status",
+        "pypi_version": "0.1.2",
+        "pypi_create": true,
+        "pypi_run": true,
+        "git_hash": "56aef8f",
+        "git_create": true,
+        "git_run": true,
         "last_seen": "results"
     }
 }
