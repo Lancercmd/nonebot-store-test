@@ -265,7 +265,7 @@
         "pypi_version": "0.8.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2fc6e25",
+        "git_hash": "77b5224",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -3895,7 +3895,7 @@
         "pypi_version": "1.0.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fca100f",
+        "git_hash": "a0cd7b4",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5347,7 +5347,7 @@
         "project_link": "nonebot-plugin-send-anything-anywhere",
         "display_name": "峯驰物流",
         "homepage": "https://send-anything-anywhere.felinae98.cn/",
-        "pypi_version": "0.5.0",
+        "pypi_version": "0.6.0",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": null,
@@ -8623,6 +8623,21 @@
         "git_hash": "2c12fc9",
         "git_create": true,
         "git_run": true,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-bf1marneserverlist": {
+        "_runtime_latest": "2.2.0",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_bf1marneserverlist",
+        "project_link": "nonebot-plugin-bf1marneserverlist",
+        "display_name": "nonebot-plugin-bf1marneserverlist",
+        "homepage": "https://github.com/SAFEluren/nonebot-plugin-bf1marneserverlist",
+        "pypi_version": "0.1.21",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "1b114a7",
+        "git_create": true,
+        "git_run": false,
         "last_seen": "results"
     }
 }
