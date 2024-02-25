@@ -7012,10 +7012,10 @@
         "project_link": "nonebot-plugin-userinfo",
         "display_name": "用户信息",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-userinfo",
-        "pypi_version": "0.1.3",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "359fb45",
+        "git_hash": "36bc930",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
