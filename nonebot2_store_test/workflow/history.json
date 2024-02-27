@@ -4960,7 +4960,7 @@
         "pypi_version": "0.37.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "da4cca7",
+        "git_hash": "053cac2",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6457,10 +6457,10 @@
         "project_link": "nonebot-plugin-csgo-case-simulator",
         "display_name": "CSGO开箱模拟器",
         "homepage": "https://github.com/roiiiu/nonebot-plugin-csgo-case-simulator",
-        "pypi_version": "1.0.0",
+        "pypi_version": "1.0.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9d1889e",
+        "git_hash": "b53b787",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6982,10 +6982,10 @@
         "project_link": "nonebot-plugin-ocgbot-v2",
         "display_name": "游戏王小蓝卡查",
         "homepage": "https://github.com/fireinsect/nonebot-plugin-ocgbot-v2/",
-        "pypi_version": "0.2.9",
+        "pypi_version": "0.2.9.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "53b377c",
+        "git_hash": "3bdd472",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7015,7 +7015,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "51a67cd",
+        "git_hash": "13a11cb",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8620,7 +8620,7 @@
         "pypi_version": "1.2.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "94b6aad",
+        "git_hash": "04dbba3",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
