@@ -6082,10 +6082,10 @@
         "project_link": "nonebot-plugin-steam-game-status",
         "display_name": "Steam游戏状态",
         "homepage": "https://github.com/nek0us/nonebot_plugin_steam_game_status",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.1.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "aea17fb",
+        "git_hash": "bb9a391",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
