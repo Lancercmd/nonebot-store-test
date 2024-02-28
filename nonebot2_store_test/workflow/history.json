@@ -1942,12 +1942,12 @@
         "project_link": "nonebot-plugin-wordle",
         "display_name": "猜单词",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-wordle",
-        "pypi_version": "0.3.4",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "142d68f",
+        "pypi_run": false,
+        "git_hash": "39a51a6",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "results"
     },
     "nonebot-plugin-giyf": {
@@ -2005,7 +2005,7 @@
         "pypi_version": "0.3.6",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "72be48c",
+        "git_hash": "d0b9e9b",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
