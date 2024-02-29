@@ -1435,9 +1435,9 @@
         "pypi_version": "0.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "90dca22",
+        "git_hash": "142e033",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "results"
     },
     "nonebot-plugin-setu2": {
@@ -8167,10 +8167,10 @@
         "project_link": "nonebot-plugin-shorturl",
         "display_name": "短链接服务支持",
         "homepage": "https://github.com/StarHeartHunt/nonebot-plugin-shorturl",
-        "pypi_version": "0.3.1",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0e3f387",
+        "git_hash": "70f2e1f",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
