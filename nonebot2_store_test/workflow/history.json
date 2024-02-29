@@ -1435,7 +1435,7 @@
         "pypi_version": "0.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cbb4bc1",
+        "git_hash": "90dca22",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2695,7 +2695,7 @@
         "pypi_version": "4.2.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6fc09d4",
+        "git_hash": "27142fb",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2857,10 +2857,10 @@
         "project_link": "nonebot-plugin-mcqq",
         "display_name": "MC_QQ",
         "homepage": "https://github.com/17TheWord/nonebot-plugin-mcqq",
-        "pypi_version": "2.5.3",
+        "pypi_version": "2.5.3.post1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c8c9042",
+        "git_hash": "a7212f5",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "542c33a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
