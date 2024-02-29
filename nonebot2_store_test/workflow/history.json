@@ -697,10 +697,10 @@
         "project_link": "nonebot-plugin-filehost",
         "display_name": "文件托管支持",
         "homepage": "https://github.com/nonebot/plugin-filehost",
-        "pypi_version": "1.0.2",
+        "pypi_version": "1.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "56da98c",
+        "git_hash": "cff46c6",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
