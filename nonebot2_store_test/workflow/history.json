@@ -2152,12 +2152,12 @@
         "project_link": "nonebot-plugin-cchess",
         "display_name": "象棋",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-cchess",
-        "pypi_version": "0.3.3",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
-        "pypi_run": true,
-        "git_hash": "9cff00c",
+        "pypi_run": false,
+        "git_hash": "55ff669",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "results"
     },
     "nonebot-plugin-rtfm": {
