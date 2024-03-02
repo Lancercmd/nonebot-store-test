@@ -1387,10 +1387,10 @@
         "project_link": "nonebot-plugin-chess",
         "display_name": "国际象棋",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-chess",
-        "pypi_version": "0.4.4",
+        "pypi_version": "0.5.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "b1fa517",
+        "git_hash": "079adf4",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
