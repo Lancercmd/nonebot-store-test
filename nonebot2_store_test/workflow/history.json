@@ -1222,7 +1222,7 @@
         "project_link": "nonebot-plugin-remake",
         "display_name": "人生重开",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-remake",
-        "pypi_version": "0.3.3",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "e3c7ce2",
