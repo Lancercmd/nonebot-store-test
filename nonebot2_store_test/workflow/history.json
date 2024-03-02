@@ -1225,7 +1225,7 @@
         "pypi_version": "0.3.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6a07003",
+        "git_hash": "e3c7ce2",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2182,10 +2182,10 @@
         "project_link": "nonebot-plugin-boardgame",
         "display_name": "棋类游戏",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-boardgame",
-        "pypi_version": "0.3.4",
+        "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2de68e5",
+        "git_hash": "4e6f4b4",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
