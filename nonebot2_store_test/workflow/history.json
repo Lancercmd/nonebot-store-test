@@ -3037,10 +3037,10 @@
         "project_link": "nonebot-plugin-cqsat",
         "display_name": "HAM助手",
         "homepage": "https://github.com/yzyyz1387/cqsat",
-        "pypi_version": "0.1.11.3",
+        "pypi_version": "0.1.12",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1dac981",
+        "git_hash": "de8b17e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -4525,9 +4525,9 @@
         "pypi_version": "0.6.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "028db71",
+        "git_hash": "378eeba",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "results"
     },
     "nonebot-plugin-learning-chat": {
@@ -7465,7 +7465,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c6fd34a",
+        "git_hash": "7c7a06a",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
