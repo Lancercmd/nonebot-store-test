@@ -590,7 +590,7 @@
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_heweather",
         "project_link": "nonebot-plugin-heweather",
-        "display_name": "nonebot-plugin-heweather",
+        "display_name": "和风天气",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-heweather",
         "pypi_version": "0.8.1",
         "pypi_create": true,
