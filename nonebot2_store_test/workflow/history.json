@@ -3037,10 +3037,10 @@
         "project_link": "nonebot-plugin-cqsat",
         "display_name": "HAM助手",
         "homepage": "https://github.com/yzyyz1387/cqsat",
-        "pypi_version": "0.1.12.1",
+        "pypi_version": "0.1.12.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "265bf1e",
+        "git_hash": "0cf13d8",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
