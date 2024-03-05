@@ -6232,10 +6232,10 @@
         "project_link": "nonebot-plugin-osuverify",
         "display_name": "osu!入群审批",
         "homepage": "https://github.com/mas-alone/nonebot-plugin-osuverify",
-        "pypi_version": "0.1.0",
+        "pypi_version": "0.1.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5d93602",
+        "git_hash": "651bf23",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6985,7 +6985,7 @@
         "pypi_version": "0.2.9.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a62b5c1",
+        "git_hash": "70909fe",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
