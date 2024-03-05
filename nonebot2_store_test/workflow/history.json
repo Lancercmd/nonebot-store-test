@@ -40,7 +40,7 @@
         "pypi_version": "2.0.0rc1.post3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4ed7c9a",
+        "git_hash": "9aa302a",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "f3c06c8",
+        "git_hash": "161b57f",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -1027,10 +1027,10 @@
         "project_link": "nonebot-plugin-lolmatch",
         "display_name": "lol比赛信息",
         "homepage": "https://github.com/Diaosi1111/nonebot_plugin_lolmatch",
-        "pypi_version": "0.3.0.2",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9ff8dab",
+        "git_hash": "cbbf135",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6985,7 +6985,7 @@
         "pypi_version": "0.2.9.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "da21ecd",
+        "git_hash": "a62b5c1",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
