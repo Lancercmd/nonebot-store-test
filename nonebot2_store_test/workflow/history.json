@@ -8684,5 +8684,20 @@
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
+    },
+    "nonebot-plugin-fishing": {
+        "_runtime_latest": "2.2.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_fishing",
+        "project_link": "nonebot-plugin-fishing",
+        "display_name": "赛博钓鱼",
+        "homepage": "https://github.com/C14H22O/nonebot-plugin-fishing",
+        "pypi_version": "0.2.0",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "4fe70b8",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
     }
 }
