@@ -5107,10 +5107,10 @@
         "project_link": "nonebot-plugin-autoreply",
         "display_name": "AutoReply",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-autoreply",
-        "pypi_version": "0.2.12",
+        "pypi_version": "0.2.12.post1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b4d785e",
+        "git_hash": "829101b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
