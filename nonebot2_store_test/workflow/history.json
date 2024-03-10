@@ -5635,7 +5635,7 @@
         "pypi_version": "0.2.0.post1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "738da63",
+        "git_hash": "0390e95",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8257,10 +8257,10 @@
         "project_link": "nonebot-plugin-riffusion",
         "display_name": "Riffusion",
         "homepage": "https://github.com/lgc-NB2Dev/nonebot-plugin-riffusion",
-        "pypi_version": "0.1.2",
+        "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9d5e754",
+        "git_hash": "efbe618",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8635,7 +8635,7 @@
         "pypi_version": "0.1.23",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b65791b",
+        "git_hash": "a36ed06",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8677,10 +8677,10 @@
         "project_link": "nonebot-plugin-chatglm-plus",
         "display_name": "人性化的ChatGLM",
         "homepage": "https://github.com/XTxiaoting14332/nonebot-plugin-chatglm-plus",
-        "pypi_version": "0.1.6",
+        "pypi_version": "0.1.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "24adbd1",
+        "git_hash": "9f491ff",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8695,7 +8695,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "96d791a",
+        "git_hash": "bfd1105",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
