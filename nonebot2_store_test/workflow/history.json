@@ -2692,10 +2692,10 @@
         "project_link": "nonebot-plugin-osubot",
         "display_name": "OSUBot",
         "homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-        "pypi_version": "5.2.1",
+        "pypi_version": "5.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a429ed4",
+        "git_hash": "a181dc9",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5bde30a",
+        "git_hash": "97e03f6",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7600,7 +7600,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b9cd404",
+        "git_hash": "f4690f9",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8698,6 +8698,21 @@
         "git_hash": "bfd1105",
         "git_create": true,
         "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-a2s-query": {
+        "_runtime_latest": "2.2.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_a2s_query",
+        "project_link": "nonebot-plugin-a2s-query",
+        "display_name": "a2s查询",
+        "homepage": "https://github.com/NanakaNeko/nonebot-plugin-a2s-query",
+        "pypi_version": "0.1.7",
+        "pypi_create": true,
+        "pypi_run": true,
+        "git_hash": "e9ccd47",
+        "git_create": true,
+        "git_run": true,
         "last_seen": "results"
     }
 }
