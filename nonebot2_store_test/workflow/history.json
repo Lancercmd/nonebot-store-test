@@ -2722,10 +2722,10 @@
         "project_link": "nonebot_plugin_kawaii_robot",
         "display_name": "KawaiiRobot",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_kawaii_robot/",
-        "pypi_version": "4.0.0.post1",
+        "pypi_version": "4.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "afded26",
+        "git_hash": "cb84ce6",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -3235,7 +3235,7 @@
         "pypi_version": "0.2.25",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "9b3606f",
+        "git_hash": "ef2a0dd",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "622bc55",
+        "git_hash": "b14eaee",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8560,7 +8560,7 @@
         "pypi_version": "0.0.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "38664a1",
+        "git_hash": "b8eaf36",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
