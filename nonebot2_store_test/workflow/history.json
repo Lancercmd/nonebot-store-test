@@ -592,10 +592,10 @@
         "project_link": "nonebot-plugin-heweather",
         "display_name": "和风天气",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-heweather",
-        "pypi_version": "0.8.1",
+        "pypi_version": "0.8.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bdc8871",
+        "git_hash": "d7f0b95",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -1057,10 +1057,10 @@
         "project_link": "nonebot-plugin-htmlrender",
         "display_name": "nonebot-plugin-htmlrender",
         "homepage": "https://github.com/kexue-z/nonebot-plugin-htmlrender",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.3.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "1b7bf8f",
+        "git_hash": "fec41da",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -2365,7 +2365,7 @@
         "pypi_version": "0.1.0.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f51c302",
+        "git_hash": "7e42a29",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2380,7 +2380,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "28ae564",
+        "git_hash": "47b3f3e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2695,7 +2695,7 @@
         "pypi_version": "5.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a181dc9",
+        "git_hash": "dba6fc3",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5755,7 +5755,7 @@
         "pypi_version": "0.1.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ae3eee5",
+        "git_hash": "e219c5f",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6730,7 +6730,7 @@
         "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "871b2d3",
+        "git_hash": "7b39038",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8515,7 +8515,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f8b778d",
+        "git_hash": "8af586b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8722,10 +8722,10 @@
         "project_link": "nonebot-plugin-dice-narrator",
         "display_name": "nonebot-plugin-dice-narrator",
         "homepage": "https://github.com/KroMiose/nonebot_plugin_dice_narrator",
-        "pypi_version": "0.1.8",
+        "pypi_version": "0.1.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "31fb91d",
+        "git_hash": "e30b5cf",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
