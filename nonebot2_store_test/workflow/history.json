@@ -1120,7 +1120,7 @@
         "pypi_version": "3.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "af6cd3a",
+        "git_hash": "9988c29",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -1672,10 +1672,10 @@
         "project_link": "yetanotherpicsearch",
         "display_name": "YetAnotherPicSearch",
         "homepage": "https://github.com/NekoAria/YetAnotherPicSearch",
-        "pypi_version": "1.9.5",
+        "pypi_version": "1.9.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0f44ce3",
+        "git_hash": "f3efd2b",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -8017,10 +8017,10 @@
         "project_link": "nonebot-plugin-maimaidx",
         "display_name": "nonebot-plugin-maimaidx",
         "homepage": "https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx",
-        "pypi_version": "0.0.13",
+        "pypi_version": "0.0.14",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9ccbeb9",
+        "git_hash": "14c13ae",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8515,7 +8515,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8af586b",
+        "git_hash": "bf202ae",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
