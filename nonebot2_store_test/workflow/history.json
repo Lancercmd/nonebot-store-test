@@ -2722,10 +2722,10 @@
         "project_link": "nonebot_plugin_kawaii_robot",
         "display_name": "KawaiiRobot",
         "homepage": "https://github.com/KarisAya/nonebot_plugin_kawaii_robot/",
-        "pypi_version": "4.1.0",
+        "pypi_version": "4.1.0.post1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cb84ce6",
+        "git_hash": "0222484",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8728,6 +8728,21 @@
         "git_hash": "e30b5cf",
         "git_create": true,
         "git_run": true,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-steam-info": {
+        "_runtime_latest": "2.2.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_steam_info",
+        "project_link": "nonebot-plugin-steam-info",
+        "display_name": "Steam Info",
+        "homepage": "https://github.com/zhaomaoniu/nonebot-plugin-steam-info",
+        "pypi_version": "0.1.1",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "0649836",
+        "git_create": true,
+        "git_run": false,
         "last_seen": "results"
     }
 }
