@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "903ac9a",
+        "git_hash": "32a0bce",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -265,7 +265,7 @@
         "pypi_version": "0.9.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "43a3c81",
+        "git_hash": "d36d904",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -3895,7 +3895,7 @@
         "pypi_version": "1.0.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a0cd7b4",
+        "git_hash": "4c39276",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7012,10 +7012,10 @@
         "project_link": "nonebot-plugin-userinfo",
         "display_name": "用户信息",
         "homepage": "https://github.com/noneplugin/nonebot-plugin-userinfo",
-        "pypi_version": "0.2.2",
+        "pypi_version": "0.2.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fe8fe51",
+        "git_hash": "e42fe34",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8020,7 +8020,7 @@
         "pypi_version": "0.0.14",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "14c13ae",
+        "git_hash": "6a99a4d",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8512,7 +8512,7 @@
         "project_link": "nonebot-plugin-bard",
         "display_name": "谷歌Bard聊天",
         "homepage": "https://github.com/Alpaca4610/nonebot-plugin-bard",
-        "pypi_version": "0.3.0",
+        "pypi_version": "0.3.3",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "bf202ae",
