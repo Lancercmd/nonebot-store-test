@@ -265,7 +265,7 @@
         "pypi_version": "0.9.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "c915b36",
+        "git_hash": "461104b",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -4330,7 +4330,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "da3225a",
+        "git_hash": "38d7e07",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.6.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "df0eb16",
+        "git_hash": "4b0c801",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6982,10 +6982,10 @@
         "project_link": "nonebot-plugin-ocgbot-v2",
         "display_name": "游戏王小蓝卡查",
         "homepage": "https://github.com/fireinsect/nonebot-plugin-ocgbot-v2/",
-        "pypi_version": "0.2.9.4",
+        "pypi_version": "0.2.9.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0ffd6f8",
+        "git_hash": "04321ad",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8722,10 +8722,10 @@
         "project_link": "nonebot-plugin-dice-narrator",
         "display_name": "nonebot-plugin-dice-narrator",
         "homepage": "https://github.com/KroMiose/nonebot_plugin_dice_narrator",
-        "pypi_version": "0.1.9",
+        "pypi_version": "0.1.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e30b5cf",
+        "git_hash": "f513587",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
