@@ -265,7 +265,7 @@
         "pypi_version": "0.9.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "d36d904",
+        "git_hash": "c915b36",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -2530,7 +2530,7 @@
         "pypi_version": "0.15.114514.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c46d5d6",
+        "git_hash": "4e4d22d",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5062,10 +5062,10 @@
         "project_link": "nonebot-plugin-impact",
         "display_name": "impact",
         "homepage": "https://github.com/Special-Week/nonebot_plugin_impact",
-        "pypi_version": "0.11.114514",
+        "pypi_version": "0.12.114514",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f1a17eb",
+        "git_hash": "a18328e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7465,7 +7465,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7484a56",
+        "git_hash": "64b338a",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
