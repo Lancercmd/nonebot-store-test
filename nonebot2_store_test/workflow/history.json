@@ -8789,5 +8789,20 @@
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
+    },
+    "nonebot-plugin-pallas-repeater": {
+        "_runtime_latest": "2.2.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_pallas_repeater",
+        "project_link": "nonebot-plugin-pallas-repeater",
+        "display_name": "nonebot-plugin-pallas-repeater",
+        "homepage": "https://github.com/Redmomn/nonebot-plugin-pallas-repeater",
+        "pypi_version": "0.1.4",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "7ba0617",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
     }
 }
