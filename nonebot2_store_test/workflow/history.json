@@ -4330,7 +4330,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "587b6bf",
+        "git_hash": "6662087",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5977,10 +5977,10 @@
         "project_link": "nonebot-plugin-sayoroll",
         "display_name": "sayoroll",
         "homepage": "https://github.com/mas-alone/nonebot-plugin-sayoroll",
-        "pypi_version": "1.0.1",
+        "pypi_version": "1.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ab1d21d",
+        "git_hash": "1acf817",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7735,7 +7735,7 @@
         "pypi_version": "1.0.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "74f39c6",
+        "git_hash": "3ed727d",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8602,10 +8602,10 @@
         "project_link": "nonebot-plugin-chikari-yinpa",
         "display_name": "Chikari_yinpa",
         "homepage": "https://github.com/mrqx0195/nonebot_plugin_chikari_yinpa",
-        "pypi_version": "1.3.4",
+        "pypi_version": "1.3.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "aa93db6",
+        "git_hash": "1e04f13",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
