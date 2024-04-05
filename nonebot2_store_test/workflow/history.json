@@ -4957,10 +4957,10 @@
         "project_link": "nonebot-plugin-alconna",
         "display_name": "Alconna 插件",
         "homepage": "https://github.com/nonebot/plugin-alconna",
-        "pypi_version": "0.41.1",
+        "pypi_version": "0.42.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1ffcf8c",
+        "git_hash": "629ec08",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6097,10 +6097,10 @@
         "project_link": "nonebot-plugin-bilichat",
         "display_name": "nonebot-plugin-bilichat",
         "homepage": "https://github.com/Well2333/nonebot-plugin-bilichat",
-        "pypi_version": "5.2.0",
+        "pypi_version": "5.3.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "a3396c2",
+        "git_hash": "1bf6c42",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -6625,7 +6625,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ab7a7e9",
+        "git_hash": "d9e8704",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8230,9 +8230,9 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "5e117ae",
+        "git_hash": "7922edf",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "results"
     },
     "nonebot-plugin-longtu": {
@@ -8695,7 +8695,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cbb5192",
+        "git_hash": "cd5774e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8831,6 +8831,21 @@
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "6a4dfef",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-diffsinger": {
+        "_runtime_latest": "2.2.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_diffsinger",
+        "project_link": "nonebot-plugin-diffsinger",
+        "display_name": "diffsinger",
+        "homepage": "https://github.com/zhzhongshi/nonebot-plugin-diffsinger",
+        "pypi_version": "0.1.13",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "b7e8072",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
