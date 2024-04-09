@@ -4330,7 +4330,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "323fd2d",
+        "git_hash": "9d7580d",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5317,10 +5317,10 @@
         "project_link": "nonebot-plugin-resolver",
         "display_name": "链接分享解析器",
         "homepage": "https://github.com/zhiyu1998/nonebot-plugin-resolver",
-        "pypi_version": "1.0.15",
+        "pypi_version": "1.0.16",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3c71d70",
+        "git_hash": "b5b5cf9",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7465,7 +7465,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "16a11fa",
+        "git_hash": "400aca2",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -7510,7 +7510,7 @@
         "pypi_version": "0.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0457a9f",
+        "git_hash": "34e639c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
