@@ -1825,7 +1825,7 @@
         "pypi_version": "0.4.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8b63ab1",
+        "git_hash": "2eb2658",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2725,7 +2725,7 @@
         "pypi_version": "4.1.0.post1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0222484",
+        "git_hash": "dd9cfd9",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2845,7 +2845,7 @@
         "pypi_version": "0.11.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "51dd3ca",
+        "git_hash": "d4ae98b",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -3475,7 +3475,7 @@
         "pypi_version": "2.0.0.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "aebebb7",
+        "git_hash": "f054dff",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -4840,7 +4840,7 @@
         "pypi_version": "0.6.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7f288c8",
+        "git_hash": "6a858cf",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5110,7 +5110,7 @@
         "pypi_version": "0.2.12.post1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "829101b",
+        "git_hash": "0ffbcc1",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5317,10 +5317,10 @@
         "project_link": "nonebot-plugin-resolver",
         "display_name": "链接分享解析器",
         "homepage": "https://github.com/zhiyu1998/nonebot-plugin-resolver",
-        "pypi_version": "1.0.16",
+        "pypi_version": "1.0.18",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b5b5cf9",
+        "git_hash": "28ef5f1",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5635,7 +5635,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3816e2a",
+        "git_hash": "9b83815",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6175,7 +6175,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fbd8af2",
+        "git_hash": "195fde5",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6265,7 +6265,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b89b8dc",
+        "git_hash": "f2165d9",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6490,7 +6490,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d65fb23",
+        "git_hash": "659ac6b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6625,7 +6625,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d9e8704",
+        "git_hash": "65fd79b",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -7225,7 +7225,7 @@
         "pypi_version": "0.4.0.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "3dc90da",
+        "git_hash": "eb5743d",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -7360,7 +7360,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "27546ad",
+        "git_hash": "cb43cb7",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7840,7 +7840,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "de7a070",
+        "git_hash": "2bb1fc1",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8230,7 +8230,7 @@
         "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "852b0ad",
+        "git_hash": "6224d1a",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8260,7 +8260,7 @@
         "pypi_version": "0.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "938632a",
+        "git_hash": "6528902",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8380,7 +8380,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e0c4adc",
+        "git_hash": "6ea49b5",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8695,7 +8695,7 @@
         "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5328cca",
+        "git_hash": "2a58ae7",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
