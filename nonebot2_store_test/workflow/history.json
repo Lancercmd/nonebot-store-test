@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "32a0bce",
+        "git_hash": "f959632",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -2425,7 +2425,7 @@
         "pypi_version": "0.4.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "23a03d6",
+        "git_hash": "1a68543",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2935,7 +2935,7 @@
         "pypi_version": "2.4.16",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6b74719",
+        "git_hash": "60848db",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -5165,12 +5165,12 @@
         "first_seen": "22e27cc",
         "module_name": "nonebot_plugin_dicky_pk",
         "project_link": "nonebot-plugin-dicky-pk",
-        "display_name": "DickyPK",
+        "display_name": "牛子PK",
         "homepage": "https://github.com/tkgs0/nonebot-plugin-dicky-pk",
-        "pypi_version": "0.5.0",
+        "pypi_version": "0.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4ab040f",
+        "git_hash": "2b106ea",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5710,7 +5710,7 @@
         "pypi_version": "1.2.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "78c94ec",
+        "git_hash": "70d51f9",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6280,7 +6280,7 @@
         "pypi_version": "1.7.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7aa0baa",
+        "git_hash": "f92a7be",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7405,7 +7405,7 @@
         "pypi_version": "0.2.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ee806d3",
+        "git_hash": "d1d4293",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8215,7 +8215,7 @@
         "pypi_version": "0.2.1.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "7941e12",
+        "git_hash": "34e3c32",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
