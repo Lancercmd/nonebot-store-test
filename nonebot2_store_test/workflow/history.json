@@ -7465,7 +7465,7 @@
         "pypi_version": "0.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e23ca94",
+        "git_hash": "3d40757",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -8230,7 +8230,7 @@
         "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "6224d1a",
+        "git_hash": "2632258",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8752,10 +8752,10 @@
         "project_link": "nonebot-plugin-orangejuice",
         "display_name": "100orangejuice",
         "homepage": "https://github.com/FDCraft/nonebot-plugin-orangejuice",
-        "pypi_version": "0.9.0",
+        "pypi_version": "0.9.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "57c3380",
+        "git_hash": "b3f8444",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
