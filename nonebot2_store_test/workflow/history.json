@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "f959632",
+        "git_hash": "ddacce3",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -655,7 +655,7 @@
         "pypi_version": "2.6.22",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bdea932",
+        "git_hash": "581972a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -4957,10 +4957,10 @@
         "project_link": "nonebot-plugin-alconna",
         "display_name": "Alconna 插件",
         "homepage": "https://github.com/nonebot/plugin-alconna",
-        "pypi_version": "0.42.3",
+        "pypi_version": "0.42.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2354b47",
+        "git_hash": "cb57268",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8215,7 +8215,7 @@
         "pypi_version": "0.2.1.post1",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "34e3c32",
+        "git_hash": "efff86f",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8335,7 +8335,7 @@
         "pypi_version": "0.1.0.post4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "04d174d",
+        "git_hash": "57c4697",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8695,7 +8695,7 @@
         "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e443cb8",
+        "git_hash": "de3e532",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8752,10 +8752,10 @@
         "project_link": "nonebot-plugin-orangejuice",
         "display_name": "100orangejuice",
         "homepage": "https://github.com/FDCraft/nonebot-plugin-orangejuice",
-        "pypi_version": "0.9.1",
+        "pypi_version": "0.10.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b3f8444",
+        "git_hash": "0be5499",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
