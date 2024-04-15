@@ -8827,10 +8827,10 @@
         "project_link": "nonebot-plugin-ghtiles",
         "display_name": "ghtiles",
         "homepage": "https://github.com/Lipraty/nonebot-plugin-ghtiles",
-        "pypi_version": "0.1.3",
+        "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "64ffe03",
+        "git_hash": "9974abe",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
