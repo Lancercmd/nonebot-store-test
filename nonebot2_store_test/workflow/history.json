@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ddacce3",
+        "git_hash": "4580371",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -7555,7 +7555,7 @@
         "pypi_version": "2.2.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "3415d6c",
+        "git_hash": null,
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8230,7 +8230,7 @@
         "pypi_version": "0.2.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "2632258",
+        "git_hash": "0f53cb8",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8891,6 +8891,21 @@
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "e63222a",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-clovers": {
+        "_runtime_latest": "2.2.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_clovers",
+        "project_link": "nonebot-plugin-clovers",
+        "display_name": "clovers插件框架",
+        "homepage": "https://github.com/KarisAya/nonebot_plugin_clovers",
+        "pypi_version": "0.1.2.post2",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "c72eac9",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
