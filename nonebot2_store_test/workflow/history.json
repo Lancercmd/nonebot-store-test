@@ -1675,8 +1675,8 @@
         "pypi_version": "1.9.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f3efd2b",
-        "git_create": false,
+        "git_hash": "99fda30",
+        "git_create": true,
         "git_run": false,
         "last_seen": "results"
     },
@@ -2380,7 +2380,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e1b0918",
+        "git_hash": "3a5f1eb",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2695,7 +2695,7 @@
         "pypi_version": "5.6.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5e4e323",
+        "git_hash": "6594e62",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7555,7 +7555,7 @@
         "pypi_version": "2.2.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "3415d6c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8557,10 +8557,10 @@
         "project_link": "nonebot-plugin-gpt",
         "display_name": "ChatGPT 聊天",
         "homepage": "https://github.com/nek0us/nonebot-plugin-gpt",
-        "pypi_version": "0.0.13",
+        "pypi_version": "0.0.14",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "1d75855",
+        "git_hash": "0f1f592",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8906,6 +8906,21 @@
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "c72eac9",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-hx-yinying": {
+        "_runtime_latest": "2.2.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_hx_yinying",
+        "project_link": "nonebot-plugin-hx-yinying",
+        "display_name": "Hx_YinYing",
+        "homepage": "https://github.com/huanxin996/nonebot_plugin_hx-yinying",
+        "pypi_version": "0.0.2",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "6961edf",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
