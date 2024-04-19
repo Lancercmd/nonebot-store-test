@@ -8920,7 +8920,7 @@
         "pypi_version": "0.0.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b001592",
+        "git_hash": "f3c3ae8",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8936,6 +8936,21 @@
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "39ecbcf",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-yinyu": {
+        "_runtime_latest": "2.2.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_yinyu",
+        "project_link": "nonebot-plugin-yinyu",
+        "display_name": "淫语",
+        "homepage": "https://github.com/shi-yingyingjiang/nonebot-plugin-yinyu",
+        "pypi_version": "0.0.6",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "f991e07",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
