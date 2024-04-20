@@ -8917,10 +8917,10 @@
         "project_link": "nonebot-plugin-hx-yinying",
         "display_name": "Hx_YinYing",
         "homepage": "https://github.com/huanxin996/nonebot_plugin_hx-yinying",
-        "pypi_version": "0.0.6",
+        "pypi_version": "0.0.7",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f3c3ae8",
+        "git_hash": "2f69bd6",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
