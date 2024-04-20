@@ -655,7 +655,7 @@
         "pypi_version": "2.6.22",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "581972a",
+        "git_hash": "791887a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -1675,7 +1675,7 @@
         "pypi_version": "1.9.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "99fda30",
+        "git_hash": "8b967cf",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -4330,7 +4330,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9b475d9",
+        "git_hash": "651c79b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5680,7 +5680,7 @@
         "pypi_version": "0.5.25",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "356dbee",
+        "git_hash": "0a40026",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -6100,9 +6100,9 @@
         "pypi_version": "5.6.0",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "debdc9f",
-        "git_create": true,
-        "git_run": true,
+        "git_hash": "b3d6cc0",
+        "git_create": false,
+        "git_run": false,
         "last_seen": "results"
     },
     "nonebot-plugin-genshinuid": {
@@ -8647,10 +8647,10 @@
         "project_link": "nonebot-plugin-kawaii-status",
         "display_name": "运行状态",
         "homepage": "https://github.com/KomoriDev/nonebot-plugin-kawaii-status",
-        "pypi_version": "0.1.3",
+        "pypi_version": "0.1.4",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "d5fc728",
+        "pypi_run": true,
+        "git_hash": "89f1cfa",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8905,7 +8905,7 @@
         "pypi_version": "0.1.2.post2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c72eac9",
+        "git_hash": "a163326",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
