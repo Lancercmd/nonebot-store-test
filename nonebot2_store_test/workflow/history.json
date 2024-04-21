@@ -4330,7 +4330,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "651c79b",
+        "git_hash": "b1f66c7",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8950,7 +8950,7 @@
         "pypi_version": "0.0.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f991e07",
+        "git_hash": "968d03b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8966,6 +8966,21 @@
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "c45935c",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-dcqg-relay": {
+        "_runtime_latest": "2.2.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_dcqg_relay",
+        "project_link": "nonebot-plugin-dcqg-relay",
+        "display_name": "QQ频道-Discord 互通",
+        "homepage": "https://github.com/Autuamn/nonebot-plugin-dcqg-relay",
+        "pypi_version": "1.0.0",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "6473860",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
