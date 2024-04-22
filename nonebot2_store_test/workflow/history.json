@@ -655,7 +655,7 @@
         "pypi_version": "2.6.22",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "791887a",
+        "git_hash": "af612d5",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -4957,10 +4957,10 @@
         "project_link": "nonebot-plugin-alconna",
         "display_name": "Alconna 插件",
         "homepage": "https://github.com/nonebot/plugin-alconna",
-        "pypi_version": "0.42.4",
+        "pypi_version": "0.42.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cb57268",
+        "git_hash": "fed0787",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5680,7 +5680,7 @@
         "pypi_version": "0.5.25",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "0a40026",
+        "git_hash": "e018406",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -8917,10 +8917,10 @@
         "project_link": "nonebot-plugin-hx-yinying",
         "display_name": "Hx_YinYing",
         "homepage": "https://github.com/huanxin996/nonebot_plugin_hx-yinying",
-        "pypi_version": "0.0.7",
+        "pypi_version": "0.0.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2f69bd6",
+        "git_hash": "06074c9",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
