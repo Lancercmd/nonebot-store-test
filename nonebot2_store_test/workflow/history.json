@@ -2530,7 +2530,7 @@
         "pypi_version": "0.15.114514.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4e4d22d",
+        "git_hash": "ec64080",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5680,7 +5680,7 @@
         "pypi_version": "0.5.25",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e018406",
+        "git_hash": "a624e8e",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -8737,10 +8737,10 @@
         "project_link": "nonebot-plugin-steam-info",
         "display_name": "Steam Info",
         "homepage": "https://github.com/zhaomaoniu/nonebot-plugin-steam-info",
-        "pypi_version": "0.1.3",
+        "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6b08dea",
+        "git_hash": "5829221",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8917,10 +8917,10 @@
         "project_link": "nonebot-plugin-hx-yinying",
         "display_name": "Hx_YinYing",
         "homepage": "https://github.com/huanxin996/nonebot_plugin_hx-yinying",
-        "pypi_version": "1.0.1",
+        "pypi_version": "1.0.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "87d55a4",
+        "git_hash": "407c228",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
