@@ -2380,7 +2380,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d2a3801",
+        "git_hash": "dc8bc9b",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2695,7 +2695,7 @@
         "pypi_version": "5.7.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "17315ad",
+        "git_hash": "431e66e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5530,7 +5530,7 @@
         "pypi_version": "0.3.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a7254dc",
+        "git_hash": "37777c8",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.6.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9ed8a7e",
+        "git_hash": "5e37e87",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8512,10 +8512,10 @@
         "project_link": "nonebot-plugin-bard",
         "display_name": "谷歌Bard聊天",
         "homepage": "https://github.com/Alpaca4610/nonebot-plugin-bard",
-        "pypi_version": "0.5.0",
+        "pypi_version": "0.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cc0c3b8",
+        "git_hash": "c80c7a6",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8905,7 +8905,7 @@
         "pypi_version": "0.1.2.post3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7e5daec",
+        "git_hash": "557d694",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8920,7 +8920,7 @@
         "pypi_version": "1.0.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "407c228",
+        "git_hash": "821d11f",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -9011,6 +9011,21 @@
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "e57ce69",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-cyberfurry": {
+        "_runtime_latest": "2.2.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_cyberfurry",
+        "project_link": "nonebot-plugin-cyberfurry",
+        "display_name": "cyberfurry",
+        "homepage": "https://github.com/cubstaryow/nonebot-plugin-cyberfurry",
+        "pypi_version": "1.3",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "e44833c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
