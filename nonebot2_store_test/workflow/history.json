@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "4580371",
+        "git_hash": "821ca81",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -2380,7 +2380,7 @@
         "pypi_version": "0.4.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ed035c6",
+        "git_hash": "ac9c6e7",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2695,7 +2695,7 @@
         "pypi_version": "5.7.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "431e66e",
+        "git_hash": "63331b4",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -3235,7 +3235,7 @@
         "pypi_version": "0.2.25",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "ef2a0dd",
+        "git_hash": "292d2b6",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -5677,10 +5677,10 @@
         "project_link": "nonebot-plugin-simulator-xiuxian",
         "display_name": "修仙模拟器",
         "homepage": "https://github.com/luoyefufeng/nonebot_plugin_simulator_xiuxian",
-        "pypi_version": "0.5.27",
+        "pypi_version": "0.5.31",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a525893",
+        "git_hash": "beffc9a",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -7015,7 +7015,7 @@
         "pypi_version": "0.2.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e42fe34",
+        "git_hash": "edbd22c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -9026,6 +9026,21 @@
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "2c6fba7",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-HelpWithPic": {
+        "_runtime_latest": "2.2.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_helpwithpic",
+        "project_link": "nonebot-plugin-HelpWithPic",
+        "display_name": "HelpWithPic",
+        "homepage": "https://github.com/cubstaryow/nonebot-plugin-HelpWithPic",
+        "pypi_version": "1.5.1",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "0565cd7",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
