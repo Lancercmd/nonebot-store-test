@@ -4405,7 +4405,7 @@
         "pypi_version": "1.7.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "cc330dc",
+        "git_hash": "59a2a4e",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -5677,7 +5677,7 @@
         "project_link": "nonebot-plugin-simulator-xiuxian",
         "display_name": "修仙模拟器",
         "homepage": "https://github.com/luoyefufeng/nonebot_plugin_simulator_xiuxian",
-        "pypi_version": "0.5.31",
+        "pypi_version": "1.5.32",
         "pypi_create": true,
         "pypi_run": false,
         "git_hash": "a64d923",
@@ -6115,7 +6115,7 @@
         "pypi_version": "4.6.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "5e37e87",
+        "git_hash": "cda8a68",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8917,12 +8917,12 @@
         "project_link": "nonebot-plugin-hx-yinying",
         "display_name": "Hx_YinYing",
         "homepage": "https://github.com/huanxin996/nonebot_plugin_hx-yinying",
-        "pypi_version": "1.0.9",
+        "pypi_version": "1.1.2",
         "pypi_create": true,
-        "pypi_run": false,
-        "git_hash": "14ee4fd",
+        "pypi_run": true,
+        "git_hash": "129501a",
         "git_create": true,
-        "git_run": false,
+        "git_run": true,
         "last_seen": "results"
     },
     "nonebot-plugin-fhl": {
