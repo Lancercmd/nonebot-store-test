@@ -265,7 +265,7 @@
         "pypi_version": "0.9.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "d8f48fc",
+        "git_hash": "08352d9",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -2380,7 +2380,7 @@
         "pypi_version": "1.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e5556ba",
+        "git_hash": "e9b3c30",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -5317,10 +5317,10 @@
         "project_link": "nonebot-plugin-resolver",
         "display_name": "链接分享解析器",
         "homepage": "https://github.com/zhiyu1998/nonebot-plugin-resolver",
-        "pypi_version": "1.0.19",
+        "pypi_version": "1.0.20",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "f1497e5",
+        "git_hash": "b3cd22a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8557,10 +8557,10 @@
         "project_link": "nonebot-plugin-gpt",
         "display_name": "ChatGPT 聊天",
         "homepage": "https://github.com/nek0us/nonebot-plugin-gpt",
-        "pypi_version": "0.0.19",
+        "pypi_version": "0.0.20",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "4239563",
+        "git_hash": "769a269",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
