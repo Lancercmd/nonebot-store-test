@@ -2692,10 +2692,10 @@
         "project_link": "nonebot-plugin-osubot",
         "display_name": "OSUBot",
         "homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-        "pypi_version": "5.8.5",
+        "pypi_version": "6.0.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "bdc1d2d",
+        "git_hash": "e65e267",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6100,7 +6100,7 @@
         "pypi_version": "5.10.2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "1e9102c",
+        "git_hash": "68a6265",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -9073,6 +9073,21 @@
         "git_hash": "7a71e0b",
         "git_create": true,
         "git_run": true,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-with-ai-agents": {
+        "_runtime_latest": "2.3.0",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_with_ai_agents",
+        "project_link": "nonebot-plugin-with-ai-agents",
+        "display_name": "with_ai_agents",
+        "homepage": "https://github.com/yejue/nonebot-plugin-with-ai-agents",
+        "pypi_version": "0.1.9",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "93e9e73",
+        "git_create": false,
+        "git_run": false,
         "last_seen": "results"
     }
 }
