@@ -655,7 +655,7 @@
         "pypi_version": "2.6.22",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "c914ffc",
+        "git_hash": "7c3de18",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -4330,7 +4330,7 @@
         "pypi_version": "0.1.4",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6580149",
+        "git_hash": "f1bf716",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7402,10 +7402,10 @@
         "project_link": "nonebot-plugin-savepic",
         "display_name": "Savepic",
         "homepage": "https://github.com/Yan-Zero/nonebot-plugin-savepic",
-        "pypi_version": "0.2.5",
+        "pypi_version": "0.2.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "6f1aabb",
+        "git_hash": "005e779",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -9025,7 +9025,7 @@
         "pypi_version": "1.6.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "436b9db",
+        "git_hash": "31281e8",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
