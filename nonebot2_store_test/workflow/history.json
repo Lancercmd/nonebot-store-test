@@ -145,7 +145,7 @@
         "pypi_version": "2.0.0b4.post2",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "0187de1",
+        "git_hash": "e5eb3e7",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -2377,10 +2377,10 @@
         "project_link": "nonebot-plugin-tetris-stats",
         "display_name": "TETRIS Stats",
         "homepage": "https://github.com/shoucandanghehe/nonebot-plugin-tetris-stats",
-        "pypi_version": "1.2.5",
+        "pypi_version": "1.2.8",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "b8cf10b",
+        "git_hash": "7fe9a6f",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2692,10 +2692,10 @@
         "project_link": "nonebot-plugin-osubot",
         "display_name": "OSUBot",
         "homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-        "pypi_version": "6.0.6",
+        "pypi_version": "6.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e10c6fa",
+        "git_hash": "6a9d86e",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8305,7 +8305,7 @@
         "pypi_version": "1.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "44bc07e",
+        "git_hash": "ba9c262",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -9085,7 +9085,7 @@
         "pypi_version": "0.1.11",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "aac8139",
+        "git_hash": "0c2b8aa",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
@@ -9145,7 +9145,7 @@
         "pypi_version": "0.1.10",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e375445",
+        "git_hash": "8560ff8",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
