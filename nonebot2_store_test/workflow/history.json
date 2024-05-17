@@ -8557,10 +8557,10 @@
         "project_link": "nonebot-plugin-gpt",
         "display_name": "ChatGPT 聊天",
         "homepage": "https://github.com/nek0us/nonebot-plugin-gpt",
-        "pypi_version": "0.0.24",
+        "pypi_version": "0.0.25",
         "pypi_create": true,
         "pypi_run": true,
-        "git_hash": "21e2a02",
+        "git_hash": "dff5d9a",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
