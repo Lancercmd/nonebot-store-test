@@ -5950,7 +5950,7 @@
         "pypi_version": "0.3.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2556133",
+        "git_hash": "50a70de",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "542c33a",
+        "git_hash": null,
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -9163,6 +9163,21 @@
         "git_hash": "ba08fb1",
         "git_create": true,
         "git_run": true,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-sparkapi": {
+        "_runtime_latest": "2.3.0",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_sparkapi",
+        "project_link": "nonebot-plugin-sparkapi",
+        "display_name": "科大讯飞星火大语言模型官方API聊天机器人插件",
+        "homepage": "https://github.com/CCLMSY/nonebot-plugin-sparkapi",
+        "pypi_version": "1.0.13",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "631e128",
+        "git_create": true,
+        "git_run": false,
         "last_seen": "results"
     }
 }
