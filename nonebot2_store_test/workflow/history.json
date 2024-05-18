@@ -7540,7 +7540,7 @@
         "pypi_version": "3.5.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": null,
+        "git_hash": "542c33a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8605,7 +8605,7 @@
         "pypi_version": "1.4.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e226802",
+        "git_hash": "c901f45",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8737,10 +8737,10 @@
         "project_link": "nonebot-plugin-steam-info",
         "display_name": "Steam Info",
         "homepage": "https://github.com/zhaomaoniu/nonebot-plugin-steam-info",
-        "pypi_version": "0.3.0",
+        "pypi_version": "1.0.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "44275b6",
+        "git_hash": "cbfbe48",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -9172,10 +9172,10 @@
         "project_link": "nonebot-plugin-sparkapi",
         "display_name": "科大讯飞星火大语言模型官方API聊天机器人插件",
         "homepage": "https://github.com/CCLMSY/nonebot-plugin-sparkapi",
-        "pypi_version": "1.0.13",
+        "pypi_version": "1.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "631e128",
+        "git_hash": "e2d16d9",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
