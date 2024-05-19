@@ -2290,7 +2290,7 @@
         "pypi_version": "0.3.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "8a53096",
+        "git_hash": "8a37e61",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -2380,7 +2380,7 @@
         "pypi_version": "1.2.9",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "9b13a9e",
+        "git_hash": "43970f4",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6790,7 +6790,7 @@
         "pypi_version": "1.0.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "fa4fb04",
+        "git_hash": "9e19893",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -6892,10 +6892,10 @@
         "project_link": "nonebot-plugin-pcrjjc",
         "display_name": "pcrjjc",
         "homepage": "https://github.com/reine-ishyanami/nonebot-plugin-pcrjjc",
-        "pypi_version": "0.8.0",
+        "pypi_version": "0.8.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "7468f0d",
+        "git_hash": "15dedd6",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8407,10 +8407,10 @@
         "project_link": "nonebot-plugin-mypower",
         "display_name": "nonebot-plugin-mypower",
         "homepage": "https://github.com/tianyisama/nonebot_plugin_mypower",
-        "pypi_version": "0.1.5",
+        "pypi_version": "0.1.6",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "dce7ff7",
+        "git_hash": "a43eae5",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8632,10 +8632,10 @@
         "project_link": "nonebot-plugin-bf1marneserverlist",
         "display_name": "战地1-马恩私人服务器服务器查询",
         "homepage": "https://github.com/SAFEluren/nonebot-plugin-bf1marneserverlist",
-        "pypi_version": "0.1.23",
+        "pypi_version": "0.1.27",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "89d6d45",
+        "git_hash": "2a356b3",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8755,7 +8755,7 @@
         "pypi_version": "0.12.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "e6aae1f",
+        "git_hash": "4d6df6c",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -9190,7 +9190,7 @@
         "pypi_version": "0.1.5",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "433a230",
+        "git_hash": "8112de4",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
