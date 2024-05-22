@@ -871,7 +871,7 @@
         "last_seen": "2af23c9"
     },
     "nonebot-plugin-workscore": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "1b6b9d6",
         "module_name": "nonebot_plugin_workscore",
         "project_link": "nonebot-plugin-workscore",
@@ -2251,7 +2251,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-yulu": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "ff65f10",
         "module_name": "nonebot_plugin_yulu",
         "project_link": "nonebot-plugin-yulu",
@@ -2266,7 +2266,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-maze": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "90f7c15",
         "module_name": "nonebot_plugin_maze",
         "project_link": "nonebot-plugin-maze",
@@ -2281,7 +2281,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-moyu": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "c6633bc",
         "module_name": "nonebot_plugin_moyu",
         "project_link": "nonebot-plugin-moyu",
@@ -2311,7 +2311,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-mockingbird": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "449a2c5",
         "module_name": "nonebot_plugin_mockingbird",
         "project_link": "nonebot-plugin-mockingbird",
@@ -2326,7 +2326,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-baidutranslate": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "20f414d",
         "module_name": "nonebot_plugin_baidutranslate",
         "project_link": "nonebot-plugin-baidutranslate",
@@ -2341,7 +2341,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-tortoise-orm": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "20f414d",
         "module_name": "nonebot_plugin_tortoise_orm",
         "project_link": "nonebot-plugin-tortoise-orm",
@@ -2356,7 +2356,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-dailysign": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "c52637a",
         "module_name": "nonebot_plugin_dailysign",
         "project_link": "nonebot-plugin-dailysign",
@@ -2371,7 +2371,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-tetris-stats": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "579839f",
         "module_name": "nonebot_plugin_tetris_stats",
         "project_link": "nonebot-plugin-tetris-stats",
@@ -2386,7 +2386,7 @@
         "last_seen": "results"
     },
     "nonebot_plugin_bilibili_viode": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "79fd127",
         "module_name": "nonebot_plugin_bilibili_viode",
         "project_link": "nonebot_plugin_bilibili_viode",
@@ -2416,7 +2416,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-imagetools": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "c34b343",
         "module_name": "nonebot_plugin_imagetools",
         "project_link": "nonebot-plugin-imagetools",
@@ -2431,7 +2431,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-warframe-clock": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "3238a82",
         "module_name": "nonebot_plugin_warframe_clock",
         "project_link": "nonebot-plugin-warframe-clock",
@@ -2446,7 +2446,7 @@
         "last_seen": "results"
     },
     "hikari-bot": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "c3ce4f7",
         "module_name": "hikari_bot",
         "project_link": "hikari-bot",
@@ -2461,7 +2461,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-who-at-me": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "8485a35",
         "module_name": "nonebot_plugin_who_at_me",
         "project_link": "nonebot-plugin-who-at-me",
@@ -2476,7 +2476,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-covid-19-by": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "c55b32b",
         "module_name": "nonebot_plugin_covid_19_by",
         "project_link": "nonebot-plugin-covid-19-by",
@@ -2506,7 +2506,7 @@
         "last_seen": "75c5678"
     },
     "nonebot-plugin-reboot": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "e38bb2b",
         "module_name": "nonebot_plugin_reboot",
         "project_link": "nonebot-plugin-reboot",
@@ -2521,7 +2521,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-setu4": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "a62a49d",
         "module_name": "nonebot_plugin_setu4",
         "project_link": "nonebot-plugin-setu4",
@@ -2536,7 +2536,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-smart-reply": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "b754ac2",
         "module_name": "nonebot_plugin_smart_reply",
         "project_link": "nonebot-plugin-smart-reply",
@@ -2551,7 +2551,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-today-in-history": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "a82ce00",
         "module_name": "nonebot_plugin_today_in_history",
         "project_link": "nonebot-plugin-today-in-history",
@@ -2566,7 +2566,7 @@
         "last_seen": "results"
     },
     "nonebot_plugin_BitTorrent": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "a67eda4",
         "module_name": "nonebot_plugin_BitTorrent",
         "project_link": "nonebot_plugin_BitTorrent",
@@ -2581,7 +2581,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-namelist": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "f1ffac5",
         "module_name": "nonebot_plugin_namelist",
         "project_link": "nonebot-plugin-namelist",
@@ -2596,7 +2596,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-bread-shop": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "d54c2e6",
         "module_name": "nonebot_plugin_bread_shop",
         "project_link": "nonebot-plugin-bread-shop",
@@ -2611,7 +2611,7 @@
         "last_seen": "results"
     },
     "nonebot_plugin_PicMenu": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "e2289c7",
         "module_name": "nonebot_plugin_PicMenu",
         "project_link": "nonebot_plugin_PicMenu",
@@ -2626,7 +2626,7 @@
         "last_seen": "results"
     },
     "nonebot_plugin_horserace": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "0e7e88c",
         "module_name": "nonebot_plugin_horserace",
         "project_link": "nonebot_plugin_horserace",
@@ -2656,7 +2656,7 @@
         "last_seen": "558f740"
     },
     "nonebot-plugin-firexN": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "d8ed5c2",
         "module_name": "nonebot_plugin_firexN",
         "project_link": "nonebot-plugin-firexN",
@@ -2671,7 +2671,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-bfinfo": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "dddbeb3",
         "module_name": "nonebot_plugin_bfinfo",
         "project_link": "nonebot-plugin-bfinfo",
@@ -2686,22 +2686,22 @@
         "last_seen": "results"
     },
     "nonebot-plugin-osubot": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "dddbeb3",
         "module_name": "nonebot_plugin_osubot",
         "project_link": "nonebot-plugin-osubot",
         "display_name": "OSUBot",
         "homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-        "pypi_version": "6.1.2",
+        "pypi_version": "6.2.1",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a18c8fd",
+        "git_hash": "ab7c672",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
     },
     "nonebot-plugin-acc-calculate": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "e2d0453",
         "module_name": "nonebot_plugin_acc_calculate",
         "project_link": "nonebot-plugin-acc-calculate",
@@ -2716,7 +2716,7 @@
         "last_seen": "results"
     },
     "nonebot_plugin_kawaii_robot": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "1667440",
         "module_name": "nonebot_plugin_kawaii_robot",
         "project_link": "nonebot_plugin_kawaii_robot",
@@ -2761,7 +2761,7 @@
         "last_seen": "558f740"
     },
     "nonebot_plugin_addFriend": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "9e908d5",
         "module_name": "nonebot_plugin_addFriend",
         "project_link": "nonebot_plugin_addFriend",
@@ -2776,7 +2776,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-date-name": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "12942f2",
         "module_name": "nonebot_plugin_date_name",
         "project_link": "nonebot-plugin-date-name",
@@ -2791,7 +2791,7 @@
         "last_seen": "results"
     },
     "nonebot_plugin_easyCommand": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "732b5b0",
         "module_name": "nonebot_plugin_easyCommand",
         "project_link": "nonebot_plugin_easyCommand",
@@ -2806,7 +2806,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-report": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "6e98ac0",
         "module_name": "nonebot_plugin_report",
         "project_link": "nonebot-plugin-report",
@@ -2821,7 +2821,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-hammer-nbnhhsh": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "63f8d78",
         "module_name": "nonebot_plugin_hammer_nbnhhsh",
         "project_link": "nonebot-plugin-hammer-nbnhhsh",
@@ -2836,7 +2836,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-bawiki": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "badb0c9",
         "module_name": "nonebot_plugin_bawiki",
         "project_link": "nonebot-plugin-bawiki",
@@ -2851,7 +2851,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-mcqq": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "6583bc8",
         "module_name": "nonebot_plugin_mcqq",
         "project_link": "nonebot-plugin-mcqq",
@@ -2866,7 +2866,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-covid-19-by-guild": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "675e70f",
         "module_name": "nonebot_plugin_covid_19_by_guild",
         "project_link": "nonebot-plugin-covid-19-by-guild",
@@ -2896,7 +2896,7 @@
         "last_seen": "558f740"
     },
     "nonebot-plugin-wiki": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "549a37b",
         "module_name": "nonebot_plugin_wiki",
         "project_link": "nonebot-plugin-wiki",
@@ -2926,7 +2926,7 @@
         "last_seen": "767b6a9"
     },
     "nonebot_plugin_game_collection": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "0620bec",
         "module_name": "nonebot_plugin_game_collection",
         "project_link": "nonebot_plugin_game_collection",
@@ -2941,7 +2941,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-drawer": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "96b0a86",
         "module_name": "nonebot_plugin_drawer",
         "project_link": "nonebot-plugin-drawer",
@@ -2956,7 +2956,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-jrrp-n": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "0f70e97",
         "module_name": "nonebot_plugin_jrrp-n",
         "project_link": "nonebot-plugin-jrrp-n",
@@ -2971,7 +2971,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-moegoe": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "be5ac88",
         "module_name": "nonebot_plugin_moegoe",
         "project_link": "nonebot-plugin-moegoe",
@@ -2986,7 +2986,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-pixivbot": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "be459e0",
         "module_name": "nonebot_plugin_pixivbot",
         "project_link": "nonebot-plugin-pixivbot",
@@ -2994,10 +2994,10 @@
         "homepage": "https://github.com/bot-ssttkkl/nonebot-plugin-pixivbot",
         "pypi_version": "2.1.1",
         "pypi_create": true,
-        "pypi_run": true,
+        "pypi_run": false,
         "git_hash": "48575e9",
         "git_create": true,
-        "git_run": true,
+        "git_run": false,
         "last_seen": "results"
     },
     "nonebot_plugin_groupmate_waifu": {
@@ -3016,7 +3016,7 @@
         "last_seen": "558f740"
     },
     "nonebot-plugin-treehelp": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "ef35266",
         "module_name": "nonebot_plugin_treehelp",
         "project_link": "nonebot-plugin-treehelp",
@@ -3031,7 +3031,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-cqsat": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "00af815",
         "module_name": "cqsat",
         "project_link": "nonebot-plugin-cqsat",
@@ -3046,7 +3046,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-course": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "00af815",
         "module_name": "nonebot_plugin_course",
         "project_link": "nonebot-plugin-course",
@@ -3061,7 +3061,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-groupmanager": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "a101428",
         "module_name": "nonebot_plugin_groupmanager",
         "project_link": "nonebot-plugin-groupmanager",
@@ -3091,7 +3091,7 @@
         "last_seen": "558f740"
     },
     "nonebot-plugin-dialectlist": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "135c6e8",
         "module_name": "nonebot_plugin_dialectlist",
         "project_link": "nonebot-plugin-dialectlist",
@@ -3106,7 +3106,7 @@
         "last_seen": "results"
     },
     "nonebot-plugin-offline-mahjong-helper": {
-        "_runtime_latest": "2.3.0",
+        "_runtime_latest": "2.3.1",
         "first_seen": "7579878",
         "module_name": "nonebot_plugin_offline_mahjong_helper",
         "project_link": "nonebot-plugin-offline-mahjong-helper",
@@ -4957,10 +4957,10 @@
         "project_link": "nonebot-plugin-alconna",
         "display_name": "Alconna 插件",
         "homepage": "https://github.com/nonebot/plugin-alconna",
-        "pypi_version": "0.46.1",
+        "pypi_version": "0.46.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "35a6e6e",
+        "git_hash": "79bb768",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
