@@ -2695,7 +2695,7 @@
         "pypi_version": "6.3.2",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "a63d159",
+        "git_hash": "1efc75f",
         "git_create": true,
         "git_run": true,
         "last_seen": "results"
@@ -8302,10 +8302,10 @@
         "project_link": "nonebot-plugin-antimonkey",
         "display_name": "AntiMonkey",
         "homepage": "https://github.com/phquathi/nonebot_plugin_antimonkey",
-        "pypi_version": "1.0.2",
+        "pypi_version": "1.1.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "ba9c262",
+        "git_hash": "4a12d7a",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -8320,7 +8320,7 @@
         "pypi_version": "0.6.0",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "2851315",
+        "git_hash": "d51e209",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -9085,7 +9085,7 @@
         "pypi_version": "0.1.13",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "423c54a",
+        "git_hash": "e8980d3",
         "git_create": false,
         "git_run": false,
         "last_seen": "results"
