@@ -9254,5 +9254,20 @@
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
+    },
+    "nonebot-plugin-shutdown-hook": {
+        "_runtime_latest": "2.3.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_shutdown_hook",
+        "project_link": "nonebot-plugin-shutdown-hook",
+        "display_name": "高优先级关闭信号钩子插件",
+        "homepage": "https://github.com/Sclock/nonebot-plugin-shutdown-hook",
+        "pypi_version": "0.1.2",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "f078ccd",
+        "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
     }
 }
