@@ -1,13 +1,15 @@
-[tool.poetry]
+[project]
 name = "nonebot2-store-test"
 version = "0.1.0"
-description = ""
-authors = ["Lancercmd <lancercmd@gmail.com>"]
+description = "Default template for PDM package"
+authors = [
+    {name = "Lancercmd", email = "lancercmd@gmail.com"},
+]
+dependencies = []
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "MIT"}
 
-[tool.poetry.dependencies]
-python = "^3.9"
-requests = "^2.31.0"
 
-[build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
+[tool.pdm]
+distribution = false
