@@ -4960,7 +4960,7 @@
         "pypi_version": "0.46.3",
         "pypi_create": true,
         "pypi_run": false,
-        "git_hash": "d87b1b2",
+        "git_hash": "cc93fb1",
         "git_create": true,
         "git_run": false,
         "last_seen": "results"
@@ -9267,6 +9267,21 @@
         "pypi_run": false,
         "git_hash": "f078ccd",
         "git_create": true,
+        "git_run": false,
+        "last_seen": "results"
+    },
+    "nonebot-plugin-plus-one": {
+        "_runtime_latest": "2.3.1",
+        "first_seen": "results",
+        "module_name": "nonebot_plugin_plus_one",
+        "project_link": "nonebot-plugin-plus-one",
+        "display_name": "复读姬+1 PlusOne",
+        "homepage": "https://github.com/yejue/nonebot-plugin-plus-one",
+        "pypi_version": "0.1.10",
+        "pypi_create": true,
+        "pypi_run": false,
+        "git_hash": "e97ad71",
+        "git_create": false,
         "git_run": false,
         "last_seen": "results"
     }
