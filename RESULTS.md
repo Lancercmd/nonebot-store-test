@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.3.1`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -610,6 +608,58 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_humanaticstore` 人类友好数据配置
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ghtiles` ghtiles
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_diffsinger` diffsinger
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_chikari_economy` Chikari_economy
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_auto_bot_selector` nonebot-plugin-auto-bot-selector
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_clovers` clovers插件框架
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_hx_yinying` Hx_YinYing
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_fhl` 飞花令
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_yinyu` 淫语
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_yinying_chat` Yinying-Chat
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_dcqg_relay` QQ频道-Discord 互通
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_zsmeme` 战双表情
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_sanyao` 三爻易数
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_cyberfurry` cyberfurry
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_helpwithpic` HelpWithPic
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_sticker_saver` 表情包保存器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_anime_downloader` 番剧下载
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_furryfusion` 兽聚动态
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_kurogames` 库洛游戏信息
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_valve_server_query` nonebot_plugin_valve_server_query
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_sparkapi` 科大讯飞星火大语言模型官方API聊天机器人插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_tsugu_bangdream_bot` nonebot-plugin-tsugu-bangdream-bot
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_calc24` nonebot-plugin-calc24
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_dg_lab_play` DG-Lab-Play
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_authrespond` 插件响应鉴权
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_shutdown_hook` 高优先级关闭信号钩子插件
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_plus_one` 复读姬+1 PlusOne
+  - `PyPI ✅` `Git ❌`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -985,6 +1035,16 @@
 - `nonebot_plugin_steam_info` Steam Info
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_pallas_repeater` nonebot-plugin-pallas-repeater
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_nai3` nonebot-plugin-nai3
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_with_ai_agents` with_ai_agents
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_RanFurryPic` 随机毛图
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_tsugu_frontend` BanG Dream! Tsugu Frontend
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_nai3_bot` 自定义人格和AI绘图的混合聊天BOT
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
