@@ -1046,6 +1046,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nai3_bot` 自定义人格和AI绘图的混合聊天BOT
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_aising` ai唱歌
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_picsbank` picsbank
