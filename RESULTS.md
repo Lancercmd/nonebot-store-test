@@ -660,6 +660,8 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_plus_one` 复读姬+1 PlusOne
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_qqshell` QQShell
+  - `PyPI ✅` `Git ❌`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
