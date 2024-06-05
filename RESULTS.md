@@ -1050,6 +1050,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_aising` ai唱歌
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_lynchpined` nonebot-plugin-lynchpined
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_picsbank` picsbank
