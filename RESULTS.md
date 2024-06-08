@@ -660,10 +660,14 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_plus_one` 复读姬+1 PlusOne
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_aising` ai唱歌
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_qqshell` QQShell
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_gakuenImasCalculator` 学园偶像大师算分插件
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_beauty_rater` 颜值评分
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1049,8 +1053,6 @@
 - `nonebot_plugin_tsugu_frontend` BanG Dream! Tsugu Frontend
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nai3_bot` 自定义人格和AI绘图的混合聊天BOT
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_aising` ai唱歌
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_lynchpined` nonebot-plugin-lynchpined
   - `PyPI ❌` `Git ❌`
