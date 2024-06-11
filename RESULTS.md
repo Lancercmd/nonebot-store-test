@@ -1056,6 +1056,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_lynchpined` nonebot-plugin-lynchpined
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_xjie_weather` nonebot-plugin-xjie-weather
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_picsbank` picsbank
