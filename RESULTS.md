@@ -670,6 +670,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_xjie_weather` nonebot-plugin-xjie-weather
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_wwgachalogs` 鸣潮抽卡记录分析
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
