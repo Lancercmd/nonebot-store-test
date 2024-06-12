@@ -668,6 +668,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_beauty_rater` 颜值评分
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_xjie_weather` nonebot-plugin-xjie-weather
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1055,8 +1057,6 @@
 - `nonebot_plugin_nai3_bot` 自定义人格和AI绘图的混合聊天BOT
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_lynchpined` nonebot-plugin-lynchpined
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_xjie_weather` nonebot-plugin-xjie-weather
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
