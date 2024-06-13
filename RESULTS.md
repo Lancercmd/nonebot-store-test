@@ -528,6 +528,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_send_message` 双向聊天插件
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_requests` Nonebot Requests
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_shutup` 雪豹闭嘴
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_simple_httpcat` httpcat-状态猫😺
@@ -973,8 +975,6 @@
 - `nonebot_plugin_sudo` SUDO
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_arxivRSS` arxiv订阅
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_requests` Nonebot Requests
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_qrcode2` 二维码
   - `PyPI ❌` `Git ❌`
