@@ -669,7 +669,7 @@
 - `nonebot_plugin_beauty_rater` 颜值评分
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_xjie_weather` nonebot-plugin-xjie-weather
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_wwgachalogs` 鸣潮抽卡记录分析
   - `PyPI ✅` `Git ✅`
 
