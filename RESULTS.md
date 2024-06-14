@@ -572,6 +572,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_waiter` Waiter 插件
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_imagemaster` nonebot-plugin-imagemaster
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_nikke` nonebot_plugin_nikke
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_mcpic` 随机MC图
@@ -673,6 +675,10 @@
 - `nonebot_plugin_xjie_weather` nonebot-plugin-xjie-weather
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_wwgachalogs` 鸣潮抽卡记录分析
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_saalc` 峯驰外包
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_easymarkdown` nonebot-plugin-easymarkdown
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
@@ -1021,8 +1027,6 @@
 - `nonebot_plugin_shorturl` 短链接服务支持
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nsfw` 群聊 NSFW 图片检测
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_imagemaster` nonebot-plugin-imagemaster
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bard` 谷歌Bard聊天
   - `PyPI ❌` `Git ❌`
