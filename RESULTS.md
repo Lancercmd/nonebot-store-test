@@ -378,6 +378,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bracket` 括号补全
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_gshisbanner` gshisbanner
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_rrc` 随机点名
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_hotsearch` 多平台热搜获取插件
@@ -891,8 +893,6 @@
 - `nonebot_plugin_customemote` 群聊自定义表情包
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_simulator_xiuxian` 修仙模拟器
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_gshisbanner` gshisbanner
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_unoconv` unoconv文件转换
   - `PyPI ❌` `Git ❌`
