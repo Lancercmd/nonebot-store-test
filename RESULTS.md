@@ -682,6 +682,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_easymarkdown` nonebot-plugin-easymarkdown
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_multigpt` 多模态AI工具
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
