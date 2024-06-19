@@ -686,6 +686,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_multigpt` 多模态AI工具
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_helldivers` 绝地潜兵信息查询小助手
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mahjong_hand_guess` 日麻猜手牌小游戏
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
