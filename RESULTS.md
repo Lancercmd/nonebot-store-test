@@ -202,6 +202,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_treehelp` 帮助
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_dialectlist` B话排行榜
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_offline_mahjong_helper` 面麻小助手
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_send` 反馈及通知
@@ -770,8 +772,6 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_course` 课表查询
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_dialectlist` 话痨排行榜
-  - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_todo_nlp` 自识别todo
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_RealESRGAN` 图像超分辨率重建
@@ -1065,6 +1065,8 @@
 - `nonebot_plugin_nai3_bot` 自定义人格和AI绘图的混合聊天BOT
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_lynchpined` nonebot-plugin-lynchpined
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mcsm` MCSM小助手
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
