@@ -596,6 +596,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_BAdrawcard` BA模拟抽卡
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_gpt` ChatGPT 聊天
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_chikari_yinpa` Chikari_yinpa
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_splatoon3_nso` splatoon3游戏nso查询
@@ -1043,8 +1045,6 @@
 - `haruka_bot_red` haruka_bot_red
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nezha` 哪吒监控插件
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_gpt` ChatGPT 聊天
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_easy_blacklist` 黑名单插件
   - `PyPI ❌` `Git ❌`
