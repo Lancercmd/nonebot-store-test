@@ -296,6 +296,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_antirecall` 防撤回
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mc_server_status` 图图插件
+  - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_no_repeat` 不要复读
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_summon` 群友召唤术
@@ -310,6 +312,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_revoke` 主动消息撤回
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_setu_customization` setu_customization
+  - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_l4d2_server` 求生之路小助手
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_learning_chat` 群聊学习
@@ -818,15 +822,11 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_gpt3` GPT3
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_mc_server_status` Minecraft服务器信息查询
-  - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bfchat` 战地群聊天插件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_face2cartoonpic` 腾讯云图像变换
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_ayaka_scan_cmd` 命令探查
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_setu_customization` setu_customization
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_Imagelabels` 图像标注
   - `PyPI ❌` `Git ❌`
