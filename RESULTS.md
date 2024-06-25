@@ -336,6 +336,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_yuanshen_notice` 原神实时公告
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_easy_translate` 简单翻译插件
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_nya_cook_menu` 喵喵自记菜谱
+  - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_easy_group_manager` 简易群管女生自用99新
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_dog` dog
@@ -558,6 +562,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_matchreminder` 算法比赛查询和今日比赛自动提醒
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_eop_ai` talk with eop ai
+  - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_playercheck` nonebot-plugin-playercheck
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_batitle` BlueArchive Title Generator
@@ -695,6 +701,14 @@
 - `nonebot_plugin_helldivers` 绝地潜兵信息查询小助手
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_mahjong_hand_guess` 日麻猜手牌小游戏
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_asmr` asmr
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ntqq_restart` NTQQ自动登录/断连重启
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_daily_task` Daily Task
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_biliforward` b站消息转发
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
@@ -834,13 +848,9 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bilibili_yuan` 哔哩哔哩q群登录
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_easy_translate` 简易谷歌翻译插件
-  - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_orangedice` orange_dice
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_record` 语音功能
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_nya_cook_menu` 喵喵自记菜谱
   - `PyPI ❌` `Git ❌`
 - `criminal_dance` 犯人在跳舞
   - `PyPI ❌` `Git ❌`
@@ -1006,8 +1016,6 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_blockwords` 屏蔽词插件
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_eop_ai` talk with eop ai
-  - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_op_finder` op-finder
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_morep_finder` morep-finder
@@ -1071,6 +1079,9 @@
 - `nonebot_plugin_lynchpined` nonebot-plugin-lynchpined
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mcsm` MCSM小助手
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_eve_tool` EVE ONLINE 多功能机器人
+版本 - v0.2.3
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
