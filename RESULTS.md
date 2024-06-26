@@ -416,6 +416,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_chatppt` AI生成PPT
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_steam_game_status` Steam游戏状态
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bilichat` nonebot-plugin-bilichat
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_blive_danmaku` B站直播间路灯
@@ -929,8 +931,6 @@
 - `nonebot_plugin_chatgpt_plus` ChatGPT网页端API
   - `PyPI ❌` `Git ❌`
 - `nonebot_api_paddle` nonebot_api_paddle
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_steam_game_status` Steam游戏状态
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_SDGPT` SDGPT
   - `PyPI ❌` `Git ❌`
