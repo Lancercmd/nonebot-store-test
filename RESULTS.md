@@ -712,6 +712,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_biliforward` b站消息转发
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_obastatus` nonebot_plugin_obastatus
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
