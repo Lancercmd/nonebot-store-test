@@ -340,6 +340,8 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_nya_cook_menu` 喵喵自记菜谱
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_picmcstat` PicMCStat
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_easy_group_manager` 简易群管女生自用99新
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_dog` dog
@@ -857,8 +859,6 @@
 - `nonebot_plugin_record` 语音功能
   - `PyPI ❌` `Git ❌`
 - `criminal_dance` 犯人在跳舞
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_picmcstat` PicMCStat
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_wantwords` 反向词典
   - `PyPI ❌` `Git ❌`
