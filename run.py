@@ -50,7 +50,7 @@ if not state.get(VER_KEY):
 elif version != state.get(VER_KEY):
     print(f"nonebot2 {state.get(VER_KEY)} -> {version}")
     modified = True
-state[VER_KEY] = state.get(VER_KEY) or version
+state[VER_KEY] = version or state.get(VER_KEY)
 for data in plugins:
     plugin = Plugin(data)
     if not state.get(plugin.project_link):
@@ -83,7 +83,7 @@ for data in plugins:
             plugin.git_hash,
         )
     d = {
-        VER_KEY: state[plugin.project_link].get(VER_KEY) or version,
+        VER_KEY: version or state[plugin.project_link].get(VER_KEY),
         "first_seen": state[plugin.project_link].get("first_seen") or commit,
         "module_name": plugin.module_name,
         "project_link": plugin.project_link,
