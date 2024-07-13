@@ -1097,6 +1097,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_cfr2` cloudfare R2 客服端
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_acgnshow` 漫展/展览查询
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_picsbank` picsbank
