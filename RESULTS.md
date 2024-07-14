@@ -334,7 +334,7 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_couplets` 对对联
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_cloudsignx` 云签到
+- `nonebot_plugin_cloudsignx` ☁云签到☁
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_imgexploration` 查找图片出处
   - `PyPI ✅` `Git ✅`
