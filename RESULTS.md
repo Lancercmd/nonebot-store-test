@@ -58,6 +58,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_code` 在线运行代码
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_tvseries` 剧集更新列表
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_lolmatch` lol比赛信息
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_htmlrender` nonebot-plugin-htmlrender
@@ -775,8 +777,6 @@
 - `nb2chan` nb2chan
   - `PyPI ❌` `Git ❌`
 - `leetcode` leetcode提醒机器人
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_tvseries` 剧集更新列表
   - `PyPI ❌` `Git ❌`
 - `OlivOS.nonebot` OlivOS.nb2
   - `PyPI ❌` `Git ❌`
