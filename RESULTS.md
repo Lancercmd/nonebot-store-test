@@ -279,7 +279,7 @@
 - `nonebot-plugin-person` 随个人
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_apex_api_query` Apex API Query
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_reborn` 投胎模拟器
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_gscode` 原神前瞻直播兑换码查询
