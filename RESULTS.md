@@ -1101,6 +1101,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_acgnshow` 漫展/展览查询
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_wordle_simple` wordle
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_picsbank` picsbank
