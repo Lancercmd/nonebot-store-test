@@ -1103,6 +1103,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_wordle_simple` wordle
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_daily_oil_price` 每日油价
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_game_torrent` nonebot_plugin_game_torrent
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_picsbank` picsbank
