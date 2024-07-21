@@ -1107,6 +1107,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_game_torrent` nonebot_plugin_game_torrent
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_weiweibot` vv_helper
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_autopush` nonebot-plugin-autopush
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_picsbank` picsbank
