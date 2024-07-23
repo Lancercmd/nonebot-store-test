@@ -756,6 +756,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_runagain` 再润
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_game_torrent` nonebot_plugin_game_torrent
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1104,8 +1106,6 @@
 - `nonebot_plugin_wordle_simple` wordle
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_daily_oil_price` 每日油价
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_game_torrent` nonebot_plugin_game_torrent
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_weiweibot` vv_helper
   - `PyPI ❌` `Git ❌`
