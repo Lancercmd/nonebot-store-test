@@ -758,6 +758,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_game_torrent` nonebot_plugin_game_torrent
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_system_command` 命令行
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
