@@ -784,6 +784,8 @@
   - `PyPI ❌` `Git ❌`
 - `leetcode` leetcode提醒机器人
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_picsbank` picsbank
+  - `PyPI ❌` `Git ❌`
 - `OlivOS.nonebot` OlivOS.nb2
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_covid19_news` 新冠疫情查询
@@ -1113,10 +1115,12 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_autopush` nonebot-plugin-autopush
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_cogvideox` 基于清影的AI视频生成
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_gpt_sovits` GPT-SoVITS 语音合成
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
-- `nonebot_plugin_picsbank` picsbank
-  - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mockingbird` MockingBird语音
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bilibili_viode` B站视频伪分享卡片
