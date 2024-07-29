@@ -312,7 +312,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_antirecall` 防撤回
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_mc_server_status` 图图插件
+- `nonebot_plugin_mc_server_status` MC服务器信息查询插件
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_no_repeat` 不要复读
   - `PyPI ✅` `Git ✅`
