@@ -760,6 +760,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_system_command` 命令行
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_wakatime` 谁是卷王
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1118,8 +1120,6 @@
 - `nonebot_plugin_cogvideox` 基于清影的AI视频生成
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_gpt_sovits` GPT-SoVITS 语音合成
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_wakatime` 谁是卷王
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
