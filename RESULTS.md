@@ -486,6 +486,8 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_logpile` nonebot-plugin-logpile
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_arkgacha` 明日方舟抽卡模拟
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_og` 链接解析
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_hoshino_sign` 签到
@@ -967,8 +969,6 @@
 - `nonebot_plugin_starrail_calendar` 星穹铁道活动日历
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_spark_gpt` Spark_GPT
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_arkgacha` 明日方舟抽卡模拟
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_sd_webui` SD绘画插件
   - `PyPI ❌` `Git ❌`
