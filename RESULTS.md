@@ -1121,6 +1121,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_gpt_sovits` GPT-SoVITS 语音合成
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_sunoai` SunoAI音乐生成
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
