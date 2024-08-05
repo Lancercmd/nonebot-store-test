@@ -588,6 +588,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_skland_arksign` 森空岛明日方舟签到器
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ernie` 文心一言
+  - `PyPI ✅` `Git ✅`
 - `TeenStudy` 青年大学习提交
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ottohzys` 大电老师活字印刷
@@ -1029,8 +1031,6 @@
 - `nonebot_plugin_wearskirt` 女装 !
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_group_whitelist` nonebot_plugin_group_whitelist
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_ernie` 文心一言
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_video_api` nonebot-plugin-video-api
   - `PyPI ❌` `Git ❌`
