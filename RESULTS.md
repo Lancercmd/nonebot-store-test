@@ -758,6 +758,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_WWwiki` 鸣潮wiki
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_acgnshow` 漫展/展览查询
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_runagain` 再润
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_game_torrent` nonebot_plugin_game_torrent
@@ -1110,8 +1112,6 @@
 版本 - v0.2.3
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_cfr2` cloudfare R2 客服端
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_acgnshow` 漫展/展览查询
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_wordle_simple` wordle
   - `PyPI ❌` `Git ❌`
