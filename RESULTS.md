@@ -772,6 +772,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_web_bottle` 漂流瓶
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_exe_code` exe_code
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
