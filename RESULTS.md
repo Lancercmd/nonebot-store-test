@@ -774,6 +774,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_exe_code` exe_code
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_deer_pipe` 🦌管签到
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
