@@ -528,6 +528,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_userinfo` 用户信息
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_friends` 远程同意好友
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_update` nonebot-plugin-update
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_cp_broadcast` 算法竞赛比赛查询
@@ -1005,8 +1007,6 @@
 - `nonebot_plugin_helltide` Diablo4地狱狂潮boss提醒小助手
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_poke` 戳一戳事件
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_friends` 远程同意好友
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_eventexpiry` 过期事件过滤器
   - `PyPI ❌` `Git ❌`
