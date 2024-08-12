@@ -780,6 +780,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bili_fav_watcher` B站收藏夹监视器
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_essence_message` 精华消息管理
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
