@@ -504,11 +504,11 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_githubcard` githubcard
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_cube` cuber
+- `nonebot_plugin_cube` 魔方
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_homo_mathematician` homo_mathematician
   - `PyPI ✅` `Git ❌`
-- `nonebot_plugin_puzzle` puzzle
+- `nonebot_plugin_puzzle` 数字华容道
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_herocard` 本子标题关键词提取
   - `PyPI ✅` `Git ✅`
@@ -782,6 +782,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_essence_message` 精华消息管理
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ba_tools` ba-tools
+  - `PyPI ✅` `Git ❌`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
