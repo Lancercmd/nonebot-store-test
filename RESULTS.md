@@ -784,6 +784,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ba_tools` ba-tools
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_mysticism` 神秘学助手
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_alist` Alist
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
