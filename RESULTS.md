@@ -316,6 +316,8 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_no_repeat` 不要复读
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bfchat` 战地群聊天插件
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_summon` 群友召唤术
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ping` Ping
@@ -788,6 +790,8 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_alist` Alist
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_fakepic` 聊天截图伪造
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -899,8 +903,6 @@
 - `nonebot_plugin_exchangerate` 汇率换算
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_gpt3` GPT3
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_bfchat` 战地群聊天插件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_face2cartoonpic` 腾讯云图像变换
   - `PyPI ❌` `Git ❌`
