@@ -162,7 +162,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_tortoise_orm` nonebot_plugin_tortoise_orm
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_tetris_stats` TETRIS Stats
+- `nonebot_plugin_tetris_stats` Tetris Stats
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_imagetools` 图片操作
   - `PyPI ✅` `Git ✅`
