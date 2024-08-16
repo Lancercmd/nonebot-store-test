@@ -792,6 +792,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fakepic` 聊天截图伪造
   - `PyPI ✅` `Git ✅`
+- `pokepoke_miss` pokepoke_miss
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
