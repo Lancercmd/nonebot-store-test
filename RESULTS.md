@@ -794,6 +794,8 @@
   - `PyPI ✅` `Git ✅`
 - `pokepoke_miss` pokepoke_miss
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ehentai_search` nonebot-plugin-ehentai-search
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
