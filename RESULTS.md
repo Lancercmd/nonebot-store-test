@@ -796,6 +796,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ehentai_search` nonebot-plugin-ehentai-search
   - `PyPI ✅` `Git ✅`
+- `mai2_pcount` mai2_pcount
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
