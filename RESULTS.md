@@ -1,4 +1,4 @@
-`nonebot2 == 2.3.2`
+`nonebot2 == 2.3.3`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
   - `PyPI ✅` `Git ✅`
@@ -58,9 +58,13 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_code` 在线运行代码
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_picsbank` picsbank
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_tvseries` 剧集更新列表
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_lolmatch` lol比赛信息
+  - `PyPI ❌` `Git ✅`
+- `OlivOS.nonebot` OlivOS.nb2
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_htmlrender` nonebot-plugin-htmlrender
   - `PyPI ✅` `Git ✅`
@@ -564,8 +568,6 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_csornament` CSGO饰品查询机器人
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_kanonbot` KanonBot
-  - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_muteme` Muteme(我禁我自己)
   - `PyPI ✅` `Git ❌`
 - `dicergirl` DicerGirl
@@ -766,8 +768,12 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_runagain` 再润
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_daily_oil_price` 每日油价
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_game_torrent` nonebot_plugin_game_torrent
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_weiweibot` vv_helper
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_system_command` 命令行
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_wakatime` 谁是卷王
@@ -798,6 +804,16 @@
   - `PyPI ✅` `Git ✅`
 - `mai2_pcount` mai2_pcount
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_dify` dify插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_looklike` 你看我像
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_wait_a_minute` nonebot-plugin-wait-a-minute
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_repesix` 复读6
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_liteyukibot` LiteyukiBot(plugin)
+  - `PyPI ✅` `Git ❌`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -821,10 +837,6 @@
 - `nb2chan` nb2chan
   - `PyPI ❌` `Git ❌`
 - `leetcode` leetcode提醒机器人
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_picsbank` picsbank
-  - `PyPI ❌` `Git ❌`
-- `OlivOS.nonebot` OlivOS.nb2
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_covid19_news` 新冠疫情查询
   - `PyPI ❌` `Git ❌`
@@ -1136,10 +1148,6 @@
 - `nonebot_plugin_cfr2` cloudfare R2 客服端
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_wordle_simple` wordle
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_daily_oil_price` 每日油价
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_weiweibot` vv_helper
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_autopush` nonebot-plugin-autopush
   - `PyPI ❌` `Git ❌`
