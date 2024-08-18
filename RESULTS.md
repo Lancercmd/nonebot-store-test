@@ -814,6 +814,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_liteyukibot` LiteyukiBot(plugin)
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_mute` nonebot_plugin_mute
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
