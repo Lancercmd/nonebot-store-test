@@ -818,6 +818,8 @@
   - `PyPI ❌` `Git ✅`
 - `nekro_agent` nekro-agent
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_lagrange` lagrange
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
