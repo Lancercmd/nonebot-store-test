@@ -782,7 +782,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_web_bottle` 漂流瓶
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_exe_code` exe_code
+- `nonebot_plugin_exe_code` nonebot-plugin-exe-code
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_deer_pipe` 🦌管签到
   - `PyPI ✅` `Git ✅`
@@ -821,7 +821,9 @@
 - `nonebot_plugin_lagrange` lagrange
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_mccheck` Minecraft查服
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_lxns_maimai` maimai DX 查分
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
