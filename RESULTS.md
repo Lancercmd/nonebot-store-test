@@ -400,6 +400,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot-plugin-resolver` 链接分享解析器
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_random_stereotypes` 发病语录
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ai_timetable` 小爱课表
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_sanae` Sanae
@@ -824,6 +826,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_lxns_maimai` maimai DX 查分
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_sendpic` 无情的发图姬
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -971,8 +975,6 @@
 - `gartic_room` 你画我猜组队
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bing_chat` Bing Chat
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_random_stereotypes` 发病语录
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_h2e` 呆呆兽都会起来锻炼 H2E
   - `PyPI ❌` `Git ❌`
