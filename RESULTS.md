@@ -828,6 +828,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_sendpic` 无情的发图姬
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_llob_master` LLOneBot-Master
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_yoyogame` 悠悠
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
