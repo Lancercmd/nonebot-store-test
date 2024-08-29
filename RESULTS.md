@@ -1173,6 +1173,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_sunoai` SunoAI音乐生成
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_tea_silencer` 消音器
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
