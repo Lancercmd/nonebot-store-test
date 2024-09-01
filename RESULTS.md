@@ -1175,6 +1175,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_tea_silencer` 消音器
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_avalon` 阿瓦隆
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
