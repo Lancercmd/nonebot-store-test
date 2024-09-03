@@ -646,6 +646,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_enatfrp` SakuraFrp
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nezha` 哪吒监控插件
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_randpic` 随机发送图片
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_BAdrawcard` BA模拟抽卡
@@ -831,6 +833,8 @@
 - `nonebot_plugin_llob_master` LLOneBot-Master
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_yoyogame` 悠悠
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_werewolf` 狼人杀
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
@@ -1131,8 +1135,6 @@
 - `nonebot_plugin_gemini` nonebot-plugin-gemini
   - `PyPI ❌` `Git ❌`
 - `haruka_bot_red` haruka_bot_red
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_nezha` 哪吒监控插件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_easy_blacklist` 黑名单插件
   - `PyPI ❌` `Git ❌`
