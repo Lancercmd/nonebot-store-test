@@ -36,7 +36,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_alias` alias命令别名
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_withdraw` Nonebot2 消息撤回插件
+- `nonebot_plugin_withdraw` 撤回
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_heweather` 和风天气
   - `PyPI ✅` `Git ✅`
