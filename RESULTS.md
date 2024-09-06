@@ -34,7 +34,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_mcstatus` Minecraft 服务器状态查询
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_alias` alias命令别名
+- `nonebot_plugin_alias` 命令别名
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_withdraw` 撤回
   - `PyPI ✅` `Git ✅`
