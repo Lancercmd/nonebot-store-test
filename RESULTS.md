@@ -402,6 +402,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_random_stereotypes` 发病语录
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_afd` 爱发电进群审核
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ai_timetable` 小爱课表
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_sanae` Sanae
@@ -993,8 +995,6 @@
 - `nonebot_plugin_warframe_mode` wf的wm市场
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bf1_groptools` 战地一入群审批
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_afd` 爱发电进群审核
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_eventdone` nonebot_plugin_eventdone
   - `PyPI ❌` `Git ❌`
