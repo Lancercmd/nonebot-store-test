@@ -836,6 +836,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_werewolf` 狼人杀
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_tarina_lang_turbo` nonebot-plugin-tarina-lang-turbo
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
