@@ -840,6 +840,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_tarina_lang_turbo` nonebot-plugin-tarina-lang-turbo
   - `PyPI ✅` `Git ✅`
+- `nonebot-plugin-ACGalaxy` 次元星辰
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
