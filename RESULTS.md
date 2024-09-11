@@ -836,6 +836,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_yoyogame` 悠悠
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_avalon` 阿瓦隆
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_werewolf` 狼人杀
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_tarina_lang_turbo` nonebot-plugin-tarina-lang-turbo
@@ -1180,8 +1182,6 @@
 - `nonebot_plugin_sunoai` SunoAI音乐生成
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_tea_silencer` 消音器
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_avalon` 阿瓦隆
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
