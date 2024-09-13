@@ -837,7 +837,7 @@
 - `nonebot_plugin_yoyogame` 悠悠
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_avalon` 阿瓦隆
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_werewolf` 狼人杀
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_tarina_lang_turbo` nonebot-plugin-tarina-lang-turbo
