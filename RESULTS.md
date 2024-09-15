@@ -526,6 +526,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_random_draw` 随机抽取自定义内容
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_stable_diffusion_diao` stablediffusion绘画插件
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_pcrjjc` pcrjjc
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_audiocraft` AI作曲
@@ -846,6 +848,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_QRrender` 二维码生成器
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_weather_rank` weather-rank
+  - `PyPI ✅` `Git ❌`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1047,8 +1051,6 @@
 - `nonebot_plugin_pluginupdatecheck` 便携插件安装器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_lua` nonebot-plugin-lua
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_stable_diffusion_diao` stablediffusion绘画插件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_al` 碧蓝航线攻略
   - `PyPI ❌` `Git ❌`
