@@ -852,6 +852,8 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_witff` WITFF
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_logstream` SSE日志输出流
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
