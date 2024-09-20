@@ -854,6 +854,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_logstream` SSE日志输出流
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_uninfo` 通用信息
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_batch_withdrawal` 批量撤回
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1190,8 +1194,6 @@
 - `nonebot_plugin_sunoai` SunoAI音乐生成
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_tea_silencer` 消音器
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_uninfo` 通用信息
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_inspect` inspect
   - `PyPI ❌` `Git ❌`
