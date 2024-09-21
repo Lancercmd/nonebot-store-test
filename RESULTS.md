@@ -855,7 +855,7 @@
 - `nonebot_plugin_logstream` SSE日志输出流
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_uninfo` 通用信息
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_batch_withdrawal` 批量撤回
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_yareminder` nonebot-plugin-yareminder
