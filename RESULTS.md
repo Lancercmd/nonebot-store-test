@@ -860,6 +860,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_yareminder` nonebot-plugin-yareminder
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_calc_game` 计算器：游戏
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
