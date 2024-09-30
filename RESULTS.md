@@ -1207,6 +1207,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_color_see_see` 给我点颜色瞧瞧
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_githubmodels` githubmodels
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
