@@ -866,6 +866,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_pjsk_helper` pjsk-helper
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_beatsaberscore` Beat Saber查分器
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
