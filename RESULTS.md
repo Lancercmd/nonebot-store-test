@@ -866,6 +866,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_pjsk_helper` pjsk-helper
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_color_see_see` 给我点颜色瞧瞧
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_beatsaberscore` Beat Saber查分器
   - `PyPI ✅` `Git ✅`
 
@@ -1206,8 +1208,6 @@
 - `nonebot_plugin_tea_silencer` 消音器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_inspect` inspect
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_color_see_see` 给我点颜色瞧瞧
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_githubmodels` githubmodels
   - `PyPI ❌` `Git ❌`
