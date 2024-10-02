@@ -1211,6 +1211,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_githubmodels` githubmodels
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_SimpleToWrite` nonebot_plugin_SimpleToWrite
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
