@@ -870,6 +870,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_beatsaberscore` Beat Saber查分器
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_SimpleToWrite` nonebot_plugin_SimpleToWrite
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1210,8 +1212,6 @@
 - `nonebot_plugin_inspect` inspect
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_githubmodels` githubmodels
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_SimpleToWrite` nonebot_plugin_SimpleToWrite
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
