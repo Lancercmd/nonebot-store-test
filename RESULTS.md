@@ -816,7 +816,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_looklike` 你看我像
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_wait_a_minute` nonebot-plugin-wait-a-minute
+- `nonebot_plugin_wait_a_minute` Wait a minute
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_repesix` 复读6
   - `PyPI ✅` `Git ✅`
@@ -1212,6 +1212,10 @@
 - `nonebot_plugin_inspect` inspect
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_githubmodels` githubmodels
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_nonechat` nonechat
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_marshoai` Marsho AI插件
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
