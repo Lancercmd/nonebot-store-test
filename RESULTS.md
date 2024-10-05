@@ -1219,6 +1219,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_marshoai` Marsho AI插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_lolinfo` lolinfo
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
