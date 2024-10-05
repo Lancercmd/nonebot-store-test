@@ -856,6 +856,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_uninfo` 通用信息
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_inspect` inspect
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_batch_withdrawal` 批量撤回
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_yareminder` nonebot-plugin-yareminder
@@ -872,6 +874,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_SimpleToWrite` nonebot_plugin_SimpleToWrite
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_osu_match_monitor` osu! Match Monitor
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1208,8 +1212,6 @@
 - `nonebot_plugin_sunoai` SunoAI音乐生成
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_tea_silencer` 消音器
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_inspect` inspect
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_githubmodels` githubmodels
   - `PyPI ❌` `Git ❌`
