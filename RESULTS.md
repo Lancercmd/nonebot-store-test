@@ -872,7 +872,7 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_beatsaberscore` Beat Saber查分器
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_SimpleToWrite` nonebot_plugin_SimpleToWrite
+- `nonebot_plugin_SimpleToWrite` 简易编写词库
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_osu_match_monitor` osu! Match Monitor
   - `PyPI ✅` `Git ✅`
@@ -1220,6 +1220,8 @@
 - `nonebot_plugin_nonechat` nonechat
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_marshoai` Marsho AI插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bf5_grouptools` BF5_grouptools
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
