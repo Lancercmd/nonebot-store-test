@@ -878,6 +878,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_lolinfo` lolinfo
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bf5_grouptools` BF5_grouptools
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1220,8 +1222,6 @@
 - `nonebot_plugin_nonechat` nonechat
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_marshoai` Marsho AI插件
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_bf5_grouptools` BF5_grouptools
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
