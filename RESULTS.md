@@ -880,6 +880,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bf5_grouptools` BF5_grouptools
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_zxpm` ZXPM插件管理
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bfvsearch` nonebot_plugin_BFVsearch
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1224,6 +1228,8 @@
 - `nonebot_plugin_marshoai` Marsho AI插件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mc_watcher` MinecraftWatcher
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_lingyi_chat` lingyi_chat
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
