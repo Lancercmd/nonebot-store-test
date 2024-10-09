@@ -882,7 +882,7 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_zxpm` ZXPM插件管理
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_bfvsearch` nonebot_plugin_BFVsearch
+- `nonebot_plugin_bfvsearch` 战地五查询插件
   - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
@@ -1031,6 +1031,8 @@
 - `gartic_room` 你画我猜组队
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bing_chat` Bing Chat
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_xiuxian_2` 修仙_2.0
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_h2e` 呆呆兽都会起来锻炼 H2E
   - `PyPI ❌` `Git ❌`
@@ -1242,8 +1244,6 @@
 - `nonebot_plugin_maimai` 舞萌maimai
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_saa` 峯驰物流
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_xiuxian_2` 修仙_2.0
   - `PyPI ❌` `Git ❌`
 - `GenshinUID` GenshinUID
   - `PyPI ❌` `Git ❌`
