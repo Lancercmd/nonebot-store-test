@@ -884,6 +884,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bfvsearch` 战地五查询插件
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_safeR18` 涩涩保存器
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
