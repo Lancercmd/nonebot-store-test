@@ -1235,6 +1235,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_lingyi_chat` lingyi_chat
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_updater` nb插件更新器
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_npu` 西工大翱翔门户成绩监控
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
