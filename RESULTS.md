@@ -886,6 +886,10 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_safeR18` 涩涩保存器
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_updater` nb插件更新器
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_npu` 西工大翱翔门户成绩监控
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1234,10 +1238,6 @@
 - `nonebot_plugin_mc_watcher` MinecraftWatcher
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_lingyi_chat` lingyi_chat
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_updater` nb插件更新器
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_npu` 西工大翱翔门户成绩监控
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
