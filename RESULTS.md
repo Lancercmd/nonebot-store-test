@@ -884,7 +884,7 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_zxpm` ZXPM插件管理
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_bfvsearch` 战地五查询插件
+- `nonebot_plugin_bfvsearch` nonebot_plugin_BFVsearch
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_safeR18` 涩涩保存器
   - `PyPI ✅` `Git ✅`
