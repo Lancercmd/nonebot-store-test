@@ -1239,6 +1239,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_lingyi_chat` lingyi_chat
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_running_state` 运行状态
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_zxreport` 真寻日报
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
