@@ -876,6 +876,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_nonechat` nonechat
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_marshoai` Marsho AI插件
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_osu_match_monitor` osu! Match Monitor
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_lolinfo` lolinfo
@@ -1232,8 +1234,6 @@
 - `nonebot_plugin_tea_silencer` 消音器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_githubmodels` githubmodels
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_marshoai` Marsho AI插件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mc_watcher` MinecraftWatcher
   - `PyPI ❌` `Git ❌`
