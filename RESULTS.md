@@ -894,6 +894,8 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_npu` 西工大翱翔门户成绩监控
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_zxreport` 真寻日报
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1240,8 +1242,6 @@
 - `nonebot_plugin_lingyi_chat` lingyi_chat
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_running_state` 运行状态
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_zxreport` 真寻日报
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
