@@ -896,6 +896,14 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_zxreport` 真寻日报
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_buy` 团购
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nailongremove` NailongRemove
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_pmhelp` PM帮助
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_jtj` 机厅
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
