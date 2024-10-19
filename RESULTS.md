@@ -528,6 +528,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_stable_diffusion_diao` stablediffusion绘画插件
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_escape_url` 链接防夹
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_pcrjjc` pcrjjc
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_audiocraft` AI作曲
@@ -906,6 +908,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_BR` 恶魔轮盘赌
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_boom` boom
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1111,8 +1115,6 @@
 - `nonebot_plugin_lua` nonebot-plugin-lua
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_al` 碧蓝航线攻略
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_escape_url` 链接防夹
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_twitter` twitter 推特订阅
   - `PyPI ❌` `Git ❌`
