@@ -904,6 +904,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_jtj` 机厅
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_BR` 恶魔轮盘赌
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
