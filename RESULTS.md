@@ -910,6 +910,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_boom` boom
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_picsetu` 涩图插件
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1254,6 +1256,8 @@
 - `nonebot_plugin_lingyi_chat` lingyi_chat
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_running_state` 运行状态
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_gotify` Gotify
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
