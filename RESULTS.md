@@ -1259,6 +1259,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_gotify` Gotify
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_voicemusic` 语音点歌
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
