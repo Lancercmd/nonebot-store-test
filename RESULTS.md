@@ -1261,6 +1261,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_voicemusic` 语音点歌
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_fishspeech_tts` FishSpeechTTS
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
