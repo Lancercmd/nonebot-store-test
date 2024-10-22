@@ -879,7 +879,7 @@
 - `nonebot_plugin_nonechat` nonechat
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_marshoai` Marsho AI插件
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_osu_match_monitor` osu! Match Monitor
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_lolinfo` lolinfo
@@ -900,7 +900,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_buy` 团购
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_nailongremove` NailongRemove
+- `nonebot_plugin_nailongremove` 自动撤回奶龙
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_pmhelp` PM帮助
   - `PyPI ✅` `Git ✅`
@@ -911,6 +911,8 @@
 - `nonebot_plugin_boom` boom
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_picsetu` 涩图插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_fishspeech_tts` FishSpeechTTS
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
@@ -1261,7 +1263,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_voicemusic` 语音点歌
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_fishspeech_tts` FishSpeechTTS
+- `nonebot_plugin_summary` 省流
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
