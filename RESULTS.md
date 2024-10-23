@@ -914,6 +914,12 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fishspeech_tts` FishSpeechTTS
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ddrace` DDNet 成绩查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mai_arcade` nonebot_plugin_mai_arcade
+  - `PyPI ✅` `Git ✅`
+- `nonebot_prevent_withdrawal` 防撤回
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
