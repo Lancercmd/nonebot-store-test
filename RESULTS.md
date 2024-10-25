@@ -912,6 +912,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_picsetu` 涩图插件
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_voicemusic` 语音点歌
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fishspeech_tts` FishSpeechTTS
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ddrace` DDNet 成绩查询
@@ -1266,8 +1268,6 @@
 - `nonebot_plugin_running_state` 运行状态
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_gotify` Gotify
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_voicemusic` 语音点歌
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_summary` 省流
   - `PyPI ❌` `Git ❌`
