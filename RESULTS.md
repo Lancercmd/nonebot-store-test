@@ -1271,6 +1271,12 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_summary` 省流
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bilimusic` BiliMusic Downloader
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mmm` Bot的消息也是消息
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_pong` pong
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
