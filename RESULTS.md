@@ -922,6 +922,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_prevent_withdrawal` 防撤回
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_partner_join` nonebot_plugin_partner_join
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
