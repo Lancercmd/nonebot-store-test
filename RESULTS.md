@@ -874,7 +874,7 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_beatsaberscore` Beat Saber查分器
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_SimpleToWrite` 简易编写词库
+- `nonebot_plugin_SimpleToWrite` 简易编写词库+b站弹幕监控
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_nonechat` nonechat
   - `PyPI ✅` `Git ❌`
