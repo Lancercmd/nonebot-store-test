@@ -924,6 +924,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_partner_join` nonebot_plugin_partner_join
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_zxpix` Pix图库
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
