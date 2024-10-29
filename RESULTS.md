@@ -922,6 +922,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_prevent_withdrawal` 防撤回
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mmm` Bot的消息也是消息
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_partner_join` nonebot_plugin_partner_join
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_zxpix` Pix图库
@@ -1276,8 +1278,6 @@
 - `nonebot_plugin_summary` 省流
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bilimusic` BiliMusic Downloader
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_mmm` Bot的消息也是消息
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_pong` pong
   - `PyPI ❌` `Git ❌`
