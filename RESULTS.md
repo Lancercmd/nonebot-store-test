@@ -526,7 +526,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_random_draw` 随机抽取自定义内容
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_stable_diffusion_diao` stablediffusion绘画插件
+- `nonebot_plugin_stable_diffusion_diao` AI绘图
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_escape_url` 链接防夹
   - `PyPI ✅` `Git ✅`
