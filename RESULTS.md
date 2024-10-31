@@ -928,6 +928,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_zxpix` Pix图库
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_impart` nonebot_plugin_impart
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_wife` 每日wife
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
