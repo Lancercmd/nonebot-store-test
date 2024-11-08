@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.4.0`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -944,6 +942,12 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_comfyui` Comfyui绘图插件
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_omb` Ohh My Bot
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_leetcodeAPI_KHASA` nonebot-plugin-leetcodeapi-khasa
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_pypistats` PyPi下载统计
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
