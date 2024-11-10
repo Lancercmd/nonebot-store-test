@@ -876,7 +876,7 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_beatsaberscore` Beat Saber查分器
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_SimpleToWrite` 简易编写词库+b站弹幕监控
+- `nonebot_plugin_SimpleToWrite` 简易编写词库
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_nonechat` nonechat
   - `PyPI ✅` `Git ❌`
@@ -947,6 +947,10 @@
 - `nonebot_plugin_leetcodeAPI_KHASA` nonebot-plugin-leetcodeapi-khasa
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_pypistats` PyPi下载统计
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_better_broadcast` 更好的广播
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bililivedm` b站弹幕监控
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
