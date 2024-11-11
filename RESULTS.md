@@ -628,6 +628,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_smms` sm.ms图床
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nsfw` 群聊 NSFW 图片检测
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_batarot` 碧蓝档案塔罗牌
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_cnrail` CNRail
@@ -941,7 +943,7 @@
 - `nonebot_plugin_wife` 每日wife
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_comfyui` Comfyui绘图插件
-  - `PyPI ✅` `Git ❌`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_omb` Ohh My Bot
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_leetcodeAPI_KHASA` nonebot-plugin-leetcodeapi-khasa
@@ -1225,8 +1227,6 @@
 - `nonebot_plugin_bingimagecreator` DALL-E 3绘图
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_shorturl` 短链接服务支持
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_nsfw` 群聊 NSFW 图片检测
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_antimonkey` AntiMonkey
   - `PyPI ❌` `Git ❌`
