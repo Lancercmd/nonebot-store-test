@@ -1287,6 +1287,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_summary` 省流
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_text_ban` 违禁词撤回
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
