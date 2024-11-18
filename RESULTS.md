@@ -1289,6 +1289,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_text_ban` 违禁词撤回
   - `PyPI ❌` `Git ❌`
+- `nonebot-plugin-auto-sendlike` 自动点赞订阅赞
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_kindness_lesson` 恩情课文
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
