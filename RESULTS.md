@@ -1,3 +1,5 @@
+已达到限制，结束测试。
+
 `nonebot2 == 2.4.0`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -954,6 +956,26 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bililivedm` b站弹幕监控
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_chatrecorder` 聊天记录
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_ddcheck` 成分姬
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_wordle` 猜单词
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_handle` 猜成语
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_minesweeper` 扫雷
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_cchess` 象棋
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_chess` 国际象棋
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_BitTorrent` bittorrent
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_kawaii_robot` KawaiiRobot
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_game_collection` 小游戏合集
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1295,6 +1317,24 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_shindan` 趣味占卜
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_alias` 命令别名
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_withdraw` 撤回
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_roll` 掷骰子
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_crazy_thursday` 疯狂星期四
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_remake` 人生重开
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_emojimix` emoji合成
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_boardgame` 棋类游戏
+  - `PyPI ❌` `Git ❌`
+- `YetAnotherPicSearch` YetAnotherPicSearch
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bottle` 漂流瓶
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
@@ -1310,4 +1350,6 @@
 - `GenshinUID` GenshinUID
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_dice_narrator` nonebot-plugin-dice-narrator
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mc_server_status` MC服务器信息查询插件
   - `PyPI ❌` `Git ❌`
