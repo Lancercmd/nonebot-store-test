@@ -386,7 +386,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_eventmonitor` eventmonitor
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_whateat_pic` 今天吃喝什么呢
+- `nonebot_plugin_whateat_pic` 今天吃什么（图片版）
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_matcher_block` 通用指令阻断
   - `PyPI ✅` `Git ✅`
@@ -1292,6 +1292,8 @@
 - `nonebot-plugin-auto-sendlike` 自动点赞订阅赞
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_kindness_lesson` 恩情课文
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_shindan` 趣味占卜
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
