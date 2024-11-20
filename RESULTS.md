@@ -976,6 +976,34 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_game_collection` 小游戏合集
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_biliav` biliav小程序转换器
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_lolmatch` lol比赛信息
+  - `PyPI ❌` `Git ✅`
+- `OlivOS.nonebot` OlivOS.nb2
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_memes` 表情包制作
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_tarot` 塔罗牌
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_draw` nonebot_plugin_draw
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_imagetools` 图片操作
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_PicMenu` PicMenu
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_horserace` 赛马
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_addFriend` 处理好友添加和群邀请
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_easyCommand` 易命令
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_makemidi` 在线编曲
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_searchBiliInfo` b站用户信息查询
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_animalVoice` AnimalVoice_Convert
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1335,6 +1363,14 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bottle` 漂流瓶
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bilibili_viode` B站视频伪分享卡片
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_RealESRGAN` 图像超分辨率重建
+  - `PyPI ❌` `Git ❌`
+- `ayaka_games` ayaka小游戏合集
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_face2cartoonpic` 腾讯云图像变换
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
@@ -1352,4 +1388,6 @@
 - `nonebot_plugin_dice_narrator` nonebot-plugin-dice-narrator
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mc_server_status` MC服务器信息查询插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_setu_customization` setu_customization
   - `PyPI ❌` `Git ❌`
