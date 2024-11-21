@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.4.0`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1396,6 +1394,12 @@
 - `nonebot_plugin_phigros` Phigros查分器(Adapter-qq)
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_helpwithpic` HelpWithPic
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_web_bottle` 漂流瓶
+  - `PyPI ❌` `Git ❌`
+- `pokepoke_miss` pokepoke_miss
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bfvsearch` nonebot_plugin_BFVsearch
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
