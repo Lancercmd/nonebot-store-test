@@ -1405,6 +1405,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_api_scheduler` nonebot-plugin-api-scheduler
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_pam` 权限控制
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_zepplife` nonebot-plugin-zepplife
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
