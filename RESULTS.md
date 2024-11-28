@@ -1409,6 +1409,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_zepplife` nonebot-plugin-zepplife
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_hyp` nonebot-plugin-hyp
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
