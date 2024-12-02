@@ -1012,6 +1012,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_manageweb` nb商店插件安装器web版
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_zxwb` ZXWB词库问答
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
