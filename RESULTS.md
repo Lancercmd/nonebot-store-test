@@ -782,7 +782,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_daily_oil_price` 每日油价
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_game_torrent` nonebot_plugin_game_torrent
+- `nonebot_plugin_game_torrent` 游戏种子搜索
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_weiweibot` vv_helper
   - `PyPI ✅` `Git ✅`
@@ -1440,4 +1440,6 @@
 - `nonebot_plugin_eop_ai` talk with eop ai
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_getbapics` nonebot-plugin-getbapics
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_resolver2` 链接分享解析器重制版
   - `PyPI ❌` `Git ❌`
