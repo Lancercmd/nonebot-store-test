@@ -1294,7 +1294,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nekoimage` nonebot-plugin-nekoimage
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_gemini` nonebot-plugin-gemini
+- `nonebot_plugin_gemini` Gemini
   - `PyPI ❌` `Git ❌`
 - `haruka_bot_red` haruka_bot_red
   - `PyPI ❌` `Git ❌`
