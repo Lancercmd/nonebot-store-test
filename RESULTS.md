@@ -1014,6 +1014,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_zxwb` ZXWB词库问答
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_water_geoup_stats` 发言统计
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_pcr_sign` PCR签到重制版
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
