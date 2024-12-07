@@ -1018,6 +1018,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_pcr_sign` PCR签到重制版
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_emojilike` 名片赞，表情回应插件
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
