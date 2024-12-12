@@ -1022,6 +1022,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_emojilike` 名片赞，表情回应插件
   - `PyPI ✅` `Git ✅`
+- `nonebot-plugin-multimodal-gemini` 谷歌 Gemini 多模态助手
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
