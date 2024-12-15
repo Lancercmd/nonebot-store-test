@@ -1026,6 +1026,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_csgomarket` CSGO_MARKET
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nailongmagic` 奶龙魔法
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
