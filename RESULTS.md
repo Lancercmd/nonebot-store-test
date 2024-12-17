@@ -1427,6 +1427,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_hyp` nonebot-plugin-hyp
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_amitabha` 南无阿弥陀佛
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ollama` nonebot-plugin-ollama
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
