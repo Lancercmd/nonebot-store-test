@@ -1431,6 +1431,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_ollama` nonebot-plugin-ollama
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_picstatus_template_zhenxun` PicStatus Template ZhenXun
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
