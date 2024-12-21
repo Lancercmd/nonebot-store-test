@@ -1435,6 +1435,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_picstatus_template_zhenxun` PicStatus Template ZhenXun
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_simple_block` 简易群聊屏蔽
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
