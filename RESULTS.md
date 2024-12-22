@@ -1441,6 +1441,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_addons_manager` 求生之路addons文件管理
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_flo_luck` nonebot-plugin-flo-luck
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
