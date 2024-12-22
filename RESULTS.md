@@ -1437,6 +1437,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_simple_block` 简易群聊屏蔽
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_add_friends` 好友与群邀请管理
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_addons_manager` 求生之路addons文件管理
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
