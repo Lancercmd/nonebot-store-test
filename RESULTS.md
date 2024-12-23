@@ -363,7 +363,7 @@
 - `nonebot_plugin_picmcstat` PicMCStat
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_report_manager` 对话超管
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_easy_group_manager` 群管
   - `PyPI ✅` `Git ✅`
 - `nonebot-plugin-mcport` nonebot-plugin-mcport
@@ -1008,6 +1008,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_xiuxian_2` 修仙_2.0
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_memes_api` 表情包制作
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_BotMailNotice` Bot上下线邮件通知
   - `PyPI ✅` `Git ✅`
 - `TeenStudy` 青年大学习提交
@@ -1402,8 +1404,6 @@
 - `nonebot_plugin_xdu_support` XDU校园服务
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_setu_collection` 来张色图
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_memes_api` 表情包制作
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_SDGPT` SDGPT
   - `PyPI ❌` `Git ❌`
