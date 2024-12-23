@@ -362,6 +362,8 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_picmcstat` PicMCStat
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_report_manager` 对话超管
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_easy_group_manager` 群管
   - `PyPI ✅` `Git ✅`
 - `nonebot-plugin-mcport` nonebot-plugin-mcport
@@ -1153,8 +1155,6 @@
 - `nonebot_plugin_wantwords` 反向词典
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_pvz` 植物大战僵尸小游戏
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_report_manager` 对话超管
   - `PyPI ❌` `Git ❌`
 - `qinglan_bot` 青岚Bot
   - `PyPI ❌` `Git ❌`
