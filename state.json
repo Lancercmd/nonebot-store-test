@@ -225,7 +225,7 @@
 		"pypi_version": "0.9.5",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "b7879d937a7c6128fbb9ab240fa6cb81a664a116",
+		"git_hash": "5ff08d3f4fc95e629a0083e22d856fe594534d4c",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
@@ -363,7 +363,7 @@
 		"pypi_version": "0.54.2",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "56277cdbb360c9a0388fa1090b8d190214201158",
+		"git_hash": "e19378cd65a3b01755bc008484eda40972c5d60d",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
@@ -2187,10 +2187,10 @@
 		"desc": "OSU查分插件",
 		"author": "yaowan233",
 		"homepage": "https://github.com/yaowan233/nonebot-plugin-osubot",
-		"pypi_version": "6.16.0",
+		"pypi_version": "6.17.0",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "02762838085e901c44e90158fc1023f5e36e6fb6",
+		"git_hash": "b615caab771e024651c9667841af39ffcee87596",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
@@ -3039,12 +3039,12 @@
 		"pypi_version": "0.5.9",
 		"pypi_create": true,
 		"pypi_run": false,
-		"git_hash": "7a387d57196482ee8c288ab3bd3ce35a0f5b1c19",
+		"git_hash": "ff55b3079ca80a96a73ed7d0ef880cfc1bfb17f9",
 		"git_create": true,
 		"git_run": false,
 		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6",
 		"stderr_pypi": "\u001b[32m01-07 13:24:49\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m01-07 13:24:49\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m01-07 13:24:49\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_novelai\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_novelai/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_novelai\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.8/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 257, in exec_module\n    super().exec_module(module)\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_novelai/__init__.py\", line 1, in <module>\n    from . import config, manage\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_novelai/config.py\", line 7, in <module>\n    from pydantic import BaseSettings, validator\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/pydantic/__init__.py\", line 412, in __getattr__\n    return _getattr_migration(attr_name)\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/pydantic/_migration.py\", line 296, in wrapper\n    raise PydanticImportError(\n\u001b[31m\u001b[1mpydantic.errors.PydanticImportError\u001b[0m:\u001b[1m `BaseSettings` has been moved to the `pydantic-settings` package. See https://docs.pydantic.dev/2.10/migration/#basesettings-has-moved-to-pydantic-settings for more details.\n\nFor further information visit https://errors.pydantic.dev/2.10/u/import-error\u001b[0m",
-		"stderr_git": "\u001b[32m01-07 13:25:18\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m01-07 13:25:18\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m01-07 13:25:18\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_novelai\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_novelai/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_novelai\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.8/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1324, in _find_and_load_unlocked\n\u001b[31m\u001b[1mModuleNotFoundError\u001b[0m:\u001b[1m No module named 'nonebot_plugin_novelai'\u001b[0m"
+		"stderr_git": "\u001b[32m01-08 10:09:17\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m01-08 10:09:17\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m01-08 10:09:17\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_novelai\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_novelai/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_novelai\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.8/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1324, in _find_and_load_unlocked\n\u001b[31m\u001b[1mModuleNotFoundError\u001b[0m:\u001b[1m No module named 'nonebot_plugin_novelai'\u001b[0m"
 	},
 	"ayaka_games": {
 		"__nonebot2.version__": "2.4.0",
@@ -4712,7 +4712,7 @@
 		"pypi_version": "1.5.4",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "7325604e9fe717d9d9e374c01cbdfc045b033728",
+		"git_hash": "79c0f0e268cccee41a62c335fd622621af31e6d8",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
@@ -8654,7 +8654,7 @@
 		"pypi_version": "0.1.9",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "456ca25d5de7c83473619aa286cfd6bb70a42304",
+		"git_hash": "39153a8a9544fae8705ce1a04568b5a32f7ddf13",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
@@ -9474,7 +9474,7 @@
 		"pypi_version": "0.1.3",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "57492454a12bd073bc78a1ed3e547a221bbba8c1",
+		"git_hash": "0e80d6d7ab9e3ecee04cd22c15fb9b688df3c00d",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
@@ -9933,7 +9933,7 @@
 		"stderr_git": "\u001b[32m01-08 03:35:46\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m01-08 03:35:46\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m01-08 03:35:46\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_autopush\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_autopush/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_autopush\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.8/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 257, in exec_module\n    super().exec_module(module)\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_autopush/__init__.py\", line 3, in <module>\n    from .config import Config\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_autopush/config.py\", line 21, in <module>\n    config = get_plugin_config(Config)\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/__init__.py\", line 175, in get_plugin_config\n    return type_validate_python(config, model_dump(get_driver().config))\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/compat.py\", line 227, in type_validate_python\n    return TypeAdapter(type_).validate_python(data)\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/pydantic/type_adapter.py\", line 412, in validate_python\n    return self.validator.validate_python(\n\u001b[31m\u001b[1mpydantic_core._pydantic_core.ValidationError\u001b[0m:\u001b[1m 1 validation error for Config\nautopush_servers\n  Field required [type=missing, input_value={'driver': '~fastapi', 'h....timedelta(seconds=120)}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/missing\u001b[0m"
 	},
 	"nonebot-plugin-system-command": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "867692bb0bb594e8086efccc2d703130f18ba3c2",
 		"module_name": "nonebot_plugin_system_command",
 		"project_link": "nonebot-plugin-system-command",
@@ -9947,10 +9947,10 @@
 		"git_hash": "6f65c4dcec7015d41b94b576e2cc7a043d90af7b",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-cogvideox": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "adf9a44190e229f54c7113733c28741187c6c47b",
 		"module_name": "nonebot_plugin_cogvideox",
 		"project_link": "nonebot-plugin-cogvideox",
@@ -9964,12 +9964,12 @@
 		"git_hash": "8a34528615fc5a53b5465638e6431aa475724e93",
 		"git_create": true,
 		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_pypi": "\u001b[32m11-08 01:21:23\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m11-08 01:21:23\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m11-08 01:21:24\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_cogvideox\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_cogvideox/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_cogvideox\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 257, in exec_module\n    super().exec_module(module)\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_cogvideox/__init__.py\", line 36, in <module>\n    raise ConfigError(\"请配置AI视频生成的KEY\")\n\u001b[31m\u001b[1mnonebot_plugin_cogvideox.config.ConfigError\u001b[0m:\u001b[1m 请配置AI视频生成的KEY\u001b[0m",
-		"stderr_git": "\u001b[32m11-08 01:21:38\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m11-08 01:21:38\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m11-08 01:21:39\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_cogvideox\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_cogvideox/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_cogvideox\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 257, in exec_module\n    super().exec_module(module)\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_cogvideox/__init__.py\", line 36, in <module>\n    raise ConfigError(\"请配置AI视频生成的KEY\")\n\u001b[31m\u001b[1mnonebot_plugin_cogvideox.config.ConfigError\u001b[0m:\u001b[1m 请配置AI视频生成的KEY\u001b[0m"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6",
+		"stderr_pypi": "\u001b[32m01-08 10:12:59\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m01-08 10:12:59\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m01-08 10:12:59\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_cogvideox\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_cogvideox/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_cogvideox\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.8/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 257, in exec_module\n    super().exec_module(module)\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_cogvideox/__init__.py\", line 36, in <module>\n    raise ConfigError(\"请配置AI视频生成的KEY\")\n\u001b[31m\u001b[1mnonebot_plugin_cogvideox.config.ConfigError\u001b[0m:\u001b[1m 请配置AI视频生成的KEY\u001b[0m",
+		"stderr_git": "\u001b[32m01-08 10:13:15\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m01-08 10:13:15\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m01-08 10:13:16\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_cogvideox\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_cogvideox/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_cogvideox\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.8/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 257, in exec_module\n    super().exec_module(module)\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_cogvideox/__init__.py\", line 36, in <module>\n    raise ConfigError(\"请配置AI视频生成的KEY\")\n\u001b[31m\u001b[1mnonebot_plugin_cogvideox.config.ConfigError\u001b[0m:\u001b[1m 请配置AI视频生成的KEY\u001b[0m"
 	},
 	"nonebot-plugin-gpt-sovits": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "adf9a44190e229f54c7113733c28741187c6c47b",
 		"module_name": "nonebot_plugin_gpt_sovits",
 		"project_link": "nonebot-plugin-gpt-sovits",
@@ -9983,12 +9983,12 @@
 		"git_hash": "32b9e202e1e2fa135a12475b77026387ea051e3d",
 		"git_create": true,
 		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6",
 		"stderr_pypi": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_gpt_sovits/__init__.py:7: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  require(\"nonebot_plugin_alconna\")\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/pydub/utils.py:300: SyntaxWarning: invalid escape sequence '\\('\n  m = re.match('([su]([0-9]{1,2})p?) \\(([0-9]{1,2}) bit\\)$', token)\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/pydub/utils.py:301: SyntaxWarning: invalid escape sequence '\\('\n  m2 = re.match('([su]([0-9]{1,2})p?)( \\(default\\))?$', token)\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/pydub/utils.py:310: SyntaxWarning: invalid escape sequence '\\('\n  elif re.match('(flt)p?( \\(default\\))?$', token):\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/pydub/utils.py:314: SyntaxWarning: invalid escape sequence '\\('\n  elif re.match('(dbl)p?( \\(default\\))?$', token):\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/pydub/utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work\n  warn(\"Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work\", RuntimeWarning)",
 		"stderr_git": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_gpt_sovits/__init__.py:7: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  require(\"nonebot_plugin_alconna\")\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/pydub/utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work\n  warn(\"Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work\", RuntimeWarning)"
 	},
 	"nonebot-plugin-wakatime": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "b3d01458d6dbd8f0dadce6f92d4caecbb24fa4aa",
 		"module_name": "nonebot_plugin_wakatime",
 		"project_link": "nonebot-plugin-wakatime",
@@ -9999,13 +9999,13 @@
 		"pypi_version": "0.2.6",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "503c62c2491b16728454931ec30c969fde4f70e1",
+		"git_hash": "efd0ba028d9a75bdc170516d3eb230f878674d7a",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-sunoai": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "3092ef700650c293856f890718cf9990ee57a912",
 		"module_name": "nonebot_plugin_sunoai",
 		"project_link": "nonebot-plugin-sunoai",
@@ -10019,7 +10019,7 @@
 		"git_hash": "f2c9ae906348a94c7fec614200b12b12a9faf48c",
 		"git_create": true,
 		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6",
 		"stderr_pypi": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_sunoai/__init__.py:9: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  require(\"nonebot_plugin_alconna\")",
 		"stderr_git": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_sunoai/__init__.py:9: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  require(\"nonebot_plugin_alconna\")"
 	},
@@ -10075,7 +10075,7 @@
 		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-deer-pipe": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "262725c44612936f24ed729394cc8ee51e9d2f59",
 		"module_name": "nonebot_plugin_deer_pipe",
 		"project_link": "nonebot-plugin-deer-pipe",
@@ -10089,10 +10089,10 @@
 		"git_hash": "fcf93cd4068df082e9fe8c9ce9e424fbfa6d38af",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-bili-fav-watcher": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "e54af45fe8448794a8c06d48b8c194ad7dea5b83",
 		"module_name": "nonebot_plugin_bili_fav_watcher",
 		"project_link": "nonebot-plugin-bili-fav-watcher",
@@ -10106,10 +10106,10 @@
 		"git_hash": "569705da16d030797cbf3581e2f7364f09c5ca47",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-essence-message": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "aacef53dbd65014b7bc72b57d0d05f33953c6b73",
 		"module_name": "nonebot_plugin_essence_message",
 		"project_link": "nonebot-plugin-essence-message",
@@ -10123,10 +10123,11 @@
 		"git_hash": "9c37e33e06df1dfc5ff9bd481615660fa8bed6b5",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6",
+		"stderr_pypi": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_essence_message/__init__.py:15: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  require(\"nonebot_plugin_alconna\")"
 	},
 	"nonebot-plugin-ba-tools": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "71ecff28b5ef8841d5bcf3f242cd4c26d842ba28",
 		"module_name": "nonebot_plugin_ba_tools",
 		"project_link": "nonebot-plugin-ba-tools",
@@ -10134,13 +10135,13 @@
 		"desc": "BlueArchive的工具箱",
 		"author": "hanasa2023",
 		"homepage": "https://github.com/hanasa2023/ba-tools#readme",
-		"pypi_version": "0.4.1",
+		"pypi_version": "0.4.2",
 		"pypi_create": true,
 		"pypi_run": true,
 		"git_hash": null,
 		"git_create": false,
 		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-mysticism": {
 		"__nonebot2.version__": "2.4.1",
@@ -10160,7 +10161,7 @@
 		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-alist": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "a579b55aca758125dd098e2befe57f312fe381cb",
 		"module_name": "nonebot_plugin_alist",
 		"project_link": "nonebot-plugin-alist",
@@ -10174,10 +10175,10 @@
 		"git_hash": "e4d669e0ec15e10615cd441b5cab24896e7df2c4",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-fakepic": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "09d94fe9b192ba8cfa2d7dda08d71d803c54a9eb",
 		"module_name": "nonebot_plugin_fakepic",
 		"project_link": "nonebot-plugin-fakepic",
@@ -10191,7 +10192,7 @@
 		"git_hash": "0ac846a9e2be400ed138595aa2bf1169c30b9ed1",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"pokepoke-miss": {
 		"__nonebot2.version__": "2.4.0",
@@ -10211,7 +10212,7 @@
 		"last_seen": "216bb886ba8f3f5ac8dd7cc3dcec5c86447acc7e"
 	},
 	"nonebot-plugin-ehentai-search": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "9b4e79868f33ede19885db841ca6edfbed865e6c",
 		"module_name": "nonebot_plugin_ehentai_search",
 		"project_link": "nonebot-plugin-ehentai-search",
@@ -10225,10 +10226,10 @@
 		"git_hash": "061f30110f570e1defdfd741e34a508bab02da2c",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"mai2_pcount": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "ae7c92ee46002993cf799667170a434f8b287124",
 		"module_name": "mai2_pcount",
 		"project_link": "mai2_pcount",
@@ -10242,10 +10243,10 @@
 		"git_hash": "06149aee513bc2b4c12f8258946d5997497a1ee7",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-dify": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "4e5b64fae1fb52dcfaac0cb68417bdd514d708e3",
 		"module_name": "nonebot_plugin_dify",
 		"project_link": "nonebot-plugin-dify",
@@ -10259,10 +10260,10 @@
 		"git_hash": "e3e23afe750b3e489a2a9d7fcbf611bfc0b642c8",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-looklike": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "4e5b64fae1fb52dcfaac0cb68417bdd514d708e3",
 		"module_name": "nonebot_plugin_looklike",
 		"project_link": "nonebot-plugin-looklike",
@@ -10276,10 +10277,10 @@
 		"git_hash": "1f875635d0263014799722ac0366471538ce1364",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-wait-a-minute": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "4e5b64fae1fb52dcfaac0cb68417bdd514d708e3",
 		"module_name": "nonebot_plugin_wait_a_minute",
 		"project_link": "nonebot-plugin-wait-a-minute",
@@ -10293,10 +10294,10 @@
 		"git_hash": "a25144b8bc6bcc2dd92377ebacbd76d06aa6bd7b",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-repesix": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "4e5b64fae1fb52dcfaac0cb68417bdd514d708e3",
 		"module_name": "nonebot_plugin_repesix",
 		"project_link": "nonebot-plugin-repesix",
@@ -10310,10 +10311,10 @@
 		"git_hash": "610307e5577c5519fac621eefc0fc5900656e16a",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-liteyukibot": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "4e5b64fae1fb52dcfaac0cb68417bdd514d708e3",
 		"module_name": "nonebot_plugin_liteyukibot",
 		"project_link": "nonebot-plugin-liteyukibot",
@@ -10327,10 +10328,10 @@
 		"git_hash": null,
 		"git_create": false,
 		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot_plugin_mute": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "945e4dd8887966ce9aa08303b39152b7c61cf183",
 		"module_name": "nonebot_plugin_mute",
 		"project_link": "nonebot_plugin_mute",
@@ -10344,10 +10345,10 @@
 		"git_hash": "b5c1a4c1ad6c2033bca1db57e8c7d8263fc19dac",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nekro-agent": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "fff11d1a3b06824aac30bbcdfb6d9405df77e8f4",
 		"module_name": "nekro_agent",
 		"project_link": "nekro-agent",
@@ -10355,16 +10356,16 @@
 		"desc": "集代码执行/高扩展性为一体的聊天机器人，应用了容器化技术快速构建沙盒 Agent 执行环境",
 		"author": "KroMiose",
 		"homepage": "https://github.com/KroMiose/nekro-agent",
-		"pypi_version": "0.3.18",
+		"pypi_version": "0.6.5",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "941355ae3de20639896b797c9fafbffb34d8d265",
+		"git_hash": "dde700d4d2b5c7a145e07752103622ecad48466c",
 		"git_create": false,
 		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot_plugin_lagrange": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "66354365f11ac49a887d813715df7e68c77c26a9",
 		"module_name": "nonebot_plugin_lagrange",
 		"project_link": "nonebot_plugin_lagrange",
@@ -10378,10 +10379,10 @@
 		"git_hash": "cb5420fe38808b13c7e69a5b0b91f08b3b9fee9b",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-mccheck": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "9b38ebf15ac8ec2404b73604ecafb1dea9b16e4a",
 		"module_name": "nonebot_plugin_mccheck",
 		"project_link": "nonebot-plugin-mccheck",
@@ -10389,16 +10390,16 @@
 		"desc": "Minecraft服务器状态查询，支持IPv6/Minecraft server status query, IPv6 supported",
 		"author": "molanp",
 		"homepage": "https://github.com/molanp/nonebot_plugin_mccheck",
-		"pypi_version": "0.1.39",
+		"pypi_version": "0.1.41",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "82aebe8c0f629c9b0330a6c2e9e60f40f0ad4455",
+		"git_hash": "1fd0c420e50c8c9763332fe0e0c6c7eb0c8ddb6e",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-lxns-maimai": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "14b7b5f9be92d6f2592163d562d0828b07f7d2e3",
 		"module_name": "nonebot_plugin_lxns_maimai",
 		"project_link": "nonebot-plugin-lxns-maimai",
@@ -10409,13 +10410,13 @@
 		"pypi_version": "0.1.2",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "c71b978dc3bda60169fa1bd1eb04ff7458fa6582",
+		"git_hash": "6582a43ebd4d6228d59f07313e07e67bc6b48d19",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-sendpic": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "ac99fa5b030d37c29fd176622663f8f6d84bcb9b",
 		"module_name": "nonebot_plugin_sendpic",
 		"project_link": "nonebot-plugin-sendpic",
@@ -10429,7 +10430,7 @@
 		"git_hash": "f46a556ab3c85eb6d8d33ba7097d83af793fc0fc",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-llob-master": {
 		"__nonebot2.version__": "2.4.0",
@@ -10449,7 +10450,7 @@
 		"last_seen": "81e77c5a531d208b417c3857f2238b0da35c8087"
 	},
 	"nonebot-plugin-yoyogame": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "52400cee4167eb62144ab661face60c488b12174",
 		"module_name": "nonebot_plugin_yoyogame",
 		"project_link": "nonebot-plugin-yoyogame",
@@ -10463,10 +10464,10 @@
 		"git_hash": "1de0126b819518e2e19d1a8fff295d4c39ee964f",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-tea-silencer": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "d862f7756a2bf3e472a999a10dee33ee91da1fdb",
 		"module_name": "nonebot_plugin_tea_silencer",
 		"project_link": "nonebot-plugin-tea-silencer",
@@ -10480,11 +10481,10 @@
 		"git_hash": "c9c3bb639390fab5ff66b61f7ff253c1160aac4e",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_tea_silencer/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-avalon": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "71eb97ded5f34abb70555233d247d6391f1b2bef",
 		"module_name": "nonebot_plugin_avalon",
 		"project_link": "nonebot-plugin-avalon",
@@ -10498,10 +10498,10 @@
 		"git_hash": "7621562e91b5b48b84ee44cc87d9ed92c05426b4",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-werewolf": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "d3b98447e1bb799196475ec3e4034196b0256e7c",
 		"module_name": "nonebot_plugin_werewolf",
 		"project_link": "nonebot-plugin-werewolf",
@@ -10512,13 +10512,13 @@
 		"pypi_version": "1.1.7",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "ae754a7c72975949003912919616ecb1d3965f5b",
+		"git_hash": "1155f208366079bca484e1920b501a30c8a8587e",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-tarina-lang-turbo": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "c273a5d59f4ccf5abfbb8eafb97ee37018f3015f",
 		"module_name": "nonebot_plugin_tarina_lang_turbo",
 		"project_link": "nonebot-plugin-tarina-lang-turbo",
@@ -10532,10 +10532,10 @@
 		"git_hash": "86a03d0715850b93dfad75c1e6baf73cc4ce9407",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-ACGalaxy": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "59e354d2887dce088e3d369d63828e962b1cefe8",
 		"module_name": "nonebot-plugin-ACGalaxy",
 		"project_link": "nonebot-plugin-ACGalaxy",
@@ -10549,10 +10549,10 @@
 		"git_hash": "b3c282976a15c95ba602ec4c08bc56f5c06261d4",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-QRrender": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "2b5a7500d8cada2be4047811684a43715c705423",
 		"module_name": "nonebot_plugin_QRrender",
 		"project_link": "nonebot-plugin-QRrender",
@@ -10566,10 +10566,10 @@
 		"git_hash": "f527d3009d0b28762c116df497b841d9294fde43",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-weather-rank": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "eb81ec6ed757df988cfa7c29a521915d1f8a0567",
 		"module_name": "nonebot_plugin_weather_rank",
 		"project_link": "nonebot-plugin-weather-rank",
@@ -10583,11 +10583,10 @@
 		"git_hash": null,
 		"git_create": false,
 		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_pypi": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_weather_rank/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-witff": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "712a451b5df9bd9ce87e89d19c12e8a963a48b20",
 		"module_name": "nonebot_plugin_witff",
 		"project_link": "nonebot-plugin-witff",
@@ -10601,10 +10600,10 @@
 		"git_hash": "d9788afe0bf6cc332d20048c390cdd0c66672cfb",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-logstream": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "6478aabc1250594f70a16385fb6256a549f51131",
 		"module_name": "nonebot_plugin_logstream",
 		"project_link": "nonebot-plugin-logstream",
@@ -10618,10 +10617,10 @@
 		"git_hash": "bd0bf2c98dbd6b91f7d6d6e804660f76990b0437",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-uninfo": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "942aa395f928bd08605368830bac09062426a65b",
 		"module_name": "nonebot_plugin_uninfo",
 		"project_link": "nonebot-plugin-uninfo",
@@ -10629,16 +10628,16 @@
 		"desc": "多平台的会话信息(用户、群组、频道)获取插件",
 		"author": "RF-Tar-Railt",
 		"homepage": "https://github.com/RF-Tar-Railt/nonebot-plugin-uninfo",
-		"pypi_version": "0.6.2",
+		"pypi_version": "0.6.5",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "25c66e3839fc13b201dfeef7c972f4e566967428",
+		"git_hash": "94107217087290094e50a9f36bbcd0d515c7ced7",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-inspect": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "942aa395f928bd08605368830bac09062426a65b",
 		"module_name": "nonebot_plugin_inspect",
 		"project_link": "nonebot-plugin-inspect",
@@ -10652,10 +10651,10 @@
 		"git_hash": "2adf8b929e9970050687273aa3e0236ce61253d8",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-batch-withdrawal": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "ffcf1fcbf1a3265f01dfdb126cf444bd0a25cdfc",
 		"module_name": "nonebot_plugin_batch_withdrawal",
 		"project_link": "nonebot-plugin-batch-withdrawal",
@@ -10669,10 +10668,10 @@
 		"git_hash": "bc36653f80e1a05817056112683677846696539c",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-yareminder": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "7fa5c44a538a5cb2fbb5c0d70bffaed2ddb7bd01",
 		"module_name": "nonebot_plugin_yareminder",
 		"project_link": "nonebot-plugin-yareminder",
@@ -10686,10 +10685,10 @@
 		"git_hash": "b694930eacb2ddf2d9e6842e78c04acccc71fa4d",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-calc-game": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "1f42d462d7a7f5f4e51efef35c46141835fdc4cc",
 		"module_name": "nonebot_plugin_calc_game",
 		"project_link": "nonebot-plugin-calc-game",
@@ -10703,10 +10702,10 @@
 		"git_hash": "3fadee28bc54b57f5e8e491c438189690302c442",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-fun-content": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "647fec24d47efc048f1b1b9bc0d8ab94e106d1fb",
 		"module_name": "nonebot_plugin_fun_content",
 		"project_link": "nonebot-plugin-fun-content",
@@ -10720,11 +10719,10 @@
 		"git_hash": "732f3478ffa04a505478214228b90116ee41ce63",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_fun_content/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-pjsk-helper": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "cebddd3f57a3ccfd0f9eac1551c56da0de720e0e",
 		"module_name": "nonebot_plugin_pjsk_helper",
 		"project_link": "nonebot-plugin-pjsk-helper",
@@ -10738,12 +10736,10 @@
 		"git_hash": "e46a83a09dfcf8faeeb8fd5f9865237c2a73a7da",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_pypi": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_pjsk_helper/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`",
-		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_pjsk_helper/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-color-see-see": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "46fc20b14089a2b38168933eef24b91ea7a5af3a",
 		"module_name": "nonebot_plugin_color_see_see",
 		"project_link": "nonebot-plugin-color-see-see",
@@ -10753,34 +10749,31 @@
 		"homepage": "https://github.com/FrostN0v0/nonebot-plugin-color-see-see",
 		"pypi_version": "0.2.0",
 		"pypi_create": true,
-		"pypi_run": false,
-		"git_hash": "1b0abe8a88073d5a808f85b0913de7adde19a2bb",
+		"pypi_run": true,
+		"git_hash": "cedd9eb5525a5015fd691712924cf6a2c12c7476",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_pypi": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_color_see_see/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-githubmodels": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "fa65fb50a36ba104ca19d2b292dcd3f57b0eecaa",
 		"module_name": "nonebot_plugin_githubmodels",
 		"project_link": "nonebot-plugin-githubmodels",
-		"display_name": "githubmodels",
-		"desc": "API 调用 GitHub Models 的大语言模型",
+		"display_name": "GitHub Models",
+		"desc": "一个调用 GitHub Models 的 AI 对话插件",
 		"author": "lyqgzbl",
 		"homepage": "https://github.com/lyqgzbl/nonebot-plugin-githubmodels",
-		"pypi_version": "0.2.3",
+		"pypi_version": "0.2.7",
 		"pypi_create": true,
-		"pypi_run": false,
-		"git_hash": "caf92e4dd5ffd4113dd308dcc9eba643b02382f6",
+		"pypi_run": true,
+		"git_hash": "fb8b13baed7420dfae249f27058567a012c0ee4d",
 		"git_create": true,
-		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_pypi": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_githubmodels/__init__.py:3: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  require(\"nonebot_plugin_alconna\")",
-		"stderr_git": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_githubmodels/__init__.py:3: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  require(\"nonebot_plugin_alconna\")"
+		"git_run": true,
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-beatsaberscore": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "c1182c7e2680c48ecc0a0183c3b5bd992379ae13",
 		"module_name": "nonebot_plugin_beatsaberscore",
 		"project_link": "nonebot-plugin-beatsaberscore",
@@ -10788,16 +10781,16 @@
 		"desc": "Nonebot2的节奏光剑查分插件,支持BeatLeader&ScoreSaber查分o((>ω< ))o",
 		"author": "qwq12738qwq",
 		"homepage": "https://github.com/qwq12738qwq/nonebot-plugin-beatsaberscore",
-		"pypi_version": "1.2.7",
+		"pypi_version": "1.3.2",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "6a28a5bf7f0324b951202b643f844583aca39225",
+		"git_hash": "0d6d281d8b5d2093a90788ad4a6b3769afc71cfa",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-SimpleToWrite": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "6dcac87d0e596297fd64b122c2f92f4b94690a4b",
 		"module_name": "nonebot_plugin_SimpleToWrite",
 		"project_link": "nonebot-plugin-SimpleToWrite",
@@ -10811,10 +10804,10 @@
 		"git_hash": "941c752db5bd363513fa03b04631eecb9eb8b87d",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-nonechat": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "bcaa93a2e302e992cf0f4bc0f4405d7728414d47",
 		"module_name": "nonebot_plugin_nonechat",
 		"project_link": "nonebot-plugin-nonechat",
@@ -10828,11 +10821,10 @@
 		"git_hash": null,
 		"git_create": false,
 		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_pypi": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_nonechat/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-marshoai": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "bcaa93a2e302e992cf0f4bc0f4405d7728414d47",
 		"module_name": "nonebot_plugin_marshoai",
 		"project_link": "nonebot-plugin-marshoai",
@@ -10843,14 +10835,13 @@
 		"pypi_version": "0.6.1",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "0c4835e75bd16d9b04ba3d03726c70095f372431",
+		"git_hash": "1c09a5f663628bc5ed4dc23e19f9b2825da96cd7",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_pypi": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_marshoai/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-osu-match-monitor": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "a68fce0d48ac2b1ad2512ce513289c3e04755235",
 		"module_name": "nonebot_plugin_osu_match_monitor",
 		"project_link": "nonebot-plugin-osu-match-monitor",
@@ -10864,12 +10855,10 @@
 		"git_hash": "15550838cc6d9a07932eb4b592e82ea62cc17ad1",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_pypi": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_osu_match_monitor/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`",
-		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_osu_match_monitor/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-lolinfo": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "e9e0a8d4f697237925fe64db645295667d535ed2",
 		"module_name": "nonebot_plugin_lolinfo",
 		"project_link": "nonebot-plugin-lolinfo",
@@ -10883,10 +10872,10 @@
 		"git_hash": "768955bce09aa9cf31f9d5a502ea335db16e7333",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot_plugin_bf5_grouptools": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "4ef652ff9cffc8c0f40330db3f93a4f6cfe3665e",
 		"module_name": "nonebot_plugin_bf5_grouptools",
 		"project_link": "nonebot_plugin_bf5_grouptools",
@@ -10900,11 +10889,10 @@
 		"git_hash": "f35e56d1fae5ab4fdfe5a16be524a26445931938",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_bf5_grouptools/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot_plugin_mc_watcher": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "194875f1d49464980317a6776bf633c99d926fcc",
 		"module_name": "nonebot_plugin_mc_watcher",
 		"project_link": "nonebot_plugin_mc_watcher",
@@ -10918,11 +10906,11 @@
 		"git_hash": "efe9197ca0e054340685d19e296660706aff5685",
 		"git_create": true,
 		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_mc_watcher/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6",
+		"stderr_git": "\u001b[32m01-08 10:49:08\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m01-08 10:49:08\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m01-08 10:49:09\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_mc_watcher\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_mc_watcher/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_mc_watcher\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.8/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 257, in exec_module\n    super().exec_module(module)\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_mc_watcher/__init__.py\", line 22, in <module>\n    config = get_plugin_config(Config)\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/__init__.py\", line 175, in get_plugin_config\n    return type_validate_python(config, model_dump(get_driver().config))\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/compat.py\", line 227, in type_validate_python\n    return TypeAdapter(type_).validate_python(data)\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/pydantic/type_adapter.py\", line 412, in validate_python\n    return self.validator.validate_python(\n\u001b[31m\u001b[1mpydantic_core._pydantic_core.ValidationError\u001b[0m:\u001b[1m 1 validation error for Config\nminecraft_servers\n  Field required [type=missing, input_value={'driver': '~fastapi', 'h....timedelta(seconds=120)}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/missing\u001b[0m"
 	},
 	"nonebot-plugin-zxpm": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "8707951955e3e7500078a644a1d1276b1b1a0611",
 		"module_name": "nonebot_plugin_zxpm",
 		"project_link": "nonebot-plugin-zxpm",
@@ -10930,15 +10918,13 @@
 		"desc": "真寻的插件管理系统",
 		"author": "HibiKier",
 		"homepage": "https://github.com/HibiKier/nonebot-plugin-zxpm",
-		"pypi_version": "0.2.2",
+		"pypi_version": "0.2.3",
 		"pypi_create": true,
 		"pypi_run": true,
 		"git_hash": "3bbb928326c019d2b5f0605f42f55907861f85ef",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_pypi": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_zxpm/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`",
-		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_zxpm/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-lingyi-chat": {
 		"__nonebot2.version__": "2.4.0",
@@ -12589,7 +12575,7 @@
 		"stderr_git": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_helpwithpic/plugins_data.py:22: SyntaxWarning: invalid escape sequence '\\<'\n  logger.opt(colors=True).debug(f\"[plugin_data]\\033[0m根目录正常-\\<{path_name}\\>\")\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_helpwithpic/plugins_data.py:22: SyntaxWarning: invalid escape sequence '\\>'\n  logger.opt(colors=True).debug(f\"[plugin_data]\\033[0m根目录正常-\\<{path_name}\\>\")\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_helpwithpic/plugins_data.py:25: SyntaxWarning: invalid escape sequence '\\<'\n  logger.opt(colors=True).debug(f\"[plugin_data]\\033[0m初始化根目录\\<{path_name}\\>\")\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_helpwithpic/plugins_data.py:25: SyntaxWarning: invalid escape sequence '\\>'\n  logger.opt(colors=True).debug(f\"[plugin_data]\\033[0m初始化根目录\\<{path_name}\\>\")\nFontconfig warning: \"/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf\", line 6: unknown element \"reset-dirs\""
 	},
 	"nonebot_plugin_web_bottle": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "c1b8a0c7247bacab440ad35aa20d0b8c72ee0c49",
 		"module_name": "nonebot_plugin_web_bottle",
 		"project_link": "nonebot_plugin_web_bottle",
@@ -12597,17 +12583,17 @@
 		"desc": "一个基于nonebot2与onebotv11 使用fastapi驱动的漂流瓶插件，有一个简单的web用于审核用户提交的漂流瓶",
 		"author": "luosheng520qaq",
 		"homepage": "https://github.com/luosheng520qaq/nonebot-plugin-web-bottle",
-		"pypi_version": "1.3.0",
+		"pypi_version": "1.5.2",
 		"pypi_create": false,
 		"pypi_run": false,
-		"git_hash": "ce56f07822d909a014ca3e3e31db0e4b1eb82c18",
+		"git_hash": "8b7c3e161bd56854f5f6eebbc1ddc2cc043891ca",
 		"git_create": true,
 		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_git": "\u001b[32m12-15 10:08:17\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m12-15 10:08:17\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m12-15 10:08:18\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Succeeded to load plugin \"\u001b[33mnonebot_plugin_localstore\u001b[0m\"\n\u001b[32m12-15 10:08:18\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_web_bottle\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_web_bottle/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_web_bottle\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.8/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 257, in exec_module\n    super().exec_module(module)\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_web_bottle/__init__.py\", line 11, in <module>\n    from .web_bottle import Bottle, id_add, serialize_message\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_web_bottle/web_bottle.py\", line 15, in <module>\n    from starlette.middleware.sessions import SessionMiddleware\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/starlette/middleware/sessions.py\", line 7, in <module>\n    import itsdangerous\n\u001b[31m\u001b[1mModuleNotFoundError\u001b[0m:\u001b[1m No module named 'itsdangerous'\u001b[0m"
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6",
+		"stderr_git": "\u001b[32m01-08 10:16:07\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m01-08 10:16:07\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m01-08 10:16:08\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Succeeded to load plugin \"\u001b[33mnonebot_plugin_localstore\u001b[0m\"\n\u001b[32m01-08 10:16:08\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_web_bottle\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_web_bottle/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_web_bottle\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.8/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 257, in exec_module\n    super().exec_module(module)\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_web_bottle/__init__.py\", line 11, in <module>\n    from .web_bottle import Bottle, id_add, serialize_message\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_web_bottle/web_bottle.py\", line 15, in <module>\n    from starlette.middleware.sessions import SessionMiddleware\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/starlette/middleware/sessions.py\", line 7, in <module>\n    import itsdangerous\n\u001b[31m\u001b[1mModuleNotFoundError\u001b[0m:\u001b[1m No module named 'itsdangerous'\u001b[0m"
 	},
 	"pokepoke_miss": {
-		"__nonebot2.version__": "2.4.0",
+		"__nonebot2.version__": "2.4.1",
 		"first_seen": "c1b8a0c7247bacab440ad35aa20d0b8c72ee0c49",
 		"module_name": "pokepoke_miss",
 		"project_link": "pokepoke_miss",
@@ -12620,9 +12606,8 @@
 		"pypi_run": false,
 		"git_hash": "c8b5bb3fda0c8a0b7f6df73ddde67f1293c0bd8c",
 		"git_create": true,
-		"git_run": false,
-		"last_seen": "618e4d76ee8f46d58bb09debb0334d50befef342",
-		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 40, in <module>\n    import uvicorn\nModuleNotFoundError: No module named 'uvicorn'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-pokepoke_miss/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 290, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.7/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 45, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"git_run": true,
+		"last_seen": "340cc398589cdbeaff691f026e407ae18ae5aaf6"
 	},
 	"nonebot-plugin-bfvsearch": {
 		"__nonebot2.version__": "2.4.0",
