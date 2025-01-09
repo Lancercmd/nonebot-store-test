@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.4.1`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1326,6 +1324,30 @@
 - `nonebot_plugin_addons_manager` 求生之路addons文件管理
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_flo_luck` nonebot-plugin-flo-luck
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_pjsekaihelper` 世界计划小助手
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_quark` 夸克搜
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_zxui` 小真寻的WebUi
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_whats_talk_gemini` 他们在聊什么
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_liarsbar` Liar's Bar
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_number_detection` 群成员检测 dev版
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_qbittorrent_manager` nonebot_plugin_qbittorrent_manager
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_checkbpm` 音频文件BPM计算器
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_apod` 每日天文一图
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_envious` 羡慕 koishi
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_emlp_Lightweight` 恶魔轮盘轻量版
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_summary_group` 群聊总结
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
