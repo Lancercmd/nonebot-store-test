@@ -896,6 +896,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_game_collection` 小游戏合集
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bottle` 漂流瓶
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_biliav` NoneBot biliav小程序 查看插件
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_lolmatch` lol比赛信息
@@ -1280,8 +1282,6 @@
 - `nonebot_plugin_kindness_lesson` 恩情课文
   - `PyPI ❌` `Git ❌`
 - `YetAnotherPicSearch` YetAnotherPicSearch
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_bottle` 漂流瓶
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bilibili_viode` B站视频伪分享卡片
   - `PyPI ❌` `Git ❌`
