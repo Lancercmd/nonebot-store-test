@@ -976,6 +976,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_pictranslator` nonebot-plugin-pictranslator
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_fortnite` 堡垒之夜游戏插件
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
