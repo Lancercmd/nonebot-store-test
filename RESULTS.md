@@ -1345,7 +1345,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_number_detection` 群成员检测 dev版
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_qbittorrent_manager` nonebot_plugin_qbittorrent_manager
+- `nonebot_plugin_qbittorrent_manager` qb管理器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_checkbpm` 音频文件BPM计算器
   - `PyPI ❌` `Git ❌`
