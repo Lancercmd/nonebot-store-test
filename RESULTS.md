@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.4.1`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -966,11 +964,15 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_nailongmagic` 奶龙魔法
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_picstatus_template_zhenxun` PicStatus Template ZhenXun
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_arcaea_sticker` Arcaea表情包生成器
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_auto_enter_group` 加群自动审批
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_prometheus` Prometheus 监控
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_liarsbar` Liar's Bar
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_palworld` nonebot_plugin_palworld
   - `PyPI ✅` `Git ✅`
@@ -1325,8 +1327,6 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_ollama` nonebot-plugin-ollama
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_picstatus_template_zhenxun` PicStatus Template ZhenXun
-  - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_simple_block` 简易群聊屏蔽
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_add_friends` 好友与群邀请管理
@@ -1342,8 +1342,6 @@
 - `nonebot_plugin_zxui` 小真寻的WebUi
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_whats_talk_gemini` 他们在聊什么
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_liarsbar` Liar's Bar
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_number_detection` 群成员检测 dev版
   - `PyPI ❌` `Git ❌`
