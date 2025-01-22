@@ -158,6 +158,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_moegoe` 日韩中 VITS 模型原神拟声
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_pixivbot` PixivBot
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_workscore` 工作性价比计算器
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_treehelp` 帮助
@@ -231,6 +233,8 @@
 - `nonebot_plugin_trace_moe` 动画截图场景追溯
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_zyk_music` 免费快捷点歌插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_majsoul` 雀魂查询
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_remove_bg` 图片背景消除
   - `PyPI ✅` `Git ✅`
@@ -1040,8 +1044,6 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_groupmanager` 多功能群管
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_pixivbot` PixivBot
-  - `PyPI ❌` `Git ❌`
 - `cqsat` HAM助手
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_course` 课表查询
@@ -1073,8 +1075,6 @@
 - `nonebot_plugin_repeep` 谁在窥屏
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_chatgpt` ChatGPT
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_majsoul` 雀魂查询
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_exchangerate` 汇率换算
   - `PyPI ❌` `Git ❌`
