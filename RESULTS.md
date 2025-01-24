@@ -1357,6 +1357,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_summary_group` 群聊总结
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_neuro_draw` NeuroDraw
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
