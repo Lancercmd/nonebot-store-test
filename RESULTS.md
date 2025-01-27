@@ -1361,6 +1361,12 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_remind` 定时提醒
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_joke` 中英文笑话
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_group_file_admin` 群文件管理
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_deepseek` DeepSeek
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
