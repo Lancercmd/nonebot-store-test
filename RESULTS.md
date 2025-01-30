@@ -1367,6 +1367,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_group_file_admin` 群文件管理
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bot_tap` BotTap
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
