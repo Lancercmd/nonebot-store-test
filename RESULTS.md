@@ -986,6 +986,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fortnite` 堡垒之夜游戏插件
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_deepseek` DeepSeek
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1364,8 +1366,6 @@
 - `nonebot_plugin_joke` 中英文笑话
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_group_file_admin` 群文件管理
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_deepseek` DeepSeek
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
