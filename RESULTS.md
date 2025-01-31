@@ -794,7 +794,7 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_nonechat` nonechat
   - `PyPI ✅` `Git ❌`
-- `nonebot_plugin_marshoai` Marsho AI插件
+- `nonebot_plugin_marshoai` Marsho AI 插件
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_osu_match_monitor` osu! Match Monitor
   - `PyPI ✅` `Git ✅`
