@@ -1371,6 +1371,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bot_tap` BotTap
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_groups_aichat` AI群聊机器人
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
