@@ -988,6 +988,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_deepseek` DeepSeek
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_track_anime` 追番小工具
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
