@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.4.1`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -991,6 +989,10 @@
 - `nonebot_plugin_deepseek` DeepSeek
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_track_anime` 追番小工具
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ACMD` nonebot-plugin-ACMD
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_suggarchat` SuggarChat OpenAI协议聊天插件
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
