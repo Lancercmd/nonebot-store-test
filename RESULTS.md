@@ -988,6 +988,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_deepseek` DeepSeek
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bot_tap` BotTap
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_track_anime` 追番小工具
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ACMD` nonebot-plugin-ACMD
@@ -1372,8 +1374,6 @@
 - `nonebot_plugin_joke` 中英文笑话
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_group_file_admin` 群文件管理
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_bot_tap` BotTap
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_groups_aichat` AI群聊机器人
   - `PyPI ❌` `Git ❌`
