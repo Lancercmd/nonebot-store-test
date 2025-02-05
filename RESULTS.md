@@ -978,6 +978,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_liarsbar` Liar's Bar
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_apod` 每日天文一图
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_palworld` nonebot_plugin_palworld
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_llm_jade` 玉！
@@ -1358,8 +1360,6 @@
 - `nonebot_plugin_qbittorrent_manager` qb管理器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_checkbpm` 音频文件BPM计算器
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_apod` 每日天文一图
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_envious` 羡慕 koishi
   - `PyPI ❌` `Git ❌`
