@@ -1377,6 +1377,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_groups_aichat` AI群聊机器人
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_nbnhhsh_q` [ 缩写翻译 ] 能不能好好说话 - nbnhhsh
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
