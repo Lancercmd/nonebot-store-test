@@ -988,6 +988,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fortnite` 堡垒之夜游戏插件
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_remind` 定时提醒
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_deepseek` DeepSeek
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bot_tap` BotTap
@@ -1368,8 +1370,6 @@
 - `nonebot_plugin_summary_group` 群聊总结
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_neuro_draw` NeuroDraw
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_remind` 定时提醒
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_joke` 中英文笑话
   - `PyPI ❌` `Git ❌`
