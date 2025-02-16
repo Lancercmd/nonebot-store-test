@@ -1000,6 +1000,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_suggarchat` SuggarChat OpenAI协议聊天插件
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nbnhhsh_q` [ 缩写翻译 ] 能不能好好说话 - nbnhhsh
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1376,8 +1378,6 @@
 - `nonebot_plugin_group_file_admin` 群文件管理
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_groups_aichat` AI群聊机器人
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_nbnhhsh_q` [ 缩写翻译 ] 能不能好好说话 - nbnhhsh
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_llmchat` llmchat
   - `PyPI ❌` `Git ❌`
