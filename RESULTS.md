@@ -1381,6 +1381,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_llmchat` llmchat
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_group_config` 群聊配置
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
