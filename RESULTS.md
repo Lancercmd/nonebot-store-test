@@ -1383,6 +1383,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_group_config` 群聊配置
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_luoguluck` LuoguLuck|洛谷运势
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
