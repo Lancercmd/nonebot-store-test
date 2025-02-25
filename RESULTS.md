@@ -1385,6 +1385,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_luoguluck` LuoguLuck|洛谷运势
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_vocu` Vocu 语音插件
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
