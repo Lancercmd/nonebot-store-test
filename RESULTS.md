@@ -1401,7 +1401,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mc_server_status` MC服务器信息查询插件
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_setu_customization` setu_customization
+- `nonebot_plugin_setu_customization` 动态API色图插件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_easy_translate` 简单翻译插件
   - `PyPI ❌` `Git ❌`
