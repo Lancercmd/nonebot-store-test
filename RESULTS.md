@@ -1391,6 +1391,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_timed_nickname_updater` 群昵称更新
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_meme_stickers` Meme Stickers
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
