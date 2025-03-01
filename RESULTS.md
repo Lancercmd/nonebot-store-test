@@ -1387,6 +1387,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_vocu` Vocu 语音插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_aitalk` 简易AI聊天
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_timed_nickname_updater` 群昵称更新
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
