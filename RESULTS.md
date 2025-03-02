@@ -1393,6 +1393,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_meme_stickers` Meme Stickers
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_whois` nonebot-plugin-whois
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_tangkiller` 唐菲检测
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
