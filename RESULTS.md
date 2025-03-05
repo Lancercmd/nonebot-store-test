@@ -954,7 +954,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_zxwb` ZXWB词库问答
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_resolver2` 链接分享解析器重制版
+- `nonebot_plugin_resolver2` 链接分享自动解析
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_water_geoup_stats` 发言统计
   - `PyPI ✅` `Git ✅`
