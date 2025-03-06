@@ -1004,6 +1004,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_luoguluck` LuoguLuck|洛谷运势
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_vocu` Vocu 语音插件
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1384,8 +1386,6 @@
 - `nonebot_plugin_llmchat` llmchat
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_group_config` 群聊配置
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_vocu` Vocu 语音插件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_aitalk` 简易AI聊天
   - `PyPI ❌` `Git ❌`
