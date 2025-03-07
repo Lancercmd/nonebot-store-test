@@ -1397,6 +1397,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_tangkiller` 唐菲检测
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_binsearch` 卡bin查询
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
