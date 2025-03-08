@@ -978,6 +978,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_liarsbar` Liar's Bar
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_number_detection` 群成员检测 dev版
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_apod` 每日天文一图
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_palworld` nonebot_plugin_palworld
@@ -1362,8 +1364,6 @@
 - `nonebot_plugin_zxui` 小真寻的WebUi
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_whats_talk_gemini` 他们在聊什么
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_number_detection` 群成员检测 dev版
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_qbittorrent_manager` qb管理器
   - `PyPI ❌` `Git ❌`
