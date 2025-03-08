@@ -1399,6 +1399,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_binsearch` 卡bin查询
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_chatgpt_api` ChatGPT (OpenAI API 接口版)
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
