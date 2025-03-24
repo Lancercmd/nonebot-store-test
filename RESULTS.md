@@ -1405,6 +1405,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_llm_plugins_call` LLM调用nonebot插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_dingzhen` 丁真语音生成器
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
