@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.4.2`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1042,6 +1040,20 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_suggarchat` SuggarChat 高可扩展性大模型聊天插件/框架
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nbnhhsh_q` [ 缩写翻译 ] 能不能好好说话 - nbnhhsh
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_luoguluck` LuoguLuck|洛谷运势
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_vocu` Vocu 语音插件
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_aiochatllm` nonebot-plugin-aiochatllm
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_guess_song` maimai猜歌小游戏
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_paminet_nodirtymsg` No Dirty Message
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_suggarex_cf` SuggarChat CloudFlare协议扩展附属插件
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1370,6 +1382,28 @@
 - `nonebot_plugin_qbittorrent_manager` qb管理器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_summary_group` 群聊总结
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_llmchat` llmchat
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_group_config` 群聊配置
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_aitalk` 简易AI聊天
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_timed_nickname_updater` 群昵称更新
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_meme_stickers` Meme Stickers
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_whois` nonebot-plugin-whois
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_tangkiller` 唐菲检测
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_binsearch` 卡bin查询
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_chatgpt_api` ChatGPT (OpenAI API 接口版)
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_random_reply` 拟人回复bot
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_llm_plugins_call` LLM调用nonebot插件
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
