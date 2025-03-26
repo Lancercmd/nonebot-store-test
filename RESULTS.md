@@ -1407,6 +1407,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_dingzhen` 丁真语音生成器
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_gold_price` 金价查询
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_whoasked` whoasked
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
