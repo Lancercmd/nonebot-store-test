@@ -1413,6 +1413,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_moellmchats` MoEllm聊天
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_jmdownloader` JMComic插件
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
