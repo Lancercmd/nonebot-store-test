@@ -530,7 +530,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ernie` 文心一言
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_ottohzys` 大电老师活字印刷
+- `nonebot_plugin_ottohzys` 活字印刷
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ability` 聚能环
   - `PyPI ✅` `Git ✅`
