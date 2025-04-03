@@ -1045,7 +1045,7 @@
 - `nonebot_plugin_luoguluck` LuoguLuck|洛谷运势
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_vocu` Vocu 语音插件
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_aiochatllm` nonebot-plugin-aiochatllm
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_guess_song` maimai猜歌小游戏
