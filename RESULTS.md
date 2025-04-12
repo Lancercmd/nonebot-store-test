@@ -1054,6 +1054,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_suggarex_cf` SuggarChat CloudFlare协议扩展附属插件
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_zssm` nonebot-plugin-zssm
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_gemini_vision` Gemini Vision
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
