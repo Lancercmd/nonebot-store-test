@@ -1415,6 +1415,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_jmdownloader` JMComic插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_jm` 禁漫下载
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
