@@ -974,7 +974,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot-plugin-multimodal-gemini` 谷歌 Gemini 多模态助手
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_csgomarket` CSGO_MARKET
+- `nonebot_plugin_csgomarket` nonebot-plugin-csgomarket
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_nailongmagic` 奶龙魔法
   - `PyPI ✅` `Git ✅`
