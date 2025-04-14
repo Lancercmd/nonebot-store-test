@@ -1421,6 +1421,12 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_jm` 禁漫下载
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_oi_helper` nonebot-plugin-OI-helper
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mclib` MC服务器/玩家查询
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_furryyunhei` nonebot-plugin-furryyunhei
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
