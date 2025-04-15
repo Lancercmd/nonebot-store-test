@@ -1427,6 +1427,16 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_furryyunhei` nonebot-plugin-furryyunhei
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_testhkk` AI 群聊助手
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_error_report` 报错处理器
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_asmr100` asmr100
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_skland` 森空岛
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_argot` 暗语消息
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
