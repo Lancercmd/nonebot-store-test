@@ -1058,6 +1058,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_gemini_vision` Gemini Vision
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_github_release_notifier` github_release_notifier
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
