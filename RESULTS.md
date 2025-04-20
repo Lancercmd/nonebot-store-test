@@ -1062,6 +1062,12 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_github_release_notifier` github_release_notifier
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mcmod` mcmod百科插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_revolver` 简易左轮禁言
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_custom_face` nonebot-plugin-custom-face
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
