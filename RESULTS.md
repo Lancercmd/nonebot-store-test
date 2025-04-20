@@ -1439,6 +1439,14 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_skland` 森空岛
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bfvservermap` bfvservermap
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_tieba_monitor` 贴吧监控
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_anywhere_llm` nonebot-plugin-anywhere-llm
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_latex` LaTeX 在线渲染插件
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
