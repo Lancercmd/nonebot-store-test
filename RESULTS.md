@@ -1068,6 +1068,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_custom_face` nonebot-plugin-custom-face
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_jmcomic` nonebot-plugin-jmcomic
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
