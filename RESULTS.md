@@ -1058,6 +1058,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_gemini_vision` Gemini Vision
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_skland` 森空岛
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_argot` 暗语消息
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_github_release_notifier` github_release_notifier
@@ -1444,8 +1446,6 @@
 - `nonebot_plugin_error_report` 报错处理器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_asmr100` asmr100
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_skland` 森空岛
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bfvservermap` bfvservermap
   - `PyPI ❌` `Git ❌`
