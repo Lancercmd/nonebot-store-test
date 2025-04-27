@@ -1054,6 +1054,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_suggarex_cf` SuggarChat CloudFlare协议扩展附属插件
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_whoasked` whoasked
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_zssm` nonebot-plugin-zssm
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_gemini_vision` Gemini Vision
@@ -1071,6 +1073,8 @@
 - `nonebot_plugin_custom_face` nonebot-plugin-custom-face
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_jmcomic` nonebot-plugin-jmcomic
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ban_sticker` nonebot-plugin-ban-sticker
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
@@ -1426,8 +1430,6 @@
 - `nonebot_plugin_dingzhen` 丁真语音生成器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_gold_price` 金价查询
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_whoasked` whoasked
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_moellmchats` MoEllm聊天
   - `PyPI ❌` `Git ❌`
