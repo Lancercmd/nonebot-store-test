@@ -1459,6 +1459,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_taygedo_helper` 塔吉多助手
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_hitokoto_plus` 一言+
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_poker` 扑克对决
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
