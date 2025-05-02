@@ -1076,6 +1076,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ban_sticker` nonebot-plugin-ban-sticker
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_hitokoto_plus` 一言+
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1458,8 +1460,6 @@
 - `nonebot_plugin_latex` LaTeX 在线渲染插件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_taygedo_helper` 塔吉多助手
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_hitokoto_plus` 一言+
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_poker` 扑克对决
   - `PyPI ❌` `Git ❌`
