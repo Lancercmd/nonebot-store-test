@@ -1463,6 +1463,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_poker` 扑克对决
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mhguesser` nonebot-plugin-mhguesser
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ciku` 词库语言进阶版
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
