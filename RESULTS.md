@@ -1467,6 +1467,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_ciku` 词库语言进阶版
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_noadpls` 群聊广告哒咩
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
