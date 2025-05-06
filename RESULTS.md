@@ -1469,6 +1469,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_noadpls` 群聊广告哒咩
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_sideload` Web侧载
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
