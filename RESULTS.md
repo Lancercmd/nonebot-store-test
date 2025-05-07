@@ -1078,6 +1078,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_hitokoto_plus` 一言+
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ciku` 词库语言进阶版
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1464,8 +1466,6 @@
 - `nonebot_plugin_poker` 扑克对决
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mhguesser` nonebot-plugin-mhguesser
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_ciku` 词库语言进阶版
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_noadpls` 群聊广告哒咩
   - `PyPI ❌` `Git ❌`
