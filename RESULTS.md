@@ -1471,6 +1471,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_sideload` Web侧载
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_paper` nonebot_plugin_paper
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
