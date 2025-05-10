@@ -1066,6 +1066,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_github_release_notifier` github_release_notifier
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_tieba_monitor` 贴吧监控
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_mcmod` mcmod百科插件
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_revolver` 简易左轮禁言
@@ -1079,6 +1081,8 @@
 - `nonebot_plugin_hitokoto_plus` 一言+
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ciku` 词库语言进阶版
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_dorodoro` doro大冒险
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
@@ -1454,8 +1458,6 @@
 - `nonebot_plugin_asmr100` asmr100
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bfvservermap` bfvservermap
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_tieba_monitor` 贴吧监控
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_anywhere_llm` nonebot-plugin-anywhere-llm
   - `PyPI ❌` `Git ❌`
