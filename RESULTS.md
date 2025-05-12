@@ -1082,6 +1082,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ciku` 词库语言进阶版
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_noadpls` 群聊广告哒咩
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_dorodoro` doro大冒险
   - `PyPI ✅` `Git ✅`
 
@@ -1468,8 +1470,6 @@
 - `nonebot_plugin_poker` 扑克对决
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mhguesser` nonebot-plugin-mhguesser
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_noadpls` 群聊广告哒咩
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_sideload` Web侧载
   - `PyPI ❌` `Git ❌`
