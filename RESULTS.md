@@ -1086,6 +1086,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_dorodoro` doro大冒险
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_qqdetail` QQ账号详细信息查询
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
