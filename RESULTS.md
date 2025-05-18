@@ -1055,7 +1055,7 @@
 - `nonebot_plugin_suggarex_cf` SuggarChat CloudFlare协议扩展附属插件
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_whoasked` whoasked
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_zssm` nonebot-plugin-zssm
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_gemini_vision` Gemini Vision
@@ -1084,9 +1084,13 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_noadpls` 群聊广告哒咩
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_sideload` Web侧载
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_dorodoro` doro大冒险
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_qqdetail` QQ账号详细信息查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_farm` 真寻农场
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
@@ -1472,8 +1476,6 @@
 - `nonebot_plugin_poker` 扑克对决
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mhguesser` nonebot-plugin-mhguesser
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_sideload` Web侧载
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_paper` nonebot_plugin_paper
   - `PyPI ❌` `Git ❌`
