@@ -1080,6 +1080,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_hitokoto_plus` 一言+
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_poker` 扑克对决
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ciku` 词库语言进阶版
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_noadpls` 群聊广告哒咩
@@ -1472,8 +1474,6 @@
 - `nonebot_plugin_latex` LaTeX 在线渲染插件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_taygedo_helper` 塔吉多助手
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_poker` 扑克对决
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mhguesser` nonebot-plugin-mhguesser
   - `PyPI ❌` `Git ❌`
