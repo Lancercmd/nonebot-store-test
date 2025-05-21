@@ -94,7 +94,7 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_leetcode2` 第二个leetcode查询插件
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_mediawiki` MediaWiki查询
+- `nonebot_plugin_mediawiki` Wiki推送
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_giyf` 快速搜索
   - `PyPI ✅` `Git ✅`
