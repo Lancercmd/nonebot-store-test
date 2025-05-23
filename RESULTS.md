@@ -1483,6 +1483,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_multi_source_daily` 多源日报
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ehentai` nonebot-plugin-ehentai
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
