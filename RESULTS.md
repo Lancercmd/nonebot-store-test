@@ -1487,6 +1487,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_ehentai` nonebot-plugin-ehentai
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_nyaturingtest` NYATuringTest
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
