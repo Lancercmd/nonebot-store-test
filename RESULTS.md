@@ -612,6 +612,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_auto_bot_selector` nonebot-plugin-auto-bot-selector
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_clovers` NoneBotCloversClient
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_hx_yinying` Hx_YinYing
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fhl` 飞花令
