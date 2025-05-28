@@ -412,7 +412,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot-plugin-coderun` 运行代码
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_megumin` 为美好群聊献上爆炎
+- `nonebot_plugin_megumin` 为美好群聊献上爆炎2
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_manga_translator` 图片翻译
   - `PyPI ✅` `Git ✅`
