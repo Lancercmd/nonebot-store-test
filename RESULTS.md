@@ -1495,6 +1495,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bfvplayerlist` bfvplayerlist
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_emojilike_automonkey` nonebot-plugin-emojilike-automonkey
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
