@@ -1491,6 +1491,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nyaturingtest` NYATuringTest
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_pokemonle` nonebot-plugin-pokemonle
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bfvplayerlist` bfvplayerlist
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
