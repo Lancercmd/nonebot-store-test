@@ -1086,7 +1086,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_poker` 扑克对决
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_ciku` 词库语言进阶版
+- `nonebot_plugin_ciku` 词库进阶版
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_noadpls` 群聊广告哒咩
   - `PyPI ❌` `Git ✅`
@@ -1217,6 +1217,8 @@
 - `nonebot_plugin_uuid` uuid生成器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_naturel_gpt` 更人性化的GPT-Ai聊天插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_maimai` 舞萌maimai
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_gsabyss` 原神深境螺旋数据查询
   - `PyPI ❌` `Git ❌`
@@ -1497,11 +1499,11 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_emojilike_automonkey` nonebot-plugin-emojilike-automonkey
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_df_armor_repair_simulator` nonebot_plugin_df_armor_repair_simulator
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_maimai` 舞萌maimai
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_saa` 峯驰物流
   - `PyPI ❌` `Git ❌`
