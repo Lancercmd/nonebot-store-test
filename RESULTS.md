@@ -1065,7 +1065,7 @@
 - `nonebot_plugin_asmr100` ASMR音声分享插件
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_skland` 森空岛
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_argot` 暗语消息
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_github_release_notifier` github_release_notifier
