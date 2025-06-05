@@ -1098,6 +1098,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_farm` 真寻农场
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_multi_source_daily` 多源日报
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_picmenu_next` PicMenu Next
   - `PyPI ✅` `Git ✅`
 
@@ -1486,8 +1488,6 @@
 - `nonebot_plugin_paper` nonebot_plugin_paper
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_fix_qq_img_ssl` 修复 QQ 图床 SSL 错误
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_multi_source_daily` 多源日报
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_ehentai` nonebot-plugin-ehentai
   - `PyPI ❌` `Git ❌`
