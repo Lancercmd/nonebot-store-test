@@ -1501,6 +1501,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_df_armor_repair_simulator` nonebot_plugin_df_armor_repair_simulator
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_hacker_news` Hacker News
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
