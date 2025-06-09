@@ -322,6 +322,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_matcher_block` 通用指令阻断
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_maimai` 舞萌maimai
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_all4one` OneBot 实现
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_arktools` 明日方舟工具箱
@@ -1102,6 +1104,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_picmenu_next` PicMenu Next
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_limiter` 命令冷却
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1219,8 +1223,6 @@
 - `nonebot_plugin_uuid` uuid生成器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_naturel_gpt` 更人性化的GPT-Ai聊天插件
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_maimai` 舞萌maimai
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_gsabyss` 原神深境螺旋数据查询
   - `PyPI ❌` `Git ❌`
