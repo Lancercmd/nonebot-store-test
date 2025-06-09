@@ -322,7 +322,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_matcher_block` 通用指令阻断
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_maimai` 舞萌maimai
+- `nonebot_plugin_maimai` 舞萌DX成绩查询
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_all4one` OneBot 实现
   - `PyPI ✅` `Git ✅`
