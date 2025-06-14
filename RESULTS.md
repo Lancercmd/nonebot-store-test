@@ -1505,6 +1505,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_hacker_news` Hacker News
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_zzzpanel` 绝区零角色数据获取
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
