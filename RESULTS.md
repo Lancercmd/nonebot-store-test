@@ -540,6 +540,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_playercheck` nonebot-plugin-playercheck
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_vrchat` VRChat查询
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_batitle` BlueArchive Title Generator
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_make_choice` 选择困难症
@@ -1329,8 +1331,6 @@
 - `nonebot-plugin-yesman` 肯定机
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_fgoavatarguess` FGO猜从者
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_vrchat` VRChat查询
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_maimaidx` nonebot-plugin-maimaidx
   - `PyPI ❌` `Git ❌`
