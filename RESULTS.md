@@ -1110,6 +1110,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_limiter` 命令冷却
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_NobleDuel` nonebot-plugin-NobleDuel
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
