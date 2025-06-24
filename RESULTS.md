@@ -1062,6 +1062,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_whoasked` whoasked
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_jm` 禁漫下载
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_zssm` nonebot-plugin-zssm
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_gemini_vision` Gemini Vision
@@ -1464,8 +1466,6 @@
 - `nonebot_plugin_moellmchats` MoEllm聊天
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_jmdownloader` JMComic插件
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_jm` 禁漫下载
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_oi_helper` nonebot-plugin-OI-helper
   - `PyPI ❌` `Git ❌`
