@@ -1513,6 +1513,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_binance` 币安小助手
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_orm` nonebot-plugin-orm
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_exdi` 依赖注入扩展
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
