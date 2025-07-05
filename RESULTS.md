@@ -1517,6 +1517,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_orm` nonebot-plugin-orm
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_xibao` 喜（悲）报生成器
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_vv` 维维表情包搜索器
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
