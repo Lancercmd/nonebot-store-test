@@ -1,3 +1,5 @@
+已达到限制，结束测试。
+
 `nonebot2 == 2.4.2`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
