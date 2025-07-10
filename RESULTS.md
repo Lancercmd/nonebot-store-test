@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.4.2`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1522,6 +1520,8 @@
 - `nonebot_plugin_xibao` 喜（悲）报生成器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_vv` 维维表情包搜索器
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_deltaforce_simulator` 三角洲鼠鼠偷吃模拟器
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
