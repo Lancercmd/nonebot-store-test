@@ -600,7 +600,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_a2s_query` a2s查询
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_orangejuice` 100orangejuice
+- `nonebot_plugin_orangejuice` 100%鲜橙汁！
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_md` Muse Dash
   - `PyPI ❌` `Git ✅`
