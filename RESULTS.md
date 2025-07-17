@@ -470,6 +470,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ocgbot_v2` 游戏王小蓝卡查
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_poke` 戳一戳事件
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_friends` 远程同意好友
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_update` NPU
@@ -1289,8 +1291,6 @@
 - `nonebot_plugin_warthunder_player_check` 战雷查水表
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_helltide` Diablo4地狱狂潮boss提醒小助手
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_poke` 戳一戳事件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_wenan` nonebot-plugin-wenan
   - `PyPI ❌` `Git ❌`
