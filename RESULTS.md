@@ -1523,6 +1523,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_deltaforce_simulator` 三角洲鼠鼠偷吃模拟器
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_liteperm` LitePerm 权限管理插件
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
