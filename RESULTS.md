@@ -471,7 +471,7 @@
 - `nonebot_plugin_ocgbot_v2` 游戏王小蓝卡查
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_poke` 戳一戳事件
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_friends` 远程同意好友
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_update` NPU
