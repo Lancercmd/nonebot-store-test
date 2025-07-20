@@ -182,8 +182,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_warframe` 星际战甲事件查询
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_mcqq_server` Minecraft Server 聊天同步
-  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_mcqq_server` Minecraft Server 消息互通
+  - `PyPI ✅` `Git ✅`
 - `nonebot-plugin-wolf-kill` 狼人杀插件
   - `PyPI ✅` `Git ✅`
 - `iot` nonebot物联网插件
