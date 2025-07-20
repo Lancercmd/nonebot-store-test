@@ -1525,6 +1525,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_liteperm` LitePerm 权限管理插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_lazytea` LazyTea
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
