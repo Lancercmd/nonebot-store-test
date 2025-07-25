@@ -8808,12 +8808,12 @@
 		"pypi_version": "1.3.4",
 		"pypi_create": true,
 		"pypi_run": false,
-		"git_hash": "8fdfe1aade1bc527a7d27091439e37b61238b668",
+		"git_hash": "dfa7a0fd571bb8d115ed4837d80fa13abcbbad04",
 		"git_create": true,
 		"git_run": false,
 		"last_seen": "07d3dc7b2edfe0d0b8f5dc79fb202865fd99aaba",
 		"stderr_pypi": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_steam_info/__init__.py:15: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  require(\"nonebot_plugin_alconna\")",
-		"stderr_git": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot_plugin_steam_info/__init__.py:15: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  require(\"nonebot_plugin_alconna\")"
+		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 39, in <module>\n    from fastapi import FastAPI, Request, UploadFile, status\nModuleNotFoundError: No module named 'fastapi'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_steam_info/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 292, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.11/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 44, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
 	},
 	"nonebot-plugin-orangejuice": {
 		"__nonebot2.version__": "2.4.2",
@@ -9815,7 +9815,7 @@
 		"pypi_version": "1.1.2",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "a828fc7023f44b514b16b41a48d2c0c742951f6f",
+		"git_hash": "8644d3c898e176cb0021363929508add655da800",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "07d3dc7b2edfe0d0b8f5dc79fb202865fd99aaba"
@@ -10454,7 +10454,7 @@
 		"pypi_version": "1.3.7",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "8fe81c2f6bf42a2fe82e39218ab523c77963ba5c",
+		"git_hash": "cf2f53d0bf4ff6e495a20a6b551fcc02264ae16c",
 		"git_create": false,
 		"git_run": false,
 		"last_seen": "07d3dc7b2edfe0d0b8f5dc79fb202865fd99aaba"
@@ -11846,7 +11846,7 @@
 		"pypi_version": "2.0.8",
 		"pypi_create": false,
 		"pypi_run": false,
-		"git_hash": "ca7a1971af527c5ed2875ec7edef703eee52bb44",
+		"git_hash": "03f6d78d9a3865016da4336f2150ffb251a18bb2",
 		"git_create": true,
 		"git_run": false,
 		"last_seen": "07d3dc7b2edfe0d0b8f5dc79fb202865fd99aaba",
