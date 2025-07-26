@@ -1888,7 +1888,7 @@
 		"pypi_version": "1.10.2",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "144c223fe93f5b286f174f804039f819fa1df615",
+		"git_hash": "fdbb2f3f6e49d6e203ec3f802279c802426e3526",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "4b644bf6c3a510a48efae25f5c8f2f7537d8040e"
@@ -6466,10 +6466,11 @@
 		"pypi_version": "1.0.8",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "b557c73c14df6d005c56ce30963f608e35d24917",
+		"git_hash": "5a463527b206f68762e23473a378dc29239cd55d",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "4b644bf6c3a510a48efae25f5c8f2f7537d8040e"
+		"last_seen": "4b644bf6c3a510a48efae25f5c8f2f7537d8040e",
+		"stderr_git": "\u001b[32m07-26 22:08:32\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m07-26 22:08:32\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m07-26 22:08:33\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_cube\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_cube/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_cube\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.11/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1324, in _find_and_load_unlocked\n\u001b[31m\u001b[1mModuleNotFoundError\u001b[0m:\u001b[1m No module named 'nonebot_plugin_cube'\u001b[0m"
 	},
 	"nonebot-plugin-homo-mathematician": {
 		"__nonebot2.version__": "2.4.2",
@@ -6500,7 +6501,7 @@
 		"pypi_version": "1.0.4",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "d99bec3ede744372a6e1e3a2dc056c25381376df",
+		"git_hash": "504fa0bc83495a7845220fb8b5e7b154b4f6775b",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "4b644bf6c3a510a48efae25f5c8f2f7537d8040e"
