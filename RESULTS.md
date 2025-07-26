@@ -1116,6 +1116,10 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_exdi` 依赖注入扩展
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_flomic` nonebot-plugin-flomic
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_fishing2` 更好的电子钓鱼
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
