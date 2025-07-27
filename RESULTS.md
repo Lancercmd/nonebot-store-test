@@ -1116,6 +1116,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_exdi` 依赖注入扩展
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_liteperm` LitePerm 权限管理插件
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_flomic` nonebot-plugin-flomic
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fishing2` 更好的电子钓鱼
@@ -1527,9 +1529,11 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_deltaforce_simulator` 三角洲鼠鼠偷吃模拟器
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_liteperm` LitePerm 权限管理插件
-  - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_lazytea` LazyTea
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_llm_helper` LLM-Helper
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_guess_disease` 猜猜病
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
