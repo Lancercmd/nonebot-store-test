@@ -1114,6 +1114,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_NobleDuel` nonebot-plugin-NobleDuel
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_sunset_reminder` nonebot_plugin_sunset_reminder
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_exdi` 依赖注入扩展
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_liteperm` LitePerm 权限管理插件
@@ -1123,6 +1125,8 @@
 - `nonebot_plugin_flomic` nonebot-plugin-flomic
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fishing2` 更好的电子钓鱼
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_delta_helper` 三角洲助手
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
@@ -1518,8 +1522,6 @@
 - `nonebot_plugin_hacker_news` Hacker News
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_zzzpanel` 绝区零角色数据获取
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_sunset_reminder` nonebot_plugin_sunset_reminder
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_binance` 币安小助手
   - `PyPI ❌` `Git ❌`
