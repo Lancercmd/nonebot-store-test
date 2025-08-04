@@ -1541,6 +1541,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_lazytea_shell_extension` LazyTea命令拓展
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_nmcweather` 天气查询
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
