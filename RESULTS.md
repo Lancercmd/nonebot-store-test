@@ -1130,6 +1130,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_delta_helper` 三角洲助手
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_fuckfinalshell` FinalShell 离线激活码
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
