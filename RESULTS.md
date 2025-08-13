@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.4.3`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -622,6 +620,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_auto_bot_selector` nonebot-plugin-auto-bot-selector
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_clovers` NoneBotCloversClient
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_hx_yinying` Hx_YinYing
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fhl` 飞花令
@@ -1152,6 +1152,54 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_picmenu_next` PicMenu Next
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_pokemonle` nonebot-plugin-pokemonle
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bfvplayerlist` bfvplayerlist
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_df_armor_repair_simulator` nonebot_plugin_df_armor_repair_simulator
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_hacker_news` Hacker News
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_limiter` 命令冷却
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_zzzpanel` 绝区零角色数据获取
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_NobleDuel` nonebot-plugin-NobleDuel
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_sunset_reminder` nonebot_plugin_sunset_reminder
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_orm` nonebot-plugin-orm
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_exdi` 依赖注入扩展
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_xibao` 喜（悲）报生成器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_vv` 维维表情包搜索器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_deltaforce_simulator` 三角洲鼠鼠偷吃模拟器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_liteperm` LitePerm 权限管理插件
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_lazytea` LazyTea
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_flomic` nonebot-plugin-flomic
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_fishing2` 更好的电子钓鱼
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_delta_helper` 三角洲助手
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_awsmgmt` AWS Manager
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_lazytea_shell_extension` LazyTea命令拓展
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_nmcweather` 天气查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_fuckfinalshell` FinalShell 离线激活码
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_value` EconomyValue
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mcplayer_render` MC玩家皮肤渲染
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1486,6 +1534,16 @@
 - `nonebot_plugin_oi_helper` nonebot-plugin-OI-helper
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_furryyunhei` nonebot-plugin-furryyunhei
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_nyaturingtest` NYATuringTest
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_emojilike_automonkey` nonebot-plugin-emojilike-automonkey
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_binance` 币安小助手
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_llm_helper` LLM-Helper
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_guess_disease` 猜猜病
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
