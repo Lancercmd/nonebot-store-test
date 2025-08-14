@@ -8768,12 +8768,12 @@
 		"pypi_version": "1.3.5",
 		"pypi_create": true,
 		"pypi_run": false,
-		"git_hash": "4c8b7683600128960549c3807a060e0716584e90",
+		"git_hash": "e2c9d77ba7d3c58739bb9039fe522d6d3f0016ae",
 		"git_create": true,
 		"git_run": false,
 		"last_seen": "e069959b03448ca1d9cf22bd61496f74dc2e67af",
 		"stderr_pypi": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py:187: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  plugin = load_plugin(name)",
-		"stderr_git": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py:187: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  plugin = load_plugin(name)"
+		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 39, in <module>\n    from fastapi import FastAPI, Request, UploadFile, status\nModuleNotFoundError: No module named 'fastapi'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_steam_info/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 297, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.11/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 44, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
 	},
 	"nonebot-plugin-orangejuice": {
 		"__nonebot2.version__": "2.4.3",
@@ -14161,7 +14161,7 @@
 		"pypi_version": "0.1.10",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "b436d2c85ea239e461b71970d3bac5a89ebe639c",
+		"git_hash": "1d4118832909c6ed21e50f15dea7bbea5e7267bb",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "e069959b03448ca1d9cf22bd61496f74dc2e67af",
