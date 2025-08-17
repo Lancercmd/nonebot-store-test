@@ -1050,7 +1050,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ACMD` nonebot-plugin-ACMD
   - `PyPI ❌` `Git ✅`
-- `nonebot_plugin_suggarchat` SuggarChat 高可扩展性大模型聊天插件/框架
+- `nonebot_plugin_suggarchat` SuggarChat LLM聊天插件
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_nbnhhsh_q` [ 缩写翻译 ] 能不能好好说话 - nbnhhsh
   - `PyPI ✅` `Git ✅`
