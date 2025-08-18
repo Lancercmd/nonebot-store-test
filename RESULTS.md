@@ -1202,6 +1202,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_alisten` Alisten
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_simple_setu` nonebot-plugin-simple-setu
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
