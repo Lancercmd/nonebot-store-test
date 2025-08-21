@@ -1204,6 +1204,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_simple_setu` nonebot-plugin-simple-setu
   - `PyPI ✅` `Git ✅`
+- `nonebot-plugin-anipusher` Anipusher推送机
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
