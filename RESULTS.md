@@ -1,3 +1,5 @@
+已达到限制，结束测试。
+
 `nonebot2 == 2.4.3`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1550,6 +1552,8 @@
 - `nonebot_plugin_llm_helper` LLM-Helper
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_guess_disease` 猜猜病
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_huaer_bot` HuaEr聊天bot
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
