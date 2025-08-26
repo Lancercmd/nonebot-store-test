@@ -1553,6 +1553,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_huaer_bot` HuaEr聊天bot
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_sell_poor` 卖若插件
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
