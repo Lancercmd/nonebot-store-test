@@ -1557,6 +1557,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_sell_poor` 卖若插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ImageLibrary` ImageLibrary
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
