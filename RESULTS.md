@@ -225,7 +225,7 @@
 - `nonebot_plugin_reborn` 投胎模拟器
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_sky` Sky光遇
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_gscode` GsCode
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_note` 记事本
