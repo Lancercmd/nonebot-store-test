@@ -1206,6 +1206,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot-plugin-anipusher` Anipusher推送机
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_huaer_bot` HuaEr聊天bot
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_abs` 抽象
   - `PyPI ✅` `Git ✅`
 
@@ -1552,8 +1554,6 @@
 - `nonebot_plugin_llm_helper` LLM-Helper
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_guess_disease` 猜猜病
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_huaer_bot` HuaEr聊天bot
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_sell_poor` 卖若插件
   - `PyPI ❌` `Git ❌`
