@@ -1559,6 +1559,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_ImageLibrary` ImageLibrary
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_exhibitionism` 让我看看！！
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
