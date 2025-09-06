@@ -1212,6 +1212,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_akashgen` Akash Image Generator
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_figurine` 图片手办化
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_distributed_blacklist` 分布式黑名单插件
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
