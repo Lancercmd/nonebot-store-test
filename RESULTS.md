@@ -1567,6 +1567,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_exhibitionism` 让我看看！！
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bafortune` 蔚蓝档案今日运势
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
