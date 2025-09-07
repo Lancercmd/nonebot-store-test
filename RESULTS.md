@@ -1216,6 +1216,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_distributed_blacklist` 分布式黑名单插件
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_repeat_checker` 禁止复读
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
