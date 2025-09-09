@@ -1571,6 +1571,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bafortune` 蔚蓝档案今日运势
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_quark_autosave` 夸克自动转存
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
