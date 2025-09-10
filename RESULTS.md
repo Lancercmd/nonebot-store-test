@@ -1218,6 +1218,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_repeat_checker` 禁止复读
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_quark_autosave` 夸克自动转存
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1570,8 +1572,6 @@
 - `nonebot_plugin_exhibitionism` 让我看看！！
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bafortune` 蔚蓝档案今日运势
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_quark_autosave` 夸克自动转存
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
