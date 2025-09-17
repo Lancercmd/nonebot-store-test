@@ -1220,6 +1220,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_quark_autosave` 夸克自动转存
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_who_is_spy` 谁是卧底小游戏
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
