@@ -510,6 +510,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_csornament` CSGO饰品查询机器人
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mcversion` MC版本更新检测
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_muteme` muteme(我禁我自己）
   - `PyPI ✅` `Git ✅`
 - `dicergirl` DicerGirl
@@ -1405,8 +1407,6 @@
 - `nonebot_plugin_bind` 跨平台账户绑定
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_savepic` Savepic
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_mcversion` MC版本更新检测
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_jx3` 剑网三查询和推送
   - `PyPI ❌` `Git ❌`
