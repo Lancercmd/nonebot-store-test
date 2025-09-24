@@ -1575,6 +1575,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bafortune` 蔚蓝档案今日运势
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_dst_qq` DMP 饥荒管理平台机器人
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
