@@ -1577,6 +1577,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_dst_qq` DMP 饥荒管理平台机器人
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_fupan` 复盘打卡
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_algo` 算法比赛助手
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
