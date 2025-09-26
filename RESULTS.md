@@ -1581,6 +1581,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_algo` 算法比赛助手
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_llm_extension` 言令
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
