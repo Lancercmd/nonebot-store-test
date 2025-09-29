@@ -1142,7 +1142,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_dorodoro` doro大冒险
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_qqdetail` QQ账号详细信息查询
+- `nonebot_plugin_qqdetail` QQ资料查询
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fix_qq_img_ssl` 修复 QQ 图床 SSL 错误
   - `PyPI ✅` `Git ✅`
