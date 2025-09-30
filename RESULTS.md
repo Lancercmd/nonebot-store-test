@@ -126,7 +126,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_tetris_stats` Tetris Stats
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_who_at_me` 谁艾特我了
+- `nonebot_plugin_who_at_me` who_at_me
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_covid_19_by` 疫情小助手
   - `PyPI ✅` `Git ✅`
