@@ -1220,6 +1220,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_distributed_blacklist` 分布式黑名单插件
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bafortune` 蔚蓝档案今日运势
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_repeat_checker` 禁止复读
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_quark_autosave` 夸克自动转存
@@ -1572,8 +1574,6 @@
 - `nonebot_plugin_ImageLibrary` ImageLibrary
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_exhibitionism` 让我看看！！
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_bafortune` 蔚蓝档案今日运势
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_dst_qq` DMP 饥荒管理平台机器人
   - `PyPI ❌` `Git ❌`
