@@ -1228,6 +1228,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_who_is_spy` 谁是卧底小游戏
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_algo` 算法比赛助手
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1578,8 +1580,6 @@
 - `nonebot_plugin_dst_qq` DMP 饥荒管理平台机器人
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_fupan` 复盘打卡
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_algo` 算法比赛助手
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_llm_extension` 言令
   - `PyPI ❌` `Git ❌`
