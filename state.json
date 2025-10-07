@@ -12790,11 +12790,11 @@
 		"pypi_version": "1.13.0",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "5020393768817d437081b951d9ce0121743bb2d5",
+		"git_hash": "e9a8716586a9b3982c949c78d1ee07aa1674db54",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "4fc32127eaf2b80bb182f6d126568335abf14c4e",
-		"stderr_git": "\u001b[32m10-06 22:11:26\u001b[0m [\u001b[32m\u001b[1mSUCCESS\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | NoneBot is initializing...\n\u001b[32m10-06 22:11:26\u001b[0m [\u001b[1mINFO\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | Current \u001b[33m\u001b[1mEnv: prod\u001b[0m\u001b[33m\u001b[0m\n\u001b[32m10-06 22:11:26\u001b[0m [\u001b[31m\u001b[1mERROR\u001b[0m] \u001b[36m\u001b[4mnonebot\u001b[0m\u001b[36m\u001b[0m | \u001b[31m\u001b[48;2;248;187;208mFailed to import \"nonebot_plugin_resolver2\"\u001b[0m\u001b[31m\u001b[0m\n\u001b[33m\u001b[1mTraceback (most recent call last):\u001b[0m\n  File \"\u001b[32m/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_resolver2/\u001b[0m\u001b[32m\u001b[1mrun.py\u001b[0m\", line \u001b[33m3\u001b[0m, in \u001b[35m<module>\u001b[0m\n    \u001b[1mexit\u001b[0m\u001b[1m(\u001b[0m\u001b[34m\u001b[1m0\u001b[0m \u001b[35m\u001b[1mif\u001b[0m \u001b[1mload_plugin\u001b[0m\u001b[1m(\u001b[0m\u001b[36m\"nonebot_plugin_resolver2\"\u001b[0m\u001b[1m)\u001b[0m \u001b[35m\u001b[1melse\u001b[0m \u001b[34m\u001b[1m1\u001b[0m\u001b[1m)\u001b[0m\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/load.py\", line 42, in load_plugin\n    return manager.load_plugin(module_path)\n> File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/plugin/manager.py\", line 169, in load_plugin\n    module = importlib.import_module(self._third_party_plugin_ids[name])\n  File \"/opt/hostedtoolcache/Python/3.12.11/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1324, in _find_and_load_unlocked\n\u001b[31m\u001b[1mModuleNotFoundError\u001b[0m:\u001b[1m No module named 'nonebot_plugin_resolver2'\u001b[0m"
+		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 39, in <module>\n    from fastapi import FastAPI, Request, UploadFile, status\nModuleNotFoundError: No module named 'fastapi'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_resolver2/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 297, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.11/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 44, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
 	},
 	"nonebot-plugin-water-geoup-stats": {
 		"__nonebot2.version__": "2.4.3",
@@ -13261,10 +13261,11 @@
 		"pypi_version": "1.0.7",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "7d4539e4432329e5ba6d3f3601f0755f2706a8a4",
+		"git_hash": "31274f12fec55c4dbac06181f17aebd0b5ab8e26",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "4fc32127eaf2b80bb182f6d126568335abf14c4e"
+		"last_seen": "4fc32127eaf2b80bb182f6d126568335abf14c4e",
+		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 39, in <module>\n    from fastapi import FastAPI, Request, UploadFile, status\nModuleNotFoundError: No module named 'fastapi'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_apod/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 297, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.11/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 44, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
 	},
 	"nonebot-plugin-envious": {
 		"__nonebot2.version__": "2.4.3",
@@ -14054,7 +14055,7 @@
 		"pypi_version": "0.7.3",
 		"pypi_create": true,
 		"pypi_run": false,
-		"git_hash": "042c8662babfd917cbac00a035a31f6fcb88d41f",
+		"git_hash": "0ca8e329708a5ee1588c3a2f72af7276b25bdd78",
 		"git_create": true,
 		"git_run": false,
 		"last_seen": "4fc32127eaf2b80bb182f6d126568335abf14c4e",
@@ -14455,7 +14456,7 @@
 		"pypi_version": "0.2.1",
 		"pypi_create": true,
 		"pypi_run": false,
-		"git_hash": "3c8adfab89c051f8001e70ef77b0378e4514706d",
+		"git_hash": "eece19d1612f6a765cef67fe465e161b8db31797",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "4fc32127eaf2b80bb182f6d126568335abf14c4e",
