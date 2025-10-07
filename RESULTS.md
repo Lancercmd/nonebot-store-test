@@ -1230,6 +1230,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_algo` 算法比赛助手
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_htmlkit` nonebot-plugin-htmlkit
+  - `PyPI ✅` `Git ❌`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1582,8 +1584,6 @@
 - `nonebot_plugin_fupan` 复盘打卡
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_llm_extension` 言令
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_htmlkit` nonebot-plugin-htmlkit
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mhcodes` 怪物猎人集会码插件
   - `PyPI ❌` `Git ❌`
