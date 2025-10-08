@@ -1587,6 +1587,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mhcodes` 怪物猎人集会码插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_parser` 链接分享自动解析
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
