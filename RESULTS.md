@@ -1589,6 +1589,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_parser` 链接分享自动解析
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_kookcardmessage` kook卡片消息编写适配插件
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
