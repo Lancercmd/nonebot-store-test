@@ -1232,6 +1232,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_htmlkit` nonebot-plugin-htmlkit
   - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_parser` 链接分享自动解析
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1586,8 +1588,6 @@
 - `nonebot_plugin_llm_extension` 言令
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mhcodes` 怪物猎人集会码插件
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_parser` 链接分享自动解析
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_kookcardmessage` kook卡片消息编写适配插件
   - `PyPI ❌` `Git ❌`
