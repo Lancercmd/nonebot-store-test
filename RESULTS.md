@@ -1591,6 +1591,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_kookcardmessage` kook卡片消息编写适配插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mcnews` MC新闻更新检测
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_open_file` 远程文件打开
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
