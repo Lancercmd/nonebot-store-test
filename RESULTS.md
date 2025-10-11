@@ -1595,6 +1595,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_open_file` 远程文件打开
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_memory` nonebot-plugin-memory
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
