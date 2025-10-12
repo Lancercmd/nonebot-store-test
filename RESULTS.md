@@ -1597,6 +1597,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_memory` nonebot-plugin-memory
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_pxchat` pxchat
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
