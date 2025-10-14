@@ -980,7 +980,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_zxwb` ZXWB词库问答
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_resolver2` 链接分享自动解析
+- `nonebot_plugin_resolver2` 链接分享解析 ob 版(不再维护)
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_water_geoup_stats` 发言统计
   - `PyPI ✅` `Git ✅`
