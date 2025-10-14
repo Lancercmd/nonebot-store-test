@@ -1232,7 +1232,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_htmlkit` nonebot-plugin-htmlkit
   - `PyPI ✅` `Git ❌`
-- `nonebot_plugin_parser` 链接分享自动解析
+- `nonebot_plugin_parser` 链接分享解析 Alconna 版
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_daily_bing` 每日必应壁纸
   - `PyPI ✅` `Git ✅`
