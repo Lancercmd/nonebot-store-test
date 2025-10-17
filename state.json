@@ -10402,10 +10402,10 @@
 		"desc": "集代码执行/高扩展性为一体的聊天机器人，应用了容器化技术快速构建沙盒 Agent 执行环境",
 		"author": "KroMiose",
 		"homepage": "https://github.com/KroMiose/nekro-agent",
-		"pypi_version": "2.0.6",
+		"pypi_version": "2.0.7",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "1d75130d8d3f5a21474db0d1d839ca33736b90b6",
+		"git_hash": "14c9e74aec2172ef34f53ab48a6afe127d3b6e5a",
 		"git_create": false,
 		"git_run": false,
 		"last_seen": "3a0e7ea2a6b4390dcf44222d39d17d752aae8aed"
@@ -11325,7 +11325,7 @@
 		"pypi_version": "0.1.5.7.5",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "a7625dd957c3f22d86d1727ede3667f518eb6da6",
+		"git_hash": "0fbddb2c944d139e05b0cce6c5dedff3187e2e92",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "3a0e7ea2a6b4390dcf44222d39d17d752aae8aed"
@@ -15631,11 +15631,11 @@
 		"pypi_version": "1.0.0",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "7403fed4b5ad03cee8d7c1cab1d1f5ccb649e473",
+		"git_hash": "12a8c8f0be685730d1a811394ea8a9d8e7f80feb",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "3a0e7ea2a6b4390dcf44222d39d17d752aae8aed",
 		"stderr_pypi": "/opt/hostedtoolcache/Python/3.12.11/x64/lib/python3.12/importlib/__init__.py:90: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  return _bootstrap._gcd_import(name[level:], package, level)",
-		"stderr_git": "/opt/hostedtoolcache/Python/3.12.11/x64/lib/python3.12/importlib/__init__.py:90: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  return _bootstrap._gcd_import(name[level:], package, level)"
+		"stderr_git": "/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/importlib/__init__.py:90: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  return _bootstrap._gcd_import(name[level:], package, level)"
 	}
 }
