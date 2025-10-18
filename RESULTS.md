@@ -1601,6 +1601,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_pxchat` pxchat
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ai_turtle_soup` 海龟汤游戏
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
