@@ -998,7 +998,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_picstatus_template_zhenxun` PicStatus Template ZhenXun
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_arcaea_sticker` Arcaea表情包生成器
+- `nonebot_plugin_arcaea_sticker` nonebot-plugin-arcaea-sticker
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_simple_block` 简易群聊屏蔽
   - `PyPI ✅` `Git ✅`
