@@ -18,4 +18,4 @@ jobs:
       uses: pdm-project/setup-pdm@v4
     - name: Run
       run: |
-        pdm run python run.py -l 20
+        pdm run python run.py -l 10
