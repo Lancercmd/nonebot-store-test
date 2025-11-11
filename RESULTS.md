@@ -146,6 +146,432 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_osubot` OSUBot
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_acc_calculate` ACC计算工具
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_date_name` 群昵称时间
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_mcqq` MC_QQ
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_covid_19_by_guild` 疫情小助手-频道版
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_drawer` nonebot-plugin-drawer
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_jrrp-n` 每日人品
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_moegoe` 日韩中 VITS 模型原神拟声
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_pixivbot` PixivBot
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_workscore` 工作性价比计算器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_treehelp` 帮助
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_course` 课表查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_dialectlist` B话排行榜
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_offline_mahjong_helper` 此乃面麻小助手！！
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_send` send
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_wordsnorote` 不背单词
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_CyberSensoji` 赛博浅草寺
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_gspanel` 原神角色展柜查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_gsmaterial` 原神每日材料查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mystool` 米游社小助手插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_warframe` 星际战甲事件查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mcqq_server` Minecraft Server 消息互通
+  - `PyPI ✅` `Git ✅`
+- `nonebot-plugin-wolf-kill` 狼人杀插件
+  - `PyPI ✅` `Git ✅`
+- `iot` nonebot物联网插件
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_picstatus` PicStatus
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ocr` 文字识别
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_listener` 监听者
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_BiliRequestAll` BiliRequestAll
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_russian_ban` 轮盘禁言小游戏
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ygo_trade` 游戏王小程序查价
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_savor` 二次元图像鉴赏
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_kfcrazy` kfcrazy
+  - `PyPI ✅` `Git ✅`
+- `nonebot-plugin-random` 随机抽图/语音
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_blacklist` 黑名单
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_antiinsult` 反嘴臭
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_oddtext` 文本生成器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_cartoon` 二次元化图像
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mahjong_utils` 麻将小工具
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_animeres` 动漫资源插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot-plugin-person` 随个人
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_apex_api_query` Apex API Query
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_reborn` 投胎模拟器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_sky` Sky光遇
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_gscode` GsCode
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_note` 记事本
+  - `PyPI ✅` `Git ✅`
+- `nonebot-plugin-bilibili-image` b站图片下载
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_trace_moe` 动画截图场景追溯
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_zyk_music` 免费快捷点歌插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_majsoul` 雀魂查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_remove_bg` 图片背景消除
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_broadcast` 全群广播
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_access_control` 权限控制
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_colormind` 随机配色方案
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_abstain_diary` 戒x打卡日记
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_backup` QQ群文件备份
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_kuma_san` 熊老板-喷喷喷场地信息查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ikun_evolution` 只因进化录
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_random_ban` 随机禁言
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_antirecall` 防撤回
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_no_repeat` 不要复读
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bfchat` 战地群聊天插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_summon` 群友召唤术
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ping` PING
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_servicestate` 服务状态查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_HttpCat` HttpCat🐱猫猫http状态码
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_revoke` 主动消息撤回
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_l4d2_server` 求生之路小助手
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_learning_chat` 群聊学习
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_couplets` 对对联
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_cloudsignx` ☁云签到☁
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_imgexploration` 查找图片出处
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_hypixel` Hypixel数据查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_cave` 回声洞
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_xingzuo` 星座运势
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_BingImage` Bing每日图片获取
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_soup` 心灵鸡汤
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_yuanshen_notice` 原神实时公告
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_picmcstat` PicMCStat
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_report_manager` 对话超管
+  - `PyPI ✅` `Git ✅`
+- `qinglan_bot` 青岚Bot
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_easy_group_manager` 群管
+  - `PyPI ✅` `Git ✅`
+- `nonebot-plugin-mcport` nonebot-plugin-mcport
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_dog` dog
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_impact` impact
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mcping` MC Ping
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_b23` B站热搜
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_autoreply` AutoReply
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_groupmate_waifu` 娶群友
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_jrrp2` 每日人品2
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_dicky_pk` 牛子PK
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_eventmonitor` nonebot-plugin-eventmonitor
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_whateat_pic` 今天吃什么（图片版）
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_matcher_block` 通用指令阻断
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_maimai` 舞萌DX成绩查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_all4one` OneBot 实现
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_arktools` 明日方舟工具箱
+  - `PyPI ✅` `Git ✅`
+- `nonebot-plugin-resolver` 链接分享解析器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_random_stereotypes` 发病语录
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_afd` 爱发电订单号进群审核
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_eventdone` nonebot_plugin_eventdone
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ncm_saying` 网抑云
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ai_timetable` 小爱课表
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_sanae` Sanae
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_chatgpt_on_qq` 多功能ChatGPT插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_chatpdf` ChatPDF文章分析
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_rimofun` RimoFun
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_justsix` 发6
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bracket` 括号补全
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_gshisbanner` gshisbanner
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_unoconv` unoconv文件转换
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_apexranklookup` apex信息查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_randomnana` 随机狗妈
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_quote` 群聊语录库
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_rrc` 随机点名
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_hotsearch` 热搜查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ai_interviewer` 基于OpenAI的AI模拟面试官
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_helloworld` Hello World
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_overbracket` 通括膨胀
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_miao` 口癖
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_questionmark` 颠倒问号
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_genshin_cos` 米游社cos
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_sayoroll` sayoroll
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_gw2` 激战2
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_today_waifu` 今日老婆
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_sleep` 来份精致的睡眠套餐
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_chatppt` AI生成PPT
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_steam_game_status` Steam游戏状态
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bilichat` nonebot-plugin-bilichat
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_blive_danmaku` B站直播间路灯
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_clock` nonebot clock 群闹钟 ⏰
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_fuckyou` FuckYou
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_pokemonfusion` 宝可梦融合
+  - `PyPI ✅` `Git ✅`
+- `tatarubot2` TataruBot2
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_osuverify` osu!入群验证
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bilifan` bilifan
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_akinator` Akinator
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_rename` nonebot_plugin_rename
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_brainfuck` nonebot_plugin_brainfuck
+  - `PyPI ✅` `Git ✅`
+- `nonebot-plugin-coderun` 运行代码
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_megumin` 为美好群聊献上爆炎2
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_manga_translator` 图片翻译
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_watermarker` 图片水印
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_wordle_help` wordle_help
+  - `PyPI ✅` `Git ❌`
+- `nonebot-plugin-csgo-case-simulator` CSGO开箱模拟器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_callapi` CallAPI
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_penguin` nonebot_plugin_penguin
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_logpile` nonebot-plugin-logpile
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_arkgacha` 明日方舟抽卡模拟
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_og` og
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_hoshino_sign` 签到
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_multincm` MultiNCM
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_smallapi` 小小API调用插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_p5generator` 《女神异闻录5》预告信生成器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_stockhelper` 股票看盘助手
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_githubcard` githubcard
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_cube` 魔方
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_homo_mathematician` homo_mathematician
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_puzzle` 数字华容道
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_herocard` 本子标题关键词提取
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nagabus` NAGA公交车
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_random_draw` 随机抽取设定内容插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_stable_diffusion_diao` AI绘图
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_escape_url` 链接防夹
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_pcrjjc` pcrjjc
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_audiocraft` AI作曲
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_follow_withdraw` follow_withdraw
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ocgbot_v2` 游戏王小蓝卡查
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_poke` 戳一戳事件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_friends` 远程同意好友
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_update` NPU
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_cp_broadcast` 算法竞赛比赛查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_cfassistant` nonebot-plugin-cfassistant
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_splatoon3_schedule` splatoon3游戏日程查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_capoo` 猫猫虫咖波图片发送
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_eventexpiry` 过期事件过滤器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nobahpicture` nonebot-plugin-nobahpicture
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_blocker` Blocker
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_picture_api` nonebot-plugin-picture-api
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_wenan` nonebot-plugin-wenan
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_templates` templates_render
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_tempfile` 方寸狭间
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_disconnect_notice` bot断连通知
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nonememe` NoneMeme
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_aujob` Among US中的TOH模组职业介绍
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_lostark_wandering_trader` 命运方舟流浪商人卡牌刷新提示
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_csornament` CSGO饰品查询机器人
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mcversion` MC版本更新检测
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_muteme` muteme(我禁我自己）
+  - `PyPI ✅` `Git ✅`
+- `dicergirl` DicerGirl
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_uvdiviner` 周易蓍草占卜
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_push` 消息推送插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_anime_trace` 识别动漫gal角色
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_send_message` 双向聊天插件
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_requests` Nonebot Requests
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_simple_httpcat` httpcat-状态猫😺
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_fakemsg` 消息伪造
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_alchelper` Alconna 帮助工具
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_souti` nonebot-plugin-souti
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_skland_arksign` 森空岛明日方舟签到器
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ernie` 文心一言
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_video_api` nonebot-plugin-video-api
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ottohzys` 活字印刷
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ability` 聚能环
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_matchreminder` 算法比赛查询和今日比赛自动提醒
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_playercheck` nonebot-plugin-playercheck
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_vrchat` VRChat查询
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_batitle` BlueArchive Title Generator
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_make_choice` 选择困难症
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_user` 用户
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_filehost` 文件托管支持
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_smms` sm.ms图床
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nsfw` 群聊 NSFW 图片检测
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_batarot` 碧蓝档案塔罗牌
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_longtu` 随机龙图
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_shindan` 趣味占卜
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_alias` 命令别名
@@ -178,6 +604,12 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_BitTorrent` bittorrent
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_kawaii_robot` KawaiiRobot
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_game_collection` 小游戏合集
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bottle` 漂流瓶
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_biliav` NoneBot biliav小程序 查看插件
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_lolmatch` lol比赛信息
@@ -196,6 +628,34 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_horserace` 赛马
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_addFriend` 处理好友添加和群邀请
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_easyCommand` 易命令
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_makemidi` 在线编曲
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_searchBiliInfo` b站用户信息查询
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_animalVoice` AnimalVoice_Convert
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nowtime` 整点报时
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_setu_collection` 来张色图
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_acm_reminder` ACMReminder
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_xiuxian_2` 修仙_2.0
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_memes_api` 表情包制作
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_session` 会话id
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_userinfo` 用户信息
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_BotMailNotice` Bot上下线邮件通知
+  - `PyPI ✅` `Git ✅`
+- `TeenStudy` 青年大学习提交
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -244,11 +704,211 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bread_shop` 面包店小游戏
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_report` 推送钩子
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_hammer_nbnhhsh` 「能不能好好说话？」缩写翻译
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_wiki` wiki条目搜索、获取简介
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_groupmanager` 多功能群管
+  - `PyPI ❌` `Git ❌`
+- `cqsat` HAM助手
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_todo_nlp` 自识别todo
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bwiki_navigator` Bwiki Navigator
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_tts_gal` vits角色语音合成本地化
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_alicdk_get` 阿里云盘福利码自动兑换
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_tuling` 图灵机器人
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_novelai` novelai
+  - `PyPI ❌` `Git ❌`
+- `ayaka_timezone` ayaka衍生插件 - 时区助手
+  - `PyPI ❌` `Git ❌`
+- `ayaka_prevent_bad_words` ayaka衍生插件 - 坏词撤回
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mahjong_scoreboard` 日麻寄分器
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_colab_novelai` Colab-NovelAI
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_zyk_novelai` 免费版NovelAI生图插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_repeep` 谁在窥屏
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_chatgpt` ChatGPT
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_exchangerate` 汇率换算
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_gpt3` GPT3
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ayaka_scan_cmd` 命令探查
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_Imagelabels` 图像标注
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bilibili_yuan` 哔哩哔哩q群登录
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_orangedice` orange_dice
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_record` 语音功能
+  - `PyPI ❌` `Git ❌`
+- `criminal_dance` 犯人在跳舞
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_wantwords` 反向词典
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_pvz` 植物大战僵尸小游戏
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_group_link_guild` 群频互通
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_zyk_lightNVL` 查找轻小说
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_uuid` uuid生成器
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_naturel_gpt` 更人性化的GPT-Ai聊天插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_gsabyss` 原神深境螺旋数据查询
+  - `PyPI ❌` `Git ❌`
+- `gartic_room` 你画我猜组队
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bing_chat` Bing Chat
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_h2e` 今天练什么
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_oachat` OpenAI chatbot
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_warframe_mode` wf的wm市场
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bf1_groptools` 战地一入群审批
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_60s` 60s日历
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_AutoRepeater` AutoRepeater
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_arkrecord` 明日方舟抽卡记录分析
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_chatgpt_turbo` ChatGPT官方接口版
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_tuan_chatgpt` 和团子聊天！
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_customemote` 群聊自定义表情包
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_simulator_xiuxian` 修仙模拟器
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_chatglm` ChatGLM
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_chatglm6b` ChatGLM-6B API版
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_chatgpt_plus` ChatGPT网页端API
+  - `PyPI ❌` `Git ❌`
+- `nonebot_api_paddle` nonebot_api_paddle
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_appinsights` Nonebot2 AppInsights
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_abot_place` 公共画板插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_starrail_calendar` 星穹铁道活动日历
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_spark_gpt` Spark_GPT
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_sd_webui` SD绘画插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_pluginupdatecheck` 便携插件安装器
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_lua` nonebot-plugin-lua
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_twitter` twitter 推特订阅
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_warthunder_player_check` 战雷查水表
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_helltide` Diablo4地狱狂潮boss提醒小助手
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mongodb` MongoDB
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_pokesomeone` 指定戳一戳
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_dall-e` DALL-E绘图
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_theworld` The World
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bind` 跨平台账户绑定
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_savepic` Savepic
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_jx3` 剑网三查询和推送
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_xinghuo_api` 科大讯飞星火大模型聊天
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_sudo` SUDO
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_arxivRSS` arxiv订阅
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_qrcode2` 二维码
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_helper_plus` helper_plus
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_wearskirt` 女装 !
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_group_whitelist` nonebot_plugin_group_whitelist
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_agent` Nonebot Agent
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_blockwords` 屏蔽词插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_op_finder` op-finder
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_morep_finder` morep-finder
+  - `PyPI ❌` `Git ❌`
+- `nonebot-plugin-yesman` 肯定机
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_fgoavatarguess` FGO猜从者
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_maimaidx` nonebot-plugin-maimaidx
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_scheduled_broadcast` 定时广播插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_any` Nonebot2 Any 多平台服务
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bertvits2` nonebot-plugin-bertvits2
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_wake_on_lan` 局域网唤醒
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bingimagecreator` DALL-E 3绘图
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_shorturl` 短链接服务支持
+  - `PyPI ❌` `Git ❌`
 - `YetAnotherPicSearch` YetAnotherPicSearch
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bilibili_viode` B站视频伪分享卡片
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_RealESRGAN` 图像超分辨率重建
+  - `PyPI ❌` `Git ❌`
+- `ayaka_games` ayaka小游戏合集
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_face2cartoonpic` 腾讯云图像变换
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_xdu_support` XDU校园服务
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_SDGPT` SDGPT
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_saa` 峯驰物流
+  - `PyPI ❌` `Git ❌`
+- `GenshinUID` GenshinUID
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mc_server_status` MC服务器信息查询插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_setu_customization` 动态API色图插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_easy_translate` 简单翻译插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_nya_cook_menu` 喵喵自记菜谱
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_eop_ai` talk with eop ai
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_getbapics` nonebot-plugin-getbapics
   - `PyPI ❌` `Git ❌`
