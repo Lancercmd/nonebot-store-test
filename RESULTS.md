@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.4.4`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1254,6 +1252,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_mcnews` MC新闻更新检测
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_daily_bing` 每日必应壁纸
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1590,6 +1590,20 @@
 - `nonebot_plugin_guess_disease` 猜猜病
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_llm_extension` 言令
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_open_file` 远程文件打开
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_memory` nonebot-plugin-memory
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_pxchat` pxchat
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ai_turtle_soup` 海龟汤游戏
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bili_helper` B站解析助手
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_markdown2img` nonebot_plugin_markdown2img
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_jrrp3` 每日人品
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
