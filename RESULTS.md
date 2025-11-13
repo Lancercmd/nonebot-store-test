@@ -1605,6 +1605,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_jrrp3` 每日人品
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_image_symmetry` 图像对称处理
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
