@@ -1256,6 +1256,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_jrrp3` 每日人品 3
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_image_symmetry` 图像对称
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1604,8 +1606,6 @@
 - `nonebot_plugin_bili_helper` B站解析助手
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_markdown2img` nonebot_plugin_markdown2img
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_image_symmetry` 图像对称
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
