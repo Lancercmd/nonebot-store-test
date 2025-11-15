@@ -1607,6 +1607,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_markdown2img` nonebot_plugin_markdown2img
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_manosaba_memes` 魔裁 Memes
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
