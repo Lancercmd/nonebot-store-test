@@ -1609,6 +1609,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_manosaba_memes` 魔裁 Memes
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_course_schedule` 电子课程表
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
