@@ -1611,6 +1611,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_course_schedule` 电子课程表
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ipinfo` iPinfo
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
