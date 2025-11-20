@@ -1613,6 +1613,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_ipinfo` iPinfo
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_templates_draw` 模板绘图
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
