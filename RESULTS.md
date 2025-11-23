@@ -1615,6 +1615,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_templates_draw` 模板绘图
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_manosoba_reply_generator` manosoba-reply-generator
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
