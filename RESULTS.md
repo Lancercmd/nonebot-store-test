@@ -1,3 +1,5 @@
+已达到限制，结束测试。
+
 `nonebot2 == 2.4.4`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1258,6 +1260,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_image_symmetry` 图像对称
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_ipinfo` iPinfo
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_templates_draw` 模板绘图
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1610,10 +1616,6 @@
 - `nonebot_plugin_manosaba_memes` 魔裁 Memes
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_course_schedule` 电子课程表
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_ipinfo` iPinfo
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_templates_draw` 模板绘图
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_manosoba_reply_generator` manosoba-reply-generator
   - `PyPI ❌` `Git ❌`
