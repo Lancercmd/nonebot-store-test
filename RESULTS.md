@@ -20,7 +20,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_bison` Bison
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_cocdicer` nonebot-plugin-cocdicer
+- `nonebot_plugin_cocdicer` CoC骰娘
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_guess` 猜猜看
   - `PyPI ✅` `Git ✅`
