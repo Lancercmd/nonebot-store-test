@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.4.4`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1263,7 +1261,7 @@
 - `nonebot_plugin_ipinfo` iPinfo
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_templates_draw` 模板绘图
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
