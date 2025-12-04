@@ -1619,6 +1619,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_anans_sketchbook` 安安的素描本聊天框
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_anan_say` 安安说
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
