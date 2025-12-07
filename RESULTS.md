@@ -1621,6 +1621,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_anan_say` 安安说
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_terralink` TerraLink
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
