@@ -1262,6 +1262,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_templates_draw` 模板绘图
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_omikuji` 御神签
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
