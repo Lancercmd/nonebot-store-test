@@ -1627,6 +1627,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_railwaytools` 火车迷铁路工具箱
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_rollpig` 今天是什么小猪
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
