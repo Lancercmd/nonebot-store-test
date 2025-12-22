@@ -1633,6 +1633,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mcserver_status_check` MC服务器状态查询
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_perithacus` pErithacus
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
