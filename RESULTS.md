@@ -753,7 +753,7 @@
 - `nonebot_plugin_mute` nonebot_plugin_mute
   - `PyPI ❌` `Git ✅`
 - `nekro_agent` nekro-agent
-  - `PyPI ✅` `Git ❌`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_lagrange` lagrange
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_mccheck` Minecraft查服
@@ -1262,6 +1262,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_templates_draw` 模板绘图
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_railwaytools` 火车迷铁路工具箱
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_omikuji` 御神签
   - `PyPI ✅` `Git ✅`
 
@@ -1624,8 +1626,6 @@
 - `nonebot_plugin_anan_say` 安安说
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_terralink` TerraLink
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_railwaytools` 火车迷铁路工具箱
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_rollpig` 今天是什么小猪
   - `PyPI ❌` `Git ❌`
