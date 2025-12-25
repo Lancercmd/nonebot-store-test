@@ -1266,6 +1266,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_omikuji` 御神签
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_perithacus` pErithacus
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1632,8 +1634,6 @@
 - `nonebot_plugin_instagram` Instagram RapidAPI 解析
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mcserver_status_check` MC服务器状态查询
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_perithacus` pErithacus
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
