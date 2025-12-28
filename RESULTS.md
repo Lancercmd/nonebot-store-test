@@ -1637,6 +1637,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mcserver_status_check` MC服务器状态查询
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_jimeng` 即梦绘画
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
