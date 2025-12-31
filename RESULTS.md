@@ -1639,6 +1639,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_jimeng` 即梦
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_boardgamehelper` nonebot_plugin_boardgamehelper
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ai_groupmate` nonebot-plugin-ai-groupmate
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
