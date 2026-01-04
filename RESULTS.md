@@ -1257,7 +1257,7 @@
 - `nonebot_plugin_jrrp3` 每日人品 3
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_image_symmetry` 图像对称
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ipinfo` iPinfo
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_templates_draw` 模板绘图
