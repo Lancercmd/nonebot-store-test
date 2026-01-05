@@ -1643,6 +1643,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_ai_groupmate` nonebot-plugin-ai-groupmate
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_trans_progress` 汉化进度记录
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
