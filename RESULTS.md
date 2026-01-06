@@ -1266,6 +1266,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_omikuji` 御神签
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_rollpig` 今天是什么小猪
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_perithacus` pErithacus
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_quickreply` 快捷回复
@@ -1630,8 +1632,6 @@
 - `nonebot_plugin_anan_say` 安安说
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_terralink` TerraLink
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_rollpig` 今天是什么小猪
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_instagram` Instagram RapidAPI 解析
   - `PyPI ❌` `Git ❌`
