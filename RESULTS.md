@@ -1274,6 +1274,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_jimeng` 即梦
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_word_censor` 词汇黑名单审查
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
