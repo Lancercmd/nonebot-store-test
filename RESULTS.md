@@ -1272,6 +1272,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_quickreply` 快捷回复
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_jimeng` 即梦
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1636,8 +1638,6 @@
 - `nonebot_plugin_instagram` Instagram RapidAPI 解析
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mcserver_status_check` MC服务器状态查询
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_jimeng` 即梦
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_boardgamehelper` nonebot_plugin_boardgamehelper
   - `PyPI ❌` `Git ❌`
