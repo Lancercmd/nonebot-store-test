@@ -1274,6 +1274,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_jimeng` 即梦
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ai_groupmate` nonebot-plugin-ai-groupmate
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_word_censor` 词汇黑名单审查
   - `PyPI ✅` `Git ✅`
 
@@ -1643,9 +1645,9 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_boardgamehelper` nonebot_plugin_boardgamehelper
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_ai_groupmate` nonebot-plugin-ai-groupmate
-  - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_trans_progress` 汉化进度记录
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_internet_outage` 互联网异常事件监测
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
