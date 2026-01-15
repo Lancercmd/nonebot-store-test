@@ -40,7 +40,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_flexperm` nonebot-plugin-flexperm
   - `PyPI ❌` `Git ✅`
-- `nonebot_plugin_epicfree` Epic 限免游戏资讯
+- `nonebot_plugin_epicfree` Epic喜加一
   - `PyPI ✅` `Git ✅`
 - `ELF_RSS2` ELF_RSS
   - `PyPI ❌` `Git ✅`
@@ -1648,6 +1648,8 @@
 - `nonebot_plugin_trans_progress` 汉化进度记录
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_internet_outage` 互联网异常事件监测
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_group_relay` 群消息中继
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
