@@ -1268,6 +1268,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_rollpig` 今天是什么小猪
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mcserver_status_check` MC服务器状态查询
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_perithacus` pErithacus
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_quickreply` 快捷回复
@@ -1640,8 +1642,6 @@
 - `nonebot_plugin_terralink` TerraLink
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_instagram` Instagram RapidAPI 解析
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_mcserver_status_check` MC服务器状态查询
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_boardgamehelper` nonebot_plugin_boardgamehelper
   - `PyPI ❌` `Git ❌`
