@@ -1651,6 +1651,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_group_relay` 群消息中继
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_tavily` Tavily Search
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bf6_stats` 战地6战绩查询
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
