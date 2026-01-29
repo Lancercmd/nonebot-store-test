@@ -1278,6 +1278,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_ai_groupmate` nonebot-plugin-ai-groupmate
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_trans_progress` 汉化进度记录
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_word_censor` 词汇黑名单审查
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bili2mp4` nonebot-plugin-bili2mp4
@@ -1646,8 +1648,6 @@
 - `nonebot_plugin_instagram` Instagram RapidAPI 解析
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_boardgamehelper` nonebot_plugin_boardgamehelper
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_trans_progress` 汉化进度记录
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_internet_outage` 互联网异常事件监测
   - `PyPI ❌` `Git ❌`
