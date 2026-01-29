@@ -14447,12 +14447,12 @@
 		"pypi_version": "0.4.0",
 		"pypi_create": true,
 		"pypi_run": false,
-		"git_hash": "d656675af77eef419fb5b00bf3025b9f964101a2",
+		"git_hash": "e9c8d3805540ad54f3f1fba6aee6ea20b9d16ef1",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "471781690cc508ddb373e24b28c80298b989202e",
 		"stderr_pypi": "从 PyPI 项目运行超时",
-		"stderr_git": "/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/cleanse_speech/dlfa.py:133: SyntaxWarning: invalid escape sequence '\\W'\n  stripped_text = re.sub('\\W+', '', text).replace(\"_\", '')\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/zhconv/zhconv.py:33: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.\n  from pkg_resources import resource_stream\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/jieba/__init__.py:44: SyntaxWarning: invalid escape sequence '\\.'\n  re_han_default = re.compile(\"([\\u4E00-\\u9FD5a-zA-Z0-9+#&\\._%\\-]+)\", re.U)\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/jieba/__init__.py:46: SyntaxWarning: invalid escape sequence '\\s'\n  re_skip_default = re.compile(\"(\\r\\n|\\s)\", re.U)\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/jieba/finalseg/__init__.py:78: SyntaxWarning: invalid escape sequence '\\.'\n  re_skip = re.compile(\"([a-zA-Z0-9]+(?:\\.\\d+)?%?)\")\n\u001b[33mChecking connectivity to the model hosters, this may take a while. To bypass this check, set `DISABLE_MODEL_SOURCE_CHECK` to `True`.\u001b[0m"
+		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 39, in <module>\n    from fastapi import FastAPI, Request, UploadFile, status\nModuleNotFoundError: No module named 'fastapi'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_noadpls/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 297, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 44, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
 	},
 	"nonebot-plugin-sideload": {
 		"__nonebot2.version__": "2.4.4",
@@ -16053,7 +16053,7 @@
 		"pypi_version": "0.3.13",
 		"pypi_create": true,
 		"pypi_run": false,
-		"git_hash": "2c70eca22f4c17148466477bde13095ce1bcd314",
+		"git_hash": "43b0ab7493590c6a396698d966756ad960cab5bb",
 		"git_create": true,
 		"git_run": false,
 		"last_seen": "471781690cc508ddb373e24b28c80298b989202e",
