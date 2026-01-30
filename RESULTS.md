@@ -1284,6 +1284,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bili2mp4` nonebot-plugin-bili2mp4
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_qqmusic_reco` 基于QQ音乐歌单的音乐推荐
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
