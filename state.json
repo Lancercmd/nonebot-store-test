@@ -1900,7 +1900,7 @@
 		"pypi_version": "1.11.0",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "28a02aec0f2fae787aad7661e96debaef41c9acf",
+		"git_hash": "cdea262335946c2f21781293c6ffc3a50b5bbccf",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "60ed7ede48fc4d577cfe0f9d855d72ef262afec3"
@@ -10440,7 +10440,7 @@
 		"pypi_version": "0.3.1",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "d3df359fd493a2d31acf1095c3c68491514e8290",
+		"git_hash": "229e89ef8f4f184a7e0d226d8c6383560264fb4f",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "60ed7ede48fc4d577cfe0f9d855d72ef262afec3"
@@ -15498,10 +15498,10 @@
 		"desc": "通用媒体卡片渲染(PIL 实现)[B站|抖音|快手|微博|小红书|YouTube|TikTok|Twitter|AcFun|NGA]",
 		"author": "fllesser",
 		"homepage": "https://github.com/fllesser/nonebot-plugin-parser",
-		"pypi_version": "2.3.8",
+		"pypi_version": "2.3.9",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "15653d79914c8c67327ee6a4de6963209a25d342",
+		"git_hash": "0c2ee6a4a17909017b1f540f35d4e2453fc280ad",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "60ed7ede48fc4d577cfe0f9d855d72ef262afec3"
@@ -15958,14 +15958,13 @@
 		"desc": "pErithacus 是一个基于 NoneBot2 框架的聊天插件，可以根据用户设定的关键词自动回复相关内容。该插件提供了完整的词条管理功能，让用户能够轻松创建、编辑和管理自定义回复内容。",
 		"author": "SnowMoonSS",
 		"homepage": "https://github.com/SnowMoonSS/nonebot-plugin-pErithacus",
-		"pypi_version": "1.3.2",
+		"pypi_version": "1.4.0",
 		"pypi_create": false,
 		"pypi_run": false,
-		"git_hash": "ee8db28d6128dd05ed4dc8b8fecf1adcae2c1fa3",
+		"git_hash": "f041b4e776d3dc421abe1360596525f4feb0d4fe",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "60ed7ede48fc4d577cfe0f9d855d72ef262afec3",
-		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 39, in <module>\n    from fastapi import FastAPI, Request, UploadFile, status\nModuleNotFoundError: No module named 'fastapi'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_perithacus/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 297, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 44, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "60ed7ede48fc4d577cfe0f9d855d72ef262afec3"
 	},
 	"nonebot-plugin-quickreply": {
 		"__nonebot2.version__": "2.4.4",
