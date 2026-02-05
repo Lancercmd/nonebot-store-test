@@ -1661,6 +1661,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_osugreek` osugreek
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_uniconf` Uniconfig-配置文件管理器
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
