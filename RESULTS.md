@@ -1663,6 +1663,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_uniconf` Uniconfig-配置文件管理器
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_dice_helper` Dice Helper
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mcpclient` MCP Client
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
