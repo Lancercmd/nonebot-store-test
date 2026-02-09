@@ -1667,6 +1667,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mcpclient` MCP Client
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_BitTorrents` BitTorrent磁力搜索
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
