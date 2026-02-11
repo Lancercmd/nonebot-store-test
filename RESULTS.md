@@ -1669,6 +1669,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_BitTorrents` BitTorrent磁力搜索
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_personification` 群聊拟人
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
