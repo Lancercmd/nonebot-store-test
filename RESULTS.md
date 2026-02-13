@@ -1671,6 +1671,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_personification` 群聊拟人
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_shiro_web_console` Shiro Web Console
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
