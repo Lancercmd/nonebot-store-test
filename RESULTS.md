@@ -1673,6 +1673,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_shiro_web_console` Shiro Web Console
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_nodejsphira` Phira Server Manager
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_doroending` 今日doro结局
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
