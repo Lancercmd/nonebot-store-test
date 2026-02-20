@@ -1286,6 +1286,10 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_qqmusic_reco` 基于QQ音乐歌单的音乐推荐
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_dice_helper` Dice Helper
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_doroending` 今日doro结局
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1663,8 +1667,6 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_uniconf` Uniconfig-配置文件管理器
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_dice_helper` Dice Helper
-  - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mcpclient` MCP Client
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_BitTorrents` BitTorrent磁力搜索
@@ -1674,8 +1676,6 @@
 - `nonebot_plugin_shiro_web_console` Shiro Web Console
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nodejsphira` Phira Server Manager
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_doroending` 今日doro结局
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
