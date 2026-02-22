@@ -1897,10 +1897,10 @@
 		"desc": "一个用于查询 Tetris 相关游戏玩家数据的插件",
 		"author": "shoucandanghehe",
 		"homepage": "https://github.com/A-minos/nonebot-plugin-tetris-stats",
-		"pypi_version": "1.11.0",
+		"pypi_version": "1.12.0",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "14f3e6960ef7544f7516496a05f5022d5b5f66e0",
+		"git_hash": "99e475b75b6869defbb2fbcc381174e918027c8d",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "9b133806bd8cc8f7c4b82eadb4292e9d7ba49fb8"
@@ -7945,12 +7945,12 @@
 		"pypi_version": "0.3.3",
 		"pypi_create": true,
 		"pypi_run": false,
-		"git_hash": "07efb050fe0e49007317a7065ca5f52494d01fbf",
+		"git_hash": "99793850528070a6656e8cda42b9155b026bc737",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "9b133806bd8cc8f7c4b82eadb4292e9d7ba49fb8",
 		"stderr_pypi": "/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/importlib/__init__.py:90: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  return _bootstrap._gcd_import(name[level:], package, level)\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/vrchatapi/rest.py:248: SyntaxWarning: invalid escape sequence '\\w'\n  if re.match(b'{\"\\w{21}\":\\[\"totp\",\"otp\"]}', r.data) is not None:\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/vrchatapi/rest.py:251: SyntaxWarning: invalid escape sequence '\\w'\n  elif re.match(b'{\"\\w{21}\":\\[\"emailOtp\"]}', r.data) is not None:",
-		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 39, in <module>\n    from fastapi import FastAPI, Request, UploadFile, status\nModuleNotFoundError: No module named 'fastapi'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_vrchat/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 297, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 44, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"stderr_git": "/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/importlib/__init__.py:90: RuntimeWarning: No adapters found, please make sure you have installed at least one adapter.\n  return _bootstrap._gcd_import(name[level:], package, level)\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/vrchatapi/rest.py:248: SyntaxWarning: invalid escape sequence '\\w'\n  if re.match(b'{\"\\w{21}\":\\[\"totp\",\"otp\"]}', r.data) is not None:\n/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/vrchatapi/rest.py:251: SyntaxWarning: invalid escape sequence '\\w'\n  elif re.match(b'{\"\\w{21}\":\\[\"emailOtp\"]}', r.data) is not None:"
 	},
 	"nonebot-plugin-batitle": {
 		"__nonebot2.version__": "2.4.4",
