@@ -1677,6 +1677,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nodejsphira` Phira Server Manager
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_auto_emojimix` 自动合成emoji
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
