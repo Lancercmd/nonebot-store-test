@@ -1263,7 +1263,7 @@
 - `nonebot_plugin_templates_draw` 模板绘图
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_railwaytools` 火车迷铁路工具箱
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_omikuji` 御神签
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_rollpig` 今天是什么小猪
