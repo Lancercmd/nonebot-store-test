@@ -9778,10 +9778,10 @@
 		"desc": "在QQ群与 Discord 之间同步消息的 nonebot2 插件",
 		"author": "Autuamn",
 		"homepage": "https://github.com/Autuamn/nonebot-plugin-dcqq-relay",
-		"pypi_version": "1.2.1",
+		"pypi_version": "1.3.0",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "59e2a1a97929fe0f9eaf4379df82d524eba3d778",
+		"git_hash": "7855ffebbcb186129bc51cbb46c96be7b623c24a",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "1f1f05370ca43534f696d4622b7cd246c782bed0"
