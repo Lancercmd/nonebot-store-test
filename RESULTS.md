@@ -400,7 +400,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_blive_danmaku` B站直播间路灯
   - `PyPI ❌` `Git ✅`
-- `nonebot_plugin_clock` nonebot clock 群闹钟 ⏰
+- `nonebot_plugin_clock` nonebot_plugin_clock
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fuckyou` FuckYou
   - `PyPI ✅` `Git ✅`
@@ -1288,6 +1288,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_dice_helper` Dice Helper
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_shiro_web_console` Shiro Web Console
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_doroending` 今日doro结局
   - `PyPI ❌` `Git ✅`
 
@@ -1672,8 +1674,6 @@
 - `nonebot_plugin_BitTorrents` BitTorrent磁力搜索
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_personification` 群聊拟人
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_shiro_web_console` Shiro Web Console
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nodejsphira` Phira Server Manager
   - `PyPI ❌` `Git ❌`
