@@ -1683,6 +1683,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_rikka` Nonebot-Plugin-Rikka
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_cardimg` nonebot-plugin-cardimg
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
