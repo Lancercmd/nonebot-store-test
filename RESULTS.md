@@ -1292,6 +1292,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_doroending` 今日doro结局
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_peek` nonebot-plugin-peek
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1678,8 +1680,6 @@
 - `nonebot_plugin_nodejsphira` Phira Server Manager
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_auto_emojimix` 自动合成emoji
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_peek` nonebot-plugin-peek
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_rikka` Nonebot-Plugin-Rikka
   - `PyPI ❌` `Git ❌`
