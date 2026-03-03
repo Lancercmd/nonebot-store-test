@@ -1685,6 +1685,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_cardimg` nonebot-plugin-cardimg
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mute_cat` The Betterest Mute Cat
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
