@@ -1279,7 +1279,7 @@
 - `nonebot_plugin_ai_groupmate` nonebot-plugin-ai-groupmate
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_trans_progress` 汉化进度记录
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_word_censor` 词汇黑名单审查
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bili2mp4` nonebot-plugin-bili2mp4
@@ -1287,6 +1287,8 @@
 - `nonebot_plugin_qqmusic_reco` 基于QQ音乐歌单的音乐推荐
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_dice_helper` Dice Helper
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_personification` 群聊拟人
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_shiro_web_console` Shiro Web Console
   - `PyPI ✅` `Git ✅`
@@ -1294,6 +1296,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_peek` nonebot-plugin-peek
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_rikka` Nonebot-Plugin-Rikka
+  - `PyPI ❌` `Git ✅`
 - `nonebot-plugin-trumpwatcher` 特朗普社媒监控
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_mc_whitelist_controller` mc服务器白名单管理工具
@@ -1679,13 +1683,9 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_BitTorrents` BitTorrent磁力搜索
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_personification` 群聊拟人
-  - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nodejsphira` Phira Server Manager
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_auto_emojimix` 自动合成emoji
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_rikka` Nonebot-Plugin-Rikka
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_cardimg` nonebot-plugin-cardimg
   - `PyPI ❌` `Git ❌`
