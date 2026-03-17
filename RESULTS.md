@@ -1,3 +1,5 @@
+已达到限制，结束测试。
+
 `nonebot2 == 2.4.4`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1294,10 +1296,12 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_doroending` 今日doro结局
   - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_auto_emojimix` 自动合成emoji
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_peek` nonebot-plugin-peek
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_rikka` Nonebot-Plugin-Rikka
-  - `PyPI ❌` `Git ✅`
+  - `PyPI ✅` `Git ✅`
 - `nonebot-plugin-trumpwatcher` 特朗普社媒监控
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_mc_whitelist_controller` mc服务器白名单管理工具
@@ -1684,8 +1688,6 @@
 - `nonebot_plugin_BitTorrents` BitTorrent磁力搜索
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nodejsphira` Phira Server Manager
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_auto_emojimix` 自动合成emoji
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_cardimg` nonebot-plugin-cardimg
   - `PyPI ❌` `Git ❌`
