@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.4.4`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1692,6 +1690,8 @@
 - `nonebot_plugin_cardimg` nonebot-plugin-cardimg
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mute_cat` The Betterest Mute Cat
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_nbnhhsh` nonebot-plugin-nbnhhsh
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
