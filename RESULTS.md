@@ -1693,6 +1693,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nbnhhsh` nonebot-plugin-nbnhhsh
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_codex` Codex
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
