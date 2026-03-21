@@ -1695,6 +1695,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_codex` Codex
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_sentry_transaction` nonebot-plugin-sentry-transaction
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
