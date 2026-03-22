@@ -1697,6 +1697,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_sentry_transaction` nonebot-plugin-sentry-transaction
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_calcgame_new` 计算器：游戏
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_qwqa` 全自动膜拜机
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
