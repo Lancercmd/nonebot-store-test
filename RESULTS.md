@@ -1701,6 +1701,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_qwqa` 全自动膜拜机
   - `PyPI ❌` `Git ❌`
+- `endfield` Endfield
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
