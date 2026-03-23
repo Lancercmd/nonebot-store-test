@@ -1304,6 +1304,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_mc_whitelist_controller` mc服务器白名单管理工具
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_appstore_gameranking` AppStore游戏榜单
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
