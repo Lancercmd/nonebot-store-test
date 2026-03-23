@@ -1286,6 +1286,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_qqmusic_reco` 基于QQ音乐歌单的音乐推荐
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_osugreek` osugreek
+  - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_dice_helper` Dice Helper
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_personification` 群聊拟人
@@ -1304,6 +1306,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_mc_whitelist_controller` mc服务器白名单管理工具
   - `PyPI ✅` `Git ✅`
+- `endfield` Endfield
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_appstore_gameranking` AppStore游戏榜单
   - `PyPI ✅` `Git ✅`
 
@@ -1679,8 +1683,6 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bf6_stats` 战地6战绩查询
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_osugreek` osugreek
-  - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_uniconf` Uniconfig-配置文件管理器
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mcpclient` MCP Client
@@ -1702,8 +1704,6 @@
 - `nonebot_plugin_calcgame_new` 计算器：游戏
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_qwqa` 全自动膜拜机
-  - `PyPI ❌` `Git ❌`
-- `endfield` Endfield
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
