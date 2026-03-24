@@ -1900,7 +1900,7 @@
 		"pypi_version": "1.13.1",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "4a2e3e7e59caa8693bbb1f8fcec2f18f176a50b9",
+		"git_hash": "495322b8b6c5f26a93b6b7634836db6a4fa565e7",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "be772bc1d44f178e331859ec96c9ca8f5b43f9cd"
@@ -7373,7 +7373,7 @@
 		"pypi_version": "3.5.1",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "7dbe8da002503ddf5ce9a78e1ae895ebc103c071",
+		"git_hash": null,
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "be772bc1d44f178e331859ec96c9ca8f5b43f9cd",
@@ -7391,7 +7391,7 @@
 		"pypi_version": "2.2.11",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "3415d6c4f910f0c170b1458afb682a2451109e04",
+		"git_hash": null,
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "be772bc1d44f178e331859ec96c9ca8f5b43f9cd",
@@ -16308,11 +16308,10 @@
 		"pypi_version": null,
 		"pypi_create": false,
 		"pypi_run": false,
-		"git_hash": "96b8975820775fd043d63b70b0b765c00a6f3287",
+		"git_hash": "4198d331794ce110561fa6203a011f1247dc0bd5",
 		"git_create": true,
 		"git_run": true,
-		"last_seen": "be772bc1d44f178e331859ec96c9ca8f5b43f9cd",
-		"stderr_git": "Traceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 39, in <module>\n    from fastapi import FastAPI, Request, UploadFile, status\nModuleNotFoundError: No module named 'fastapi'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/tests/test-nonebot_plugin_personification/run.py\", line 2, in <module>\n    init()\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 320, in init\n    DriverClass = _resolve_combine_expr(config.driver)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/__init__.py\", line 256, in _resolve_combine_expr\n    DriverClass = resolve_dot_notation(\n                  ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/utils.py\", line 297, in resolve_dot_notation\n    module = importlib.import_module(modulename)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/importlib/__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/home/runner/work/nonebot-store-test/nonebot-store-test/.venv/lib/python3.12/site-packages/nonebot/drivers/fastapi.py\", line 44, in <module>\n    raise ImportError(\nImportError: Please install FastAPI first to use this driver. Install with pip: `pip install nonebot2[fastapi]`"
+		"last_seen": "be772bc1d44f178e331859ec96c9ca8f5b43f9cd"
 	},
 	"nonebot-plugin-shiro-web-console": {
 		"__nonebot2.version__": "2.4.4",
@@ -16597,7 +16596,7 @@
 		"pypi_version": "0.0.1",
 		"pypi_create": false,
 		"pypi_run": false,
-		"git_hash": "e9ceb11d401b61d73a3672b3853acb5aa6da1ab1",
+		"git_hash": "3a091c82065297e655cb10e5f9ed62ee1cb9342e",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "be772bc1d44f178e331859ec96c9ca8f5b43f9cd"
