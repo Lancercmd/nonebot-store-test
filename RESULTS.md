@@ -1290,7 +1290,7 @@
   - `PyPI ✅` `Git ❌`
 - `nonebot_plugin_dice_helper` Dice Helper
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_personification` 群聊拟人
+- `nonebot_plugin_personification` 拟人化聊天
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_shiro_web_console` Shiro Web Console
   - `PyPI ✅` `Git ✅`
@@ -1305,6 +1305,8 @@
 - `nonebot-plugin-trumpwatcher` 特朗普社媒监控
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_mc_whitelist_controller` mc服务器白名单管理工具
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_qwqa` 全自动膜拜机
   - `PyPI ✅` `Git ✅`
 - `endfield` Endfield
   - `PyPI ❌` `Git ✅`
@@ -1702,8 +1704,6 @@
 - `nonebot_plugin_sentry_transaction` nonebot-plugin-sentry-transaction
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_calcgame_new` 计算器：游戏
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_qwqa` 全自动膜拜机
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
