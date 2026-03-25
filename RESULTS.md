@@ -1312,6 +1312,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_appstore_gameranking` AppStore游戏榜单
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_maimaimonitor` 舞萌服务器监控
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
