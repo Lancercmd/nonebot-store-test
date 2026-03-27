@@ -1,3 +1,5 @@
+已达到限制，结束测试。
+
 `nonebot2 == 2.4.4`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1254,6 +1256,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_daily_bing` 每日必应壁纸
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_markdown2img` nonebot_plugin_markdown2img
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_jrrp3` 每日人品 3
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_image_symmetry` 图像对称
@@ -1313,6 +1317,8 @@
 - `nonebot_plugin_appstore_gameranking` AppStore游戏榜单
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_maimaimonitor` 舞萌服务器监控
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_cs2radar` CS2 Radar
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
@@ -1660,8 +1666,6 @@
 - `nonebot_plugin_ai_turtle_soup` 海龟汤游戏
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bili_helper` B站解析助手
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_markdown2img` nonebot_plugin_markdown2img
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_manosaba_memes` 魔裁 Memes
   - `PyPI ❌` `Git ❌`
