@@ -1318,6 +1318,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_cs2radar` CS2 Radar
   - `PyPI ✅` `Git ✅`
+- `onebot_plugin_ts3_tracker` TS3 Tracker
+  - `PyPI ❌` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
