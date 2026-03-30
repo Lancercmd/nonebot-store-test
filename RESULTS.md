@@ -1308,6 +1308,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_mc_whitelist_controller` mc服务器白名单管理工具
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_codex` Codex
+  - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_qwqa` 全自动膜拜机
   - `PyPI ✅` `Git ✅`
 - `endfield` Endfield
@@ -1704,8 +1706,6 @@
 - `nonebot_plugin_mute_cat` The Betterest Mute Cat
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_nbnhhsh` nonebot-plugin-nbnhhsh
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_codex` Codex
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_sentry_transaction` nonebot-plugin-sentry-transaction
   - `PyPI ❌` `Git ❌`
