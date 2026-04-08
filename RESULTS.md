@@ -1,5 +1,3 @@
-已达到限制，结束测试。
-
 `nonebot2 == 2.5.0`
 ## ✅ 满足基础可靠性
 - `haruka_bot` haruka_bot
@@ -1288,6 +1286,76 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_rollpig` 今天是什么小猪
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mcserver_status_check` MC服务器状态查询
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_perithacus` pErithacus
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_quickreply` 快捷回复
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_jimeng` 即梦
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_ai_groupmate` nonebot-plugin-ai-groupmate
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_trans_progress` 汉化进度记录
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_word_censor` 词汇黑名单审查
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_bili2mp4` nonebot-plugin-bili2mp4
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_qqmusic_reco` 基于QQ音乐歌单的音乐推荐
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_osugreek` osugreek
+  - `PyPI ✅` `Git ❌`
+- `nonebot_plugin_dice_helper` Dice Helper
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mcpclient` MCP Client
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_BitTorrents` BitTorrent磁力搜索
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_personification` 拟人化聊天
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_shiro_web_console` Shiro Web Console
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nodejsphira` Phira Server Manager
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_doroending` 今日doro结局
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_auto_emojimix` 自动合成emoji
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_peek` nonebot-plugin-peek
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_rikka` Nonebot-Plugin-Rikka
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_cardimg` nonebot-plugin-cardimg
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mute_cat` The Betterest Mute Cat
+  - `PyPI ✅` `Git ✅`
+- `nonebot-plugin-trumpwatcher` 特朗普社媒监控
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_mc_whitelist_controller` mc服务器白名单管理工具
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_nbnhhsh` nonebot-plugin-nbnhhsh
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_codex` Codex
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_sentry_transaction` nonebot-plugin-sentry-transaction
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_calcgame_new` 计算器：游戏
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_qwqa` 全自动膜拜机
+  - `PyPI ✅` `Git ✅`
+- `endfield` Endfield
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_appstore_gameranking` AppStore游戏榜单
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_maimaimonitor` 舞萌服务器监控
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_cs2radar` CS2 Radar
+  - `PyPI ✅` `Git ✅`
+- `onebot_plugin_ts3_tracker` TS3 Tracker
+  - `PyPI ❌` `Git ✅`
+- `nonebot_plugin_session_config` 会话配置
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1626,6 +1694,20 @@
 - `nonebot_plugin_manosaba_memes` 魔裁 Memes
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_anans_sketchbook` 安安的素描本聊天框
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_instagram` Instagram RapidAPI 解析
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_boardgamehelper` nonebot_plugin_boardgamehelper
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_internet_outage` 互联网异常事件监测
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_group_relay` 群消息中继
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_tavily` Tavily Search
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bf6_stats` 战地6战绩查询
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_uniconf` Uniconfig-配置文件管理器
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
