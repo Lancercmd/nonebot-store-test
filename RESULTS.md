@@ -1356,6 +1356,8 @@
   - `PyPI ❌` `Git ✅`
 - `nonebot_plugin_session_config` 会话配置
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_12306_ticket` 12306车票查询
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
