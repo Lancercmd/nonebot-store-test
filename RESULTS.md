@@ -1358,6 +1358,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_12306_ticket` 12306车票查询
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_tg_stickers_downloads` tg-stickers-downloads
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
