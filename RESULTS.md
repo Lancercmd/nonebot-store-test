@@ -1715,6 +1715,14 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_uniconf` Uniconfig-配置文件管理器
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_dingtalk_logger` 错误日志转发钉钉机器人
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_arkguesser` 明日方舟猜干员游戏
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_quotation` 语录插件
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_dancecube` 舞立方插件
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
