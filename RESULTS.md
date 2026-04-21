@@ -1723,6 +1723,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_dancecube` 舞立方插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_suda_electricity` 苏大电费查询
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
