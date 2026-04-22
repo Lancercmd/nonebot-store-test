@@ -1540,7 +1540,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_savepic` Savepic
   - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_jx3` 剑网三查询和推送
+- `nonebot_plugin_jx3` 剑网三助手
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_xinghuo_api` 科大讯飞星火大模型聊天
   - `PyPI ❌` `Git ❌`
