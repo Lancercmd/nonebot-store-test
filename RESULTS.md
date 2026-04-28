@@ -1727,6 +1727,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_suda_electricity` 苏大电费查询
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_osumania_toolkit` osu!mania 工具箱
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_kuwo` 酷我音乐
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
