@@ -1362,6 +1362,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bot_monitor` Bot状态监控
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_dancecube` 舞立方插件
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_amrita` LibAmritaCore
   - `PyPI ✅` `Git ✅`
 
@@ -1722,8 +1724,6 @@
 - `nonebot_plugin_arkguesser` 明日方舟猜干员游戏
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_quotation` 语录插件
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_dancecube` 舞立方插件
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_suda_electricity` 苏大电费查询
   - `PyPI ❌` `Git ❌`
