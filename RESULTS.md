@@ -1731,6 +1731,10 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_kuwo` 酷我音乐
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_hermes` Hermes Agent
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_namepy` 编程命名风格转换
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
@@ -1752,4 +1756,6 @@
 - `nonebot_plugin_eop_ai` talk with eop ai
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_getbapics` nonebot-plugin-getbapics
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_uma` 赛马娘插件
   - `PyPI ❌` `Git ❌`
