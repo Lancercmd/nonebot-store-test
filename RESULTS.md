@@ -1366,6 +1366,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_amrita` LibAmritaCore
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_hermes` Hermes Agent
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1730,8 +1732,6 @@
 - `nonebot_plugin_osumania_toolkit` osu!mania 工具箱
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_kuwo` 酷我音乐
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_hermes` Hermes Agent
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_namepy` 编程命名风格转换
   - `PyPI ❌` `Git ❌`
