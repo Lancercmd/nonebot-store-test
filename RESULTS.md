@@ -1739,6 +1739,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_dotcharacter` dot-skill 角色扮演
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_b50_analysis` B50分析
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
