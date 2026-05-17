@@ -1368,7 +1368,13 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_hermes` Hermes Agent
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_dotcharacter` dot-skill 角色扮演
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_bililive` BiliLive
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_picstatus_ng` PicStatus-ng
+  - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_catcake` 猫猫糕公开版
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
@@ -1736,8 +1742,6 @@
 - `nonebot_plugin_kuwo` 酷我音乐
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_namepy` 编程命名风格转换
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_dotcharacter` dot-skill 角色扮演
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_b50_analysis` B50分析
   - `PyPI ❌` `Git ❌`
