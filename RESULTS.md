@@ -1374,7 +1374,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_picstatus_ng` PicStatus-ng
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_catcake` 猫猫糕公开版
+- `nonebot_plugin_catcake` 星穹铁道猫猫糕搜索＆上传
   - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
