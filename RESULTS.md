@@ -1747,6 +1747,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_onebot2tg` nonebot-plugin-onebot2tg
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_set_essence_msg` 精华消息管理
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
