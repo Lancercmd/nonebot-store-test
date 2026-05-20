@@ -1745,6 +1745,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_b50_analysis` B50分析
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_onebot2tg` nonebot-plugin-onebot2tg
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
