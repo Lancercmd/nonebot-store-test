@@ -1749,6 +1749,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_set_essence_msg` 精华消息管理
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_maimai_raking` 舞萌排行榜
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
