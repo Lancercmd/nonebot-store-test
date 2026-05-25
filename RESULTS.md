@@ -1751,6 +1751,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_maimai_raking` 舞萌排行榜
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_permission` Permission
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
