@@ -1376,6 +1376,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_catcake` 星穹铁道猫猫糕搜索＆上传
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_group_heat` 群热度统计
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
