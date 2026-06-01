@@ -1376,6 +1376,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_catcake` 星穹铁道猫猫糕搜索＆上传
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_permission` Permission
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_group_heat` 群热度统计
   - `PyPI ✅` `Git ✅`
 
@@ -1752,8 +1754,6 @@
 - `nonebot_plugin_set_essence_msg` 精华消息管理
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_maimai_raking` 舞萌排行榜
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_permission` Permission
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
