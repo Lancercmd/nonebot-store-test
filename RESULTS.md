@@ -1380,6 +1380,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_group_heat` 群热度统计
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_just_enough_katakanas` Just Enough Katakanas
+  - `PyPI ✅` `Git ✅`
 
 ## ❌ 运行时错误
 - `nonebot_plugin_status` 服务器状态查看
@@ -1754,8 +1756,6 @@
 - `nonebot_plugin_set_essence_msg` 精华消息管理
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_maimai_raking` 舞萌排行榜
-  - `PyPI ❌` `Git ❌`
-- `nonebot_plugin_just_enough_katakanas` Just Enough Katakanas
   - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
