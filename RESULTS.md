@@ -1757,6 +1757,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_maimai_raking` 舞萌排行榜
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_class_schedule` 课程表插件
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
