@@ -1759,6 +1759,12 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_class_schedule` 课程表插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ret2shell` Ret 2 Shell 播报与查询
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_uptimekuma` Uptime Kuma
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_depsafe` 开源依赖安全助手
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
