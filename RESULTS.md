@@ -1765,6 +1765,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_depsafe` 开源依赖安全助手
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bilibili_downloader` 哔哩哔哩文件下载器
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
