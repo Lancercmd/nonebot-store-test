@@ -1769,6 +1769,8 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_keyreply` KeyReply
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_helper_recall` 帮撤回
+  - `PyPI ❌` `Git ❌`
 
 ## ❌ 创建时错误
 - `nonebot_plugin_mockingbird` MockingBird语音
