@@ -4079,10 +4079,10 @@
 		"desc": "基于云端的签到综合积分系统。",
 		"author": "Monarchdos",
 		"homepage": "https://github.com/Monarchdos/nonebot_plugin_cloudsign",
-		"pypi_version": "2.1.2",
+		"pypi_version": "3.0.0",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "f9d73d296cca46d6cc33dd4e5e40f3e3d3697807",
+		"git_hash": "b919eacfdbac921f5a5b193268cb4466139fd574",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "c254e69f3893a9ca4a1ebf5b82cec4a0c5cba835"
