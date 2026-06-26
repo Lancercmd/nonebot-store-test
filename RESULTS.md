@@ -1795,3 +1795,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_uma` 赛马娘插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_voicevox_bridge` VOICEVOX BRIDGE
+  - `PyPI ❌` `Git ❌`
