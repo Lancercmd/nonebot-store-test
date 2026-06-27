@@ -1801,3 +1801,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_lottery_signup` 抽奖报名
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mail` nonebot-plugin-mail
+  - `PyPI ❌` `Git ❌`
