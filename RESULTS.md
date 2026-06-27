@@ -1797,3 +1797,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_voicevox_bridge` VOICEVOX BRIDGE
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_anime` nonebot-plugin-anime
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_lottery_signup` 抽奖报名
+  - `PyPI ❌` `Git ❌`
