@@ -1803,3 +1803,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mail` nonebot-plugin-mail
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bawiki_revive` BAWiki Revive
+  - `PyPI ❌` `Git ❌`
