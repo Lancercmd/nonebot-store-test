@@ -1238,7 +1238,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_fupan` 复盘打卡
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_algo` 算法比赛助手
+- `nonebot_plugin_algo` algo helper
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_htmlkit` nonebot-plugin-htmlkit
   - `PyPI ✅` `Git ✅`
