@@ -15975,10 +15975,10 @@
 		"desc": "AI虚拟群友",
 		"author": "yaowan233",
 		"homepage": "https://github.com/yaowan233/nonebot-plugin-ai-groupmate",
-		"pypi_version": "2.0.4",
+		"pypi_version": "2.0.5",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "b4c60b33a98f6ec28071302cada11cd91511d30f",
+		"git_hash": "94be52d2a992a91dd05afe507faf9f7b1da4e3bf",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "e3b27ec758e58a0755db64d21f0739fce87b6e9e"
