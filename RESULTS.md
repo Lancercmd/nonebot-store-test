@@ -1805,3 +1805,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bawiki_revive` BAWiki Revive
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_roblox_search` Roblox查询插件
+  - `PyPI ❌` `Git ❌`
