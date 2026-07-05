@@ -1807,3 +1807,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_roblox_search` Roblox查询插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bili_query` B站查询与提醒
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_pxchat_enhanced` pxchat-enhanced
+  - `PyPI ❌` `Git ❌`
