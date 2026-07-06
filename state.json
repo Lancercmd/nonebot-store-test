@@ -227,7 +227,7 @@
 		"pypi_version": "0.9.14",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "c0e60d69727f0e8f18e85c720f1eef6eefb81e35",
+		"git_hash": "8f20f01aec629b28d225ba2a7e84ee0205d8c996",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "bd2dd8429b29a658da04938ab295672a0ba639d7"
@@ -14169,7 +14169,7 @@
 		"pypi_version": "0.1.11",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "04c5fd2c8e1a0a8056b9fe7dee8e329a442d3ab7",
+		"git_hash": "92d1df9f0ca1fc09c4560223918851212dbf0f62",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "bd2dd8429b29a658da04938ab295672a0ba639d7"
@@ -15975,10 +15975,10 @@
 		"desc": "AI虚拟群友",
 		"author": "yaowan233",
 		"homepage": "https://github.com/yaowan233/nonebot-plugin-ai-groupmate",
-		"pypi_version": "2.0.8",
+		"pypi_version": "2.0.10",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "94b69031b0fd7720b90a505db673521166477a51",
+		"git_hash": "1e3263e55156e4fe6204f2619d7b167f5b4f1040",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "bd2dd8429b29a658da04938ab295672a0ba639d7"
