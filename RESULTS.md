@@ -1811,3 +1811,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_pxchat_enhanced` pxchat-enhanced
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_onething_monitor` 网心云多账号版
+  - `PyPI ❌` `Git ❌`
