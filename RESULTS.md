@@ -1813,3 +1813,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_onething_monitor` 网心云多账号版
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_group_historian` 群聊史官
+  - `PyPI ❌` `Git ❌`
