@@ -1815,3 +1815,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_group_historian` 群聊史官
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_gspanel_lite` GSPanel Lite
+  - `PyPI ❌` `Git ❌`
