@@ -1817,3 +1817,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_gspanel_lite` GSPanel Lite
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_picstatus_re` PicStatus-Re
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_shitbot` shitbot
+  - `PyPI ❌` `Git ❌`
