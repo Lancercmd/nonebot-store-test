@@ -1821,3 +1821,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_shitbot` shitbot
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_git_poller` Git 仓库订阅拉取
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_zikequote3` ZikeQuote3
+  - `PyPI ❌` `Git ❌`
