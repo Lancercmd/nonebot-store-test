@@ -1825,3 +1825,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_zikequote3` ZikeQuote3
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ruok` Nonebot, RUOK?
+  - `PyPI ❌` `Git ❌`
