@@ -1829,3 +1829,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_rollpig_plus` 今天是什么小猪（今日小猪）Plus
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_palworld_sync` Palworld
+  - `PyPI ❌` `Git ❌`
