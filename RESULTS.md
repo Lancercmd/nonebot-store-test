@@ -1831,3 +1831,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_palworld_sync` Palworld
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_slot_machine` 老虎机
+  - `PyPI ❌` `Git ❌`
