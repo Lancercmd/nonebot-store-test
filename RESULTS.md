@@ -1833,3 +1833,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_slot_machine` 老虎机
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_R6States` 彩六数据查询
+  - `PyPI ❌` `Git ❌`
