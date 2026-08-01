@@ -1835,3 +1835,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_R6States` 彩六数据查询
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_astra_bot` nonebot_plugin_astra_bot
+  - `PyPI ❌` `Git ❌`
