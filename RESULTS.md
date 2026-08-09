@@ -1839,3 +1839,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_proxy_probe` 代理扫描
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_hibank` HiBank 城市银行查询
+  - `PyPI ❌` `Git ❌`
