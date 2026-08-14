@@ -5421,10 +5421,10 @@
 		"desc": "一款QQ群语录库——支持上传聊天截图为语录，随机投放语录，关键词搜索语录精准投放",
 		"author": "RongRongJi",
 		"homepage": "https://github.com/RongRongJi/nonebot_plugin_quote",
-		"pypi_version": "0.5.0",
+		"pypi_version": "0.5.1",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "85e41cf1691f8d5aaa648012689b5675dbecfac1",
+		"git_hash": "9c88ff73a16e94df41b9010f53c917539dfe001f",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "4250e4ae1d9df633bd7f6348cfa0a97c7deb4825"
@@ -10418,7 +10418,7 @@
 		"pypi_version": "2.3.3",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "d8d2f79941425da1668d109f325e8f218a36c18d",
+		"git_hash": "8506c08d65c162408a2c482ae3ce86306a61760b",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "4250e4ae1d9df633bd7f6348cfa0a97c7deb4825"
@@ -14704,7 +14704,7 @@
 		"pypi_version": "0.5.0",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "6da2d497eddddcec7dc06928f0139dab72565792",
+		"git_hash": "cbc198bb0d56e495f02308b0a81c3dfe90de3c1a",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "4250e4ae1d9df633bd7f6348cfa0a97c7deb4825"
