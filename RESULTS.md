@@ -1843,3 +1843,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_cs2match` CS2赛事助手
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_asf` nonebot_plugin_asf
+  - `PyPI ❌` `Git ❌`
