@@ -1845,3 +1845,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_asf` nonebot_plugin_asf
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_smart_message_storage` 智能消息存储
+  - `PyPI ❌` `Git ❌`
