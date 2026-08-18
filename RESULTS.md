@@ -570,6 +570,8 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_batarot` 碧蓝档案塔罗牌
   - `PyPI ✅` `Git ✅`
+- `nonebot_plugin_cnrail` CNRail
+  - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_longtu` 随机龙图
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_waiter` Waiter 插件
