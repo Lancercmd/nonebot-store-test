@@ -1849,3 +1849,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_smart_message_storage` 智能消息存储
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_sues_bill` SUES校园服务
+  - `PyPI ❌` `Git ❌`
