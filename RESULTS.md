@@ -1851,3 +1851,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_sues_bill` SUES校园服务
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_llm_qa_system` nonebot-plugin-llm-qa-system
+  - `PyPI ❌` `Git ❌`
