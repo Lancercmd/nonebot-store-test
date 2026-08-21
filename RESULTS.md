@@ -1853,3 +1853,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_llm_qa_system` nonebot-plugin-llm-qa-system
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_easy_aidraw` AI绘图
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_aawarframe` nonebot-plugin-aawarframe
+  - `PyPI ❌` `Git ❌`
