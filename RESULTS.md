@@ -1058,7 +1058,7 @@
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_groups_aichat` AI群聊机器人
   - `PyPI ✅` `Git ✅`
-- `nonebot_plugin_suggarchat` SuggarChat LLM聊天插件
+- `nonebot_plugin_suggarchat` SuggarChat Agent聊天插件
   - `PyPI ✅` `Git ✅`
 - `nonebot_plugin_nbnhhsh_q` [ 缩写翻译 ] 能不能好好说话 - nbnhhsh
   - `PyPI ✅` `Git ✅`
@@ -1856,4 +1856,6 @@
 - `nonebot_plugin_easy_aidraw` AI绘图
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_aawarframe` nonebot-plugin-aawarframe
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_aigf` AI-group-friend
   - `PyPI ❌` `Git ❌`
