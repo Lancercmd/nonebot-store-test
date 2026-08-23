@@ -1859,3 +1859,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_aigf` AI-group-friend
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_bilibili` Bilibili 动态/直播订阅
+  - `PyPI ❌` `Git ❌`
