@@ -1861,3 +1861,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_bilibili` Bilibili 动态/直播订阅
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_autospeak` AutoSpeak
+  - `PyPI ❌` `Git ❌`
