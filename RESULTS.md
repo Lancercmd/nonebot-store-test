@@ -1863,3 +1863,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_autospeak` AutoSpeak
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ncqrcode` Napcat QRCode
+  - `PyPI ❌` `Git ❌`
