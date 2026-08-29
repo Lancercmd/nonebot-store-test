@@ -1865,3 +1865,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_ncqrcode` Napcat QRCode
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_livetennis` Live Tennis 网球比分
+  - `PyPI ❌` `Git ❌`
