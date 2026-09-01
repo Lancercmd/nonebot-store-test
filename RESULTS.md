@@ -1869,3 +1869,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mimo_console` Mimo Console
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_retirement_countdown` 退休倒计时
+  - `PyPI ❌` `Git ❌`
