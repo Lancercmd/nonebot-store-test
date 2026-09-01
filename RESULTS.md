@@ -1867,3 +1867,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_livetennis` Live Tennis 网球比分
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mimo_console` Mimo Console
+  - `PyPI ❌` `Git ❌`
