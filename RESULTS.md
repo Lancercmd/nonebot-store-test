@@ -1871,3 +1871,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_retirement_countdown` 退休倒计时
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_chikari_yinpa` Chikari_Yinpa_Fix
+  - `PyPI ❌` `Git ❌`
