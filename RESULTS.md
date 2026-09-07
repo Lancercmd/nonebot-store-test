@@ -1873,3 +1873,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_chikari_yinpa` Chikari_Yinpa_Fix
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_komari_status` Komari 探针状态截图
+  - `PyPI ❌` `Git ❌`
