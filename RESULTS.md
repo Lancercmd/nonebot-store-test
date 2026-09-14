@@ -1875,3 +1875,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_komari_status` Komari 探针状态截图
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_onebot_luckperms` nonebot-plugin-onebot-luckperms
+  - `PyPI ❌` `Git ❌`
