@@ -1877,3 +1877,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_onebot_luckperms` nonebot-plugin-onebot-luckperms
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_aigf_master` AI群友（增强版）
+  - `PyPI ❌` `Git ❌`
