@@ -16820,10 +16820,10 @@
 		"desc": "通过 Hermes Agent API Server 实现多平台 AI 聊天机器人",
 		"author": "gsskk",
 		"homepage": "https://github.com/gsskk/nonebot-plugin-hermes",
-		"pypi_version": "0.5.3",
+		"pypi_version": "0.5.4",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "075b8ed1472284439a4a2909a169b6fdefa6c8e8",
+		"git_hash": "8b3120ea4b083e0bb7ea7351a2b77e6d36faaf66",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "93de870ed6a3ab13909a574c15d908486f934e9d"
@@ -17260,7 +17260,7 @@
 		"pypi_version": "0.7.15",
 		"pypi_create": false,
 		"pypi_run": false,
-		"git_hash": "0969c9aa4fd22463530d562c67edcbd9977a125d",
+		"git_hash": "b0a39d7ddd36a9f0b24fa6b2e07b6ae7696476cf",
 		"git_create": false,
 		"git_run": false,
 		"last_seen": "93de870ed6a3ab13909a574c15d908486f934e9d"
