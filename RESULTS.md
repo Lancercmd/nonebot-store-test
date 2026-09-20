@@ -1881,3 +1881,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_advisor` LLM 客服
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_maestro` Maestro
+  - `PyPI ❌` `Git ❌`
