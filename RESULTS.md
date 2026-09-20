@@ -1879,3 +1879,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_aigf_master` AI群友（增强版）
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_advisor` LLM 客服
+  - `PyPI ❌` `Git ❌`
