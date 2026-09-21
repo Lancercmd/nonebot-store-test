@@ -1883,3 +1883,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_maestro` Maestro
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_dnddicer` 屠龙骰
+  - `PyPI ❌` `Git ❌`
