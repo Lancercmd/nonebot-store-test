@@ -1885,3 +1885,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_dnddicer` 屠龙骰
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_yijing` 易经起卦解卦
+  - `PyPI ❌` `Git ❌`
