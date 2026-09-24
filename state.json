@@ -17937,10 +17937,10 @@
 		"desc": "专精 DND5e/5r 跑团的骰娘：掷骰表达式（d20/优势劣势/爆炸骰等）、角色卡与检定/豁免/攻击、属性生成、HP 管理、先攻列表、战斗轮（.br/.ed）、群配置、牌堆与规则查询（规划中）。命令手感对齐 nonebot-dicepp。",
 		"author": "H-Elden",
 		"homepage": "https://github.com/H-Elden/nonebot-plugin-dnddicer",
-		"pypi_version": "0.2.2",
+		"pypi_version": "0.3.0",
 		"pypi_create": false,
 		"pypi_run": false,
-		"git_hash": "6fc99e2496a5b8f51d30cde25bc4b99289ab5736",
+		"git_hash": "de046203889e4977304ee4e43853c3028857a216",
 		"git_create": false,
 		"git_run": false,
 		"last_seen": "0dbc275f8bcd043492ead80ed4552d05a4d8d204"
