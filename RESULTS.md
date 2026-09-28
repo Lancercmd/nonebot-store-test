@@ -1887,3 +1887,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_yijing` 易经起卦解卦
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_varolant` 无畏契约助手
+  - `PyPI ❌` `Git ❌`
