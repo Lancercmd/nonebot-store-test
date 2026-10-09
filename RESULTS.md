@@ -1889,3 +1889,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_varolant` 无畏契约助手
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_wuwa_emoji` 鸣潮表情包插件
+  - `PyPI ❌` `Git ❌`
