@@ -1893,3 +1893,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_xbox_status` Xbox 状态
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_status_zmd` Status-Zmd
+  - `PyPI ❌` `Git ❌`
