@@ -1895,3 +1895,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_status_zmd` Status-Zmd
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_group_rename` 改群名
+  - `PyPI ❌` `Git ❌`
