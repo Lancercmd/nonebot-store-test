@@ -10449,10 +10449,10 @@
 		"desc": "Minecraft服务器状态查询，支持IPv6",
 		"author": "molanp",
 		"homepage": "https://github.com/molanp/nonebot_plugin_mccheck",
-		"pypi_version": "0.3.5",
+		"pypi_version": "0.4.0",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "042413124d4c4dca226b40b70d1a2514f46a91a6",
+		"git_hash": "86d6788533d78860e3705763b2d38767283df713",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "256caf6c613e10974195eec8d5647b74fe97c0fc"
