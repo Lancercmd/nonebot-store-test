@@ -11297,10 +11297,10 @@
 		"desc": "小样本TTS,通过fish-speech调用本地或在线api发送语音",
 		"author": "Cvandia",
 		"homepage": "https://github.com/Cvandia/nonebot-plugin-fishspeech-tts",
-		"pypi_version": "0.3.9",
+		"pypi_version": "0.4.0",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "a1885a92dcb888e4ea487198e31c726047f19767",
+		"git_hash": "58816d84819ba3fef2880df0fa8582ebd279e9eb",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "f56f4de9c81d0652718eda1effaec9287bb38f43"
