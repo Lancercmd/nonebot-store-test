@@ -10346,7 +10346,7 @@
 		"pypi_version": "0.5.0",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "85222ed8d65658e9c62db839a5ae8068bcab1786",
+		"git_hash": "d507f7850d0012862b32b58f1b0ceb836e59da9c",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "ea6e67df2e6da32a02827e60722af48430652d1e"
@@ -17478,10 +17478,10 @@
 		"desc": "每天抽取小猪、收集图鉴并提升 EX 等级，还可体验烤群友、预约烤猪、猪圈日报与多 Bot 同步",
 		"author": "Felis2026",
 		"homepage": "https://github.com/Felis2026/nonebot-plugin-rollpig-plus",
-		"pypi_version": "0.14.6",
+		"pypi_version": "0.15.0",
 		"pypi_create": false,
 		"pypi_run": false,
-		"git_hash": "b403e0c3d9071bc457c1075e1277085786be3447",
+		"git_hash": "6de5e2b871942487d6da5ed4419ec37abbc70972",
 		"git_create": false,
 		"git_run": false,
 		"last_seen": "ea6e67df2e6da32a02827e60722af48430652d1e"
