@@ -1897,3 +1897,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_group_rename` 改群名
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_agent_chat` Agent Chat
+  - `PyPI ❌` `Git ❌`
