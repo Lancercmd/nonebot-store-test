@@ -1895,7 +1895,7 @@
 		"pypi_version": "1.14.1",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "49cd5d047d543d556b21c90ac8c6eadd8b1ce10f",
+		"git_hash": "75d6314bbd4c485ebdfd136e40c734cc6354ee6b",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "13fa364d91e1616d386a4b90b82ecca84d1fa5fe"
@@ -14525,10 +14525,10 @@
 		"desc": "快乐的农场时光",
 		"author": "Shu-Ying",
 		"homepage": "https://github.com/Shu-Ying/nonebot_plugin_farm",
-		"pypi_version": "1.5.7",
+		"pypi_version": "2.0.5",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "b67925e3f538d0b702332897133bebe4af8030dc",
+		"git_hash": "71ba0dc35a85a6112b009165c87fe20863c27d0d",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "13fa364d91e1616d386a4b90b82ecca84d1fa5fe"
