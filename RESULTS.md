@@ -1899,3 +1899,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_agent_chat` Agent Chat
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_github_release` GitHub 发布推送
+  - `PyPI ❌` `Git ❌`
