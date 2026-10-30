@@ -1901,3 +1901,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_github_release` GitHub 发布推送
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_botui` BotUI 控制台
+  - `PyPI ❌` `Git ❌`
