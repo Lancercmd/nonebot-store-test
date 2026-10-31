@@ -14701,10 +14701,10 @@
 		"desc": "通用命令冷却限制器",
 		"author": "middlered",
 		"homepage": "https://github.com/MiddleRed/nonebot-plugin-limiter",
-		"pypi_version": "0.6.0",
+		"pypi_version": "0.6.1",
 		"pypi_create": true,
 		"pypi_run": true,
-		"git_hash": "ec9366bf0b3c49392cad496d08085d5100ef0054",
+		"git_hash": "177311717f22a37ce3b7d47e47eb8af57c6f3331",
 		"git_create": true,
 		"git_run": true,
 		"last_seen": "d2bbf1ea14f349d8ab7658b1f470594abce67c1e"
