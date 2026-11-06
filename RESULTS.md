@@ -1903,3 +1903,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_botui` BotUI 控制台
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_lsay` 胡乱说
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_hsy` 火烧云
+  - `PyPI ❌` `Git ❌`
