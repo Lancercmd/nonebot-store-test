@@ -1907,3 +1907,7 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_hsy` 火烧云
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ifollow` 爱播作者订阅
+  - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_parsehub` 轻量、异步、开箱即用的社交媒体聚合解析插件
+  - `PyPI ❌` `Git ❌`
