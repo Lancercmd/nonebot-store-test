@@ -1911,3 +1911,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_parsehub` 轻量、异步、开箱即用的社交媒体聚合解析插件
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_volt_toy` Volt-Toy 电击群友
+  - `PyPI ❌` `Git ❌`
