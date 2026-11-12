@@ -1913,3 +1913,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_volt_toy` Volt-Toy 电击群友
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_myom` AI 群友（MYOM）
+  - `PyPI ❌` `Git ❌`
