@@ -1915,3 +1915,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_myom` AI 群友（MYOM）
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_number_meme` 数字论证计算器
+  - `PyPI ❌` `Git ❌`
