@@ -1917,3 +1917,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_number_meme` 数字论证计算器
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_mortis_analysis` 小睦解析
+  - `PyPI ❌` `Git ❌`
