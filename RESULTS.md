@@ -1919,3 +1919,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_mortis_analysis` 小睦解析
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_zhihu_parser` 知乎解析
+  - `PyPI ❌` `Git ❌`
