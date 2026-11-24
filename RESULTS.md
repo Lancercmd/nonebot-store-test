@@ -1921,3 +1921,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_zhihu_parser` 知乎解析
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_ccb` ccb
+  - `PyPI ❌` `Git ❌`
