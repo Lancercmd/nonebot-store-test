@@ -1923,3 +1923,5 @@
   - `PyPI ❌` `Git ❌`
 - `nonebot_plugin_ccb` ccb
   - `PyPI ❌` `Git ❌`
+- `nonebot_plugin_yrr_fortune` YRR_运势
+  - `PyPI ❌` `Git ❌`
